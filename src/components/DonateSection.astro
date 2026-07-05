@@ -17,14 +17,14 @@ const s = t(lang);
     </h2>
     <p class="text-base mb-12 max-w-lg mx-auto" style="color:#B0B8C8;">{s.donate.sub}</p>
 
-    <!-- Tiers: large to small, no badge -->
-    <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
+    <!-- Tiers -->
+    <div class="flex flex-wrap justify-center gap-3 mb-6">
       {DONATE_TIERS.map((amount) => (
         <a
           href={STRIPE_LINKS[String(amount)]}
           target="_blank"
           rel="noopener"
-          class="rounded-xl py-4 px-3 text-center font-bold text-xl transition-opacity hover:opacity-80"
+          class="rounded-xl py-4 px-5 text-center font-bold text-xl transition-opacity hover:opacity-80"
           style="background:#18243F; color:#F5F7FA; text-decoration:none;"
         >
           &euro;{amount}
