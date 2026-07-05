@@ -45,7 +45,7 @@ export const ui = {
     },
     donate: {
       title: 'Support NiQuit',
-      sub: 'Free for everyone. If NiQuit helped you, you can give back: once, any amount.',
+      sub: 'If NiQuit helped you, you can give back: once, any amount.',
       custom: 'Your amount',
       customPlaceholder: 'e.g. 15',
       customCta: 'Donate',
@@ -120,7 +120,7 @@ export const ui = {
     },
     donate: {
       title: 'Поддержать NiQuit',
-      sub: 'Бесплатно для всех. Если NiQuit тебе помог, можешь поддержать нас. Один раз, любая сумма.',
+      sub: 'Если NiQuit тебе помог, можешь поддержать нас. Один раз, любая сумма.',
       custom: 'Своя сумма',
       customPlaceholder: 'напр. 15',
       customCta: 'Поддержать',
@@ -191,7 +191,7 @@ export const ui = {
     },
     donate: {
       title: 'NiQuit unterstützen',
-      sub: 'Für alle kostenlos. Wenn NiQuit dir geholfen hat, kannst du etwas zurückgeben: einmalig, beliebiger Betrag.',
+      sub: 'Wenn NiQuit dir geholfen hat, kannst du etwas zurückgeben: einmalig, beliebiger Betrag.',
       custom: 'Eigener Betrag',
       customPlaceholder: 'z. B. 15',
       customCta: 'Unterstützen',
@@ -262,7 +262,7 @@ export const ui = {
     },
     donate: {
       title: 'Apoya NiQuit',
-      sub: 'Gratis para todos. Si NiQuit te ayudó, puedes devolver algo: una vez, cualquier cantidad.',
+      sub: 'Si NiQuit te ayudó, puedes devolver algo: una vez, cualquier cantidad.',
       custom: 'Tu cantidad',
       customPlaceholder: 'ej. 15',
       customCta: 'Donar',
@@ -333,7 +333,7 @@ export const ui = {
     },
     donate: {
       title: 'Soutenir NiQuit',
-      sub: "Gratuit pour tous. Si NiQuit t'a aidé, tu peux donner en retour: une fois, n'importe quel montant.",
+      sub: "Si NiQuit t'a aidé, tu peux donner en retour: une fois, n'importe quel montant.",
       custom: 'Ton montant',
       customPlaceholder: 'ex. 15',
       customCta: 'Donner',

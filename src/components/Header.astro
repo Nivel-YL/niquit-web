@@ -1,10 +1,18 @@
 ---
-import { type Lang, t, localePath } from '../i18n/ui';
+import { type Lang, LANGS, t, localePath } from '../i18n/ui';
 import InstallButton from './InstallButton.astro';
 
 interface Props { lang: Lang; }
 const { lang } = Astro.props;
 const s = t(lang);
+
+const langLabels: Record<string, string> = {
+  en: 'EN', ru: 'RU', de: 'DE', es: 'ES', fr: 'FR',
+};
+
+// Current path with the language prefix stripped, so switching languages
+// keeps you on the equivalent page instead of bouncing to the homepage.
+const currentPathNoLang = Astro.url.pathname.replace(/^\/(ru|de|es|fr)(\/|$)/, '/');
 ---
 
 <header
@@ -23,6 +31,35 @@ const s = t(lang);
     <a href={localePath(lang, 'support')} class="hover:text-white transition-colors">{s.nav.support}</a>
   </nav>
 
-  <!-- CTA -->
-  <InstallButton lang={lang} size="sm" />
+  <div class="flex items-center gap-3">
+    <!-- Language switcher -->
+    <div class="relative group">
+      <button
+        type="button"
+        class="flex items-center gap-1.5 text-sm font-medium px-2.5 py-1.5 rounded-lg transition-colors hover:bg-white/5"
+        style="color:#F5F7FA;"
+        aria-haspopup="true"
+      >
+        <span aria-hidden="true">🌐</span>
+        <span>{langLabels[lang]}</span>
+      </button>
+      <div
+        class="absolute right-0 top-full mt-1 py-1 rounded-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible transition-all min-w-[100px]"
+        style="background:#18243F; border:1px solid #22D3EE33;"
+      >
+        {LANGS.map((l) => (
+          <a
+            href={localePath(l, currentPathNoLang.replace(/^\//, ''))}
+            class="block px-4 py-2 text-sm hover:bg-white/5 transition-colors"
+            style={l === lang ? 'color:#22D3EE; font-weight:600;' : 'color:#B0B8C8;'}
+          >
+            {langLabels[l]}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <InstallButton lang={lang} size="sm" />
+  </div>
 </header>
