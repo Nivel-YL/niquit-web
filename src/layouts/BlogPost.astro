@@ -1,0 +1,52 @@
+---
+import Base from './Base.astro';
+import ArticleCTA from '../components/ArticleCTA.astro';
+import { type Lang, t } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description: string;
+  publishDate: Date;
+  lang: Lang;
+  heroImage?: string;
+}
+
+const { title, description, publishDate, lang, heroImage } = Astro.props;
+const s = t(lang);
+
+const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+---
+
+<Base title={title} description={description} lang={lang}>
+  <article class="max-w-2xl mx-auto px-5 py-16">
+    {heroImage && (
+      <img
+        src={heroImage}
+        alt={title}
+        class="w-full rounded-xl mb-10 object-cover"
+        style="max-height:360px;"
+      />
+    )}
+
+    <header class="mb-10">
+      <p class="text-sm mb-3" style="color:#B0B8C8;">{dateStr}</p>
+      <h1
+        class="text-3xl sm:text-4xl font-extrabold leading-tight mb-4"
+        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+      >
+        {title}
+      </h1>
+      <p class="text-lg" style="color:#B0B8C8;">{description}</p>
+    </header>
+
+    <div class="prose max-w-none">
+      <slot />
+    </div>
+
+    <div class="mt-16 pt-10" style="border-top:1px solid #18243F;">
+      <ArticleCTA lang={lang} />
+    </div>
+  </article>
+</Base>

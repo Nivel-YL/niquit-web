@@ -1,0 +1,116 @@
+---
+import Base from '../../layouts/Base.astro';
+import InstallButton from '../InstallButton.astro';
+import BlogCard from '../BlogCard.astro';
+import DonateSection from '../DonateSection.astro';
+import { type Lang, t, localePath } from '../../i18n/ui';
+import { getCollection } from 'astro:content';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+
+const allPosts = await getCollection('blog', (entry) =>
+  entry.data.lang === lang && !entry.data.draft
+);
+const posts = allPosts
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+  .slice(0, 3);
+---
+
+<Base title={s.hero.headline} lang={lang} description={s.hero.sub}>
+
+  <!-- Hero -->
+  <section class="min-h-[88vh] flex flex-col items-center justify-center px-5 text-center py-20">
+    <!-- NICOTINE with animated strikethrough -->
+    <div class="mb-6 overflow-hidden">
+      <span
+        class="nicotine-strike text-5xl sm:text-7xl font-extrabold tracking-tight select-none"
+        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+      >
+        {s.hero.nicotine}
+      </span>
+    </div>
+
+    <!-- Headline + CTA — revealed after animation -->
+    <div class="hero-reveal flex flex-col items-center gap-6">
+      <h1
+        class="text-4xl sm:text-6xl font-extrabold leading-tight max-w-xl"
+        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+      >
+        {s.hero.headline}
+      </h1>
+      <p class="text-lg max-w-md" style="color:#B0B8C8; line-height:1.7;">{s.hero.sub}</p>
+      <InstallButton lang={lang} size="lg" />
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="py-20 px-5 sm:px-8" style="background:#18243F;">
+    <div class="max-w-5xl mx-auto">
+      <h2
+        class="text-2xl sm:text-3xl font-extrabold mb-10 text-center"
+        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+      >
+        {s.features.title}
+      </h2>
+      <div class="grid sm:grid-cols-2 gap-6">
+        {[
+          { icon: '📖', ...s.features.course },
+          { icon: '🌱', ...s.features.health },
+          { icon: '💬', ...s.features.coach },
+          { icon: '💰', ...s.features.savings },
+        ].map(({ icon, title, desc }) => (
+          <div class="rounded-2xl p-7" style="background:#0C1424;">
+            <div class="text-3xl mb-4">{icon}</div>
+            <h3
+              class="text-lg font-bold mb-2"
+              style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+            >
+              {title}
+            </h3>
+            <p class="text-sm leading-relaxed" style="color:#B0B8C8;">{desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Blog preview -->
+  <section class="py-20 px-5 sm:px-8">
+    <div class="max-w-5xl mx-auto">
+      <div class="flex items-center justify-between mb-8">
+        <h2
+          class="text-2xl sm:text-3xl font-extrabold"
+          style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+        >
+          {s.blog.title}
+        </h2>
+        <a href={localePath(lang, 'blog')} class="text-sm font-semibold" style="color:#22D3EE;">
+          {s.blog.readMore} &rarr;
+        </a>
+      </div>
+
+      {posts.length === 0 ? (
+        <p style="color:#B0B8C8;">{s.blog.empty}</p>
+      ) : (
+        <div class="grid sm:grid-cols-3 gap-6">
+          {posts.map((post) => (
+            <BlogCard
+              lang={lang}
+              title={post.data.title}
+              description={post.data.description}
+              slug={post.slug}
+              publishDate={post.data.publishDate}
+              heroImage={post.data.heroImage}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Donate -->
+  <DonateSection lang={lang} />
+
+</Base>

@@ -1,0 +1,47 @@
+---
+import { type Lang, t, localePath, LANGS } from '../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+
+const langLabels: Record<string, string> = {
+  en: 'EN', ru: 'RU', de: 'DE', es: 'ES', fr: 'FR',
+};
+---
+
+<footer class="mt-24 px-5 sm:px-8 py-12" style="border-top:1px solid #18243F; background:#0C1424;">
+  <div class="max-w-5xl mx-auto">
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
+      <!-- Left -->
+      <div>
+        <img src="/logo.svg" alt="NiQuit" class="h-7 w-auto mb-3 opacity-80" />
+        <p class="text-sm" style="color:#B0B8C8;">{s.footer.tagline}</p>
+      </div>
+
+      <!-- Links -->
+      <div class="flex flex-wrap gap-x-6 gap-y-2 text-sm" style="color:#B0B8C8;">
+        <a href="/privacy" class="hover:text-white transition-colors">{s.footer.privacy}</a>
+        <a href="/terms" class="hover:text-white transition-colors">{s.footer.terms}</a>
+        <a href="mailto:hello@niquit.courses" class="hover:text-white transition-colors">{s.footer.contact}</a>
+      </div>
+    </div>
+
+    <!-- Language switcher + copyright -->
+    <div class="mt-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      <div class="flex gap-3 text-xs font-medium" style="color:#B0B8C8;">
+        {LANGS.map((l) => (
+          <a
+            href={localePath(l)}
+            class={`hover:text-white transition-colors ${l === lang ? 'text-white underline' : ''}`}
+          >
+            {langLabels[l]}
+          </a>
+        ))}
+      </div>
+      <p class="text-xs" style="color:#B0B8C8;">
+        &copy; {new Date().getFullYear()} NiQuit
+      </p>
+    </div>
+  </div>
+</footer>

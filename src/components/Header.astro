@@ -1,0 +1,28 @@
+---
+import { type Lang, t, localePath } from '../i18n/ui';
+import InstallButton from './InstallButton.astro';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+---
+
+<header
+  class="sticky top-0 z-50 flex items-center justify-between px-5 sm:px-8 h-16"
+  style="background:rgba(12,20,36,0.92); backdrop-filter:blur(12px); border-bottom:1px solid #18243F;"
+>
+  <!-- Logo -->
+  <a href={localePath(lang)} class="flex items-center gap-2 no-underline">
+    <img src="/logo.svg" alt="NiQuit" class="h-8 w-auto" />
+  </a>
+
+  <!-- Nav -->
+  <nav class="hidden sm:flex items-center gap-6 text-sm font-medium" style="color:#B0B8C8;">
+    <a href={localePath(lang, 'blog')} class="hover:text-white transition-colors">{s.nav.blog}</a>
+    <a href={localePath(lang, 'method')} class="hover:text-white transition-colors">{s.nav.method}</a>
+    <a href={localePath(lang, 'support')} class="hover:text-white transition-colors">{s.nav.support}</a>
+  </nav>
+
+  <!-- CTA -->
+  <InstallButton lang={lang} size="sm" />
+</header>

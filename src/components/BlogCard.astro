@@ -1,0 +1,48 @@
+---
+import { type Lang, t, localePath } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  slug: string;
+  publishDate: Date;
+  heroImage?: string;
+}
+
+const { lang, title, description, slug, publishDate, heroImage } = Astro.props;
+const s = t(lang);
+
+const dateStr = publishDate.toLocaleDateString(
+  lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US',
+  { year: 'numeric', month: 'short', day: 'numeric' }
+);
+
+const href = localePath(lang, `blog/${slug}`);
+---
+
+<a
+  href={href}
+  class="group block rounded-2xl overflow-hidden transition-transform hover:-translate-y-1"
+  style="background:#18243F; text-decoration:none;"
+>
+  {heroImage && (
+    <img
+      src={heroImage}
+      alt={title}
+      class="w-full object-cover"
+      style="height:180px;"
+    />
+  )}
+  <div class="p-6">
+    <p class="text-xs mb-2" style="color:#B0B8C8;">{dateStr}</p>
+    <h3
+      class="text-lg font-bold mb-2 leading-snug group-hover:text-cyan-300 transition-colors"
+      style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+    >
+      {title}
+    </h3>
+    <p class="text-sm line-clamp-2 mb-4" style="color:#B0B8C8;">{description}</p>
+    <span class="text-sm font-semibold" style="color:#22D3EE;">{s.blog.readMore} &rarr;</span>
+  </div>
+</a>

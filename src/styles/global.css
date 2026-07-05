@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-deep: #0C1424;
+  --color-navy-mid: #18243F;
+  --color-navy-light: #1e2d4d;
+  --color-coral: #FF5C5C;
+  --color-cyan: #22D3EE;
+  --color-paper: #F5F7FA;
+  --color-paper-dim: #B0B8C8;
+
+  --font-display: 'Montserrat', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+html {
+  background-color: #0C1424;
+  color: #F5F7FA;
+  font-family: var(--font-body);
+}
+
+::selection {
+  background: #FF5C5C33;
+  color: #F5F7FA;
+}
+
+/* NICOTINE strikethrough animation */
+.nicotine-strike {
+  position: relative;
+  display: inline-block;
+}
+
+.nicotine-strike::after {
+  content: '';
+  position: absolute;
+  left: -4%;
+  top: 52%;
+  width: 0;
+  height: 5px;
+  background: #FF5C5C;
+  border-radius: 3px;
+  transform: rotate(-4deg);
+  transform-origin: left center;
+  animation: strike 0.45s cubic-bezier(0.4, 0, 0.2, 1) 0.4s forwards;
+}
+
+@keyframes strike {
+  to { width: 108%; }
+}
+
+.hero-reveal {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeUp 0.5s ease-out 1.05s forwards;
+}
+
+@keyframes fadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Prose styles for blog articles */
+.prose h2 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  color: #F5F7FA;
+}
+
+.prose h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.15rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  color: #F5F7FA;
+}
+
+.prose p {
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+  color: #D0D8E8;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.4rem;
+  line-height: 1.8;
+  color: #D0D8E8;
+}
+
+.prose a {
+  color: #22D3EE;
+  text-decoration: underline;
+  text-decoration-color: #22D3EE44;
+}
+
+.prose a:hover {
+  text-decoration-color: #22D3EE;
+}
+
+.prose strong {
+  color: #F5F7FA;
+  font-weight: 600;
+}

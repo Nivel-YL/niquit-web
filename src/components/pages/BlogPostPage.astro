@@ -1,0 +1,23 @@
+---
+import { type Lang } from '../../i18n/ui';
+import { getCollection, type CollectionEntry, render } from 'astro:content';
+import BlogPost from '../../layouts/BlogPost.astro';
+
+interface Props {
+  lang: Lang;
+  entry: CollectionEntry<'blog'>;
+}
+
+const { lang, entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<BlogPost
+  title={entry.data.title}
+  description={entry.data.description}
+  publishDate={entry.data.publishDate}
+  lang={lang}
+  heroImage={entry.data.heroImage}
+>
+  <Content />
+</BlogPost>

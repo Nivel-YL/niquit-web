@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import InstallButton from '../InstallButton.astro';
+import { type Lang, t } from '../../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+
+const steps = [
+  { n: '01', key: 'course' },
+  { n: '02', key: 'health' },
+  { n: '03', key: 'coach' },
+  { n: '04', key: 'savings' },
+] as const;
+---
+
+<Base title={s.method.title} lang={lang} description={s.method.sub}>
+  <div class="max-w-2xl mx-auto px-5 sm:px-8 py-16">
+    <h1
+      class="text-4xl font-extrabold mb-4"
+      style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+    >
+      {s.method.title}
+    </h1>
+    <p class="text-lg mb-14" style="color:#B0B8C8;">{s.method.sub}</p>
+
+    <div class="flex flex-col gap-8">
+      {steps.map(({ n, key }) => (
+        <div class="flex gap-6 items-start">
+          <span
+            class="text-4xl font-extrabold shrink-0 w-14"
+            style="font-family:'Montserrat',sans-serif; color:#FF5C5C; opacity:0.7;"
+          >
+            {n}
+          </span>
+          <div>
+            <h3
+              class="text-xl font-bold mb-1"
+              style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+            >
+              {s.features[key].title}
+            </h3>
+            <p style="color:#B0B8C8; line-height:1.7;">{s.features[key].desc}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-16">
+      <InstallButton lang={lang} size="lg" />
+    </div>
+  </div>
+</Base>

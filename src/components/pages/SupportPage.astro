@@ -1,0 +1,13 @@
+---
+import Base from '../../layouts/Base.astro';
+import DonateSection from '../DonateSection.astro';
+import { type Lang, t } from '../../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+---
+
+<Base title={s.donate.title} lang={lang} description={s.donate.sub}>
+  <DonateSection lang={lang} />
+</Base>
