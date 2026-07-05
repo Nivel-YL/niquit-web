@@ -1,13 +1,9 @@
 ---
-import { type Lang, t, localePath, LANGS } from '../i18n/ui';
+import { type Lang, t } from '../i18n/ui';
 
 interface Props { lang: Lang; }
 const { lang } = Astro.props;
 const s = t(lang);
-
-const langLabels: Record<string, string> = {
-  en: 'EN', ru: 'RU', de: 'DE', es: 'ES', fr: 'FR',
-};
 ---
 
 <footer class="mt-24 px-5 sm:px-8 py-12" style="border-top:1px solid #18243F; background:#0C1424;">
@@ -27,18 +23,8 @@ const langLabels: Record<string, string> = {
       </div>
     </div>
 
-    <!-- Language switcher + copyright -->
-    <div class="mt-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-      <div class="flex gap-3 text-xs font-medium" style="color:#B0B8C8;">
-        {LANGS.map((l) => (
-          <a
-            href={localePath(l)}
-            class={`hover:text-white transition-colors ${l === lang ? 'text-white underline' : ''}`}
-          >
-            {langLabels[l]}
-          </a>
-        ))}
-      </div>
+    <!-- Copyright -->
+    <div class="mt-8 flex justify-end">
       <p class="text-xs" style="color:#B0B8C8;">
         &copy; {new Date().getFullYear()} NiQuit
       </p>

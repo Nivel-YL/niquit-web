@@ -23,8 +23,11 @@ export const ui = {
     hero: {
       nicotine: 'NICOTINE',
       headline: 'Quit. For good.',
-      sub: 'A free app with your personal quit plan, body recovery tracking, and support when it gets hard.',
-      cta: 'Get NiQuit, free',
+      label: 'Quit nicotine for good',
+      prefix: 'Quit',
+      suffix: 'for good.',
+      sub: 'NiQuit helps you break free from cigarettes, vaping, snus and IQOS, using a method that works with your mind, not against it.',
+      cta: 'Get the app, free',
     },
     features: {
       title: 'What NiQuit does',
@@ -98,8 +101,11 @@ export const ui = {
     hero: {
       nicotine: 'НИКОТИН',
       headline: 'Брось. Насовсем.',
-      sub: 'Бесплатное приложение с личным планом отказа, трекингом восстановления организма и поддержкой в трудные моменты.',
-      cta: 'Скачать NiQuit, бесплатно',
+      label: 'Брось никотин навсегда',
+      prefix: 'Брось',
+      suffix: 'навсегда.',
+      sub: 'NiQuit помогает вырваться из зависимости от сигарет, вейпа, снюса и айкоса, с методом, который работает с тобой, а не против тебя.',
+      cta: 'Скачать бесплатно',
     },
     features: {
       title: 'Что умеет NiQuit',
@@ -169,8 +175,11 @@ export const ui = {
     hero: {
       nicotine: 'NIKOTIN',
       headline: 'Weg damit. Für immer.',
-      sub: 'Eine kostenlose App mit deinem persönlichen Ausstiegsplan, Körper-Erholungs-Tracking und Unterstützung, wenn es schwer wird.',
-      cta: 'NiQuit laden, kostenlos',
+      label: 'Nikotin für immer loswerden',
+      prefix: 'Weg mit',
+      suffix: 'Für immer.',
+      sub: 'NiQuit hilft dir, von Zigaretten, Vaping, Snus und IQOS frei zu werden, mit einer Methode, die mit deinem Kopf arbeitet, nicht gegen ihn.',
+      cta: 'App laden, kostenlos',
     },
     features: {
       title: 'Was NiQuit kann',
@@ -240,8 +249,11 @@ export const ui = {
     hero: {
       nicotine: 'NICOTINA',
       headline: 'Déjalo. Para siempre.',
-      sub: 'Una app gratuita con tu plan personal de abandono, seguimiento de la recuperación del cuerpo y apoyo cuando se pone difícil.',
-      cta: 'Descargar NiQuit, gratis',
+      label: 'Deja la nicotina para siempre',
+      prefix: 'Deja la',
+      suffix: 'para siempre.',
+      sub: 'NiQuit te ayuda a liberarte de los cigarrillos, el vapeo, el snus y los IQOS, con un método que trabaja con tu mente, no en su contra.',
+      cta: 'Descargar gratis',
     },
     features: {
       title: 'Qué hace NiQuit',
@@ -311,8 +323,11 @@ export const ui = {
     hero: {
       nicotine: 'NICOTINE',
       headline: 'Arrête. Pour de bon.',
-      sub: "Une app gratuite avec ton plan d'arrêt personnalisé, le suivi de ta récupération et un soutien quand c'est difficile.",
-      cta: 'Télécharger NiQuit, gratuit',
+      label: 'Arrête la nicotine pour de bon',
+      prefix: 'Arrête la',
+      suffix: 'pour de bon.',
+      sub: "NiQuit t'aide à te libérer des cigarettes, du vapotage, du snus et des IQOS, avec une méthode qui travaille avec ton esprit, pas contre lui.",
+      cta: 'Télécharger gratuitement',
     },
     features: {
       title: 'Ce que fait NiQuit',

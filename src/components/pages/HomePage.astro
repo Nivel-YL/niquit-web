@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import InstallButton from '../InstallButton.astro';
 import BlogCard from '../BlogCard.astro';
 import DonateSection from '../DonateSection.astro';
 import { type Lang, t, localePath } from '../../i18n/ui';
@@ -20,28 +19,52 @@ const posts = allPosts
 
 <Base title={s.hero.headline} lang={lang} description={s.hero.sub}>
 
-  <!-- Hero -->
-  <section class="min-h-[88vh] flex flex-col items-center justify-center px-5 text-center py-20">
-    <!-- NICOTINE with animated strikethrough -->
-    <div class="mb-6 overflow-hidden">
+  <!-- Hero: 2-col on desktop (text left, phone right), single col on mobile -->
+  <section
+    class="min-h-[75vh] py-20 px-6 md:px-12 grid gap-12 items-center md:grid-cols-[1.05fr_0.95fr]"
+    style="background:radial-gradient(120% 100% at 80% 0%, #12275A 0%, #0A1A33 55%);"
+  >
+    <!-- Left: text -->
+    <div>
       <span
-        class="nicotine-strike text-5xl sm:text-7xl font-extrabold tracking-tight select-none"
-        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+        class="inline-block mb-6 text-xs px-3 py-1.5 rounded-full border"
+        style="font-family:'JetBrains Mono',monospace; color:#67E8F9; border-color:rgba(53,198,216,0.3);"
       >
-        {s.hero.nicotine}
+        {s.hero.label}
       </span>
+
+      <h1
+        class="font-extrabold leading-[1.02] text-[40px] md:text-6xl"
+        style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
+      >
+        {s.hero.prefix} <span class="nicotine">{s.hero.nicotine}</span><br />{s.hero.suffix}
+      </h1>
+
+      <p class="mt-6 max-w-[460px] text-lg leading-relaxed" style="color:#CBD5E1;">
+        {s.hero.sub}
+      </p>
+
+      <a
+        href="https://play.google.com/store/apps/details?id=com.niquit.app"
+        target="_blank"
+        rel="noopener"
+        class="inline-block mt-8 rounded-xl px-7 py-4 font-bold transition-opacity hover:opacity-90"
+        style="background:#FF6B5C; color:#0A1A33; font-family:'Space Grotesk',sans-serif;"
+      >
+        {s.hero.cta}
+      </a>
     </div>
 
-    <!-- Headline + CTA, revealed after animation -->
-    <div class="hero-reveal flex flex-col items-center gap-6">
-      <h1
-        class="text-4xl sm:text-6xl font-extrabold leading-tight max-w-xl"
-        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
-      >
-        {s.hero.headline}
-      </h1>
-      <p class="text-lg max-w-md" style="color:#B0B8C8; line-height:1.7;">{s.hero.sub}</p>
-      <InstallButton lang={lang} size="lg" />
+    <!-- Right: phone mockup — add screenshot to /public/img/today-screen.png -->
+    <div class="flex justify-center">
+      <div class="phone">
+        <img
+          src="/img/today-screen.png"
+          alt="NiQuit"
+          loading="lazy"
+          onerror="this.style.opacity='0'"
+        />
+      </div>
     </div>
   </section>
 

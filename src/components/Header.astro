@@ -6,25 +6,23 @@ interface Props { lang: Lang; }
 const { lang } = Astro.props;
 const s = t(lang);
 
-const langLabels: Record<string, string> = {
-  en: 'EN', ru: 'RU', de: 'DE', es: 'ES', fr: 'FR',
+const langCode: Record<string, string> = { en:'EN', ru:'RU', de:'DE', es:'ES', fr:'FR' };
+const langName: Record<string, string> = {
+  en: 'English', ru: 'Русский', de: 'Deutsch', es: 'Español', fr: 'Français',
 };
 
-// Current path with the language prefix stripped, so switching languages
-// keeps you on the equivalent page instead of bouncing to the homepage.
 const currentPathNoLang = Astro.url.pathname.replace(/^\/(ru|de|es|fr)(\/|$)/, '/');
+const otherLangs = LANGS.filter((l) => l !== lang);
 ---
 
 <header
   class="sticky top-0 z-50 flex items-center justify-between px-5 sm:px-8 h-16"
   style="background:rgba(12,20,36,0.92); backdrop-filter:blur(12px); border-bottom:1px solid #18243F;"
 >
-  <!-- Logo -->
   <a href={localePath(lang)} class="flex items-center gap-2 no-underline">
     <img src="/logo.svg" alt="NiQuit" class="h-8 w-auto" />
   </a>
 
-  <!-- Nav -->
   <nav class="hidden sm:flex items-center gap-6 text-sm font-medium" style="color:#B0B8C8;">
     <a href={localePath(lang, 'blog')} class="hover:text-white transition-colors">{s.nav.blog}</a>
     <a href={localePath(lang, 'method')} class="hover:text-white transition-colors">{s.nav.method}</a>
@@ -32,34 +30,46 @@ const currentPathNoLang = Astro.url.pathname.replace(/^\/(ru|de|es|fr)(\/|$)/, '
   </nav>
 
   <div class="flex items-center gap-3">
-    <!-- Language switcher -->
-    <div class="relative group">
-      <button
-        type="button"
-        class="flex items-center gap-1.5 text-sm font-medium px-2.5 py-1.5 rounded-lg transition-colors hover:bg-white/5"
-        style="color:#F5F7FA;"
-        aria-haspopup="true"
-      >
-        <span aria-hidden="true">🌐</span>
-        <span>{langLabels[lang]}</span>
+    <!-- Language switcher — JS click-based -->
+    <div class="lang" data-lang-switcher>
+      <button type="button" class="lang__btn" aria-haspopup="listbox" aria-expanded="false">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+             stroke="#35C6D8" stroke-width="1.8" aria-hidden="true">
+          <circle cx="12" cy="12" r="9"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <ellipse cx="12" cy="12" rx="4" ry="9"/>
+        </svg>
+        <span class="lang__code">{langCode[lang]}</span>
+        <svg class="lang__caret" width="10" height="10" viewBox="0 0 12 12"
+             fill="none" stroke="#93A6C6" stroke-width="1.8" aria-hidden="true">
+          <path d="M2 4l4 4 4-4"/>
+        </svg>
       </button>
-      <div
-        class="absolute right-0 top-full mt-1 py-1 rounded-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible transition-all min-w-[100px]"
-        style="background:#18243F; border:1px solid #22D3EE33;"
-      >
-        {LANGS.map((l) => (
-          <a
-            href={localePath(l, currentPathNoLang.replace(/^\//, ''))}
-            class="block px-4 py-2 text-sm hover:bg-white/5 transition-colors"
-            style={l === lang ? 'color:#22D3EE; font-weight:600;' : 'color:#B0B8C8;'}
-          >
-            {langLabels[l]}
-          </a>
+
+      <ul class="lang__menu" role="listbox" hidden>
+        {otherLangs.map((l) => (
+          <li role="option">
+            <a href={localePath(l, currentPathNoLang.replace(/^\//, ''))}>
+              <b>{langCode[l]}</b>{langName[l]}
+            </a>
+          </li>
         ))}
-      </div>
+      </ul>
     </div>
 
-    <!-- CTA -->
     <InstallButton lang={lang} size="sm" />
   </div>
 </header>
+
+<script>
+  document.querySelectorAll('[data-lang-switcher]').forEach((root) => {
+    const btn  = root.querySelector('.lang__btn') as HTMLButtonElement;
+    const menu = root.querySelector('.lang__menu') as HTMLElement;
+    const open  = () => { menu.hidden = false; btn.setAttribute('aria-expanded', 'true'); };
+    const close = () => { menu.hidden = true;  btn.setAttribute('aria-expanded', 'false'); };
+    btn.addEventListener('click', (e) => { e.stopPropagation(); menu.hidden ? open() : close(); });
+    menu.addEventListener('click', () => { close(); });
+    document.addEventListener('click',  (e) => { if (!root.contains(e.target as Node)) close(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+  });
+</script>
