@@ -9,6 +9,14 @@ interface Props { lang: Lang; }
 const { lang } = Astro.props;
 const s = t(lang);
 
+const heroScreenshot: Record<Lang, string> = {
+  en: '/img/EN/1.jpg',
+  ru: '/img/RU/3.jpg',
+  de: '/img/DE/4.jpg',
+  es: '/img/ES/4.jpg',
+  fr: '/img/FR/4.jpg',
+};
+
 const allPosts = await getCollection('blog', (entry) =>
   entry.data.lang === lang && !entry.data.draft
 );
@@ -59,10 +67,9 @@ const posts = allPosts
     <div class="flex justify-center">
       <div class="phone">
         <img
-          src="/img/today-screen.png"
+          src={heroScreenshot[lang]}
           alt="NiQuit"
-          loading="lazy"
-          onerror="this.style.opacity='0'"
+          loading="eager"
         />
       </div>
     </div>
