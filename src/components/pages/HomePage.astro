@@ -1,4 +1,4 @@
----
+﻿---
 import Base from '../../layouts/Base.astro';
 import InstallButton from '../InstallButton.astro';
 import BlogCard from '../BlogCard.astro';
@@ -32,7 +32,7 @@ const posts = allPosts
       </span>
     </div>
 
-    <!-- Headline + CTA — revealed after animation -->
+    <!-- Headline + CTA, revealed after animation -->
     <div class="hero-reveal flex flex-col items-center gap-6">
       <h1
         class="text-4xl sm:text-6xl font-extrabold leading-tight max-w-xl"
@@ -100,7 +100,7 @@ const posts = allPosts
               lang={lang}
               title={post.data.title}
               description={post.data.description}
-              slug={post.slug}
+              slug={post.id.split('/').pop()}
               publishDate={post.data.publishDate}
               heroImage={post.data.heroImage}
             />

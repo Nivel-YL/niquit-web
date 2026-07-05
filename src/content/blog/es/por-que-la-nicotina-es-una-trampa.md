@@ -1,6 +1,6 @@
 ---
 title: "Por que la nicotina es mas dificil de dejar de lo que parece"
-description: "La mayoria lo intenta a base de fuerza de voluntad. Por que casi nunca funciona — y que es lo que realmente da resultado."
+description: "La mayoria lo intenta a base de fuerza de voluntad. Por que casi nunca funciona, y que es lo que realmente da resultado."
 publishDate: 2026-07-05
 lang: es
 draft: true
@@ -18,7 +18,7 @@ Por eso la fuerza de voluntad falla. No estas luchando contra una adiccion al pl
 
 ## Lo que realmente funciona
 
-Entender el mecanismo no es un ejercicio intelectual: cambia la manera en que experimentas los antojos.
+Entender el mecanismo no es un ejercicio intelectual. Cambia la manera en que experimentas los antojos.
 
 Cuando llega un antojo y sabes que es simplemente abstinencia, no una senal de que necesitas algo, se vuelve mas facil dejarlo pasar. Los antojos alcanzan su punto maximo en minutos y luego ceden solos. Cada uno que superas sin ceder hace el siguiente mas corto.
 

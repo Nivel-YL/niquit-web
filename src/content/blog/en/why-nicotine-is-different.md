@@ -1,12 +1,12 @@
 ---
 title: "Why nicotine is harder to quit than people think"
-description: "Most people try to quit using willpower alone. Here is why that almost never works — and what actually does."
+description: "Most people try to quit using willpower alone. Here is why that almost never works, and what actually does."
 publishDate: 2026-07-05
 lang: en
 draft: true
 ---
 
-Nicotine does not make you feel good. It makes withdrawal feel bad — and then removes it.
+Nicotine does not make you feel good. It makes withdrawal feel bad, and then removes it.
 
 That is the whole trick. The craving you feel is not a desire for pleasure. It is your brain asking for the drug it now needs just to feel normal. The moment you understand this, the trap starts to lose its grip.
 
@@ -18,7 +18,7 @@ This is why willpower fails. You are not fighting an addiction to pleasure. You 
 
 ## What actually works
 
-Understanding the mechanism is not just an intellectual exercise — it changes how you experience cravings.
+Understanding the mechanism is not just an intellectual exercise. It changes how you experience cravings.
 
 When a craving hits and you know it is simply withdrawal, not a signal that you need something, it becomes easier to let it pass. Cravings peak in minutes and then subside on their own. Every one you outlast without giving in makes the next one shorter.
 

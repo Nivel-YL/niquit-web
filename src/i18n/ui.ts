@@ -1,4 +1,4 @@
-export type Lang = 'en' | 'ru' | 'de' | 'es' | 'fr';
+﻿export type Lang = 'en' | 'ru' | 'de' | 'es' | 'fr';
 
 export const LANGS: Lang[] = ['en', 'ru', 'de', 'es', 'fr'];
 
@@ -24,12 +24,12 @@ export const ui = {
       nicotine: 'NICOTINE',
       headline: 'Quit. For good.',
       sub: 'A free app with your personal quit plan, body recovery tracking, and support when it gets hard.',
-      cta: 'Get NiQuit — free',
+      cta: 'Get NiQuit, free',
     },
     features: {
       title: 'What NiQuit does',
       course: { title: 'Personal quit course', desc: 'A structured programme that works with your habits, not against them.' },
-      health: { title: 'Body recovery tracking', desc: 'See exactly what heals and when — calibrated to how long you used nicotine.' },
+      health: { title: 'Body recovery tracking', desc: 'See exactly what heals and when, calibrated to how long you used nicotine.' },
       coach: { title: 'AI coach, 24/7', desc: 'Text your coach any time. No judgement, no scripts. Just honest support.' },
       savings: { title: 'Money saved', desc: 'Watch what you would have spent add up. Every day counts.' },
     },
@@ -44,7 +44,7 @@ export const ui = {
     },
     donate: {
       title: 'Support NiQuit',
-      sub: 'Free for everyone. If NiQuit helped you, you can give back — once, any amount.',
+      sub: 'Free for everyone. If NiQuit helped you, you can give back, once, any amount.',
       custom: 'Your amount',
       customPlaceholder: 'e.g. 15',
       customCta: 'Donate',
@@ -82,12 +82,12 @@ export const ui = {
       nicotine: 'НИКОТИН',
       headline: 'Брось. Насовсем.',
       sub: 'Бесплатное приложение с личным планом отказа, трекингом восстановления организма и поддержкой в трудные моменты.',
-      cta: 'Скачать NiQuit — бесплатно',
+      cta: 'Скачать NiQuit, бесплатно',
     },
     features: {
       title: 'Что умеет NiQuit',
       course: { title: 'Личный курс отказа', desc: 'Структурированная программа, которая работает с твоими привычками, а не против них.' },
-      health: { title: 'Восстановление организма', desc: 'Видишь, что именно восстанавливается и когда — с учётом твоего стажа употребления.' },
+      health: { title: 'Восстановление организма', desc: 'Видишь, что именно восстанавливается и когда, с учётом твоего стажа употребления.' },
       coach: { title: 'ИИ-коуч, 24/7', desc: 'Пиши коучу в любой момент. Без осуждения, без скриптов. Только честная поддержка.' },
       savings: { title: 'Сэкономленные деньги', desc: 'Следи, как копится то, что ты больше не тратишь. Каждый день на счету.' },
     },
@@ -102,7 +102,7 @@ export const ui = {
     },
     donate: {
       title: 'Поддержать NiQuit',
-      sub: 'Бесплатно для всех. Если NiQuit тебе помог — можешь поддержать нас. Один раз, любая сумма.',
+      sub: 'Бесплатно для всех. Если NiQuit тебе помог, можешь поддержать нас. Один раз, любая сумма.',
       custom: 'Своя сумма',
       customPlaceholder: 'напр. 15',
       customCta: 'Поддержать',
@@ -113,7 +113,7 @@ export const ui = {
       apple: 'Скачать в App Store',
     },
     footer: {
-      tagline: 'Бесплатный отказ от никотина — для всех.',
+      tagline: 'Бесплатный отказ от никотина, для всех.',
       privacy: 'Политика конфиденциальности',
       terms: 'Условия использования',
       contact: 'Связаться',
@@ -136,12 +136,12 @@ export const ui = {
       nicotine: 'NIKOTIN',
       headline: 'Weg damit. Für immer.',
       sub: 'Eine kostenlose App mit deinem persönlichen Ausstiegsplan, Körper-Erholungs-Tracking und Unterstützung, wenn es schwer wird.',
-      cta: 'NiQuit laden — kostenlos',
+      cta: 'NiQuit laden, kostenlos',
     },
     features: {
       title: 'Was NiQuit kann',
       course: { title: 'Persönlicher Ausstiegskurs', desc: 'Ein strukturiertes Programm, das mit deinen Gewohnheiten arbeitet, nicht dagegen.' },
-      health: { title: 'Körper-Erholung verfolgen', desc: 'Sieh genau, was sich wann erholt — abgestimmt auf deine Konsumzeit.' },
+      health: { title: 'Körper-Erholung verfolgen', desc: 'Sieh genau, was sich wann erholt, abgestimmt auf deine Konsumzeit.' },
       coach: { title: 'KI-Coach, 24/7', desc: 'Schreib deinem Coach jederzeit. Kein Urteil, keine Skripte. Nur ehrliche Unterstützung.' },
       savings: { title: 'Erspartes Geld', desc: 'Beobachte, wie das Geld, das du nicht mehr ausgibst, wächst. Jeder Tag zählt.' },
     },
@@ -156,7 +156,7 @@ export const ui = {
     },
     donate: {
       title: 'NiQuit unterstützen',
-      sub: 'Für alle kostenlos. Wenn NiQuit dir geholfen hat, kannst du etwas zurückgeben — einmalig, beliebiger Betrag.',
+      sub: 'Für alle kostenlos. Wenn NiQuit dir geholfen hat, kannst du etwas zurückgeben, einmalig, beliebiger Betrag.',
       custom: 'Eigener Betrag',
       customPlaceholder: 'z. B. 15',
       customCta: 'Unterstützen',
@@ -167,7 +167,7 @@ export const ui = {
       apple: 'Im App Store laden',
     },
     footer: {
-      tagline: 'Kostenloser Nikotinentzug — für alle.',
+      tagline: 'Kostenloser Nikotinentzug, für alle.',
       privacy: 'Datenschutz',
       terms: 'Nutzungsbedingungen',
       contact: 'Kontakt',
@@ -190,12 +190,12 @@ export const ui = {
       nicotine: 'NICOTINA',
       headline: 'Déjalo. Para siempre.',
       sub: 'Una app gratuita con tu plan personal de abandono, seguimiento de la recuperación del cuerpo y apoyo cuando se pone difícil.',
-      cta: 'Descargar NiQuit — gratis',
+      cta: 'Descargar NiQuit, gratis',
     },
     features: {
       title: 'Qué hace NiQuit',
       course: { title: 'Curso personal de abandono', desc: 'Un programa estructurado que trabaja con tus hábitos, no en su contra.' },
-      health: { title: 'Seguimiento de recuperación', desc: 'Ve exactamente qué se recupera y cuándo — ajustado al tiempo que consumiste.' },
+      health: { title: 'Seguimiento de recuperación', desc: 'Ve exactamente qué se recupera y cuándo, ajustado al tiempo que consumiste.' },
       coach: { title: 'Coach con IA, 24/7', desc: 'Escríbele a tu coach cuando quieras. Sin juicios, sin guiones. Solo apoyo honesto.' },
       savings: { title: 'Dinero ahorrado', desc: 'Observa cómo se acumula lo que ya no gastas. Cada día cuenta.' },
     },
@@ -210,7 +210,7 @@ export const ui = {
     },
     donate: {
       title: 'Apoya NiQuit',
-      sub: 'Gratis para todos. Si NiQuit te ayudó, puedes devolver algo — una vez, cualquier cantidad.',
+      sub: 'Gratis para todos. Si NiQuit te ayudó, puedes devolver algo, una vez, cualquier cantidad.',
       custom: 'Tu cantidad',
       customPlaceholder: 'ej. 15',
       customCta: 'Donar',
@@ -244,12 +244,12 @@ export const ui = {
       nicotine: 'NICOTINE',
       headline: 'Arrête. Pour de bon.',
       sub: "Une app gratuite avec ton plan d'arrêt personnalisé, le suivi de ta récupération et un soutien quand c'est difficile.",
-      cta: 'Télécharger NiQuit — gratuit',
+      cta: 'Télécharger NiQuit, gratuit',
     },
     features: {
       title: 'Ce que fait NiQuit',
       course: { title: "Cours d'arrêt personnalisé", desc: 'Un programme structuré qui travaille avec tes habitudes, pas contre elles.' },
-      health: { title: 'Suivi de récupération', desc: 'Vois exactement ce qui guérit et quand — ajusté à la durée de ta consommation.' },
+      health: { title: 'Suivi de récupération', desc: 'Vois exactement ce qui guérit et quand, ajusté à la durée de ta consommation.' },
       coach: { title: 'Coach IA, 24h/24', desc: "Écris à ton coach quand tu veux. Sans jugement, sans scripts. Juste un soutien honnête." },
       savings: { title: 'Argent économisé', desc: 'Regarde s\'accumuler ce que tu ne dépenses plus. Chaque jour compte.' },
     },
@@ -264,7 +264,7 @@ export const ui = {
     },
     donate: {
       title: 'Soutenir NiQuit',
-      sub: "Gratuit pour tous. Si NiQuit t'a aidé, tu peux donner en retour — une fois, n'importe quel montant.",
+      sub: "Gratuit pour tous. Si NiQuit t'a aidé, tu peux donner en retour, une fois, n'importe quel montant.",
       custom: 'Ton montant',
       customPlaceholder: 'ex. 15',
       customCta: 'Donner',
