@@ -36,7 +36,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "Publisher Bot"
-          git config user.email "publisher-bot@niquit.app"
+          git config user.email "jelissei.levin@gmail.com"
           git add src/content/blog/ BLOG_TOPIC_BACKLOG.md
           git diff --cached --quiet && echo "Nothing to commit." || (
             git commit -m "publish: ${{ env.PUBLISHED_IDS }}" &&

@@ -36,7 +36,7 @@ jobs:
       - name: Commit and push drafts
         run: |
           git config user.name "Blog Editor Bot"
-          git config user.email "blog-bot@niquit.app"
+          git config user.email "jelissei.levin@gmail.com"
           git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
             git commit -m "blog: draft ${{ env.DRAFTED_IDS }}" &&
