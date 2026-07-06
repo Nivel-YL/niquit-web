@@ -8,7 +8,7 @@ topics:
 - id: A-02
   title_en: How to quit nicotine pouches (ZYN, On!, Velo)
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: A-03
   title_en: Snus vs nicotine pouches what is the difference?
