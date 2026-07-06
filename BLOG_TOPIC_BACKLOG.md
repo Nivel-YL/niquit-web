@@ -152,6 +152,7 @@ To re-queue: change back to `pending`.
 - `pending` — not yet written
 - `in_progress` — current run is processing this topic
 - `drafted` — article files exist, all languages, `draft: true`
+- `approved` — reviewed and approved; Publisher will pick this up next Tuesday (1-2/week)
 - `published` — live on site (fill `published: {en: YYYY-MM-DD, ...}`)
 
 ## Cluster priorities (SEO)

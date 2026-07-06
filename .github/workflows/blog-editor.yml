@@ -2,8 +2,13 @@ name: Blog Editor
 
 on:
   schedule:
-    - cron: '0 9 * * 1'      # Mon 09:00 UTC
-  workflow_dispatch: {}
+    - cron: '0 9 * * 1'      # Mon 09:00 UTC — draft up to BATCH_SIZE topics
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Topics to draft in one run (default: 3)'
+        required: false
+        default: '3'
 
 permissions:
   contents: write
@@ -26,6 +31,7 @@ jobs:
         run: python scripts/blog_editor.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY1 }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size || '3' }}
 
       - name: Commit and push drafts
         run: |
@@ -33,7 +39,7 @@ jobs:
           git config user.email "blog-bot@niquit.app"
           git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
-            git commit -m "blog: draft ${{ env.TOPIC_ID }}" &&
+            git commit -m "blog: draft ${{ env.DRAFTED_IDS }}" &&
             git pull --rebase origin master &&
             git push
           )

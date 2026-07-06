@@ -31,6 +31,8 @@ VOICE_GUIDE  = REPO_ROOT / 'docs' / 'CONTENT_VOICE_GUIDE.md'
 RESEARCH_MODEL = 'claude-haiku-4-5'   # fact gathering — speed + cost
 WRITE_MODEL    = 'claude-sonnet-5'    # article writing — quality matters
 
+BATCH_SIZE = int(os.environ.get('BATCH_SIZE', '3'))  # topics per run
+
 LANGUAGES = ['en', 'ru', 'de', 'es', 'fr']
 
 LANG_LABELS = {
@@ -255,28 +257,23 @@ def process_language(
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-def main() -> None:
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        print('ERROR: ANTHROPIC_API_KEY is not set.', file=sys.stderr)
-        sys.exit(1)
-
-    client          = anthropic.Anthropic(api_key=api_key)
-    voice_guide_txt = VOICE_GUIDE.read_text(encoding='utf-8')
-
+def draft_one(
+    client: anthropic.Anthropic,
+    voice_guide_txt: str,
+    today: datetime.date,
+) -> str | None:
+    """Draft the next pending topic. Returns topic_id or None if nothing to do."""
     topics  = load_backlog()
     pending = next((t for t in topics if t.get('status') == 'pending'), None)
     if not pending:
-        print('No pending topics in backlog. Nothing to do.')
-        sys.exit(0)
+        return None
 
     topic_id     = pending['id']
     topic_title  = pending['title_en']
     cluster      = pending['cluster']
     article_slug = slugify(topic_title)
-    today        = datetime.date.today()
 
-    print(f'Topic  : {topic_id} — {topic_title}')
+    print(f'\nTopic  : {topic_id} — {topic_title}')
     print(f'Slug   : {article_slug}')
     print(f'Cluster: {cluster}')
 
@@ -309,7 +306,13 @@ def main() -> None:
     if errors:
         for lang, exc in errors:
             print(f'ERROR [{lang}]: {exc}', file=sys.stderr)
-        sys.exit(1)
+        # Revert in_progress → pending so next run retries
+        topics = load_backlog()
+        t = next((t for t in topics if t['id'] == topic_id), None)
+        if t:
+            t['status'] = 'pending'
+            save_backlog(topics)
+        raise RuntimeError(f'Failed to draft {topic_id}')
 
     # Mark drafted
     topics = load_backlog()
@@ -318,13 +321,44 @@ def main() -> None:
     topic.setdefault('published', {})
     save_backlog(topics)
 
-    # Export TOPIC_ID for the GitHub Actions commit message step
+    print(f'Done   : {topic_id} drafted in {len(LANGUAGES)} languages.')
+    return topic_id
+
+
+def main() -> None:
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        print('ERROR: ANTHROPIC_API_KEY is not set.', file=sys.stderr)
+        sys.exit(1)
+
+    client          = anthropic.Anthropic(api_key=api_key)
+    voice_guide_txt = VOICE_GUIDE.read_text(encoding='utf-8')
+    today           = datetime.date.today()
+
+    drafted_ids: list[str] = []
+    for i in range(BATCH_SIZE):
+        print(f'\n── Batch {i + 1}/{BATCH_SIZE} ──────────────────────────────')
+        try:
+            topic_id = draft_one(client, voice_guide_txt, today)
+        except RuntimeError as exc:
+            print(f'ERROR: {exc}', file=sys.stderr)
+            sys.exit(1)
+        if topic_id is None:
+            print('No pending topics remaining.')
+            break
+        drafted_ids.append(topic_id)
+
+    if not drafted_ids:
+        print('Nothing drafted. Exiting.')
+        sys.exit(0)
+
+    # Export drafted IDs for the GitHub Actions commit message step
     gh_env = os.environ.get('GITHUB_ENV')
     if gh_env:
         with open(gh_env, 'a', encoding='utf-8') as f:
-            f.write(f'TOPIC_ID={topic_id}\n')
+            f.write(f'DRAFTED_IDS={",".join(drafted_ids)}\n')
 
-    print(f'\nDone: {topic_id} drafted in {len(LANGUAGES)} languages.')
+    print(f'\nTotal drafted: {len(drafted_ids)} topic(s): {", ".join(drafted_ids)}')
 
 
 if __name__ == '__main__':

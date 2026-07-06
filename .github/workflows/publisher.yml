@@ -1,0 +1,44 @@
+name: Publisher
+
+on:
+  schedule:
+    - cron: '0 8 * * 2'   # Tuesday 08:00 UTC — publish 1-2 articles/week
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Number of articles to publish (default: 2)'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml python-slugify
+
+      - name: Run publisher
+        run: python scripts/publisher.py
+        env:
+          PUBLISH_COUNT: ${{ github.event.inputs.count || '2' }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "Publisher Bot"
+          git config user.email "publisher-bot@niquit.app"
+          git add src/content/blog/ BLOG_TOPIC_BACKLOG.md
+          git diff --cached --quiet && echo "Nothing to commit." || (
+            git commit -m "publish: ${{ env.PUBLISHED_IDS }}" &&
+            git pull --rebase origin master &&
+            git push
+          )
