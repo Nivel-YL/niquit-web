@@ -18,17 +18,17 @@ topics:
 - id: A-04
   title_en: Nicotine pouch side effects what no one tells you
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
   cluster: B
-  status: pending
+  status: drafted
   published: {}
 - id: B-02
   title_en: Are you addicted to vaping signs and science
   cluster: B
-  status: pending
+  status: drafted
   published: {}
 - id: B-03
   title_en: Why disposable vapes are so hard to quit
