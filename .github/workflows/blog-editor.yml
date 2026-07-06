@@ -1,0 +1,38 @@
+name: Blog Editor
+
+on:
+  schedule:
+    - cron: '0 9 * * 1,4'   # Mon + Thu 09:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic pyyaml python-slugify
+
+      - name: Run blog editor
+        run: python scripts/blog_editor.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push drafts
+        run: |
+          git config user.name "Blog Editor Bot"
+          git config user.email "blog-bot@niquit.app"
+          git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md
+          git diff --cached --quiet && echo "Nothing to commit, skipping." || (
+            git commit -m "blog: draft ${{ env.TOPIC_ID }}" &&
+            git push
+          )
