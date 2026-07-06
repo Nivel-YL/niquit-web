@@ -13,7 +13,7 @@ topics:
 - id: A-03
   title_en: Snus vs nicotine pouches what is the difference?
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: A-04
   title_en: Nicotine pouch side effects what no one tells you
