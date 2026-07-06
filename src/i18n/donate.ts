@@ -16,4 +16,4 @@ export const STRIPE_CUSTOM_LINK = 'https://buy.stripe.com/7sY4gya8p15RbPk1oFgIo0
 
 // Displayed tiers, descending order (large to small, deliberately, so the
 // first number a visitor sees anchors high, not low. Do not resort ascending.)
-export const DONATE_TIERS = [200, 175, 150, 125, 100, 75, 50, 25] as const;
+export const DONATE_TIERS = [200, 150, 125, 100, 75, 50, 25] as const;
