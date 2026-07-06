@@ -3,7 +3,7 @@ title: "Nikotinbeutel: Was steckt drin und sind sie wirklich sicherer als Zigare
 description: "Nikotinbeutel gelten als Alternative zur Zigarette. Wir zeigen, was wirklich drinsteckt, was die Forschung sagt und warum \"weniger schädlich\" nicht \"harmlos\" bedeutet."
 publishDate: 2026-07-06
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg
 ---
 

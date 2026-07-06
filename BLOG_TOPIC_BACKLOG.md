@@ -3,8 +3,13 @@ topics:
 - id: A-01
   title_en: What are nicotine pouches and are they safer than cigarettes?
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-06'
+    ru: '2026-07-06'
+    de: '2026-07-06'
+    es: '2026-07-06'
+    fr: '2026-07-06'
 - id: A-02
   title_en: How to quit nicotine pouches (ZYN, On!, Velo)
   cluster: A
