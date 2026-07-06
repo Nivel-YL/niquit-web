@@ -27,7 +27,7 @@ BACKLOG_PATH = REPO_ROOT / 'BLOG_TOPIC_BACKLOG.md'
 # ── config ───────────────────────────────────────────────────────────────────
 
 LANGUAGES     = ['en', 'ru', 'de', 'es', 'fr']
-PUBLISH_COUNT = int(os.environ.get('PUBLISH_COUNT', '2'))
+PUBLISH_COUNT = int(os.environ.get('PUBLISH_COUNT', '1'))
 BACKLOG_RE    = re.compile(r'<!--BACKLOG\n(.*?)BACKLOG-->', re.DOTALL)
 
 # ── backlog helpers ───────────────────────────────────────────────────────────

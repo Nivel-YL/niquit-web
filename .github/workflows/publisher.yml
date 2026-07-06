@@ -2,13 +2,14 @@ name: Publisher
 
 on:
   schedule:
-    - cron: '0 8 * * 2'   # Tuesday 08:00 UTC — publish 1-2 articles/week
+    - cron: '0 8 * * 2'   # Tuesday 08:00 UTC
+    - cron: '0 8 * * 5'   # Friday 08:00 UTC
   workflow_dispatch:
     inputs:
       count:
-        description: 'Number of articles to publish (default: 2)'
+        description: 'Number of articles to publish (default: 1)'
         required: false
-        default: '2'
+        default: '1'
 
 permissions:
   contents: write
