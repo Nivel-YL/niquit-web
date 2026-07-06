@@ -25,7 +25,7 @@ jobs:
       - name: Run blog editor
         run: python scripts/blog_editor.py
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY1 }}
 
       - name: Commit and push drafts
         run: |
