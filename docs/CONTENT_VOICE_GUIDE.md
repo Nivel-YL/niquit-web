@@ -113,7 +113,22 @@ Do not use:
 
 ---
 
-## 7. SEO requirements
+## 7. Statistics and factual claims
+
+Every specific number must be attributed to a named source inline.
+
+- **Correct:** "According to Sweden's Public Health Agency, X out of Y..."
+- **Correct:** "A 2023 study of 18,000 users found that X%..."
+- **Wrong:** "Studies show that X%..." — which study? unnamed sources are forbidden
+- **Wrong:** a precise number with no source anywhere in the sentence
+
+If you cannot name the specific source, do not use the precise number. Use a qualified range instead: "several hundred thousand", "up to X%", "estimates range from X to Y". A rounded, attributed number is always more credible than a precise, unattributed one.
+
+This rule applies to every language. The research summary will contain attributed statistics — use those, do not invent additional figures.
+
+---
+
+## 8. SEO requirements
 
 - Key phrase in H1 (naturally, not forced)
 - Key phrase in first paragraph within 60 words
@@ -123,14 +138,14 @@ Do not use:
 
 ---
 
-## 8. Pre-submit checklist
+## 9. Pre-submit checklist
 
 Before finishing the article, verify:
 - [ ] No em-dashes anywhere
 - [ ] Does not read as a translation
 - [ ] No AI marker patterns (hollow opener, meta-comment, closing moral, symmetrical paragraphs)
 - [ ] Key phrase appears naturally in H1 and first paragraph
-- [ ] At least 3 concrete facts/numbers from research included
+- [ ] Every specific statistic has a named source inline
 - [ ] H2s are real search queries, not topic labels
 - [ ] Paragraph lengths vary
 - [ ] 800-1200 words

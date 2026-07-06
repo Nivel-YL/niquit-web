@@ -138,9 +138,11 @@ def research(client: anthropic.Anthropic, topic_title: str, lang: str) -> str:
         tools=[{'type': 'web_search_20260209', 'name': 'web_search', 'max_uses': 2, 'allowed_callers': ['direct']}],
         system=(
             'You are a content researcher. Use web search to gather accurate, current '
-            'facts about the given topic. Prioritize: specific statistics with sources, '
-            'recent scientific findings, and concrete numbers. Summarize concisely in '
-            'English regardless of target language.'
+            'facts about the given topic. For every statistic or number you include, '
+            'you MUST name the source (organization, study, or publication) and year. '
+            'Never include a precise number without its source. If you cannot find the '
+            'source of a statistic, omit the number and use a qualified range instead. '
+            'Summarize concisely in English regardless of target language.'
         ),
         messages=[{
             'role': 'user',
@@ -150,7 +152,10 @@ def research(client: anthropic.Anthropic, topic_title: str, lang: str) -> str:
                 'Gather: current statistics, key scientific facts, and data points that '
                 'would be surprising or highly informative to someone wanting to quit nicotine. '
                 'Include local or regional statistics relevant to the target audience where '
-                'they differ meaningfully from global averages.'
+                'they differ meaningfully from global averages. '
+                'IMPORTANT: Every number you provide must include its source and year '
+                '(e.g. "X% — CDC, 2023" or "Y thousand — WHO report 2022"). '
+                'Do not include unattributed statistics.'
             ),
         }],
     )
