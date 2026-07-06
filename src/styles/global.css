@@ -57,15 +57,30 @@ html {
   }
 }
 
-/* Phone mockup frame */
+/* Phone mockup frame with floating animation */
+@keyframes float {
+  0%, 100% {
+    transform: rotate(-4deg) translateY(0px);
+    box-shadow: 0 40px 90px rgba(0,0,0,.55), 0 0 0 1px rgba(53,198,216,.10);
+  }
+  50% {
+    transform: rotate(-4deg) translateY(-14px);
+    box-shadow: 0 55px 100px rgba(0,0,0,.45), 0 0 0 1px rgba(53,198,216,.18);
+  }
+}
+
+@keyframes float-mobile {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-12px); }
+}
+
 .phone {
   width: 288px;
   padding: 11px;
   border-radius: 44px;
   background: #05101E;
   border: 1px solid rgba(120,150,200,.22);
-  box-shadow: 0 40px 90px rgba(0,0,0,.55), 0 0 0 1px rgba(53,198,216,.10);
-  transform: rotate(-4deg);
+  animation: float 5s ease-in-out infinite;
 }
 
 .phone img {
@@ -79,8 +94,20 @@ html {
 @media (max-width: 767px) {
   .phone {
     width: 220px;
-    transform: none;
+    animation: float-mobile 5s ease-in-out infinite;
   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .phone {
+    animation: none;
+    transform: rotate(-4deg);
+    box-shadow: 0 40px 90px rgba(0,0,0,.55), 0 0 0 1px rgba(53,198,216,.10);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) and (max-width: 767px) {
+  .phone { transform: none; }
 }
 
 /* Language dropdown */
