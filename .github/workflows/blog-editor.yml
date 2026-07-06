@@ -2,7 +2,7 @@ name: Blog Editor
 
 on:
   schedule:
-    - cron: '0 9 * * 1,4'   # Mon + Thu 09:00 UTC
+    - cron: '0 9 * * 1'      # Mon 09:00 UTC
   workflow_dispatch: {}
 
 permissions:

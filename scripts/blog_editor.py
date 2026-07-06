@@ -11,6 +11,7 @@ import hashlib
 import os
 import re
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import anthropic
@@ -19,15 +20,17 @@ from slugify import slugify
 
 # ── paths ────────────────────────────────────────────────────────────────────
 
-REPO_ROOT      = Path(__file__).parent.parent
-BLOG_DIR       = REPO_ROOT / 'src' / 'content' / 'blog'
-IMAGES_DIR     = REPO_ROOT / 'public' / 'images' / 'blog'
-BACKLOG_PATH   = REPO_ROOT / 'BLOG_TOPIC_BACKLOG.md'
-VOICE_GUIDE    = REPO_ROOT / 'docs' / 'CONTENT_VOICE_GUIDE.md'
+REPO_ROOT    = Path(__file__).parent.parent
+BLOG_DIR     = REPO_ROOT / 'src' / 'content' / 'blog'
+IMAGES_DIR   = REPO_ROOT / 'public' / 'images' / 'blog'
+BACKLOG_PATH = REPO_ROOT / 'BLOG_TOPIC_BACKLOG.md'
+VOICE_GUIDE  = REPO_ROOT / 'docs' / 'CONTENT_VOICE_GUIDE.md'
 
 # ── config ───────────────────────────────────────────────────────────────────
 
-MODEL     = 'claude-sonnet-5'
+RESEARCH_MODEL = 'claude-haiku-4-5'   # fact gathering — speed + cost
+WRITE_MODEL    = 'claude-sonnet-5'    # article writing — quality matters
+
 LANGUAGES = ['en', 'ru', 'de', 'es', 'fr']
 
 LANG_LABELS = {
@@ -52,8 +55,8 @@ CLUSTER_ICONS = {
     'C': '\U0001f6ac',    # 🚬 cigarettes
     'D': '\U0001f3af',    # 🎯 multi-source
     'E': '\U0001f9e0',    # 🧠 psychology
-    'F': '❤️',  # ❤️ health
-    'G': '⚡',        # ⚡ practice
+    'F': '❤️',            # ❤️ health
+    'G': '⚡',            # ⚡ practice
     'H': '\U0001f52e',    # 🔮 myths
 }
 
@@ -101,9 +104,9 @@ def save_backlog(topics: list[dict]) -> None:
 
 def generate_svg(topic_id: str, cluster: str) -> str:
     seed   = int(hashlib.md5(topic_id.encode()).hexdigest()[:8], 16)
-    ox     = (seed % 41) - 20           # horizontal offset -20…+20
-    oy     = ((seed >> 8) % 41) - 20    # vertical offset
-    rot    = ((seed >> 16) % 31) - 15   # rotation -15…+15 degrees
+    ox     = (seed % 41) - 20
+    oy     = ((seed >> 8) % 41) - 20
+    rot    = ((seed >> 16) % 31) - 15
     icon   = CLUSTER_ICONS.get(cluster, '\U0001f4dd')
     cx, cy = 600 + ox, 315 + oy
     return (
@@ -128,9 +131,9 @@ def generate_svg(topic_id: str, cluster: str) -> str:
 
 def research(client: anthropic.Anthropic, topic_title: str, lang: str) -> str:
     resp = client.messages.create(
-        model=MODEL,
-        max_tokens=2048,
-        tools=[{'type': 'web_search_20260209', 'name': 'web_search', 'max_uses': 3}],
+        model=RESEARCH_MODEL,
+        max_tokens=1024,
+        tools=[{'type': 'web_search_20260209', 'name': 'web_search', 'max_uses': 2}],
         system=(
             'You are a content researcher. Use web search to gather accurate, current '
             'facts about the given topic. Prioritize: specific statistics with sources, '
@@ -160,10 +163,16 @@ def write_article(
     research_text: str,
     voice_guide_text: str,
 ) -> tuple[str, str, str]:
+    # voice_guide_text is identical across all 5 write calls in a run —
+    # cache_control tells Anthropic to cache it (up to 90% cheaper on cache hits)
     resp = client.messages.create(
-        model=MODEL,
+        model=WRITE_MODEL,
         max_tokens=4096,
-        system=voice_guide_text,
+        system=[{
+            'type': 'text',
+            'text': voice_guide_text,
+            'cache_control': {'type': 'ephemeral'},
+        }],
         messages=[{
             'role': 'user',
             'content': (
@@ -215,6 +224,35 @@ def build_frontmatter(title: str, description: str, today: datetime.date, lang: 
     ])
 
 
+# ── per-language pipeline (runs in parallel) ──────────────────────────────────
+
+def process_language(
+    lang: str,
+    client: anthropic.Anthropic,
+    topic_title: str,
+    voice_guide_txt: str,
+    article_slug: str,
+    today: datetime.date,
+) -> str:
+    print(f'[{lang}] researching...', flush=True)
+    research_text = research(client, topic_title, lang)
+
+    print(f'[{lang}] writing...', flush=True)
+    title, description, body = write_article(
+        client, topic_title, lang, research_text, voice_guide_txt
+    )
+
+    frontmatter  = build_frontmatter(title, description, today, lang, article_slug)
+    article_text = frontmatter + '\n\n' + body + '\n'
+
+    out_dir = BLOG_DIR / lang
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f'{article_slug}.md'
+    out_path.write_text(article_text, encoding='utf-8')
+    print(f'[{lang}] saved: {out_path.relative_to(REPO_ROOT)}', flush=True)
+    return lang
+
+
 # ── main ──────────────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -232,17 +270,17 @@ def main() -> None:
         print('No pending topics in backlog. Nothing to do.')
         sys.exit(0)
 
-    topic_id    = pending['id']
-    topic_title = pending['title_en']
-    cluster     = pending['cluster']
+    topic_id     = pending['id']
+    topic_title  = pending['title_en']
+    cluster      = pending['cluster']
     article_slug = slugify(topic_title)
-    today       = datetime.date.today()
+    today        = datetime.date.today()
 
     print(f'Topic  : {topic_id} — {topic_title}')
     print(f'Slug   : {article_slug}')
     print(f'Cluster: {cluster}')
 
-    # SVG cover (deterministic, no API call)
+    # SVG cover — deterministic, no API call
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     svg_path = IMAGES_DIR / f'{article_slug}.svg'
     svg_path.write_text(generate_svg(topic_id, cluster), encoding='utf-8')
@@ -252,24 +290,26 @@ def main() -> None:
     pending['status'] = 'in_progress'
     save_backlog(topics)
 
-    # Process each language: research then write
-    for lang in LANGUAGES:
-        print(f'\n[{lang}] researching...', flush=True)
-        research_text = research(client, topic_title, lang)
+    # Process all 5 languages in parallel (each: Haiku research → Sonnet write)
+    with ThreadPoolExecutor(max_workers=len(LANGUAGES)) as executor:
+        futures = {
+            executor.submit(
+                process_language,
+                lang, client, topic_title, voice_guide_txt, article_slug, today,
+            ): lang
+            for lang in LANGUAGES
+        }
+        errors = []
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as exc:
+                errors.append((futures[future], exc))
 
-        print(f'[{lang}] writing...', flush=True)
-        title, description, body = write_article(
-            client, topic_title, lang, research_text, voice_guide_txt
-        )
-
-        frontmatter  = build_frontmatter(title, description, today, lang, article_slug)
-        article_text = frontmatter + '\n\n' + body + '\n'
-
-        out_dir = BLOG_DIR / lang
-        out_dir.mkdir(parents=True, exist_ok=True)
-        out_path = out_dir / f'{article_slug}.md'
-        out_path.write_text(article_text, encoding='utf-8')
-        print(f'[{lang}] saved: {out_path.relative_to(REPO_ROOT)}')
+    if errors:
+        for lang, exc in errors:
+            print(f'ERROR [{lang}]: {exc}', file=sys.stderr)
+        sys.exit(1)
 
     # Mark drafted
     topics = load_backlog()
