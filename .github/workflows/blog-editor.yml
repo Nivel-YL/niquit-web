@@ -34,5 +34,6 @@ jobs:
           git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
             git commit -m "blog: draft ${{ env.TOPIC_ID }}" &&
+            git pull --rebase origin master &&
             git push
           )
