@@ -180,7 +180,7 @@ def write_article(
         }],
     )
 
-    text = resp.content[0].text.strip()
+    text = next(b.text for b in resp.content if b.type == 'text').strip()
 
     title_m = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
     title   = title_m.group(1).strip() if title_m else topic_title
