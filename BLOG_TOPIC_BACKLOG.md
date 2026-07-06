@@ -3,32 +3,32 @@ topics:
 - id: A-01
   title_en: What are nicotine pouches and are they safer than cigarettes?
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-02
   title_en: How to quit nicotine pouches (ZYN, On!, Velo)
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-03
   title_en: Snus vs nicotine pouches what is the difference?
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-04
   title_en: Nicotine pouch side effects what no one tells you
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
   cluster: B
-  status: drafted
+  status: approved
   published: {}
 - id: B-02
   title_en: Are you addicted to vaping signs and science
   cluster: B
-  status: drafted
+  status: approved
   published: {}
 - id: B-03
   title_en: Why disposable vapes are so hard to quit

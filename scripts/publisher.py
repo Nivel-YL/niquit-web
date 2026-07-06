@@ -81,7 +81,9 @@ def publish_topic(topic: dict, today: datetime.date) -> list[str]:
         if 'draft: true' not in text:
             print(f'  [{lang}] already live, skipping')
             continue
-        path.write_text(text.replace('draft: true', 'draft: false', 1), encoding='utf-8')
+        text = text.replace('draft: true', 'draft: false', 1)
+        text = re.sub(r'publishDate: \d{4}-\d{2}-\d{2}', f'publishDate: {today.isoformat()}', text, count=1)
+        path.write_text(text, encoding='utf-8')
         published_langs.append(lang)
         print(f'  [{lang}] published: {path.relative_to(REPO_ROOT)}')
 

@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "Blog Editor Bot"
           git config user.email "jelissei.levin@gmail.com"
-          git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md
+          git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md docs/fact-audits/
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
             git commit -m "blog: draft ${{ env.DRAFTED_IDS }}" &&
             git pull --rebase origin master &&
