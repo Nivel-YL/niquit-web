@@ -133,7 +133,7 @@ def research(client: anthropic.Anthropic, topic_title: str, lang: str) -> str:
     resp = client.messages.create(
         model=RESEARCH_MODEL,
         max_tokens=1024,
-        tools=[{'type': 'web_search_20260209', 'name': 'web_search', 'max_uses': 2}],
+        tools=[{'type': 'web_search_20260209', 'name': 'web_search', 'max_uses': 2, 'allowed_callers': ['direct']}],
         system=(
             'You are a content researcher. Use web search to gather accurate, current '
             'facts about the given topic. Prioritize: specific statistics with sources, '
