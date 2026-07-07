@@ -2,11 +2,15 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
+import sitemap from '@astrojs/sitemap';
+
 export default defineConfig({
   site: 'https://niquit.app',
+
   vite: {
     plugins: [tailwindcss()],
   },
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ru', 'de', 'es', 'fr'],
@@ -14,4 +18,6 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
+
+  integrations: [sitemap()],
 });
