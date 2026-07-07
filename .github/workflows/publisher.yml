@@ -1,9 +1,10 @@
 name: Publisher
 
 on:
-  schedule:
-    - cron: '0 8 * * 2'   # Tuesday 08:00 UTC
-    - cron: '0 8 * * 5'   # Friday 08:00 UTC
+  # PAUSED: resume after custom domain migration
+  # schedule:
+  #   - cron: '0 8 * * 2'   # Tuesday 08:00 UTC
+  #   - cron: '0 8 * * 5'   # Friday 08:00 UTC
   workflow_dispatch:
     inputs:
       count:
