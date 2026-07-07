@@ -14,7 +14,7 @@ $bytes = [System.IO.File]::ReadAllBytes($path)
 
 ## Em-Dashes
 Em-dashes (`—`) are prohibited throughout the entire site — in all 5 languages.
-Use `, ` or split into two sentences. Caused confusion with smart-quotes in some editors.
+Use `, ` or split into two sentences. `blog_editor.py` auto-replaces them before saving.
 
 ## ui.ts: as const + new fields
 `ui.ts` uses `as const`. `UiStrings = typeof ui.en`.
@@ -35,25 +35,44 @@ Do not delete the key from STRIPE_LINKS; just don't add '175' back to DONATE_TIE
 Apple Pay only appears on Safari/Apple devices. It will never show on Chrome/Windows.
 This is expected Stripe behavior, not a configuration bug.
 
-## Stripe account under review
-Account (Nivexon OÜ) was under 2-3 day review as of 2026-07-06.
-Until approved, payment links exist but live charges do not process.
-No code change needed — Stripe activates automatically on approval.
-
 ## Write tool "file modified since read" error
 Happens when PowerShell has touched a file externally after the last Read.
 Fix: re-read the file, then write. The tool tracks file state.
 
 ## Slug extraction from content collection
-`entry.id` = `"en/why-nicotine-is-different"`. Slug = `entry.id.split('/').pop()`.
-Do NOT use `entry.slug` — removed in Astro v7 glob() loader.
+`entry.id` (glob() loader) = `"ru/article-slug"` (no extension, lang prefix included).
+Slug = `entry.id.split('/').pop()` → `"article-slug"`.
+**`entry.slug` does NOT exist** in Astro v7 glob() loader — using it returns `undefined`,
+which causes article links to resolve as `/ru/blog/undefined` → 404 → redirect to main page.
+This was a real bug caught 2026-07-07 after Cloudflare Pages deployment.
 
 ## localePath trailing slash
 `localePath('en', '')` → `'/'` (not `''`).
 `localePath('ru', 'blog')` → `'/ru/blog'` (no trailing slash).
 The function handles edge cases — do not manually build language URLs.
 
+## package-lock.json: do NOT commit
+The repo has no `package-lock.json` by design. It was deleted 2026-07-07 because:
+- The Windows-generated lock file included only Win32 optional packages
+- Linux CI runners (Cloudflare Pages, GitHub Actions) run `npm ci` which requires all
+  platform packages to be in the lock file → fails with "missing from lock file"
+- Without a lock file, both Cloudflare and GitHub Actions fall back to `npm install` ✓
+If `package-lock.json` reappears locally (after `npm install`), do not commit it.
+Add to `.gitignore` if it keeps appearing accidentally.
+
+## Cloudflare Pages: npm ci vs npm install
+Cloudflare Pages runs `npm ci` automatically if `package-lock.json` is present,
+or `npm install` if it is not. Since the lock file is absent, it uses `npm install`.
+Do not add a lock file back without regenerating it on Linux first.
+
+## Netlify credits exhausted (management-nivel-team)
+The Netlify team account ran out of credits 2026-07-07 (caused by Netlify Agent Runner usage).
+All deploys to Netlify are blocked — including CLI deploys via the API (returns 403 Forbidden).
+The site `niquit.netlify.app` is still live on the last cached deploy but cannot be updated.
+Migration: site moved to Cloudflare Pages. Custom domain pending to unify URLs.
+
 ## Vercel niquit-stripe-api
 This project must not be deleted or renamed.
 It hosts the AI coach proxy, feedback endpoint, and privacy redirect.
-App code hardcodes `https://niquit-stripe-api.vercel.app` in `ember/constants/config.ts`.
+App code hardcodes `https://niquit-stripe-api.vercel.app` in app constants.
+The `/privacy.html` redirect points to `niquit.netlify.app/privacy` — update when custom domain is live.

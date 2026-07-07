@@ -1,9 +1,12 @@
 # NiQuit Website — Claude Instructions
 
 ## Project
-Static marketing site for the NiQuit app. Astro v7 + Tailwind v4.
-Deployed on **Netlify** (drag `dist/` to dashboard — no CI yet).
-Live: `https://niquit.netlify.app`
+Static marketing site + blog for the NiQuit app. Astro v7 + Tailwind v4.
+Deployed on **Cloudflare Pages** (auto-deploy from `master` branch).
+Live: `https://niquit-web.pages.dev` (custom domain planned — see SESSION_STATE.md)
+
+Old frozen site: `https://niquit.netlify.app` — Netlify credits exhausted, not updated.
+App privacy/terms still link to netlify URLs — will be fixed when custom domain is set up.
 
 ## Stack
 - **Astro v7** — static output, `src/content.config.ts` with `glob()` loader
@@ -13,9 +16,29 @@ Live: `https://niquit.netlify.app`
 
 ## Build & Deploy
 ```
-npx astro build        # outputs to dist/
+npm install        # no package-lock.json in repo — always use npm install, never npm ci
+npm run build      # outputs to dist/
 ```
-Then drag `dist/` to the Netlify "niquit" project dashboard. No CLI deploy configured.
+Deploy is automatic: push to `master` → Cloudflare Pages builds and deploys.
+Manual trigger: Cloudflare Dashboard → Workers & Pages → niquit-web → Create deployment.
+
+**Do NOT commit package-lock.json.** It was deleted because Windows-generated lock files
+break `npm ci` on Linux CI runners (Cloudflare, GitHub Actions). npm install regenerates it.
+
+## Blog Automation
+Two scripts, two GitHub Actions workflows:
+
+**Generation** (`.github/workflows/blog-editor.yml`, Monday 09:00 UTC):
+- `scripts/blog_editor.py` picks next `pending` topic from `BLOG_TOPIC_BACKLOG.md`
+- Does ONE shared web research call (Haiku), then 5 parallel write calls (Sonnet 5)
+- Saves 5 language .md files as `draft: true`, generates SVG cover, runs fact audit
+- Commits and pushes → Cloudflare auto-deploys (drafts invisible on live site)
+
+**Publication** (`.github/workflows/publisher.yml`, Tue + Fri 08:00 UTC):
+- `scripts/publisher.py` picks first `approved` topic, flips `draft: true → false`, sets `publishDate`
+- Commits and pushes → Cloudflare auto-deploys → article goes live
+
+Manual publish: GitHub → Actions → Publisher → Run workflow.
 
 ## i18n Architecture
 - `src/i18n/ui.ts` — all UI strings, 5 languages, `as const`. Type `UiStrings = typeof ui.en`.
@@ -49,13 +72,13 @@ To add/replace: drop file in the right folder, update the map.
 - `src/i18n/donate.ts` has `STRIPE_LINKS` (8 URLs), `STRIPE_CUSTOM_LINK`, `DONATE_TIERS`.
 - `DONATE_TIERS` is display-only — tiers [200,150,125,100,75,50,25].
 - The €175 Stripe link exists in `STRIPE_LINKS` but is intentionally excluded from `DONATE_TIERS`.
-- Stripe account under review (Nivexon OÜ) — live payments pending approval.
 
 ## Rules
 - **No em-dashes** anywhere in the site — use `, ` or split sentence.
 - **Non-ASCII files**: always use the Write tool. Never PowerShell `Set-Content` — adds BOM.
 - **Prose links**: use `#35C6D8` not `#22D3EE` (old cyan value, now replaced).
 - `DONATE_TIERS` order is descending on purpose (anchoring) — do not sort ascending.
+- **Slugs**: always `entry.id.split('/').pop()` — never `entry.slug` (removed in Astro v7).
 
 ## Vercel niquit-stripe-api
 Separate project at `https://niquit-stripe-api.vercel.app`. Hosts:
