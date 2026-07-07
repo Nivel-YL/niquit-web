@@ -8,7 +8,7 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
   <text x="598" y="312" font-size="420" text-anchor="middle"
         dominant-baseline="middle" opacity="0.10"
-        transform="rotate(-6,598,312)">🤝</text>
-  <rect x="80" y="120" width="5" height="390" fill="#FF6B5C" rx="2.5"/>
-  <rect x="0" y="600" width="1200" height="30" fill="#FF6B5C" opacity="0.18"/>
+        transform="rotate(-6,598,312)">🍃</text>
+  <rect x="80" y="120" width="5" height="390" fill="#FF6B6B" rx="2.5"/>
+  <rect x="0" y="600" width="1200" height="30" fill="#FF6B6B" opacity="0.18"/>
 </svg>

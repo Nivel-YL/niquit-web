@@ -30,7 +30,7 @@ const posts = (await getCollection('blog', (e) => e.data.lang === lang && !e.dat
             lang={lang}
             title={post.data.title}
             description={post.data.description}
-            slug={post.slug}
+            slug={post.id.split('/').pop()!}
             publishDate={post.data.publishDate}
             heroImage={post.data.heroImage}
           />

@@ -55,7 +55,7 @@ LANG_NAMES = {
 }
 
 CLUSTER_ICONS = {
-    'A': '\U0001f91d',
+    'A': '\U0001f343',
     'B': '\U0001f4a8',
     'C': '\U0001f6ac',
     'D': '\U0001f3af',
