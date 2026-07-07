@@ -4,9 +4,10 @@ import { type Lang, t } from '../i18n/ui';
 interface Props {
   lang: Lang;
   size?: 'sm' | 'md' | 'lg';
+  location?: 'header' | 'hero' | 'article' | 'footer';
 }
 
-const { lang, size = 'md' } = Astro.props;
+const { lang, size = 'md', location = 'hero' } = Astro.props;
 const s = t(lang);
 
 // When iOS launches: set SHOW_APPLE = true and fill APPLE_URL
@@ -26,6 +27,7 @@ const classes = {
     href={GOOGLE_URL}
     target="_blank"
     rel="noopener"
+    data-ph-install={location}
     class={`${classes[size]} transition-opacity hover:opacity-90`}
     style="background:#22D3EE; color:#0C1424;"
   >
@@ -44,3 +46,14 @@ const classes = {
     </a>
   )}
 </div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-ph-install]').forEach((el) => {
+    el.addEventListener('click', () => {
+      (window as any).posthog?.capture('install_button_clicked', {
+        platform: 'website',
+        location: el.dataset.phInstall,
+      });
+    });
+  });
+</script>

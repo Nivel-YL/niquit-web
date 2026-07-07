@@ -24,6 +24,7 @@ const s = t(lang);
           href={STRIPE_LINKS[String(amount)]}
           target="_blank"
           rel="noopener"
+          data-ph-amount={String(amount)}
           class="rounded-xl py-4 px-5 text-center font-bold text-xl transition-opacity hover:opacity-80"
           style="background:#18243F; color:#F5F7FA; text-decoration:none;"
         >
@@ -32,8 +33,19 @@ const s = t(lang);
       ))}
     </div>
 
+    <script>
+      document.querySelectorAll<HTMLElement>('[data-ph-amount]').forEach((el) => {
+        el.addEventListener('click', () => {
+          (window as any).posthog?.capture('donate_tier_clicked', {
+            platform: 'website',
+            amount: Number(el.dataset.phAmount),
+          });
+        });
+      });
+    </script>
+
     <!-- Custom amount — subtle secondary action -->
-    <a
+    <
       href={STRIPE_CUSTOM_LINK}
       target="_blank"
       rel="noopener"

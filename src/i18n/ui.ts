@@ -70,6 +70,11 @@ export const ui = {
     terms: {
       title: 'Terms of Use',
     },
+    consent: {
+      text: 'We use anonymous analytics to understand how people use NiQuit. No personal data is collected.',
+      accept: 'Accept',
+      decline: 'Decline',
+    },
     method: {
       title: 'How NiQuit works',
       sub: 'The app is built around one idea: quitting is easier when you understand the trap.',
@@ -144,6 +149,11 @@ export const ui = {
     },
     privacy: { title: 'Политика конфиденциальности' },
     terms: { title: 'Условия использования' },
+    consent: {
+      text: 'Мы используем анонимную аналитику, чтобы понимать, как люди пользуются NiQuit. Личные данные не собираются.',
+      accept: 'Принять',
+      decline: 'Отклонить',
+    },
     method: {
       title: 'Как работает NiQuit',
       sub: 'Приложение построено вокруг одной идеи: бросить легче, когда понимаешь ловушку.',
@@ -218,6 +228,11 @@ export const ui = {
     },
     privacy: { title: 'Datenschutzerklärung' },
     terms: { title: 'Nutzungsbedingungen' },
+    consent: {
+      text: 'Wir nutzen anonyme Analysen, um zu verstehen, wie NiQuit verwendet wird. Keine persönlichen Daten werden gesammelt.',
+      accept: 'Akzeptieren',
+      decline: 'Ablehnen',
+    },
     method: {
       title: 'So funktioniert NiQuit',
       sub: 'Die App basiert auf einer Idee: Aufhören ist leichter, wenn du die Falle verstehst.',
@@ -292,6 +307,11 @@ export const ui = {
     },
     privacy: { title: 'Política de privacidad' },
     terms: { title: 'Condiciones de uso' },
+    consent: {
+      text: 'Usamos análisis anónimos para entender cómo se usa NiQuit. No se recopilan datos personales.',
+      accept: 'Aceptar',
+      decline: 'Rechazar',
+    },
     method: {
       title: 'Cómo funciona NiQuit',
       sub: 'La app se construye alrededor de una idea: dejar es más fácil cuando entiendes la trampa.',
@@ -366,6 +386,11 @@ export const ui = {
     },
     privacy: { title: 'Politique de confidentialité' },
     terms: { title: "Conditions d'utilisation" },
+    consent: {
+      text: "Nous utilisons des analyses anonymes pour comprendre comment NiQuit est utilisé. Aucune donnée personnelle n'est collectée.",
+      accept: 'Accepter',
+      decline: 'Refuser',
+    },
     method: {
       title: 'Comment fonctionne NiQuit',
       sub: "L'app repose sur une idée: arrêter est plus facile quand on comprend le piège.",

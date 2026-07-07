@@ -49,7 +49,7 @@ const otherLangs = LANGS.filter((l) => l !== lang);
       <ul class="lang__menu" role="listbox" hidden>
         {otherLangs.map((l) => (
           <li role="option">
-            <a href={localePath(l, currentPathNoLang.replace(/^\//, ''))}>
+            <a href={localePath(l, currentPathNoLang.replace(/^\//, ''))} data-ph-from={lang} data-ph-to={l}>
               <b>{langCode[l]}</b>{langName[l]}
             </a>
           </li>
@@ -57,7 +57,7 @@ const otherLangs = LANGS.filter((l) => l !== lang);
       </ul>
     </div>
 
-    <InstallButton lang={lang} size="sm" />
+    <InstallButton lang={lang} size="sm" location="header" />
   </div>
 </header>
 
@@ -68,7 +68,17 @@ const otherLangs = LANGS.filter((l) => l !== lang);
     const open  = () => { menu.hidden = false; btn.setAttribute('aria-expanded', 'true'); };
     const close = () => { menu.hidden = true;  btn.setAttribute('aria-expanded', 'false'); };
     btn.addEventListener('click', (e) => { e.stopPropagation(); menu.hidden ? open() : close(); });
-    menu.addEventListener('click', () => { close(); });
+    menu.addEventListener('click', (e) => {
+      const link = (e.target as HTMLElement).closest('a[data-ph-from]') as HTMLElement | null;
+      if (link) {
+        (window as any).posthog?.capture('language_switched', {
+          platform: 'website',
+          from_lang: link.dataset.phFrom,
+          to_lang: link.dataset.phTo,
+        });
+      }
+      close();
+    });
     document.addEventListener('click',  (e) => { if (!root.contains(e.target as Node)) close(); });
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
   });

@@ -1,0 +1,50 @@
+---
+import { type Lang, t } from '../i18n/ui';
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+---
+
+<div
+  id="cookie-banner"
+  style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:100; background:#0F1C32; border-top:1px solid #1E3050; padding:12px 20px;"
+>
+  <div style="max-width:900px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;">
+    <p style="color:#B0B8C8; font-size:0.875rem; margin:0; flex:1; min-width:200px;">
+      {s.consent.text}
+    </p>
+    <div style="display:flex; gap:8px; flex-shrink:0;">
+      <button
+        id="consent-decline"
+        style="padding:6px 16px; border-radius:8px; border:1px solid #2A3F5F; background:transparent; color:#B0B8C8; font-size:0.875rem; cursor:pointer;"
+      >
+        {s.consent.decline}
+      </button>
+      <button
+        id="consent-accept"
+        style="padding:6px 16px; border-radius:8px; border:none; background:#22D3EE; color:#0C1424; font-size:0.875rem; font-weight:600; cursor:pointer;"
+      >
+        {s.consent.accept}
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const banner = document.getElementById('cookie-banner') as HTMLElement | null;
+  if (banner && !localStorage.getItem('niquit_consent')) {
+    banner.style.display = 'block';
+  }
+
+  document.getElementById('consent-accept')?.addEventListener('click', () => {
+    localStorage.setItem('niquit_consent', 'accepted');
+    (window as any).posthog?.opt_in_capturing();
+    if (banner) banner.style.display = 'none';
+  });
+
+  document.getElementById('consent-decline')?.addEventListener('click', () => {
+    localStorage.setItem('niquit_consent', 'rejected');
+    (window as any).posthog?.opt_out_capturing();
+    if (banner) banner.style.display = 'none';
+  });
+</script>
