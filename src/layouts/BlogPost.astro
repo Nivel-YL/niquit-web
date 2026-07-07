@@ -9,9 +9,11 @@ interface Props {
   publishDate: Date;
   lang: Lang;
   heroImage?: string;
+  slug?: string;
+  cluster?: string;
 }
 
-const { title, description, publishDate, lang, heroImage } = Astro.props;
+const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science' } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
@@ -41,12 +43,135 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
       <p class="text-lg" style="color:#B0B8C8;">{description}</p>
     </header>
 
-    <div class="prose max-w-none">
+    <div id="article-body" class="prose max-w-none">
       <slot />
     </div>
 
-    <div class="mt-16 pt-10" style="border-top:1px solid #18243F;">
+    <!-- Like / Dislike feedback -->
+    <div
+      id="article-feedback"
+      class="mt-12 flex items-center gap-4"
+      data-slug={slug}
+    >
+      <span class="text-sm" style="color:#B0B8C8;">{s.article?.feedbackPrompt ?? 'Was this helpful?'}</span>
+      <button
+        id="btn-like"
+        type="button"
+        aria-label="Like"
+        class="text-xl transition-transform hover:scale-110 focus:outline-none"
+        style="background:none;border:none;cursor:pointer;padding:4px;"
+      >👍</button>
+      <button
+        id="btn-dislike"
+        type="button"
+        aria-label="Dislike"
+        class="text-xl transition-transform hover:scale-110 focus:outline-none"
+        style="background:none;border:none;cursor:pointer;padding:4px;"
+      >👎</button>
+    </div>
+
+    <div class="mt-10 pt-10" style="border-top:1px solid #18243F;">
       <ArticleCTA lang={lang} />
     </div>
   </article>
 </Base>
+
+<script define:vars={{ slug, cluster, lang }}>
+  // 1. Article super properties — set for every event fired on this page
+  (function registerArticleSuperProps() {
+    if (typeof window === 'undefined') return;
+    const ph = (window as any).posthog;
+    if (!ph) {
+      // PostHog may not be loaded yet — retry once on load
+      window.addEventListener('load', () => {
+        (window as any).posthog?.register({
+          article_slug: slug,
+          article_lang: lang,
+          article_cluster: cluster,
+        });
+      });
+      return;
+    }
+    ph.register({ article_slug: slug, article_lang: lang, article_cluster: cluster });
+  })();
+
+  // 2. Scroll depth tracking — fire once per threshold per page
+  (function trackScrollDepth() {
+    const thresholds = [25, 50, 75, 100];
+    const fired = new Set<number>();
+    function check() {
+      const el = document.documentElement;
+      const scrolled = el.scrollTop + el.clientHeight;
+      const total = el.scrollHeight;
+      if (total === 0) return;
+      const pct = (scrolled / total) * 100;
+      thresholds.forEach((t) => {
+        if (!fired.has(t) && pct >= t) {
+          fired.add(t);
+          (window as any).posthog?.capture('article_scroll_depth', {
+            platform: 'website',
+            depth: t,
+          });
+        }
+      });
+    }
+    window.addEventListener('scroll', check, { passive: true });
+    check();
+  })();
+
+  // 3. Like / Dislike feedback
+  (function setupFeedback() {
+    const feedbackKey = `niquit_feedback_${slug}`;
+    const container = document.getElementById('article-feedback');
+    const btnLike    = document.getElementById('btn-like');
+    const btnDislike = document.getElementById('btn-dislike');
+    if (!container || !btnLike || !btnDislike) return;
+
+    const already = localStorage.getItem(feedbackKey);
+
+    function applyVoted(sentiment: string) {
+      if (sentiment === 'like')    { btnLike!.style.opacity = '1'; btnDislike!.style.opacity = '0.3'; }
+      if (sentiment === 'dislike') { btnDislike!.style.opacity = '1'; btnLike!.style.opacity = '0.3'; }
+      btnLike!.disabled    = true;
+      btnDislike!.disabled = true;
+    }
+
+    if (already) { applyVoted(already); return; }
+
+    function vote(sentiment: 'like' | 'dislike') {
+      localStorage.setItem(feedbackKey, sentiment);
+      (window as any).posthog?.capture('article_feedback', {
+        platform: 'website',
+        sentiment,
+      });
+      applyVoted(sentiment);
+    }
+
+    btnLike.addEventListener('click', () => vote('like'));
+    btnDislike.addEventListener('click', () => vote('dislike'));
+  })();
+
+  // 4. Internal link tracking — same-domain article links
+  (function trackInternalLinks() {
+    const articleBody = document.getElementById('article-body');
+    if (!articleBody) return;
+    articleBody.addEventListener('click', (e) => {
+      const a = (e.target as HTMLElement).closest('a') as HTMLAnchorElement | null;
+      if (!a) return;
+      const href = a.getAttribute('href') ?? '';
+      const isInternal =
+        href.startsWith('/') ||
+        href.includes('niquit.app') ||
+        a.hostname === window.location.hostname;
+      const isBlogLink = href.includes('/blog/') || href.match(/\/[a-z]{2}\/blog\//);
+      if (isInternal && isBlogLink) {
+        const toSlug = href.split('/').filter(Boolean).pop() ?? href;
+        (window as any).posthog?.capture('internal_link_clicked', {
+          platform: 'website',
+          from_article: slug,
+          to_article: toSlug,
+        });
+      }
+    });
+  })();
+</script>

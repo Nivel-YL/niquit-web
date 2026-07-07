@@ -75,6 +75,9 @@ export const ui = {
       accept: 'Accept',
       decline: 'Decline',
     },
+    article: {
+      feedbackPrompt: 'Was this helpful?',
+    },
     method: {
       title: 'How NiQuit works',
       sub: 'The app is built around one idea: quitting is easier when you understand the trap.',
@@ -153,6 +156,9 @@ export const ui = {
       text: 'Мы используем анонимную аналитику, чтобы понимать, как люди пользуются NiQuit. Личные данные не собираются.',
       accept: 'Принять',
       decline: 'Отклонить',
+    },
+    article: {
+      feedbackPrompt: 'Было ли это полезно?',
     },
     method: {
       title: 'Как работает NiQuit',
@@ -233,6 +239,9 @@ export const ui = {
       accept: 'Akzeptieren',
       decline: 'Ablehnen',
     },
+    article: {
+      feedbackPrompt: 'War das hilfreich?',
+    },
     method: {
       title: 'So funktioniert NiQuit',
       sub: 'Die App basiert auf einer Idee: Aufhören ist leichter, wenn du die Falle verstehst.',
@@ -312,6 +321,9 @@ export const ui = {
       accept: 'Aceptar',
       decline: 'Rechazar',
     },
+    article: {
+      feedbackPrompt: '¿Fue de ayuda?',
+    },
     method: {
       title: 'Cómo funciona NiQuit',
       sub: 'La app se construye alrededor de una idea: dejar es más fácil cuando entiendes la trampa.',
@@ -390,6 +402,9 @@ export const ui = {
       text: "Nous utilisons des analyses anonymes pour comprendre comment NiQuit est utilisé. Aucune donnée personnelle n'est collectée.",
       accept: 'Accepter',
       decline: 'Refuser',
+    },
+    article: {
+      feedbackPrompt: 'Cela vous a-t-il aidé ?',
     },
     method: {
       title: 'Comment fonctionne NiQuit',

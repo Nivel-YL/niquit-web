@@ -10,6 +10,15 @@ interface Props {
 
 const { lang, entry } = Astro.props;
 const { Content } = await render(entry);
+
+const slug = entry.id.split('/').pop() ?? entry.id;
+
+function getCluster(s: string): string {
+  if (s.includes('vap')) return 'vaping';
+  if (s.includes('pouch') || s.includes('snus') || s.includes('zyn')) return 'nicotine-pouches';
+  return 'nicotine-science';
+}
+const cluster = getCluster(slug);
 ---
 
 <BlogPost
@@ -18,6 +27,8 @@ const { Content } = await render(entry);
   publishDate={entry.data.publishDate}
   lang={lang}
   heroImage={entry.data.heroImage}
+  slug={slug}
+  cluster={cluster}
 >
   <Content />
 </BlogPost>
