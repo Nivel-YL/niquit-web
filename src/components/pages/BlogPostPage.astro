@@ -19,6 +19,19 @@ function getCluster(s: string): string {
   return 'nicotine-science';
 }
 const cluster = getCluster(slug);
+
+const allPosts = await getCollection('blog', (e) =>
+  e.data.lang === lang && !e.data.draft && e.id !== entry.id
+);
+const related = allPosts
+  .filter((e) => getCluster(e.id.split('/').pop() ?? e.id) === cluster)
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
+  .slice(0, 3)
+  .map((e) => ({
+    title: e.data.title,
+    description: e.data.description,
+    slug: e.id.split('/').pop() ?? e.id,
+  }));
 ---
 
 <BlogPost
@@ -29,6 +42,7 @@ const cluster = getCluster(slug);
   heroImage={entry.data.heroImage}
   slug={slug}
   cluster={cluster}
+  related={related}
 >
   <Content />
 </BlogPost>

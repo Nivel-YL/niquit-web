@@ -77,6 +77,7 @@ export const ui = {
     },
     article: {
       feedbackPrompt: 'Was this helpful?',
+      readNext: 'Read next',
     },
     method: {
       title: 'How NiQuit works',
@@ -159,6 +160,7 @@ export const ui = {
     },
     article: {
       feedbackPrompt: 'Было ли это полезно?',
+      readNext: 'Читать дальше',
     },
     method: {
       title: 'Как работает NiQuit',
@@ -241,6 +243,7 @@ export const ui = {
     },
     article: {
       feedbackPrompt: 'War das hilfreich?',
+      readNext: 'Weiter lesen',
     },
     method: {
       title: 'So funktioniert NiQuit',
@@ -323,6 +326,7 @@ export const ui = {
     },
     article: {
       feedbackPrompt: '¿Fue de ayuda?',
+      readNext: 'Leer más',
     },
     method: {
       title: 'Cómo funciona NiQuit',
@@ -405,6 +409,7 @@ export const ui = {
     },
     article: {
       feedbackPrompt: 'Cela vous a-t-il aidé ?',
+      readNext: 'Lire la suite',
     },
     method: {
       title: 'Comment fonctionne NiQuit',

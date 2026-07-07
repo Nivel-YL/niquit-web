@@ -1,7 +1,9 @@
 ---
 import Base from './Base.astro';
 import ArticleCTA from '../components/ArticleCTA.astro';
-import { type Lang, t } from '../i18n/ui';
+import { type Lang, t, localePath } from '../i18n/ui';
+
+type RelatedPost = { title: string; description: string; slug: string };
 
 interface Props {
   title: string;
@@ -11,9 +13,10 @@ interface Props {
   heroImage?: string;
   slug?: string;
   cluster?: string;
+  related?: RelatedPost[];
 }
 
-const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science' } = Astro.props;
+const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [] } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
@@ -69,6 +72,29 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
         style="background:none;border:none;cursor:pointer;padding:4px;"
       >👎</button>
     </div>
+
+    {related.length > 0 && (
+      <div class="mt-14" style="border-top:1px solid #18243F; padding-top:2.5rem;">
+        <p class="text-xs font-semibold uppercase tracking-widest mb-6" style="color:#35C6D8; font-family:'JetBrains Mono',monospace;">
+          {s.article?.readNext ?? 'Read next'}
+        </p>
+        <div class="flex flex-col gap-4">
+          {related.map((post) => (
+            <a
+              href={localePath(lang, `blog/${post.slug}`)}
+              class="group flex flex-col gap-1 rounded-xl px-5 py-4 transition-colors"
+              style="background:#18243F; text-decoration:none;"
+            >
+              <span
+                class="font-bold leading-snug group-hover:text-cyan-300 transition-colors"
+                style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+              >{post.title}</span>
+              <span class="text-sm line-clamp-2" style="color:#B0B8C8;">{post.description}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
 
     <div class="mt-10 pt-10" style="border-top:1px solid #18243F;">
       <ArticleCTA lang={lang} />
