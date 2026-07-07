@@ -6,7 +6,7 @@ publishes up to PUBLISH_COUNT of them (oldest first) by flipping
 draft: true → draft: false in all 5 language files, then updates
 the backlog status to 'published'.
 
-A push after this script runs triggers the netlify-deploy GitHub Actions workflow.
+A push after this script runs triggers Cloudflare Pages auto-deploy.
 """
 
 import datetime

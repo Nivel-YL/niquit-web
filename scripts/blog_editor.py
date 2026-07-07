@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Automated blog editor for niquit.netlify.app.
+"""Automated blog editor for niquit.app.
 
 Architecture (per topic):
   1. ONE shared research call  → universal facts with sources + detect which langs need local context
