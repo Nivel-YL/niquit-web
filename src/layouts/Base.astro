@@ -12,8 +12,8 @@ interface Props {
 }
 
 const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage } = Astro.props;
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://niquit.netlify.app');
-const siteOrigin = (Astro.site ?? new URL('https://niquit.netlify.app')).origin;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://niquit.app');
+const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
 ---
 
 <!doctype html>
