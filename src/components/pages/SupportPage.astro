@@ -9,5 +9,19 @@ const s = t(lang);
 ---
 
 <Base title={s.donate.title} lang={lang} description={s.donate.sub}>
+
+  <section class="max-w-2xl mx-auto px-5 pt-20 pb-4">
+    <p
+      class="text-2xl sm:text-3xl font-extrabold leading-snug mb-6"
+      style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+    >
+      {s.support.accent}
+    </p>
+    <p class="text-base leading-relaxed" style="color:#B0B8C8;">
+      {s.support.body}
+    </p>
+  </section>
+
   <DonateSection lang={lang} />
+
 </Base>

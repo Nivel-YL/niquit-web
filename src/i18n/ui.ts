@@ -79,6 +79,10 @@ export const ui = {
       feedbackPrompt: 'Was this helpful?',
       readNext: 'Read next',
     },
+    support: {
+      accent: 'Freedom from nicotine. Free, for everyone.',
+      body: "NiQuit isn't backed by any fund or investor. Every cost of building and running it comes straight from the founder's own pocket. And since one of the best parts of getting free is the money you stop spending, I'd be grateful if a little of those savings found its way back, as a thank you. That's what keeps NiQuit free for everyone.",
+    },
     method: {
       title: 'How NiQuit works',
       sub: 'The app is built around one idea: quitting is easier when you understand the trap.',
@@ -161,6 +165,10 @@ export const ui = {
     article: {
       feedbackPrompt: 'Было ли это полезно?',
       readNext: 'Читать дальше',
+    },
+    support: {
+      accent: 'Свобода от никотина. Бесплатно и для каждого.',
+      body: 'NiQuit не поддерживается фондами или инвесторами. Все расходы на разработку и поддержание проекта автор берёт на себя лично. А раз одним из главных бонусов свободы от никотина становятся освободившиеся деньги, буду благодарен, если часть этой экономии вернётся в проект как знак благодарности. Именно так NiQuit остаётся бесплатным для всех.',
     },
     method: {
       title: 'Как работает NiQuit',
@@ -245,6 +253,10 @@ export const ui = {
       feedbackPrompt: 'War das hilfreich?',
       readNext: 'Weiter lesen',
     },
+    support: {
+      accent: 'Freiheit von Nikotin. Kostenlos, für alle.',
+      body: 'NiQuit wird von keinem Fonds und keinem Investor unterstützt. Sämtliche Kosten für Entwicklung und Betrieb trägt der Gründer selbst. Und da einer der größten Vorteile beim Freiwerden das gesparte Geld ist, wäre ich dankbar, wenn ein kleiner Teil davon als Dankeschön zurück ins Projekt fließt. Genau so bleibt NiQuit für alle kostenlos.',
+    },
     method: {
       title: 'So funktioniert NiQuit',
       sub: 'Die App basiert auf einer Idee: Aufhören ist leichter, wenn du die Falle verstehst.',
@@ -328,6 +340,10 @@ export const ui = {
       feedbackPrompt: '¿Fue de ayuda?',
       readNext: 'Leer más',
     },
+    support: {
+      accent: 'Libertad frente a la nicotina. Gratis, para todos.',
+      body: 'NiQuit no cuenta con el respaldo de ningún fondo ni inversor. Todos los gastos de crear y mantener el proyecto corren por cuenta del propio fundador. Y como una de las mejores partes de dejarlo es el dinero que dejas de gastar, te agradecería muchísimo que una parte de ese ahorro volviera al proyecto, como forma de decir gracias. Así es como NiQuit sigue siendo gratis para todos.',
+    },
     method: {
       title: 'Cómo funciona NiQuit',
       sub: 'La app se construye alrededor de una idea: dejar es más fácil cuando entiendes la trampa.',
@@ -410,6 +426,10 @@ export const ui = {
     article: {
       feedbackPrompt: 'Cela vous a-t-il aidé ?',
       readNext: 'Lire la suite',
+    },
+    support: {
+      accent: 'La liberté face à la nicotine. Gratuite, pour tous.',
+      body: "NiQuit n'est soutenu par aucun fonds ni investisseur. Tous les frais de développement et de fonctionnement sont pris en charge par le fondateur lui-même. Et puisque l'un des grands bénéfices de la liberté retrouvée, c'est justement l'argent que tu ne dépenses plus, je te serais reconnaissant qu'une petite part de cette économie revienne au projet, en guise de merci. C'est ainsi que NiQuit reste gratuit pour tous.",
     },
     method: {
       title: 'Comment fonctionne NiQuit',
