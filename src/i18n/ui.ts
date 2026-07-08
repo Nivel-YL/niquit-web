@@ -49,7 +49,7 @@ export const ui = {
     donate: {
       title: 'Support NiQuit',
       sub: 'If NiQuit helped you, you can give back: once, any amount.',
-      invite: 'If NiQuit helped you, I'd be grateful for any amount, anytime.',
+      invite: "If NiQuit helped you, I'd be grateful for any amount, anytime.",
       custom: 'Your amount',
       customPlaceholder: 'e.g. 15',
       customCta: 'Donate',
