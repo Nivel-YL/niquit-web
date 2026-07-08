@@ -48,6 +48,14 @@ const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
         defaults: '2026-05-30',
         opt_out_capturing_by_default: true,
         loaded: function(ph) {
+          // Admin mode: ?admin=nivel disables tracking permanently on this device
+          if (new URLSearchParams(window.location.search).get('admin') === 'nivel') {
+            localStorage.setItem('niquit_admin', '1');
+          }
+          if (localStorage.getItem('niquit_admin') === '1') {
+            ph.opt_out_capturing();
+            return;
+          }
           if (localStorage.getItem('niquit_consent') === 'accepted') ph.opt_in_capturing();
         }
       });
