@@ -32,7 +32,8 @@ const s = t(lang);
 
 <script>
   const banner = document.getElementById('cookie-banner') as HTMLElement | null;
-  const isAdmin = localStorage.getItem('niquit_admin') === '1';
+  const isAdmin = localStorage.getItem('niquit_admin') === '1' ||
+    document.cookie.split(';').some((c) => c.trim() === 'niquit_admin=1');
 
   // Admin: never show banner, never track
   if (!isAdmin && banner && !localStorage.getItem('niquit_consent')) {
