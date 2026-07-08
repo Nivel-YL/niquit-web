@@ -1,9 +1,9 @@
 ---
 title: "Cómo dejar las bolsas de nicotina (ZYN, On!, Velo) sin volver a caer"
 description: "Dejar las bolsas de nicotina es más difícil de lo que parece: el 73% de los jóvenes que las prueban sigue usándolas meses después. Te contamos cómo lograrlo."
-publishDate: 2026-07-06
+publishDate: 2026-07-08
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
 ---
 

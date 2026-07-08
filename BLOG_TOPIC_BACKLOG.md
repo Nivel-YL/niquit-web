@@ -13,8 +13,13 @@ topics:
 - id: A-02
   title_en: How to quit nicotine pouches (ZYN, On!, Velo)
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-08'
+    ru: '2026-07-08'
+    de: '2026-07-08'
+    es: '2026-07-08'
+    fr: '2026-07-08'
 - id: A-03
   title_en: Snus vs nicotine pouches what is the difference?
   cluster: A
