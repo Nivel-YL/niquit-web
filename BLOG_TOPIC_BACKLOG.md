@@ -166,11 +166,11 @@ To re-queue: change back to `pending`.
 - `published` — live on site (fill `published: {en: YYYY-MM-DD, ...}`)
 
 ## Cluster priorities (SEO)
-- **A** Nicotine pouches/snuff — low competition, fast-growing search volume
+- **A** Nicotine pouches/snuff — still priority, but EN is no longer empty: QuitNic, PouchBuddy and ~10 more apps with active blogs, all targeting US-only in EN. RU/DE/ES/FR have zero competition in this niche, and none of the new competitors cover all nicotine sources — only pouches separately, unlike NiQuit. EN articles here need to be notably stronger than before; other languages remain wide open.
 - **B** Vaping/e-cigarettes — medium competition, high volume
 - **C** Cigarettes — high competition (rank last)
-- **D** Multi-source nicotine
-- **E** Psychology of quitting
+- **D** Multi-source nicotine — unique NiQuit angle
+- **E** Psychology of quitting — core NiQuit differentiation
 - **F** Health and recovery
-- **G** Practical guides
+- **G** Practical guides — high search intent
 - **H** Myths and debunking
