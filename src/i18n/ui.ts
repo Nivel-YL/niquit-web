@@ -49,6 +49,7 @@ export const ui = {
     donate: {
       title: 'Support NiQuit',
       sub: 'If NiQuit helped you, you can give back: once, any amount.',
+      invite: 'If NiQuit helped you, I'd be grateful for any amount, anytime.',
       custom: 'Your amount',
       customPlaceholder: 'e.g. 15',
       customCta: 'Donate',
@@ -140,6 +141,7 @@ export const ui = {
     donate: {
       title: 'Поддержать NiQuit',
       sub: 'Если NiQuit тебе помог, можешь поддержать нас. Один раз, любая сумма.',
+      invite: 'Если NiQuit помог тебе, буду благодарен за любую сумму, в любое время.',
       custom: 'Своя сумма',
       customPlaceholder: 'напр. 15',
       customCta: 'Поддержать',
@@ -227,6 +229,7 @@ export const ui = {
     donate: {
       title: 'NiQuit unterstützen',
       sub: 'Wenn NiQuit dir geholfen hat, kannst du etwas zurückgeben: einmalig, beliebiger Betrag.',
+      invite: 'Wenn NiQuit dir geholfen hat, bin ich für jeden Betrag dankbar, jederzeit.',
       custom: 'Eigener Betrag',
       customPlaceholder: 'z. B. 15',
       customCta: 'Unterstützen',
@@ -314,6 +317,7 @@ export const ui = {
     donate: {
       title: 'Apoya NiQuit',
       sub: 'Si NiQuit te ayudó, puedes devolver algo: una vez, cualquier cantidad.',
+      invite: 'Si NiQuit te ayudó, te agradecería cualquier cantidad, en cualquier momento.',
       custom: 'Tu cantidad',
       customPlaceholder: 'ej. 15',
       customCta: 'Donar',
@@ -401,6 +405,7 @@ export const ui = {
     donate: {
       title: 'Soutenir NiQuit',
       sub: "Si NiQuit t'a aidé, tu peux donner en retour: une fois, n'importe quel montant.",
+      invite: "Si NiQuit t'a aidé, je serais reconnaissant pour n'importe quel montant, à tout moment.",
       custom: 'Ton montant',
       customPlaceholder: 'ex. 15',
       customCta: 'Donner',

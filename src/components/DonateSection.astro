@@ -2,20 +2,28 @@
 import { type Lang, t } from '../i18n/ui';
 import { STRIPE_LINKS, STRIPE_CUSTOM_LINK, DONATE_TIERS } from '../i18n/donate';
 
-interface Props { lang: Lang; }
-const { lang } = Astro.props;
+interface Props { lang: Lang; compact?: boolean; }
+const { lang, compact = false } = Astro.props;
 const s = t(lang);
 ---
 
 <section class="py-20 px-5 sm:px-8" id="support">
   <div class="max-w-2xl mx-auto text-center">
-    <h2
-      class="text-3xl sm:text-4xl font-extrabold mb-4"
-      style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
-    >
-      {s.donate.title}
-    </h2>
-    <p class="text-base mb-12 max-w-lg mx-auto" style="color:#B0B8C8;">{s.donate.sub}</p>
+    {!compact && (
+      <>
+        <h2
+          class="text-3xl sm:text-4xl font-extrabold mb-4"
+          style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+        >
+          {s.donate.title}
+        </h2>
+        <p class="text-base mb-12 max-w-lg mx-auto" style="color:#B0B8C8;">{s.donate.sub}</p>
+      </>
+    )}
+
+    {compact && (
+      <p class="text-sm mb-6" style="color:#6B7A8D;">{s.donate.invite}</p>
+    )}
 
     <!-- Tiers -->
     <div class="flex flex-wrap justify-center gap-3 mb-6">
