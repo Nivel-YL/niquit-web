@@ -1,9 +1,9 @@
 ---
 title: "Побочные эффекты никотиновых пауков: то, о чём молчат на банке"
 description: "Ты открываешь банку, кладёшь паучок под губу и думаешь: ну хотя бы дыма нет, значит, безопаснее сигарет. Именно так это и продают. Но побочные эффекты н..."
-publishDate: 2026-07-06
+publishDate: 2026-07-10
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
 ---
 

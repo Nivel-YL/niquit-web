@@ -1,9 +1,9 @@
 ---
 title: "Efectos secundarios de las bolsitas de nicotina que nadie te cuenta"
 description: "Las bolsitas de nicotina no son tan inofensivas como parecen. Descubre qué le pasa realmente a tu cuerpo y por qué crecen tan rápido entre los jóvenes."
-publishDate: 2026-07-06
+publishDate: 2026-07-10
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
 ---
 

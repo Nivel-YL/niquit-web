@@ -1,9 +1,9 @@
 ﻿---
 title: "Снюс и никотиновые паучи: в чём разница и что выбрать, если бросаешь курить"
 description: "Разбираемся, чем снюс отличается от никотиновых паучей: состав, крепость, вкус и что из этого реально помогает бросить курить."
-publishDate: 2026-07-06
+publishDate: 2026-07-10
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/snus-vs-nicotine-pouches-what-is-the-difference.svg
 ---
 

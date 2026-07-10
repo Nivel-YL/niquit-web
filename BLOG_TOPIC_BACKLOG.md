@@ -23,13 +23,23 @@ topics:
 - id: A-03
   title_en: Snus vs nicotine pouches what is the difference?
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-10'
+    ru: '2026-07-10'
+    de: '2026-07-10'
+    es: '2026-07-10'
+    fr: '2026-07-10'
 - id: A-04
   title_en: Nicotine pouch side effects what no one tells you
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-10'
+    ru: '2026-07-10'
+    de: '2026-07-10'
+    es: '2026-07-10'
+    fr: '2026-07-10'
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
   cluster: B

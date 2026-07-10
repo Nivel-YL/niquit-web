@@ -1,9 +1,9 @@
 ---
 title: "Snus ou sachets de nicotine : quelle est vraiment la différence ?"
 description: "Snus et sachets de nicotine se ressemblent, mais leur composition, leurs effets et leur statut légal en France n'ont presque rien en commun."
-publishDate: 2026-07-06
+publishDate: 2026-07-10
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/snus-vs-nicotine-pouches-what-is-the-difference.svg
 ---
 
