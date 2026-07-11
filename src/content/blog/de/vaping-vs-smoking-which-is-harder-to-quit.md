@@ -21,7 +21,7 @@ Warum sinkt die Zahl der Aufhörversuche, wenn das Risiko so hoch bleibt? Ein Te
 
 ## Ist Vapen schwerer aufzuhören als Rauchen?
 
-Hier wird es interessant. Eine Studie der UC San Diego, veröffentlicht 2025 im Journal der American Medical Association, hat herausgefunden, dass die Rauchstopp-Rate bei täglichen Vapern um 4,1 Prozent niedriger liegt als bei Rauchern, die nicht vapen. Bei gelegentlichen Vapern liegt sie sogar 5,3 Prozent niedriger. Das E-Zigaretten-Vapen macht den Ausstieg aus dem Rauchen also nicht leichter, sondern schwerer, weil es die Nikotinsucht am Leben hält, nur in anderer Form.
+Hier wird es interessant. Eine Kohortenstudie der UC San Diego, veröffentlicht 2025 in JAMA Network Open, hat 6.013 Raucher verfolgt und herausgefunden, dass bei gelegentlichen Vapern die Rauchstopp-Rate 5,3 Prozentpunkte niedriger liegt als bei Nicht-Vapern. Bei täglichen Vapern war die dauerhafte Abstinenz von Rauchen und Vapen zusammen sogar 14,7 Prozentpunkte niedriger. Das E-Zigaretten-Vapen macht den Ausstieg aus dem Rauchen also nicht leichter, sondern schwerer, weil es die Nikotinsucht am Leben hält, nur in anderer Form.
 
 Das liegt auch an der Technik selbst. Moderne Vapes mit Nikotinsalzen liefern das Nikotin fast genauso schnell ins Gehirn wie eine Zigarette, oft in wenigen Sekunden, so eine Untersuchung der Oxford University Press aus dem Jahr 2024. Der Unterschied: Eine Zigarette brennt irgendwann aus. Ein Vape nicht. Du kannst rund um die Uhr ziehen, ohne dass dir etwas Grenzen setzt. Genau das macht das Muster so tückisch, wie wir bereits im Artikel Why disposable vapes are so hard to quit ausführlich erklärt haben.
 

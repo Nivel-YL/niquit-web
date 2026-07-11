@@ -27,7 +27,7 @@ Il y a aussi un effet de rechute différé. Selon une compilation de données co
 
 C'est l'argument qu'on entend partout : la vape serait une porte de sortie du tabac. Les données récentes racontent une autre histoire.
 
-Une étude de l'université de Californie à San Diego, publiée dans JAMA en 2025, a suivi des fumeurs et a trouvé que le taux d'arrêt du tabac était 4,1% plus bas chez ceux qui vapotaient quotidiennement, et 5,3% plus bas chez ceux qui vapotaient occasionnellement, comparé à des fumeurs qui ne vapotaient pas du tout. Autrement dit, loin d'aider à arrêter, la vape semble associée à un maintien du tabagisme chez de nombreux utilisateurs.
+Une étude de cohorte de l'université de Californie à San Diego, publiée dans JAMA Network Open en 2025, a suivi 6 013 fumeurs et a trouvé que le taux de sevrage tabagique était 5,3 points de pourcentage plus bas chez ceux qui vapotaient de façon non quotidienne, par rapport aux non-vapoteurs. Chez les vapoteurs quotidiens, l'abstinence durable du tabac et de la vape combinée était 14,7 points de pourcentage plus basse. Autrement dit, loin d'aider à arrêter, la vape semble associée à un maintien du tabagisme chez de nombreux utilisateurs.
 
 En France, le Haut Conseil de la santé publique a d'ailleurs révisé sa position de 2016 sur le sujet. Il estime aujourd'hui qu'il n'existe pas suffisamment de preuves pour recommander la vape comme outil d'arrêt du tabac (ECigIntelligence, 2024). C'est une position plus prudente que dans certains autres pays, et elle explique en partie pourquoi la publicité pour la vape reste totalement interdite ici, alors même que FIVAPE la présente comme l'aide à l'arrêt la plus populaire (juin 2025).
 

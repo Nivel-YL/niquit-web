@@ -29,7 +29,7 @@ This constant access changes how relapse looks too. With cigarettes, most relaps
 
 This is where the data gets genuinely contradictory, and you deserve to see both sides.
 
-A 2025 study from UC San Diego, published in JAMA, followed smokers over time and found that daily vaping was linked to 4.1% lower smoking cessation compared to smokers who didn't vape at all. Non-daily vaping was linked to an even bigger gap, 5.3% lower cessation. In plain terms: adding a vape into the mix made it statistically harder, not easier, for smokers in this study to actually quit nicotine altogether.
+A 2025 cohort study from UC San Diego, published in JAMA Network Open, followed 6,013 smokers and found that nondaily vaping was linked to 5.3 percentage points lower smoking cessation compared to non-vapers. Among daily vapers, sustained abstinence from both smoking and vaping was 14.7 percentage points lower. In plain terms: adding a vape into the mix made it statistically harder, not easier, for smokers in this study to actually quit nicotine altogether.
 
 But flip to the UK, and the picture looks different. The HEBECO study, tracking smokers and vapers over 12 months, found 45% of smokers attempted to quit with a 17.5% success rate, while 25% of vapers attempted to quit with an 18.1% success rate, almost identical outcomes. And a Cochrane systematic review of randomized controlled trials, one of the most rigorous forms of evidence in medicine, found e-cigarettes were twice as effective as nicotine replacement therapy (patches, gum) for helping smokers quit.
 

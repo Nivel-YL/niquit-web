@@ -27,7 +27,7 @@ A esto se suma la química del propio dispositivo. Un estudio publicado en Nicot
 
 Esta es la pregunta que más gente se hace antes de cambiar el cigarrillo por el vape, esperando que sea un puente hacia la abstinencia total. Los datos recientes no acompañan esa esperanza.
 
-Un estudio de la Universidad de California en San Diego publicado en JAMA (2025) encontró que, entre fumadores en Estados Unidos, el uso de cigarrillos electrónicos no aumenta la probabilidad de dejar de fumar, sino que se asocia con una menor abstinencia del tabaco. La misma investigación detalla números concretos: la tasa de abandono del cigarrillo fue un 4,1% menor entre quienes vapeaban a diario, y un 5,3% menor entre quienes vapeaban de forma no diaria, comparados con fumadores que no vapeaban en absoluto.
+Un estudio de cohorte de la Universidad de California en San Diego, publicado en JAMA Network Open (2025), siguió a 6.013 fumadores y encontró que los vapeadores no diarios tenían una tasa de abandono del tabaco 5,3 puntos porcentuales más baja que quienes no vapeaban. Entre los vapeadores diarios, la abstinencia sostenida de tabaco y vapeo combinados fue 14,7 puntos porcentuales más baja.
 
 Dicho de otra forma: mucha gente que empieza a vapear "para dejar de fumar" termina fumando y vapeando a la vez, o sustituye una dependencia por otra sin darse cuenta. The Health Knowledge Base (2026) lo resume bien: aunque algunas personas han usado el vapeo para dejar el tabaco, no está aprobado por la FDA con ese fin, y existen métodos más establecidos y seguros que no implican mantener la adicción a la nicotina.
 

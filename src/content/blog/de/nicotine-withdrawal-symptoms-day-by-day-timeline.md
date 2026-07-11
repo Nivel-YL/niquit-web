@@ -39,7 +39,7 @@ Genau hier liegt die größte Gefahr. WebMD (2024) hält fest, dass die meisten 
 
 ## Wie realistisch ist es, ganz ohne Hilfe durchzuhalten?
 
-Nüchtern betrachtet: schwierig. Laut den US-amerikanischen Centers for Disease Control and Prevention (CDC) wollen etwa 68 Prozent der erwachsenen Raucher aufhören, aber nur 7,5 Prozent schaffen das pro Jahr ohne jede Unterstützung. Mit Nikotinersatztherapie wie Pflastern, Lutschtabletten oder Vareniclin in Kombination mit Verhaltensinterventionen steigen die anfänglichen Erfolgsquoten laut Addiction Help (2025) auf 40 bis 60 Prozent. Der Unterschied ist erheblich, und er zeigt vor allem eins: Scheitern beim ersten Versuch bedeutet nicht Versagen, sondern ist Teil eines Prozesses, den fast jeder durchläuft.
+Nüchtern betrachtet: schwierig. Laut den US-amerikanischen Centers for Disease Control and Prevention (CDC) wollen etwa 68 Prozent der erwachsenen Raucher aufhören, aber nur 7,5 Prozent schaffen das pro Jahr ohne jede Unterstützung. Mit Nikotinersatztherapie wie Pflastern, Lutschtabletten oder Vareniclin in Kombination mit Verhaltensinterventionen steigen die anfänglichen Erfolgsquoten laut einer klinischen Studie, veröffentlicht in PMC (PMC2879135), auf 40 bis 50 Prozent. Der Unterschied ist erheblich, und er zeigt vor allem eins: Scheitern beim ersten Versuch bedeutet nicht Versagen, sondern ist Teil eines Prozesses, den fast jeder durchläuft.
 
 Zum globalen Ausmaß des Problems: Laut der Weltgesundheitsorganisation (WHO) rauchen aktuell über 22 Prozent der Weltbevölkerung, mit mehr als 9 Millionen tabakbedingten Todesfällen pro Jahr. Das macht deutlich, wie groß das Feld ist, in dem sich jeder einzelne Entzug abspielt, auch wenn er sich im Moment sehr einsam anfühlt.
 

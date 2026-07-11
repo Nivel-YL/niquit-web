@@ -55,7 +55,7 @@ A partir del segundo mes ya no es el cuerpo pidiendo nicotina, sino el cerebro a
 
 ## ¿Vale la pena buscar ayuda para dejarlo?
 
-Los números son claros. Según el CDC, cerca del 68% de los fumadores adultos quiere dejarlo, pero solamente el 7,5% lo logra cada año sin ningún tipo de apoyo. Con terapia de reemplazo de nicotina (parches, chicles) o vareniclina combinados con apoyo conductual, las tasas de éxito inicial suben a entre el 40% y el 60%, según Addiction Help (2025).
+Los números son claros. Según el CDC, cerca del 68% de los fumadores adultos quiere dejarlo, pero solamente el 7,5% lo logra cada año sin ningún tipo de apoyo. Con terapia de reemplazo de nicotina (parches, chicles) o vareniclina combinados con apoyo conductual, las tasas de éxito inicial suben a entre el 40% y el 50%, según datos de ensayos clínicos publicados en PMC (PMC2879135).
 
 Un estudio longitudinal del ITC Four Country Survey (2015) encontró que el 37% de quienes dejaron de fumar recayeron antes de la siguiente medición, mientras que el 63% se mantuvo sin fumar. Los tratamientos aprobados actualmente incluyen bupropión y vareniclina, aunque según News Medical (2025) sigue existiendo una necesidad urgente de nuevas opciones terapéuticas.
 

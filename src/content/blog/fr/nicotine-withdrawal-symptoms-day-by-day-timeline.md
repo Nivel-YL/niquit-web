@@ -43,7 +43,7 @@ Mais il y a une nuance importante que peu de gens mentionnent : une analyse publ
 
 Voici le chiffre le plus important de tout cet article : selon WebMD, la majorité des rechutes surviennent dans les deux premières semaines qui suivent l'arrêt. Si tu passes ce cap, les symptômes physiques commencent réellement à s'effacer, même si les défis mentaux et émotionnels comme l'anxiété ou l'irritabilité peuvent encore traîner.
 
-Ces deux semaines sont aussi celles où beaucoup de gens tentent d'arrêter seuls, sans aucun soutien. Le CDC rapporte qu'environ 68% des fumeurs adultes veulent arrêter, mais que seulement 7,5% y parviennent chaque année sans accompagnement. À l'inverse, les traitements de substitution nicotinique combinés à un accompagnement comportemental permettent d'atteindre des taux de réussite initiaux entre 40% et 60%, selon Addiction Help. La différence n'est pas une question de volonté, c'est une question d'outils.
+Ces deux semaines sont aussi celles où beaucoup de gens tentent d'arrêter seuls, sans aucun soutien. Le CDC rapporte qu'environ 68% des fumeurs adultes veulent arrêter, mais que seulement 7,5% y parviennent chaque année sans accompagnement. À l'inverse, les traitements de substitution nicotinique combinés à un accompagnement comportemental permettent d'atteindre des taux de réussite initiaux entre 40% et 50%, selon des données d'essais cliniques publiées dans PMC (PMC2879135). La différence n'est pas une question de volonté, c'est une question d'outils.
 
 Si tu envisages d'arrêter du jour au lendemain sans filet, on a détaillé ailleurs pourquoi cette méthode échoue pour la plupart des gens, et ce qui fonctionne mieux à la place.
 
