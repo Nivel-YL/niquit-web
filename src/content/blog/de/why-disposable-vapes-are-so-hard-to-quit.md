@@ -11,7 +11,7 @@ heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
 
 Du wolltest die Elfbar eigentlich nur aufbrauchen und dann aufhören. Drei Wochen später liegt schon die vierte leere Packung im Mülleimer. Genau das erleben gerade Millionen Menschen: Einweg-Vapes aufzugeben fällt schwerer, als die meisten erwartet hatten, und das liegt nicht an mangelnder Willenskraft, sondern an den Geräten selbst.
 
-Die Zahlen zeigen, wie schnell sich das Problem verschärft hat. Unter täglichen E-Zigaretten-Nutzern, die versuchten aufzuhören, stieg der Anteil derer, die es nicht schafften, zwischen 2020 und 2024 von 28,2 Prozent auf 53 Prozent, so eine Studie der USC, veröffentlicht in JAMA Network Open 2024, bestätigt durch Daten der Truth Initiative aus dem Jahr 2025. Im gleichen Zeitraum verdoppelte sich der Anteil täglicher Nutzer von 15,4 auf 28,8 Prozent, wie die USC-Forschung ebenfalls zeigt.
+Die Zahlen zeigen, wie schnell sich das Problem verschärft hat. Unter täglichen E-Zigaretten-Nutzern an Mittel- und Oberschulen, die versuchten aufzuhören, stieg der Anteil derer, die es nicht schafften, zwischen 2020 und 2024 von 28,2 Prozent auf 53 Prozent, so eine Studie der USC, veröffentlicht in JAMA Network Open 2024, bestätigt durch Daten der Truth Initiative aus dem Jahr 2025. Im gleichen Zeitraum verdoppelte sich der Anteil täglicher Nutzer von 15,4 auf 28,8 Prozent, wie die USC-Forschung ebenfalls zeigt.
 
 ## Warum macht Vapen heute schneller süchtig als früher?
 

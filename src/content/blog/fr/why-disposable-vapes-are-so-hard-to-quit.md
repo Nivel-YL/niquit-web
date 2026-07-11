@@ -13,7 +13,7 @@ Il y a cinq ans, une vape jetable tenait deux ou trois jours et te donnait un pe
 
 ## Pourquoi je n'arrive pas à arrêter la vape jetable ?
 
-Si tu as l'impression que c'est plus dur d'arrêter la vape que ce que tu imaginais, tu n'es pas en train d'exagérer. Une étude publiée dans JAMA Network Open en 2024 a suivi les vapoteurs quotidiens qui essayaient d'arrêter : la part de ceux qui n'y arrivaient pas est passée de 28,2% à 53% entre 2020 et 2024. Ce chiffre a été confirmé indépendamment par Truth Initiative la même année. En quatre ans, la dépendance chez les jeunes utilisateurs a presque doublé.
+Si tu as l'impression que c'est plus dur d'arrêter la vape que ce que tu imaginais, tu n'es pas en train d'exagérer. Une étude publiée dans JAMA Network Open en 2024 a suivi des lycéens et collégiens vapoteurs quotidiens qui essayaient d'arrêter : la part de ceux qui n'y arrivaient pas est passée de 28,2% à 53% entre 2020 et 2024. Ce chiffre a été confirmé indépendamment par Truth Initiative la même année. En quatre ans, la dépendance parmi ces jeunes utilisateurs a presque doublé.
 
 Ce n'est pas parce que les gens ont moins de volonté qu'avant. C'est parce que le produit lui-même a été transformé pour créer une dépendance plus rapide et plus profonde.
 

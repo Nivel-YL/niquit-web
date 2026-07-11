@@ -11,7 +11,7 @@ heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
 
 You've tried to put it down before. Maybe more than once. And yet here you are, still pulling on a little plastic device that costs less than a sandwich but somehow controls more of your day than you'd like to admit. That's not a willpower problem. It's a design problem, and the numbers back that up.
 
-Between 2020 and 2024, the share of daily e-cigarette users who tried to quit but couldn't jumped from 28.2% to 53%, according to research published in JAMA Network Open by USC and confirmed separately by Truth Initiative in 2025. In just four years, quitting went from a coin flip to something more than half of daily users simply fail at. That's not a coincidence. That's the product changing under your feet.
+Between 2020 and 2024, the share of daily e-cigarette users among middle and high school students who tried to quit but couldn't jumped from 28.2% to 53%, according to research published in JAMA Network Open by USC and confirmed separately by Truth Initiative in 2025. In just four years, quitting went from a coin flip to something more than half of daily users simply fail at. That's not a coincidence. That's the product changing under your feet.
 
 ## Why is it so hard to quit vaping disposables specifically?
 

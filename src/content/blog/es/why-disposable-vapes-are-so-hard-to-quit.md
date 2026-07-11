@@ -9,7 +9,7 @@ heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
 
 > Los vapes desechables enganchan más rápido que el cigarrillo. Descubre por qué, con datos reales, y qué hacer si ya intentaste dejarlo sin éxito.
 
-Hace cinco años, casi nadie usaba un vape desechable. Hoy son el producto más popular del mercado: representan el 55,6% de todos los vapeadores actuales, según datos del HHS y la FDA de 2025. Y cada vez cuesta más dejarlos. Entre 2020 y 2024, el porcentaje de usuarios diarios que intentaron dejar el vape sin conseguirlo pasó del 28,2% al 53%, según investigaciones de la Universidad del Sur de California publicadas en JAMA Network Open, confirmadas también por Truth Initiative en 2025. En apenas cuatro años, la dificultad para dejarlo casi se duplicó.
+Hace cinco años, casi nadie usaba un vape desechable. Hoy son el producto más popular del mercado: representan el 55,6% de todos los vapeadores actuales, según datos del HHS y la FDA de 2025. Y cada vez cuesta más dejarlos. Entre 2020 y 2024, el porcentaje de usuarios diarios de vape entre estudiantes de secundaria y preparatoria que intentaron dejarlo sin conseguirlo pasó del 28,2% al 53%, según investigaciones de la Universidad del Sur de California publicadas en JAMA Network Open, confirmadas también por Truth Initiative en 2025. En apenas cuatro años, la dificultad para dejarlo casi se duplicó.
 
 Esto no es casualidad ni falta de fuerza de voluntad. Es diseño de producto.
 

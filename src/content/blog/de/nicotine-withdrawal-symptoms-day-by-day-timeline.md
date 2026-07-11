@@ -33,7 +33,7 @@ Die offiziellen diagnostischen Kriterien für akuten Nikotinentzug listen genau 
 
 ## Wie geht es nach der ersten Woche weiter?
 
-Ab Woche 2 bis 4 verändert sich das Bild. Ab Woche 2 bis 4 sind die Symptome deutlich weniger akut, aber Erschöpfung und veränderte Essgewohnheiten bleiben. Die Cleveland Clinic bestätigt, dass die Symptome insgesamt über drei bis vier Wochen abklingen. Das heißt nicht, dass an Tag 29 alles vorbei ist. Manche Auslöser wie ein Bier mit Freunden, Stress im Job oder eine Pause auf der Arbeit können laut einer Analyse in PMC (2010) noch Jahre später Rückfallgefühle triggern, weil sie mit alten Gewohnheiten verknüpft sind.
+Ab Woche 2 bis 4 verändert sich das Bild. Laut Cleveland Clinic klingen die Symptome insgesamt über drei bis vier Wochen ab: Die Beschwerden werden deutlich weniger akut, aber Erschöpfung und veränderte Essgewohnheiten bleiben noch eine Weile. Das heißt nicht, dass an Tag 29 alles vorbei ist. Manche Auslöser wie ein Bier mit Freunden, Stress im Job oder eine Pause auf der Arbeit können laut einer Analyse in PMC (2010) noch Jahre später Rückfallgefühle triggern, weil sie mit alten Gewohnheiten verknüpft sind.
 
 Genau hier liegt die größte Gefahr. WebMD (2024) hält fest, dass die meisten Rückfälle innerhalb der ersten zwei Wochen passieren. Wer diese Phase übersteht, hat die körperlichen Symptome größtenteils hinter sich, muss sich aber weiterhin mit Angst, Niedergeschlagenheit und Reizbarkeit auf mentaler Ebene auseinandersetzen. Wer sich fragt, warum der harte Cut von heute auf morgen so oft scheitert, findet dazu mehr in unserem Artikel [Warum Kaltentzug beim Rauchstopp für die meisten scheitert](warum-kaltentzug-beim-rauchstopp-fuer-die-meisten-scheitert).
 

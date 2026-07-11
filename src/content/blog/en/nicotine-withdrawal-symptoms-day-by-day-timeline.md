@@ -35,7 +35,7 @@ If you've been using nicotine pouches specifically, the pattern is similar but w
 
 ## Does it get better after week one?
 
-Mostly, yes, physically. Weeks two through four are a lower-intensity phase: low energy, appetite still fluctuating, but the acute misery of the first week fading. The Cleveland Clinic's broader estimate agrees, putting the full arc of physical symptom resolution at three to four weeks for most people.
+Mostly, yes, physically. According to the Cleveland Clinic, the full arc of physical symptom resolution takes three to four weeks for most people: weeks two through four are a lower-intensity phase, with lower energy and appetite still fluctuating, but the acute misery of the first week fading.
 
 But "better" doesn't mean "over." A 2010 study using Rasch analysis (published in PMC) found that withdrawal symptoms can disrupt everyday functioning for around two weeks, and can actually recur for years afterward, sometimes predicting a slip back into use. That's not meant to scare you. It's meant to explain why an occasional wave of craving six months in isn't a sign you're doing it wrong.
 
