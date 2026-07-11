@@ -21,7 +21,7 @@ So on a pure chemistry level, they're close. But addiction isn't only chemistry,
 
 Here's the thing nobody tells you when you switch from cigarettes to a vape: cigarettes have a built-in stopping point. You finish it, it goes out, you're done until the next one. A vape doesn't do that. You can pull on it in a meeting, in bed, in the car, between bites of dinner, with zero natural breaks.
 
-Research has found that vaping addiction can develop within weeks, far faster than the months or years it typically takes with cigarettes. That speed catches people off guard. You don't decide to get addicted to vaping, you just realize one day that you've had the thing in your hand for six hours straight.
+Research has found that vaping dependence can develop faster than many users expect. That speed catches people off guard. You don't decide to get addicted to vaping, you just realize one day that you've had the thing in your hand for six hours straight.
 
 This constant access changes how relapse looks too. With cigarettes, most relapses happen in the first month after quitting, when withdrawal is sharpest. With vaping, people often relapse months later, not because cravings suddenly spike, but because the device is just always there, always convenient, with nothing stopping a "quick hit." If you've read our piece on why disposable vapes are so hard to quit, this pattern will sound familiar: it's the same mechanism that makes disposables so sticky, just applied to any pod or tank system.
 

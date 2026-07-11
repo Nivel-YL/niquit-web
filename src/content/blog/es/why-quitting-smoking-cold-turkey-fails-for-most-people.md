@@ -29,7 +29,7 @@ Nada de esto se soluciona con voluntad. Como bien resume la comunidad de Quit Sm
 
 ## ¿Cuánto duran los síntomas de abstinencia al dejar de fumar de golpe?
 
-Aquí está el dato que más sorprende a la gente: los síntomas físicos alcanzan su punto máximo alrededor del tercer día y, en la mayoría de los casos, se resuelven en dos semanas, según la Cleveland Clinic. Es decir, la parte más dura no dura para siempre.
+Aquí está el dato que más sorprende a la gente: los síntomas físicos alcanzan su punto máximo alrededor del tercer día y, en la mayoría de los casos, se resuelven en dos a cuatro semanas, según la Cleveland Clinic, aunque algunas personas los experimentan durante varios meses. Es decir, la parte más dura no dura para siempre.
 
 El problema es que esas dos semanas son exactamente donde fallan la mayoría de los intentos de dejarlo de golpe. Irritabilidad, ansiedad, dificultad para concentrarse, más apetito de lo normal y una inquietud que no te deja tranquilo en ningún lado: esa combinación, según ScienceInsights, es la razón principal por la que la mayoría de los intentos de dejarlo de golpe se rompen justo en esas primeras dos semanas.
 

@@ -27,7 +27,7 @@ On top of that, years of smoking desensitize your nicotinic acetylcholine recept
 
 ## How long do cravings last after quitting cold turkey?
 
-Physical withdrawal peaks around day 3 and largely resolves by two weeks, according to the Cleveland Clinic. During that window you can expect irritability, anxiety, trouble concentrating, a spike in appetite, and restlessness.
+Physical withdrawal peaks around day 3, and according to the Cleveland Clinic, most physical symptoms ease within two to four weeks, though some people continue to have them for several months. During that window you can expect irritability, anxiety, trouble concentrating, a spike in appetite, and restlessness.
 
 Two weeks doesn't sound long on paper. Living through it is different. ScienceInsights points to this exact window, the first fourteen days, as the reason most cold turkey attempts collapse. That's the neurological tug-of-war happening in real time: your prefrontal cortex insisting you quit, your limbic system insisting you don't.
 
@@ -51,6 +51,6 @@ If your struggle isn't cigarettes but nicotine pouches like ZYN or Velo, the sam
 
 ## What actually addresses the psychological side
 
-There's a piece cold turkey skips entirely: the psychological dependence. Physical addiction fades on its own timeline, roughly two weeks per the Cleveland Clinic, but the habits, the associations, the "I always smoke with coffee" wiring stick around long after nicotine has left your bloodstream. Quit Smoking Advisor notes that this is exactly what cold turkey doesn't touch, which is why people who white-knuckle through the physical withdrawal often relapse months later over something as small as a stressful phone call or a drink with friends.
+There's a piece cold turkey skips entirely: the psychological dependence. Physical addiction fades on its own timeline, roughly two to four weeks per the Cleveland Clinic, but the habits, the associations, the "I always smoke with coffee" wiring stick around long after nicotine has left your bloodstream. Quit Smoking Advisor notes that this is exactly what cold turkey doesn't touch, which is why people who white-knuckle through the physical withdrawal often relapse months later over something as small as a stressful phone call or a drink with friends.
 
 Most people relapse not because they lack willpower, but because their brain chemistry is still catching up. Knowing that changes what a failed attempt means. It's not proof you can't quit. It's data telling you the method needs backup.

@@ -21,7 +21,7 @@ Ce n'est pas parce que les gens ont moins de volonté qu'avant. C'est parce que 
 
 Oui, et l'écart est énorme. Selon Truth Initiative, entre 2017 et 2022, les vapes jetables ont presque triplé leur concentration en nicotine, quintuplé leur capacité en e-liquide, et vu leur prix chuter de près de 70%. Autrement dit : plus de nicotine, plus de liquide, moins cher. Le produit a été conçu pour maximiser la consommation.
 
-Certaines vapes jetables actuelles atteignent aujourd'hui 20 à 50 mg/mL de nicotine, avec des modèles américains à 5% de concentration. Une vape à 5% de nicotine contient environ 50 mg, soit le double de la nicotine présente dans un paquet de cigarettes entier. Passer une journée avec une seule vape jetable peut donc revenir à fumer bien plus qu'un paquet.
+Certaines vapes jetables actuelles atteignent aujourd'hui 20 à 50 mg/mL de nicotine, avec des modèles américains à 5% de concentration. Une vape à 5% de nicotine contient environ 50 mg de nicotine, soit l'équivalent d'un paquet entier en termes de nicotine délivrée. Passer une journée avec une seule vape jetable peut donc revenir à fumer bien plus qu'un paquet.
 
 En 2024, les vapes jetables représentaient 55,6% de tous les produits de vape utilisés selon les données du HHS et de la FDA. Ce n'est plus un produit de niche : c'est devenu la norme, et cette norme est beaucoup plus concentrée en nicotine que ce que le marché proposait il y a quelques années à peine.
 

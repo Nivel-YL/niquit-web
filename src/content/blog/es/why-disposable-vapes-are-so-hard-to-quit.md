@@ -17,7 +17,7 @@ Esto no es casualidad ni falta de fuerza de voluntad. Es diseño de producto.
 
 Si sientes que este vape te controla más que cualquier cigarrillo que hayas fumado antes, probablemente tienes razón. Entre 2017 y 2022, los vapes desechables casi triplicaron su concentración de nicotina, quintuplicaron la capacidad de líquido y bajaron su precio casi un 70%, según Truth Initiative. Es decir: más nicotina, más cantidad, y más barato. Una combinación pensada para que uses más, con menos fricción entre una calada y la siguiente.
 
-Muchos desechables actuales tienen concentraciones de 20 a 50 mg/mL de nicotina. Un vape al 5% contiene cerca de 50 mg de nicotina, el doble de lo que trae una cajetilla entera de cigarrillos, según datos de Tobacco Stops With Me. Vapear uno de estos dispositivos durante todo el día puede equivaler a fumar un paquete completo, solamente que sin el olor a humo, sin la tos, sin las señales de alarma que normalmente te hacían pensar "esto me está haciendo daño".
+Muchos desechables actuales tienen concentraciones de 20 a 50 mg/mL de nicotina. Un vape al 5% contiene cerca de 50 mg de nicotina, equivalente aproximado a la nicotina que absorbe el organismo en una cajetilla entera, según una revisión publicada en PubMed (2021) sobre los datos de JUUL Labs. Vapear uno de estos dispositivos durante todo el día puede equivaler a fumar un paquete completo, solamente que sin el olor a humo, sin la tos, sin las señales de alarma que normalmente te hacían pensar "esto me está haciendo daño".
 
 Ese es justamente el problema: el vape desechable elimina casi todas las barreras naturales que antes te frenaban.
 

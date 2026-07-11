@@ -17,7 +17,7 @@ En France, plus de 3 millions de personnes vapotent quotidiennement, selon le Ba
 
 La cigarette a une limite naturelle. Elle brûle, elle se termine, tu la jettes. Ce cycle crée des pauses obligatoires dans la journée. Le vapoteur, lui, n'a pas cette contrainte. Tu peux tirer dessus en continu, sans jamais vraiment t'arrêter, et c'est exactement ce qui rend la dépendance plus difficile à repérer.
 
-L'accoutumance à la vape se développe souvent plus vite qu'avec la cigarette, parfois en quelques semaines seulement, là où la cigarette met des mois ou des années à créer une dépendance aussi forte. Le mécanisme est simple : les e-liquides à base de sels de nicotine permettent une absorption rapide et confortable, sans la sensation âcre qui freine naturellement certains fumeurs de cigarettes.
+L'accoutumance à la vape se développe souvent plus vite que beaucoup d'utilisateurs ne l'anticipent. Le mécanisme est simple : les e-liquides à base de sels de nicotine permettent une absorption rapide et confortable, sans la sensation âcre qui freine naturellement certains fumeurs de cigarettes.
 
 Une étude publiée dans Nicotine & Tobacco Research (Oxford University Press, 2024) confirme que les vapoteurs à sels de nicotine, comme les JUUL, délivrent la nicotine au cerveau à une vitesse comparable à celle d'une cigarette classique, parfois même plus rapide selon l'appareil et le format du liquide.
 
