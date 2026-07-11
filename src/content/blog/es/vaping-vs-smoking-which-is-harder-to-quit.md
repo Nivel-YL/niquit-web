@@ -17,9 +17,9 @@ Durante años se vendió la idea de que el vape era el hermano menor y más mane
 
 Un cigarrillo se termina. Lo enciendes, fumas, lo apagas. Ese final natural marca una pausa que tu cerebro reconoce.
 
-El vape no tiene ese límite. Según QuitNic (2025), a diferencia de los cigarrillos que se consumen y terminan, los vapes se pueden usar de forma continua, lo que dificulta reconocer los patrones de consumo y crear pausas naturales. Puedes dar una calada mientras esperas el ascensor, mientras conduces, mientras ves una serie, sin que nadie lo note y sin que tú mismo lo registres como "un cigarrillo más".
+El vape no tiene ese límite. A diferencia de los cigarrillos que se consumen y terminan, los vapes se pueden usar de forma continua, lo que dificulta reconocer los patrones de consumo y crear pausas naturales. Puedes dar una calada mientras esperas el ascensor, mientras conduces, mientras ves una serie, sin que nadie lo note y sin que tú mismo lo registres como "un cigarrillo más".
 
-Esto tiene una consecuencia directa en la velocidad de la adicción. De acuerdo con QuitNic (2025), la adicción al vapeo suele desarrollarse más rápido que la del tabaco, a veces en cuestión de semanas en lugar de meses o años. El cuerpo se acostumbra a recibir nicotina de forma casi constante, y esa costumbre se instala antes de que te des cuenta de que ya no puedes parar.
+Esto tiene una consecuencia directa en la velocidad de la adicción. La adicción al vapeo suele desarrollarse más rápido que la del tabaco, a veces en cuestión de semanas en lugar de meses o años. El cuerpo se acostumbra a recibir nicotina de forma casi constante, y esa costumbre se instala antes de que te des cuenta de que ya no puedes parar.
 
 A esto se suma la química del propio dispositivo. Un estudio publicado en Nicotine & Tobacco Research (Oxford University Press, 2024) muestra que los cigarrillos electrónicos con sales de nicotina, como JUUL, logran una entrega de nicotina similar a la del cigarrillo tradicional en vapeadores experimentados, aunque la velocidad exacta varía según el diseño del dispositivo, la fórmula del líquido y el patrón de uso. Y The Health Knowledge Base (2026) señala que los cigarrillos entregan nicotina al cerebro en unos 10 segundos, mientras que algunos vapes modernos, gracias a las sales de nicotina, pueden ser aún más rápidos.
 

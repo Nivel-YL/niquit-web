@@ -29,7 +29,7 @@ Eine britische Befragung hat das Gefühl vieler Nutzer bestätigt: 17 Prozent de
 
 ## Warum entwickelt sich eine Vape-Sucht so schnell?
 
-Bei Zigaretten dauert es oft Monate oder Jahre, bis eine feste Abhängigkeit entsteht. Bei Vapes kann das laut QuitNic schon innerhalb weniger Wochen passieren. Ein Grund: Rauchen hat natürliche Pausen eingebaut. Man geht raus, raucht eine Zigarette, geht wieder rein. Beim Vapen fällt diese Struktur weg. Du ziehst am Schreibtisch, im Auto, beim Serien schauen, ohne es bewusst zu registrieren. Genau deshalb passiert ein Rückfall bei Rauchern meist im ersten Monat nach dem Aufhören, während Vaper oft erst Monate später wieder einsteigen, einfach weil das Gerät jederzeit griffbereit ist und niemand von außen eingreift.
+Bei Zigaretten dauert es oft Monate oder Jahre, bis eine feste Abhängigkeit entsteht. Bei Vapes kann das schon innerhalb weniger Wochen passieren. Ein Grund: Rauchen hat natürliche Pausen eingebaut. Man geht raus, raucht eine Zigarette, geht wieder rein. Beim Vapen fällt diese Struktur weg. Du ziehst am Schreibtisch, im Auto, beim Serien schauen, ohne es bewusst zu registrieren. Genau deshalb passiert ein Rückfall bei Rauchern meist im ersten Monat nach dem Aufhören, während Vaper oft erst Monate später wieder einsteigen, einfach weil das Gerät jederzeit griffbereit ist und niemand von außen eingreift.
 
 ## Hilft Vapen überhaupt beim Rauchstopp?
 

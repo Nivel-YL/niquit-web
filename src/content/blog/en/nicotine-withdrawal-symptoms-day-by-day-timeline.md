@@ -27,7 +27,7 @@ There's a biological reason it feels this bad. Research summarized by News Medic
 
 ## What does withdrawal look like day by day in the first week?
 
-Nova Recovery Center (2025) breaks the first week into two distinct phases. Days 1 through 3 bring the sharpest irritability, headaches, and trouble concentrating, essentially the peak described above. Days 4 through 7 are when the physical symptoms start to lose their grip: the headaches ease off, sleep starts to normalize a bit, and the craving spikes get shorter, even if they're still frequent.
+The Cleveland Clinic's own breakdown of the first week mirrors this: days 1 through 3 bring the sharpest irritability, headaches, and trouble concentrating, essentially the peak described above. Days 4 through 7 are when the physical symptoms start to lose their grip: the headaches ease off, sleep starts to normalize a bit, and the craving spikes get shorter, even if they're still frequent.
 
 This is also, not coincidentally, the danger zone. WebMD (2024) reports that most relapses happen within the first two weeks of quitting. If you're going to reach for a cigarette or a pouch out of pure discomfort, statistically it happens here, in this exact window.
 
@@ -35,18 +35,18 @@ If you've been using nicotine pouches specifically, the pattern is similar but w
 
 ## Does it get better after week one?
 
-Mostly, yes, physically. Nova Recovery Center (2025) describes weeks two through four as a lower-intensity phase: low energy, appetite still fluctuating, but the acute misery of the first week fading. The Cleveland Clinic's broader estimate agrees, putting the full arc of physical symptom resolution at three to four weeks for most people.
+Mostly, yes, physically. Weeks two through four are a lower-intensity phase: low energy, appetite still fluctuating, but the acute misery of the first week fading. The Cleveland Clinic's broader estimate agrees, putting the full arc of physical symptom resolution at three to four weeks for most people.
 
 But "better" doesn't mean "over." A 2010 study using Rasch analysis (published in PMC) found that withdrawal symptoms can disrupt everyday functioning for around two weeks, and can actually recur for years afterward, sometimes predicting a slip back into use. That's not meant to scare you. It's meant to explain why an occasional wave of craving six months in isn't a sign you're doing it wrong.
 
 ## Why do cravings still hit weeks later, out of nowhere?
 
-Because withdrawal isn't only physical. Nova Recovery Center (2025) calls month two and beyond the "situational trigger" phase: the physical dependence has largely resolved, but specific places, people, or moods still pull the craving back up. WebMD (2024) is blunt about this too, noting that once you clear the first two weeks, the physical symptoms fade, but you're often left dealing with anxiety, low mood, and irritability for longer.
+Because withdrawal isn't only physical. By month two and beyond, the physical dependence has largely resolved, but specific places, people, or moods still pull the craving back up — what researchers describe as the situational trigger phase. WebMD (2024) is blunt about this too, noting that once you clear the first two weeks, the physical symptoms fade, but you're often left dealing with anxiety, low mood, and irritability for longer.
 
 This matches what's happening at the neural level. A 2023 review (NCBI/PMC) explains that chronic nicotine use desensitizes nicotinic acetylcholine receptors and alters how neurons communicate using acetylcholine, changes that don't reverse the moment you stop. Your brain is relearning its own chemistry, and that takes longer than a headache does.
 
 ## How can I actually get through the worst days?
 
-Quitting without any support is hard, and the numbers back that up starkly. The CDC data cited by Nova Recovery Center (2025) shows that 68% of adult smokers want to quit, but only 7.5% succeed in a given year without help. Compare that to quit attempts using nicotine replacement therapy or medications like varenicline alongside behavioral support, where Addiction Help (2025) reports initial quit rates between 40% and 60%. That gap is the entire argument for not doing this alone.
+Quitting without any support is hard, and the numbers back that up starkly. According to the CDC, 68% of adult smokers want to quit, but only 7.5% succeed in a given year without help. Compare that to quit attempts using nicotine replacement therapy or medications like varenicline alongside behavioral support, where Addiction Help (2025) reports initial quit rates between 40% and 60%. That gap is the entire argument for not doing this alone.
 
 If you're tempted to just white-knuckle it, it's worth reading [why quitting smoking cold turkey fails for most people](/why-quitting-smoking-cold-turkey-fails-for-most-people) before you decide how to approach day one. And if relapse does happen, longitudinal research from the ITC Four Country Survey (published in PMC, 2015) found that even with a 37% relapse rate between survey waves, 63% of people stayed abstinent. The odds are better than the worst days make them feel.

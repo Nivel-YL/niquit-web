@@ -21,7 +21,7 @@ Nada dramático todavía, pero ya se nota. La Cleveland Clinic (2021) confirma q
 
 ### Días 2-3: el pico
 
-Este es el momento más duro, y punto. La Cleveland Clinic (2021) señala que los síntomas alcanzan su punto máximo justo en el segundo o tercer día sin nicotina. Según Nova Recovery Center (2025), estos días muestran el pico de irritabilidad, dolores de cabeza y problemas para concentrarte.
+Este es el momento más duro, y punto. La Cleveland Clinic (2021) señala que los síntomas alcanzan su punto máximo justo en el segundo o tercer día sin nicotina. Según la Cleveland Clinic, estos días concentran el pico de irritabilidad, dolores de cabeza y problemas para concentrarte.
 
 Si sientes que no puedes pensar con claridad, que cualquier cosa te saca de quicio, es exactamente lo que toca en este punto. No significa que estés fallando.
 
@@ -33,7 +33,7 @@ Tu apetito también cambia. WebMD (2024) explica que, al día siguiente de tu ú
 
 ### Días 4-7: los síntomas físicos empiezan a bajar
 
-Nova Recovery Center (2025) describe esta fase como el momento en que lo físico empieza a ceder terreno. Todavía hay irritabilidad, ansiedad y tristeza (síntomas que, según los criterios diagnósticos del DSM-IV recogidos en un protocolo de ensayo clínico de 2011, forman parte del cuadro clásico de abstinencia junto con la dificultad para concentrarse y el aumento del apetito), pero el cuerpo empieza a estabilizarse.
+Esta es la fase en que lo físico empieza a ceder terreno. Todavía hay irritabilidad, ansiedad y tristeza (síntomas que, según los criterios diagnósticos del DSM-IV recogidos en un protocolo de ensayo clínico de 2011, forman parte del cuadro clásico de abstinencia junto con la dificultad para concentrarse y el aumento del apetito), pero el cuerpo empieza a estabilizarse.
 
 ## ¿Por qué me siento tan mal emocionalmente al dejar la nicotina?
 
@@ -45,17 +45,17 @@ Lo más reciente, un estudio de News Medical (2025), señala que las interneuron
 
 ## Semanas 2-4: energía baja, apetito irregular
 
-Nova Recovery Center (2025) describe estas semanas como el periodo de baja energía y cambios de apetito. La buena noticia, según la Cleveland Clinic (2021), es que los síntomas se van desvaneciendo entre las tres y cuatro semanas.
+Las semanas 2-4 son el periodo de baja energía y cambios de apetito. La buena noticia, según la Cleveland Clinic (2021), es que los síntomas se van desvaneciendo entre las tres y cuatro semanas.
 
 Aquí está el punto crítico: WebMD (2024) confirma que la mayoría de las recaídas ocurren en las primeras dos semanas. Si logras superar ese tramo, lo físico empieza a irse, aunque queden retos mentales y emocionales como ansiedad, tristeza e irritabilidad.
 
 ## Mes 2 en adelante: la batalla mental
 
-Nova Recovery Center (2025) llama a esta fase "detonantes situacionales": ya no es el cuerpo pidiendo nicotina, es tu cerebro asociando ciertos momentos (el café de la mañana, una fiesta, un momento de estrés) con el hábito. Esto puede seguir sin avisar durante años, como confirma el estudio de PMC (2010).
+A partir del segundo mes ya no es el cuerpo pidiendo nicotina, sino el cerebro asociando ciertos momentos (el café de la mañana, una fiesta, un momento de estrés) con el hábito. Son los llamados detonantes situacionales, y pueden aparecer sin avisar durante años, como confirma el estudio de PMC (2010).
 
 ## ¿Vale la pena buscar ayuda para dejarlo?
 
-Los números son claros. Según el CDC, cerca del 68% de los fumadores adultos quiere dejarlo, pero solamente el 7,5% lo logra cada año sin ningún tipo de apoyo, según datos recogidos por Nova Recovery Center (2025). Con terapia de reemplazo de nicotina (parches, chicles) o vareniclina combinados con apoyo conductual, las tasas de éxito inicial suben a entre el 40% y el 60%, según Addiction Help (2025).
+Los números son claros. Según el CDC, cerca del 68% de los fumadores adultos quiere dejarlo, pero solamente el 7,5% lo logra cada año sin ningún tipo de apoyo. Con terapia de reemplazo de nicotina (parches, chicles) o vareniclina combinados con apoyo conductual, las tasas de éxito inicial suben a entre el 40% y el 60%, según Addiction Help (2025).
 
 Un estudio longitudinal del ITC Four Country Survey (2015) encontró que el 37% de quienes dejaron de fumar recayeron antes de la siguiente medición, mientras que el 63% se mantuvo sin fumar. Los tratamientos aprobados actualmente incluyen bupropión y vareniclina, aunque según News Medical (2025) sigue existiendo una necesidad urgente de nuevas opciones terapéuticas.
 

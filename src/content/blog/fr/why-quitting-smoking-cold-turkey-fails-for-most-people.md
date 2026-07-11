@@ -23,7 +23,7 @@ Il y a aussi un mécanisme moins connu : la nicotine chronique désensibilise le
 
 ## Combien de temps durent les symptômes de sevrage ?
 
-La bonne nouvelle, c'est que ce n'est pas éternel. Selon QuitNic, le pic du sevrage physique arrive vers le troisième jour, et la plupart des symptômes disparaissent en deux semaines. Irritabilité, anxiété, difficulté à se concentrer, appétit qui augmente, agitation : ces symptômes, listés par ScienceInsights, sont réels mais temporaires.
+La bonne nouvelle, c'est que ce n'est pas éternel. Selon la Cleveland Clinic, le pic du sevrage physique arrive vers le troisième jour, et la plupart des symptômes disparaissent en deux semaines. Irritabilité, anxiété, difficulté à se concentrer, appétit qui augmente, agitation : ces symptômes sont réels mais temporaires.
 
 Le problème, c'est justement que ces deux premières semaines sont les plus violentes, et c'est précisément là que la majorité des tentatives d'arrêt brutal s'effondrent, selon ScienceInsights. Tu arrêtes plein d'énergie le premier jour, tu tiens bon le deuxième, et au moment où le manque physique est le plus fort, ta motivation initiale ne suffit plus. D'ailleurs, une étude menée auprès d'étudiants fumeurs a montré un résultat intéressant : la motivation est ce qui pousse quelqu'un à tenter d'arrêter, mais une fois la tentative lancée, elle ne fait aucune différence entre ceux qui réussissent et ceux qui échouent, selon ScienceInsights. Vouloir arrêter très fort ne protège pas contre le manque physiologique.
 

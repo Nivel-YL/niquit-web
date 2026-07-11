@@ -69,6 +69,33 @@ NAVY  = '#0A1A33'
 PANEL = '#0F2244'
 CORAL = '#FF6B5C'
 
+# ── blocked sources (Tier 3 — hard block, never cite regardless of convenience) ──
+# Rule: never cite a site that sells nicotine products OR is a competing quit app.
+# Source: AI_EDITOR_SOURCE_VETTING_SPEC.md
+
+BLOCKED_SOURCES: list[str] = [
+    # Nicotine retailers
+    'juicefly', 'juicefly.com',
+    # Competing quit apps / products
+    'quitwithjones', 'jones quit', 'jones quit app', 'quit with jones',
+    'quitnic',        # competing app — not the 2021 Bonevski RCT in Nicotine & Tobacco Research
+    'smoke free app', 'smokefreeglobal',
+    'kwit app', 'kwit.app',
+    'tobaccostopswithme', 'tobacco stops with me',  # nicotine sales / quit-product hybrid
+]
+
+# Human-readable names for the same entries (matched case-insensitively in research text).
+BLOCKED_SOURCE_PATTERNS: list[str] = [s.lower() for s in BLOCKED_SOURCES]
+
+
+def check_blocked_sources(text: str) -> list[str]:
+    """Scan research text for blocked Tier-3 sources.
+    Returns list of blocked names found; empty list = clean.
+    """
+    lower = text.lower()
+    return [pat for pat in BLOCKED_SOURCE_PATTERNS if pat in lower]
+
+
 # ── mechanical style rules (no AI, binary pass/fail) ─────────────────────────
 # These are checked by code after writing, before saving.
 # Source: CONTENT_VOICE_GUIDE.md §2 (em-dash) and §4 (banned patterns).
@@ -225,15 +252,30 @@ def generate_svg(topic_id: str, cluster: str) -> str:
 
 RESEARCH_SYSTEM = (
     'You are a content researcher for a health blog about quitting nicotine.\n\n'
+    'SOURCE TIER RULES (apply before including any source):\n\n'
+    'TIER 1 — preferred, cite as primary:\n'
+    '  Government health agencies: CDC, FDA, NIH, PubMed/PMC, WHO, NHS, gov.uk, EU equivalents.\n'
+    '  Peer-reviewed journals directly: Nicotine & Tobacco Research, Addiction, JAMA, Cochrane, Lancet, BMJ.\n'
+    '  Major academic medical centers: Cleveland Clinic, Mayo Clinic, Johns Hopkins, UCSF Health.\n\n'
+    'TIER 2 — usable as one of several voices, never as sole source for a key figure:\n'
+    '  Mass health media with editorial oversight: WebMD, Healthline, Medical News Today.\n'
+    '  Rehabilitation/treatment centers (their content is marketing copy, not research).\n'
+    '  Science-pop sites summarising others\' studies.\n\n'
+    'TIER 3 — HARD BLOCK. Never cite, regardless of how convenient the fact:\n'
+    '  ANY site that sells nicotine products (signs: shopping cart, buy button, product prices, '
+    'age verification on purchase, delivery page).\n'
+    '  ANY site that is itself a competing quit-nicotine app or product (signs: App Store/Google Play '
+    'links, describes itself as "app to quit smoking/vaping/pouches").\n'
+    '  Explicit block list: Juicefly, juicefly.com, Quit With Jones, quitwithjones.com, '
+    'Jones Quit App, QuitNic app (≠ Bonevski et al. 2021 RCT in Nicotine & Tobacco Research), '
+    'Tobacco Stops With Me, Smoke Free app, Kwit app.\n\n'
     'MANDATORY SOURCING RULES:\n'
-    '- Every specific number must be verified by at least 2 independent sources.\n'
+    '- Every specific number must be verified by at least 2 independent TIER 1 or TIER 2 sources.\n'
     '- If sources disagree, report a range (e.g. "300,000–400,000"), not a single figure.\n'
-    '- Format every fact as: [the fact] [Source: Name, Year]\n'
-    '- Source quality hierarchy: official health authorities (WHO, CDC, national health ministries) '
-    '> peer-reviewed studies > authoritative publications > other. Flag lower-quality sources explicitly.\n'
-    '- Legal/regulatory facts must include: [as of SOURCE_DATE] — these change.\n'
-    '- If you cannot find a reliable, named source for a number, omit the exact number '
-    'and write a qualified range instead.\n\n'
+    '- Format every fact as: [the fact] [Source: Name, Year | Tier: 1/2]\n'
+    '- If a fact is only found on a Tier 3 source, search for it via a Tier 1 source instead. '
+    'If not found, omit the fact entirely — absence of a figure is better than a bad source.\n'
+    '- Legal/regulatory facts must include: [as of SOURCE_DATE] — these change.\n\n'
     'Summarize in English regardless of target audience.'
 )
 
@@ -331,9 +373,15 @@ def audit_article(
             '- VERIFIED — matches the research facts (note the source)\n'
             '- DISCREPANCY — article number differs from research (show both)\n'
             '- UNVERIFIED — not present in the research facts at all\n\n'
+            'Also classify each source cited in the article by tier:\n'
+            '- Tier 1: government agencies (CDC/FDA/NIH/WHO/NHS), peer-reviewed journals, '
+            'major academic medical centers (Cleveland Clinic, Mayo Clinic, etc.)\n'
+            '- Tier 2: health media (WebMD, Healthline), rehab centers, science-pop sites\n'
+            '- Tier 3 (BLOCKED): nicotine retailers, competing quit apps — flag immediately\n\n'
             'Return a compact markdown table with columns: '
-            '| Claim in article | Status | Source / Note |\n'
-            'Quote exact text from the article. Be precise.'
+            '| Claim in article | Status | Source Tier | Source / Note |\n'
+            'Quote exact text from the article. Be precise. '
+            'Flag any Tier 3 source with ⚠️ BLOCKED.'
         ),
         messages=[{
             'role': 'user',
@@ -552,6 +600,21 @@ def draft_one(
     print('\nResearching (shared, 1 call)...', flush=True)
     shared_facts, langs_for_local = research_shared(client, topic_title)
     print(f'Shared research done. Local research needed: {langs_for_local or ["none"]}', flush=True)
+
+    # Deterministic Tier-3 source check — block before any article is written.
+    blocked_found = check_blocked_sources(shared_facts)
+    if blocked_found:
+        print(
+            f'WARNING: Tier-3 (blocked) sources detected in research: {blocked_found}\n'
+            'These will NOT be passed to the writer. Stripping mentions from research text.',
+            flush=True,
+        )
+        for pat in blocked_found:
+            # Remove sentences containing the blocked source so the writer never sees them.
+            sentences = shared_facts.split('. ')
+            shared_facts = '. '.join(
+                s for s in sentences if pat not in s.lower()
+            )
 
     # 2. Targeted local searches — only for languages that need it
     lang_specific: dict[str, str] = {}

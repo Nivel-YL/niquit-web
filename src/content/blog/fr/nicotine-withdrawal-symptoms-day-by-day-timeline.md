@@ -15,7 +15,7 @@ Connaître ce calendrier change tout. Quand tu sais que le jour 3 sera dur mais 
 
 ## Que se passe-t-il pendant les 3 premiers jours ?
 
-Les 24 à 72 premières heures sont un sprint. Ton corps termine d'éliminer la nicotine, et selon Charlie Health, c'est à ce moment-là que les maux de tête, les nausées et l'irritabilité commencent à s'installer. Nova Recovery Center décrit ces trois premiers jours comme le pic d'irritabilité, avec des difficultés de concentration marquées.
+Les 24 à 72 premières heures sont un sprint. Ton corps termine d'éliminer la nicotine, et selon Charlie Health, c'est à ce moment-là que les maux de tête, les nausées et l'irritabilité commencent à s'installer. La Cleveland Clinic confirme que ces trois premiers jours correspondent au pic d'irritabilité, avec des difficultés de concentration marquées.
 
 Le pic absolu arrive au jour 2 ou 3. La Cleveland Clinic le confirme : c'est à ce moment précis que les symptômes sont les plus intenses. Tu peux te sentir à fleur de peau, incapable de te concentrer sur une tâche simple, avec l'impression que ton cerveau tourne au ralenti.
 
@@ -25,19 +25,19 @@ Le sommeil part en vrille aussi. Le EX Program note que les changements dans le 
 
 ## Pourquoi j'ai encore faim tout le temps après avoir arrêté ?
 
-Dans la journée qui suit ta dernière cigarette, ton appétit explose, selon WebMD. Ce n'est pas un manque de volonté, c'est la nicotine qui coupait naturellement la faim, et son absence relance ton métabolisme et tes envies de grignoter. Ce phénomène continue pendant les semaines 2 à 4, période où Nova Recovery Center observe à la fois une baisse d'énergie et des changements d'appétit persistants.
+Dans la journée qui suit ta dernière cigarette, ton appétit explose, selon WebMD. Ce n'est pas un manque de volonté, c'est la nicotine qui coupait naturellement la faim, et son absence relance ton métabolisme et tes envies de grignoter. Ce phénomène continue pendant les semaines 2 à 4, période marquée à la fois par une baisse d'énergie et des changements d'appétit persistants, selon la Cleveland Clinic.
 
 ## Jours 4 à 7 : ça devient plus facile ou pire ?
 
 Les jours 3 à 5 sont souvent décrits comme le moment où la nicotine a fini de quitter complètement l'organisme. WebMD précise que c'est justement là que maux de tête, envies compulsives et insomnies frappent le plus fort, presque en même temps.
 
-Mais à partir du jour 4, quelque chose change. Nova Recovery Center observe que les symptômes physiques commencent à s'estomper entre les jours 4 et 7. Tu ne seras pas guéri, mais le pire du combat physique touche à sa fin. Ce qui reste, ce sont les vagues émotionnelles : selon le EX Program, il est tout à fait normal de ressentir de l'irritabilité, de la colère, de la frustration, de l'anxiété ou même une forme de tristesse pendant cette phase.
+Mais à partir du jour 4, quelque chose change. Les symptômes physiques commencent à s'estomper entre les jours 4 et 7, selon la Cleveland Clinic. Tu ne seras pas guéri, mais le pire du combat physique touche à sa fin. Ce qui reste, ce sont les vagues émotionnelles : selon le EX Program, il est tout à fait normal de ressentir de l'irritabilité, de la colère, de la frustration, de l'anxiété ou même une forme de tristesse pendant cette phase.
 
 ## Combien de temps durent les symptômes de sevrage de la nicotine ?
 
 La réponse honnête : ça dépend de toi. WebMD indique que la durée varie de quelques jours à plusieurs semaines, selon depuis combien de temps tu fumais et combien de cigarettes tu consommais par jour. La Cleveland Clinic situe la disparition progressive des symptômes entre trois et quatre semaines dans la majorité des cas.
 
-Mais il y a une nuance importante que peu de gens mentionnent : une analyse publiée dans PMC en 2010 montre que le sevrage peut perturber le fonctionnement quotidien pendant environ deux semaines, mais que certains symptômes peuvent réapparaître pendant des années, souvent déclenchés par des situations précises. C'est exactement ce que décrit Nova Recovery Center pour la période après le premier mois : des déclencheurs situationnels, un café, une soirée arrosée, une dispute, qui réactivent l'envie sans prévenir.
+Mais il y a une nuance importante que peu de gens mentionnent : une analyse publiée dans PMC en 2010 montre que le sevrage peut perturber le fonctionnement quotidien pendant environ deux semaines, mais que certains symptômes peuvent réapparaître pendant des années, souvent déclenchés par des situations précises. C'est ce que la recherche appelle les déclencheurs situationnels : un café, une soirée arrosée, une dispute, qui réactivent l'envie sans prévenir, parfois des années après l'arrêt selon la même analyse publiée dans PMC en 2010.
 
 ## Quand est-ce que je risque le plus de craquer ?
 

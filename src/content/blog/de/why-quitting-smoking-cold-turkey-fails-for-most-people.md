@@ -19,7 +19,7 @@ Nikotin verändert dein Gehirn auf eine Weise, die sich nicht einfach per Entsch
 
 Konkret gemessen wurde das auch im Labor: Beim akuten Entzug sinkt die Dopaminausschüttung im Nucleus accumbens, gleichzeitig steigen die Schwellenwerte für das Belohnungsempfinden im Gehirn, dokumentiert in klinischen Studien der NIH (PMC, Studiendesign 2012 bis 2015). Dazu kommt eine zweite Baustelle: Chronischer Nikotinkonsum führt zu einer Desensibilisierung der nikotinischen Acetylcholinrezeptoren, was die Entzugssymptome beim Absetzen erst richtig auslöst, so eine Analyse in NIH/PMC (2024). Dein Gehirn hat sich über Jahre an Nikotin angepasst. Es baut zusätzliche neuronale Mechanismen auf, die genau dann einen aversiven Entzugszustand erzeugen, wenn du aufhörst, und das erklärt die extrem hohe Rückfallquote unter Nikotinkonsumenten (NIH/PMC, 2024).
 
-Die körperlichen Symptome, Reizbarkeit, Angst, Konzentrationsschwierigkeiten, gesteigerter Appetit, Unruhe, erreichen laut QuitNic (2026) am dritten Tag ihren Höhepunkt und klingen meist nach zwei Wochen ab. Genau dieses neurologische Tauziehen ist der Hauptgrund, warum die meisten Versuche mit kaltem Entzug innerhalb der ersten zwei Wochen scheitern, so ScienceInsights (2026).
+Die körperlichen Symptome, Reizbarkeit, Angst, Konzentrationsschwierigkeiten, gesteigerter Appetit, Unruhe, erreichen laut Cleveland Clinic am dritten Tag ihren Höhepunkt und klingen meist nach zwei Wochen ab. Genau dieses neurologische Tauziehen ist der Hauptgrund, warum die meisten Versuche mit kaltem Entzug innerhalb der ersten zwei Wochen scheitern.
 
 ## Reicht Motivation nicht aus, um durchzuhalten?
 

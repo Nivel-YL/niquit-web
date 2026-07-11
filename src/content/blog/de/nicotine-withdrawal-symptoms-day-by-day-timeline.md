@@ -19,7 +19,7 @@ Die ersten Stunden sind trügerisch ruhig. Laut Cleveland Clinic setzen die eige
 
 Der zweite und dritte Tag. Das ist keine Vermutung, sondern der Punkt, den die Cleveland Clinic als Höhepunkt der Symptome nennt. Genau in diesem Fenster, zwischen Tag 3 und Tag 5, hat der Körper das Nikotin laut WebMD (2024) endgültig abgebaut, und dann kommen Kopfschmerzen, Heißhunger auf Zigaretten und Schlaflosigkeit zusammen.
 
-Das Nova Recovery Center (2025) beschreibt diese ersten Tage sehr konkret: An Tag 1 bis 3 sind Reizbarkeit, Kopfschmerzen und Konzentrationsprobleme am stärksten. Ab Tag 4 bis 7 beginnen die körperlichen Symptome langsam nachzulassen. Wenn du also am dritten Tag denkst, das hält niemand aus, du hast im Grunde schon die Spitze des Bergs erreicht.
+Die Cleveland Clinic beschreibt diese ersten Tage sehr konkret: An Tag 1 bis 3 sind Reizbarkeit, Kopfschmerzen und Konzentrationsprobleme am stärksten. Ab Tag 4 bis 7 beginnen die körperlichen Symptome langsam nachzulassen. Wenn du also am dritten Tag denkst, das hält niemand aus, du hast im Grunde schon die Spitze des Bergs erreicht.
 
 Der Appetit spielt dabei eine eigene Rolle. WebMD (2024) beschreibt, dass der Appetit schon innerhalb des ersten Tages nach der letzten Zigarette deutlich ansteigt und das eine Weile so bleibt. Das ist kein Zeichen von Schwäche, sondern eine ziemlich direkte Folge davon, dass Nikotin den Appetit unterdrückt hat und dieser Effekt jetzt wegfällt.
 
@@ -33,7 +33,7 @@ Die offiziellen diagnostischen Kriterien für akuten Nikotinentzug listen genau 
 
 ## Wie geht es nach der ersten Woche weiter?
 
-Ab Woche 2 bis 4 verändert sich das Bild. Das Nova Recovery Center (2025) beschreibt diese Phase als Zeit mit weniger akuten Symptomen, aber anhaltender Erschöpfung und veränderten Essgewohnheiten. Die Cleveland Clinic bestätigt, dass die Symptome insgesamt über drei bis vier Wochen abklingen. Das heißt nicht, dass an Tag 29 alles vorbei ist. Manche Auslöser, ein Bier mit Freunden, Stress im Job, eine Pause auf der Arbeit, können laut Nova Recovery Center noch nach Monat 2 oder später Rückfallgefühle triggern, weil sie mit alten Gewohnheiten verknüpft sind.
+Ab Woche 2 bis 4 verändert sich das Bild. Ab Woche 2 bis 4 sind die Symptome deutlich weniger akut, aber Erschöpfung und veränderte Essgewohnheiten bleiben. Die Cleveland Clinic bestätigt, dass die Symptome insgesamt über drei bis vier Wochen abklingen. Das heißt nicht, dass an Tag 29 alles vorbei ist. Manche Auslöser — ein Bier mit Freunden, Stress im Job, eine Pause auf der Arbeit — können laut einer Analyse in PMC (2010) noch Jahre später Rückfallgefühle triggern, weil sie mit alten Gewohnheiten verknüpft sind.
 
 Genau hier liegt die größte Gefahr. WebMD (2024) hält fest, dass die meisten Rückfälle innerhalb der ersten zwei Wochen passieren. Wer diese Phase übersteht, hat die körperlichen Symptome größtenteils hinter sich, muss sich aber weiterhin mit Angst, Niedergeschlagenheit und Reizbarkeit auf mentaler Ebene auseinandersetzen. Wer sich fragt, warum der harte Cut von heute auf morgen so oft scheitert, findet dazu mehr in unserem Artikel [Warum Kaltentzug beim Rauchstopp für die meisten scheitert](warum-kaltentzug-beim-rauchstopp-fuer-die-meisten-scheitert).
 
