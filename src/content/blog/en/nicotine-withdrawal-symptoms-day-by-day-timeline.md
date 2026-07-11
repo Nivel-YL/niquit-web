@@ -41,7 +41,7 @@ But "better" doesn't mean "over." A 2010 study using Rasch analysis (published i
 
 ## Why do cravings still hit weeks later, out of nowhere?
 
-Because withdrawal isn't only physical. By month two and beyond, the physical dependence has largely resolved, but specific places, people, or moods still pull the craving back up — what researchers describe as the situational trigger phase. WebMD (2024) is blunt about this too, noting that once you clear the first two weeks, the physical symptoms fade, but you're often left dealing with anxiety, low mood, and irritability for longer.
+Because withdrawal isn't only physical. By month two and beyond, the physical dependence has largely resolved, but specific places, people, or moods still pull the craving back up. WebMD (2024) is blunt about this too, noting that once you clear the first two weeks, the physical symptoms fade, but you're often left dealing with anxiety, low mood, and irritability for longer.
 
 This matches what's happening at the neural level. A 2023 review (NCBI/PMC) explains that chronic nicotine use desensitizes nicotinic acetylcholine receptors and alters how neurons communicate using acetylcholine, changes that don't reverse the moment you stop. Your brain is relearning its own chemistry, and that takes longer than a headache does.
 
