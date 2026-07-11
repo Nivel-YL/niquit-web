@@ -53,22 +53,22 @@ topics:
 - id: B-03
   title_en: Why disposable vapes are so hard to quit
   cluster: B
-  status: pending
+  status: drafted
   published: {}
 - id: B-04
   title_en: Vaping vs smoking which is harder to quit?
   cluster: B
-  status: pending
+  status: drafted
   published: {}
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: C-02
   title_en: Nicotine withdrawal symptoms day by day timeline
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
