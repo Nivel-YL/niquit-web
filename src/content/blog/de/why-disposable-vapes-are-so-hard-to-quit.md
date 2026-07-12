@@ -31,4 +31,10 @@ Wissenschaftlich betrachtet ist Nikotin sogar ein Sonderfall. Anders als Opioide
 
 Bei Jugendlichen kommt ein weiterer Faktor hinzu: Da sich das Gehirn noch nicht vollständig entwickelt hat, kann Tabak- und Nikotinkonsum die normale Hirnentwicklung stören, was das Risiko für psychische Erkrankungen und kognitive Beeinträchtigungen im späteren Leben erhöht, so die FDA 2025. Das erklärt auch, warum unter 18-Jährigen die Nutzung von Einweg-Vapes zwischen Januar 2021 und April 2022 von 0,4 auf 54,8 Prozent explodierte, laut einer britischen Querschnittsstudie (PMC10086805, 2022). Mehr als 825.000 Kinder begannen 2022 mit dem Vapen, das sind über 2.200 pro Tag, so die American Lung Association 2024.
 
-## Hilft es, auf ein schwäche
+## Hilft es, auf eine schwächere Alternative umzusteigen?
+
+Der Gedanke klingt vernünftig: weniger Nikotin, leichterer Ausstieg. Die Forschung zeigt jedoch das Gegenteil. Eine in der Fachzeitschrift Addiction veröffentlichte Studie, dokumentiert im NCBI, hat festgestellt, dass Menschen, die auf Liquids mit geringerer Nikotinkonzentration umgestiegen sind, zwar weniger Verlangen verspürten und mildere Entzugserscheinungen hatten, aber gleichzeitig mehr Nikotin aufnahmen als zuvor. Der Grund: Sie zogen häufiger und länger, bis ihr Körper das gewohnte Niveau erreicht hatte. Gleichzeitig stieg die Formaldehyd-Exposition. Der Körper akzeptiert einfach nicht weniger. Er sucht einen Weg, das Gewohnte zu bekommen.
+
+Wer davon spricht, auf Nikotinbeutel wie ZYN, On! oder Velo umzusteigen, weil das leichter aufzuhören sei, sollte wissen, dass der Mechanismus ähnlich bleibt. Wir haben erklärt, was Nikotinbeutel sind und ob sie wirklich sicherer als Zigaretten sind, wie sich Snus und Beutel unterscheiden, welche Nebenwirkungen kaum jemand benennt, und wie ein gezielter Ausstieg aus Beuteln aussehen kann.
+
+Das alles bedeutet nicht, dass Aufhören unmöglich ist. Es bedeutet, dass die Geräte von Anfang an so gebaut wurden, dass das Loslassen schwerfällt: mit mehr Nikotin, günstigeren Preisen und Aromen, die immer zum Greifen einladen. Wer das versteht, kann aufhören, sich selbst die Schuld zu geben für etwas, das von Grund auf so konzipiert war.

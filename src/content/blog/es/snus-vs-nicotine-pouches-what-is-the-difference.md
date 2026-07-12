@@ -44,3 +44,5 @@ Depende de qué estés buscando exactamente. Si vienes de fumar y quieres algo c
 Ninguna de las dos opciones te libera de la nicotina, solamente cambia el vehículo. Y ahí está el punto que casi nadie te dice cuando compras tu primera lata: tarde o temprano, si de verdad quieres dejarlo, vas a tener que enfrentar la dependencia misma, no solo el formato en el que llega.
 
 Conocer estas diferencias, eso sí, te ayuda a tomar decisiones con información real en lugar de suposiciones. Saber que una bolsa de 6 mg puede ser más suave que un snus tradicional, o que el snus libera nicotina más despacio, te permite ajustar mejor tu consumo mientras trabajas en reducirlo o dejarlo del todo.
+
+**Nota sobre la situación legal:** La normativa en torno a las bolsas de nicotina varía según el país. Francia prohibió su fabricación, venta, compra, tenencia, consumo e importación en todo el territorio nacional a partir del 1 de abril de 2026. Si resides en Francia o en otro país que restringe estos productos, consulta la legislación local antes de comprar.

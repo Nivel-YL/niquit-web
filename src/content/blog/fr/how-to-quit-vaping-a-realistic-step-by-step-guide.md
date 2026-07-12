@@ -9,7 +9,7 @@ heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
 
 > Arrêter la vape sans y laisser sa santé mentale : timeline réaliste, symptômes attendus et méthode concrète pour tenir sur la durée.
 
-Tu as sorti ta pod dix fois aujourd'hui sans même t'en rendre compte. En France, on compte désormais 3 millions de vapoteurs, soit 5,59% des adultes, et contrairement au tabac classique dont la consommation stagne, la vape continue de grimper. Si tu es ici, c'est probablement que tu as déjà essayé d'arrêter au moins une fois et que ça n'a pas tenu. Ce guide ne va pas te vendre du rêve : il va te donner une méthode qui tient compte de ce qui se passe réellement dans ton cerveau, jour par jour.
+Tu as sorti ta pod dix fois aujourd'hui sans même t'en rendre compte. En France, on compte désormais 3 millions de vapoteurs, soit 5,59 % des adultes, et contrairement au tabac classique dont la consommation stagne, la vape continue de grimper. Si tu es ici, c'est probablement que tu as déjà essayé d'arrêter au moins une fois et que ça n'a pas tenu. Ce guide ne va pas te vendre du rêve : il va te donner une méthode qui tient compte de ce qui se passe réellement dans ton cerveau, jour par jour.
 
 ## Pourquoi j'ai autant de mal à arrêter la vape ?
 
@@ -57,6 +57,6 @@ Oui, et c'est sous-utilisé chez les vapoteurs qui pensent, à tort, que ces pro
 
 ## Pourquoi les jeunes ont plus de mal à arrêter
 
-Si tu as commencé jeune, sache que ce n'est pas dans ta tête : les adolescents sont en moyenne neuf fois plus susceptibles de vapoter que les adultes, et en Europe, environ 22% des jeunes de 15-16 ans vapotent régulièrement. Un cerveau adolescent développe une dépendance différemment, plus rapidement, ce qui rend l'arrêt plus exigeant, pas impossible.
+Si tu as commencé jeune, sache que ce n'est pas dans ta tête : les adolescents sont en moyenne neuf fois plus susceptibles de vapoter que les adultes, et en Europe, environ 22 % des jeunes de 15-16 ans vapotent régulièrement. Un cerveau adolescent développe une dépendance différemment, plus rapidement, ce qui rend l'arrêt plus exigeant, pas impossible.
 
 Ce guide ne transformera pas les jours 2 et 3 en promenade de santé. Mais savoir précisément ce qui t'attend, heure par heure, change la façon dont tu vis chaque envie : ce n'est plus une preuve que tu n'y arriveras jamais, c'est juste une étape prévue, qui va passer.

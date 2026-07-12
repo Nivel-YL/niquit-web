@@ -45,6 +45,6 @@ Dicho de otra forma: un producto que puede contener más nicotina que un cigarri
 
 ## Entonces, ¿sirven para dejar de fumar?
 
-Pueden ayudarte a dejar el humo y todo lo que lo acompaña, eso parece razonablemente claro. Lo que no está tan claro es que te ayuden a dejar la nicotina, que es, al final, lo que mantiene el ciclo de dependencia. Si las usas como puente temporal, bajando la dosis de forma progresiva y con un plan concreto de fecha límite, pueden tener sentido. Si las usas como sustituto indefinido, sin bajar nunca la concentración de nicotina, es probable que solo hayas cambiado el envase de tu adicción, no su tamaño.
+Pueden ayudarte a dejar el humo y todo lo que lo acompaña, eso parece razonablemente claro. Lo que no está tan claro es que te ayuden a dejar la nicotina, que es, al final, lo que mantiene el ciclo de dependencia. Si las usas como puente temporal, bajando la dosis de forma progresiva y con un plan concreto de fecha límite, pueden tener sentido. Si las usas como sustituto indefinido, sin bajar nunca la concentración de nicotina, es probable que solamente hayas cambiado el envase de tu adicción, no su tamaño.
 
 Antes de decidirte por cualquier producto "menos dañino", vale la pena preguntarte qué es lo que realmente quieres conseguir: fumar menos, o depender menos.

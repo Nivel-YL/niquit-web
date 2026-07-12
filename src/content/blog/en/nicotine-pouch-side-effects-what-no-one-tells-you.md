@@ -11,11 +11,11 @@ heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
 
 Someone hands you a can of nicotine pouches and says "it's basically nothing, no smoke, no vape, just tuck it under your lip." That's how most people start. What they don't mention: a single 6mg pouch can push more nicotine into your blood within 30 minutes than smoking a cigarette. Nicotine pouch side effects are rarely discussed honestly, and the gap between marketing and reality is bigger than most users realize.
 
-Pouches have exploded in popularity because they seem discreet and low-risk. U.S. past-30-day use nearly doubled between 2023 and 2024, jumping from 2.3% to 4.2%. Among people who already used some form of nicotine, current pouch use grew 66% in just two years. But rapid adoption doesn't mean the product is well understood, and a lot of users are finding that out the hard way.
+Pouches have exploded in popularity because they seem discreet and low-risk. According to CDC Foundation and Circana data, U.S. past-30-day use nearly doubled between 2023 and 2024, jumping from 2.3% to 4.2%. Among people who already used some form of nicotine, current pouch use grew 66% in just two years. But rapid adoption doesn't mean the product is well understood, and a lot of users are finding that out the hard way.
 
 ## Are nicotine pouches actually stronger than cigarettes?
 
-In some cases, yes, and by a wide margin. A 2024 clinical trial testing 30mg pouches found they delivered plasma nicotine levels twice as high as a cigarette. That's not a small difference. The same study recorded measurable increases in heart rate and arterial stiffness, the kind of cardiovascular strain researchers usually associate with heavier tobacco use.
+For high-strength pouches, yes, and by a wide margin. A 2024 clinical trial testing 30mg pouches found they delivered plasma nicotine levels twice as high as a cigarette. That's not a small difference. The same study recorded measurable increases in heart rate and arterial stiffness, the kind of cardiovascular strain researchers usually associate with heavier tobacco use.
 
 This matters because pouches are sold in a wide range of strengths, often without clear guidance on what "strong" actually means in practice. Someone switching from cigarettes might grab a high-mg pouch assuming it's equivalent to what they're used to, when it's delivering substantially more nicotine per use. Your body doesn't care that there's no smoke involved.
 
@@ -31,7 +31,7 @@ None of this shows up on the packaging. The can just says "smooth" or "mint" or 
 
 ## Can nicotine pouches affect your mood or mental health?
 
-This is the part that gets buried the most, and it's arguably the most common complaint among regular users. In the same research, psychological symptoms turned up at rates that dwarf the physical ones.
+This is the part that gets buried the most, and it's the most common complaint among regular users. In the same research, psychological symptoms turned up at rates that dwarf the physical ones.
 
 Appetite changes affected 78.7% of users. Difficulty concentrating or focusing hit 75.4%. Trouble sleeping showed up in 74.9%. And increased anxiety or irritability was reported by 73.4%, nearly three out of four users.
 

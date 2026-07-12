@@ -13,17 +13,17 @@ Il y a cinq ans, une vape jetable tenait deux ou trois jours et te donnait un pe
 
 ## Pourquoi je n'arrive pas à arrêter la vape jetable ?
 
-Si tu as l'impression que c'est plus dur d'arrêter la vape que ce que tu imaginais, tu n'es pas en train d'exagérer. Une étude publiée dans JAMA Network Open en 2024 a suivi des lycéens et collégiens vapoteurs quotidiens qui essayaient d'arrêter : la part de ceux qui n'y arrivaient pas est passée de 28,2% à 53% entre 2020 et 2024. Ce chiffre a été confirmé indépendamment par Truth Initiative la même année. En quatre ans, la dépendance parmi ces jeunes utilisateurs a presque doublé.
+Si tu as l'impression que c'est plus dur d'arrêter la vape que ce que tu imaginais, tu n'es pas en train d'exagérer. Une étude publiée dans JAMA Network Open en 2024 a suivi des lycéens et collégiens vapoteurs quotidiens qui essayaient d'arrêter : la part de ceux qui n'y arrivaient pas est passée de 28,2 % à 53 % entre 2020 et 2024. Ce chiffre a été confirmé indépendamment par Truth Initiative la même année. En quatre ans, la dépendance parmi ces jeunes utilisateurs a presque doublé.
 
 Ce n'est pas parce que les gens ont moins de volonté qu'avant. C'est parce que le produit lui-même a été transformé pour créer une dépendance plus rapide et plus profonde.
 
 ## Les vapes jetables contiennent-elles vraiment plus de nicotine qu'avant ?
 
-Oui, et l'écart est énorme. Selon Truth Initiative, entre 2017 et 2022, les vapes jetables ont presque triplé leur concentration en nicotine, quintuplé leur capacité en e-liquide, et vu leur prix chuter de près de 70%. Autrement dit : plus de nicotine, plus de liquide, moins cher. Le produit a été conçu pour maximiser la consommation.
+Oui, et l'écart est énorme. Selon Truth Initiative, entre 2017 et 2022, les vapes jetables ont presque triplé leur concentration en nicotine, quintuplé leur capacité en e-liquide, et vu leur prix chuter de près de 70 %. Autrement dit : plus de nicotine, plus de liquide, moins cher. Le produit a été conçu pour maximiser la consommation.
 
-Certaines vapes jetables actuelles atteignent aujourd'hui 20 à 50 mg/mL de nicotine, avec des modèles américains à 5% de concentration. Une vape à 5% de nicotine contient environ 50 mg de nicotine, soit l'équivalent d'un paquet entier en termes de nicotine délivrée. Passer une journée avec une seule vape jetable peut donc revenir à fumer bien plus qu'un paquet.
+Certaines vapes jetables actuelles atteignent aujourd'hui 20 à 50 mg/mL de nicotine, avec des modèles américains à 5 % de concentration. Une vape à 5 % de nicotine contient environ 50 mg de nicotine, soit l'équivalent d'un paquet entier en termes de nicotine délivrée. Passer une journée avec une seule vape jetable peut donc revenir à fumer bien plus qu'un paquet.
 
-En 2024, les vapes jetables représentaient 55,6% de tous les produits de vape utilisés selon les données du HHS et de la FDA. Ce n'est plus un produit de niche : c'est devenu la norme, et cette norme est beaucoup plus concentrée en nicotine que ce que le marché proposait il y a quelques années à peine.
+En 2024, les vapes jetables représentaient 55,6 % de tous les produits de vape utilisés selon les données du HHS et de la FDA. Ce n'est plus un produit de niche : c'est devenu la norme, et cette norme est beaucoup plus concentrée en nicotine que ce que le marché proposait il y a quelques années à peine.
 
 ## Pourquoi le cerveau devient-il accro aussi vite avec la vape ?
 
@@ -37,11 +37,11 @@ Chez les ados, dont le cerveau est encore en développement, cette perturbation 
 
 Beaucoup de gens pensent qu'en passant à un e-liquide moins dosé, ils vont réduire leur dépendance en douceur. Le problème, c'est que le corps compense. Une étude publiée dans Addiction en 2019 a montré que lorsque le taux de nicotine baisse, l'envie de vapoter et les symptômes de sevrage diminuent effectivement, mais la consommation réelle de nicotine augmente : les gens tirent plus de bouffées, plus longtemps, et s'exposent à plus de formaldéhyde. Résultat, on croit réduire sa consommation alors qu'on l'augmente.
 
-C'est un des pièges les plus insidieux de la vape jetable : elle donne l'illusion du contrôle pendant qu'elle en retire.
+C'est un des pièges les plus insidieux de la vape jetable : elle te donne l'illusion du contrôle tout en te le retirant.
 
 ## Le rôle des arômes dans tout ça
 
-On oublie souvent ce facteur, mais les arômes jouent un rôle énorme. En 2024, 87,6% des utilisateurs actuels de cigarettes électroniques vapotaient des produits aromatisés, d'après le HHS. Mangue, glace bleue, fraise-menthe : ces goûts masquent l'agressivité de la nicotine et rendent chaque bouffée agréable, ce qui facilite une consommation beaucoup plus fréquente qu'avec une cigarette classique au goût de tabac brut.
+On oublie souvent ce facteur, mais les arômes jouent un rôle énorme. En 2024, 87,6 % des utilisateurs actuels de cigarettes électroniques vapotaient des produits aromatisés, d'après le HHS. Mangue, glace bleue, fraise-menthe : ces goûts masquent l'agressivité de la nicotine et rendent chaque bouffée agréable, ce qui facilite une consommation beaucoup plus fréquente qu'avec une cigarette classique au goût de tabac brut.
 
 ## Et après la vape, quoi ?
 

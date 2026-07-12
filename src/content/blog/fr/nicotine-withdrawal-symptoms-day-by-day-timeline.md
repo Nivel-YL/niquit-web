@@ -19,7 +19,7 @@ Les 24 à 72 premières heures sont un sprint. Ton corps termine d'éliminer la 
 
 Le pic absolu arrive au jour 2 ou 3. La Cleveland Clinic le confirme : c'est à ce moment précis que les symptômes sont les plus intenses. Tu peux te sentir à fleur de peau, incapable de te concentrer sur une tâche simple, avec l'impression que ton cerveau tourne au ralenti.
 
-Il y a une explication biologique derrière cette sensation de vide. D'après une étude publiée dans Clinical Trials Protocol en 2011, le sevrage aigu de la nicotine provoque une baisse de la libération de dopamine dans le noyau accumbens, une zone clé du circuit de la récompense. Des expériences de microdialyse citées par News Medical en 2025 montrent que les niveaux de dopamine dans le striatum chutent de plus de 20% pendant cette période. Concrètement : ton cerveau réclame une récompense chimique qu'il ne reçoit plus, et il te le fait savoir.
+Il y a une explication biologique derrière cette sensation de vide. D'après une étude publiée dans Clinical Trials Protocol en 2011, le sevrage aigu de la nicotine provoque une baisse de la libération de dopamine dans le noyau accumbens, une zone clé du circuit de la récompense. Des expériences de microdialyse citées par News Medical en 2025 montrent que les niveaux de dopamine dans le striatum chutent de plus de 20 % pendant cette période. Concrètement : ton cerveau réclame une récompense chimique qu'il ne reçoit plus, et il te le fait savoir.
 
 Le sommeil part en vrille aussi. Le EX Program note que les changements dans le rythme du sommeil démarrent souvent entre 24 et 36 heures après l'arrêt, avec de la somnolence ou des difficultés à s'endormir pendant toute la première semaine.
 
@@ -43,7 +43,7 @@ Mais il y a une nuance importante que peu de gens mentionnent : une analyse publ
 
 Voici le chiffre le plus important de tout cet article : selon WebMD, la majorité des rechutes surviennent dans les deux premières semaines qui suivent l'arrêt. Si tu passes ce cap, les symptômes physiques commencent réellement à s'effacer, même si les défis mentaux et émotionnels comme l'anxiété ou l'irritabilité peuvent encore traîner.
 
-Ces deux semaines sont aussi celles où beaucoup de gens tentent d'arrêter seuls, sans aucun soutien. Le CDC rapporte qu'environ 68% des fumeurs adultes veulent arrêter, mais que seulement 7,5% y parviennent chaque année sans accompagnement. À l'inverse, les traitements de substitution nicotinique combinés à un accompagnement comportemental permettent d'atteindre des taux de réussite initiaux entre 40% et 50%, selon des données d'essais cliniques publiées dans PMC (PMC2879135). La différence n'est pas une question de volonté, c'est une question d'outils.
+Ces deux semaines sont aussi celles où beaucoup de gens tentent d'arrêter seuls, sans aucun soutien. Le CDC rapporte qu'environ 68 % des fumeurs adultes veulent arrêter, mais que seulement 7,5 % y parviennent chaque année sans accompagnement. À l'inverse, les traitements de substitution nicotinique combinés à un accompagnement comportemental permettent d'atteindre des taux de réussite initiaux entre 40 % et 50 %, selon des données d'essais cliniques publiées dans PMC (PMC2879135). La différence n'est pas une question de volonté, c'est une question d'outils.
 
 Si tu envisages d'arrêter du jour au lendemain sans filet, on a détaillé ailleurs pourquoi cette méthode échoue pour la plupart des gens, et ce qui fonctionne mieux à la place.
 

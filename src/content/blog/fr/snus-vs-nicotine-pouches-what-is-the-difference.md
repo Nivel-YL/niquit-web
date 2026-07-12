@@ -33,7 +33,7 @@ Autrement dit, tu échanges un risque cancérigène contre un risque cardiovascu
 
 ## Est-ce que ça aide vraiment à arrêter de fumer ?
 
-C'est peut-être le chiffre le plus surprenant de toute cette histoire. Selon l'enquête ETHRA menée auprès de plus de 35 000 consommateurs européens, 83,5% des vapoteurs et 73,7% des utilisateurs de snus ont réussi à abandonner complètement la cigarette. Ce sont des taux très élevés, bien supérieurs à ceux obtenus avec les substituts nicotiniques classiques comme les patchs ou les gommes.
+C'est peut-être le chiffre le plus surprenant de toute cette histoire. Selon l'enquête ETHRA menée auprès de plus de 35 000 consommateurs européens, 83,5 % des vapoteurs et 73,7 % des utilisateurs de snus ont réussi à abandonner complètement la cigarette. Ce sont des taux très élevés, bien supérieurs à ceux obtenus avec les substituts nicotiniques classiques comme les patchs ou les gommes.
 
 Ça ne veut pas dire que le snus ou les sachets de nicotine sont une solution miracle. Ça veut juste dire que, pour certaines personnes, remplacer la cigarette par un produit qui apporte de la nicotine sans combustion facilite réellement la transition. Le vrai objectif reste ensuite de réduire progressivement, puis d'arrêter la nicotine elle-même.
 
@@ -43,12 +43,12 @@ C'est le point le plus urgent à connaître si tu es en France. Depuis avril 202
 
 Cette décision n'est pas venue de nulle part. En 2022, les autorités sanitaires françaises ont recensé 131 cas d'intoxication liés aux sachets de nicotine, contre seulement 19 en 2020. Une multiplication par presque sept en deux ans, principalement chez des jeunes qui n'avaient jamais fumé auparavant.
 
-Fait intéressant, la France affichait pourtant l'un des marchés les moins réceptifs d'Europe à ce produit avant l'interdiction. Seulement 9% des Français interrogés disaient avoir été exposés à de la publicité pour les sachets de nicotine, contre 16% en moyenne dans l'Union européenne. Et 0% des répondants français trouvaient ces produits attractifs, un score parmi les plus bas du continent. Malgré ça, l'usage progressait assez vite chez les adolescents pour justifier une interdiction totale.
+Fait intéressant, la France affichait pourtant l'un des marchés les moins réceptifs d'Europe à ce produit avant l'interdiction. Seulement 9 % des Français interrogés disaient avoir été exposés à de la publicité pour les sachets de nicotine, contre 16 % en moyenne dans l'Union européenne. Et 0 % des répondants français trouvaient ces produits attractifs, un score parmi les plus bas du continent. Malgré ça, l'usage progressait assez vite chez les adolescents pour justifier une interdiction totale.
 
 Le snus, lui, reste interdit à la vente dans l'Union européenne depuis 1992, sauf en Suède qui bénéficie d'une dérogation historique. Concrètement, si tu es en France aujourd'hui, ni le snus ni les sachets de nicotine ne sont des options légales.
 
 ## Ce qu'il faut vraiment retenir de tout ça
 
-À l'échelle européenne, l'usage des sachets de nicotine restait marginal en 2021, autour de 0,3% des adultes, mais les projections annonçaient un triplement rapide, porté surtout par les jeunes. Cette croissance rapide explique en grande partie pourquoi plusieurs pays, dont la France, ont fini par serrer la vis.
+À l'échelle européenne, l'usage des sachets de nicotine restait marginal en 2021, autour de 0,3 % des adultes, mais les projections annonçaient un triplement rapide, porté surtout par les jeunes. Cette croissance rapide explique en grande partie pourquoi plusieurs pays, dont la France, ont fini par serrer la vis.
 
 Si tu cherches à arrêter la nicotine plutôt qu'à changer de support, la vraie question n'est pas snus contre sachet. C'est plutôt : combien de temps encore tu comptes dépendre d'un produit, quel qu'il soit, pour tenir ta journée. Le snus et les sachets de nicotine peuvent être des étapes utiles vers la sortie de la cigarette pour certains. Mais ce sont des étapes, pas une destination.

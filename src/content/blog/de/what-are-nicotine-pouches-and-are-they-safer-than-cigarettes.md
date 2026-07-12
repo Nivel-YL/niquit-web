@@ -11,7 +11,7 @@ heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigare
 
 Ein kleiner weißer Beutel unter der Lippe, kein Rauch, kein Geruch, kein Aschenbecher. Genau das macht Nikotinbeutel wie Velo, Zyn oder White Fox gerade so beliebt, vor allem bei jüngeren Erwachsenen und bei Rauchern, die umsteigen wollen. Die große Frage dahinter: Sind Nikotinbeutel wirklich sicherer als Zigaretten, oder wird hier nur ein altes Problem neu verpackt?
 
-Die kurze Antwort lautet: in mancher Hinsicht ja, in anderer Hinsicht nein. Und genau diese Unterscheidung lohnt sich, bevor du dich für oder gegen ein Produkt entscheidest.
+Die kurze Antwort: Für die Lunge ja, für die Nikotinsucht nein. Genau diese Unterscheidung lohnt sich, bevor du dich entscheidest.
 
 ## Was sind Nikotinbeutel eigentlich?
 

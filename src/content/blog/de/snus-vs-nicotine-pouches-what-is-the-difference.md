@@ -59,3 +59,5 @@ Nicotine Pouches sind da unkomplizierter. Sie sind bei Raumtemperatur lagerfähi
 Die Entscheidung zwischen Snus und Nicotine Pouches ist am Ende eine Frage von Prioritäten. Wer den klassischen Tabakgeschmack mag und eine langsamere, länger anhaltende Wirkung bevorzugt, findet in Snus das passendere Produkt. Wer lieber schnell wirkende, geschmacklich vielfältige und einfach zu lagernde Alternativen sucht, greift eher zu Pouches.
 
 Was beide Produkte gemeinsam haben: Sie enthalten Nikotin, und Nikotin macht abhängig, egal ob mit oder ohne Tabak drumherum. Die Stärkeangaben solltest du ernst nehmen, gerade bei den in Deutschland beliebten starken Marken. Wer von einer schwächeren Snus-Sorte zu einem 30-mg-Pouch wechselt, merkt den Unterschied schnell, und nicht immer angenehm.
+
+**Rechtlicher Hinweis:** Die gesetzlichen Regelungen zu Nikotinbeuteln unterscheiden sich von Land zu Land. Frankreich hat Nikotinbeutel zum 1. April 2026 landesweit verboten - Herstellung, Verkauf, Kauf, Besitz, Konsum und Einfuhr sind seither untersagt. Wer in Frankreich lebt oder in einem anderen Land mit vergleichbaren Einschränkungen, sollte vor dem Kauf die lokale Rechtslage prüfen.

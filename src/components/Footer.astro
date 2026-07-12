@@ -1,5 +1,5 @@
 ---
-import { type Lang, t } from '../i18n/ui';
+import { type Lang, t, localePath } from '../i18n/ui';
 
 interface Props { lang: Lang; }
 const { lang } = Astro.props;
@@ -17,8 +17,8 @@ const s = t(lang);
 
       <!-- Links -->
       <div class="flex flex-wrap gap-x-6 gap-y-2 text-sm" style="color:#B0B8C8;">
-        <a href="/privacy" class="hover:text-white transition-colors">{s.footer.privacy}</a>
-        <a href="/terms" class="hover:text-white transition-colors">{s.footer.terms}</a>
+        <a href={localePath(lang, 'privacy')} class="hover:text-white transition-colors">{s.footer.privacy}</a>
+        <a href={localePath(lang, 'terms')} class="hover:text-white transition-colors">{s.footer.terms}</a>
         <span class="flex items-center gap-2">
           <a href="mailto:hello@niquit.app" class="hover:text-white transition-colors">{s.footer.contact}</a>
           <span style="color:#6B7A8D; font-size:0.8em;">hello@niquit.app</span>

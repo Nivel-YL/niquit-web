@@ -13,7 +13,7 @@ Du wachst auf und greifst als Erstes zur Vape, noch bevor du dein Handy checkst.
 
 ## Woran erkenne ich, dass ich vaping-süchtig bin?
 
-Die klassischen Warnsignale sind bei Vapes eigentlich dieselben wie bei Zigaretten, nur dass sie leichter übersehen werden. Du brauchst die Vape direkt nach dem Aufwachen. Du wirst unruhig oder gereizt, wenn du sie gerade nicht dabei hast. Konzentration und Schlaf leiden. Du hast schon versucht aufzuhören, es hat aber nicht geklappt.
+Die klassischen Warnsignale sind bei Vapes dieselben wie bei Zigaretten, nur dass sie leichter übersehen werden. Du brauchst die Vape direkt nach dem Aufwachen. Du wirst unruhig oder gereizt, wenn du sie gerade nicht dabei hast. Konzentration und Schlaf leiden. Du hast schon versucht aufzuhören, es hat aber nicht geklappt.
 
 Bei Vapes kommen noch ein paar Eigenheiten dazu, die das Erkennen der Sucht erschweren. Weil das Gerät überall verfügbar ist und kaum jemand komisch schaut, wenn du in der U-Bahn kurz ziehst, verschwimmt die Grenze zwischen Gewohnheit und Sucht. Viele greifen zur Vape, ohne überhaupt bewusst darüber nachzudenken, fast wie beim Handy in der Hosentasche. Genau diese Automatik macht es so schwer, den eigenen Konsum überhaupt zu zählen.
 
@@ -39,7 +39,7 @@ Beim Ziehen an der Vape gelangt Nikotin extrem schnell ins Blut und von dort ins
 
 Besonders kritisch ist das bei jungen Menschen, deren Gehirn sich bis etwa zum 25. Lebensjahr noch weiterentwickelt. Nikotin greift in diesen Entwicklungsprozess ein und kann Lernen, Impulskontrolle und Stimmungsregulation langfristig beeinflussen. Wer in dieser Phase regelmäßig Nikotin konsumiert, verankert die Abhängigkeit tiefer, als es später der Fall wäre.
 
-## Warum macht mich Vapen eigentlich nervöser statt entspannter?
+## Warum macht mich Vapen nervöser statt entspannter?
 
 Viele fangen genau deshalb mit dem Vapen an, weil sie sich davon Entspannung versprechen. Das Problem ist die Wirkung, die eintritt, wenn der Nikotinspiegel wieder abfällt. Mit steigender Abhängigkeit werden die Entzugssymptome stärker, und die machen sich vor allem als schlechte Laune, Reizbarkeit und innere Unruhe bemerkbar.
 

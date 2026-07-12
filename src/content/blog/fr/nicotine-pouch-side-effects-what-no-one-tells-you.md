@@ -51,4 +51,4 @@ Cette interdiction n'est pas arrivée par hasard. Elle reflète une inquiétude 
 
 Un sachet de nicotine n'est pas un bonbon inoffensif. C'est une dose de nicotine parfois plus forte qu'une cigarette, livrée directement dans ton sang, avec des effets sur tes gencives, ton cœur et, si tu as moins de 25 ans, sur ton cerveau encore en construction.
 
-Si tu utilises des sachets pour arrêter de fumer, c'est une intention louable, mais le risque de simplement transférer ta dépendance existe bel et bien. La vraie sortie, celle qui fonctionne sur la durée, passe par une réduction progressive de la nicotine elle-même, pas par un changement de contenant.
+Si tu utilises des sachets pour arrêter de fumer, c'est un bon point de départ, mais le risque de simplement transférer ta dépendance existe bel et bien. La vraie sortie, celle qui fonctionne sur la durée, passe par une réduction progressive de la nicotine elle-même, pas par un changement de contenant.

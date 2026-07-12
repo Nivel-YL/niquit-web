@@ -17,7 +17,7 @@ This guide skips the motivational fluff. It's built around what the research act
 
 Vapes solved cigarettes' biggest inconvenience: they're always available. No going outside, no smell clinging to your clothes, no lighter. You can hit a vape at your desk, in your car, in bed. That accessibility is exactly why it's harder to quit.
 
-There's also the nicotine itself. Many vape pods use nicotine salts, which get absorbed faster and in higher concentrations than the freebase nicotine in old-school e-cigarettes or even cigarettes. Over 60% of teen vapers now use salt-based products. Your brain gets used to frequent, rapid nicotine hits, and that rewires your dopamine system fast. Some studies found 76% of teen vapers were reaching for their device within 30 minutes of waking up, a level of dependence normally associated with heavy cigarette smokers.
+There's also the nicotine itself. Many vape pods use nicotine salts, which get absorbed faster and in higher concentrations than the freebase nicotine in old-school e-cigarettes or even cigarettes. Over 60% of teen vapers now use salt-based products. Your brain gets used to frequent, rapid nicotine hits, and that rewires your dopamine system fast. A 2023 Truth Initiative survey found 76% of teen vapers were reaching for their device within 30 minutes of waking up, a level of dependence normally associated with heavy cigarette smokers.
 
 None of this means quitting is impossible. It means you need a plan that accounts for how the product actually works on your brain.
 
@@ -39,7 +39,7 @@ You have real options here, and pretending willpower alone will carry you throug
 
 Nicotine replacement therapy (patches, gum, lozenges) can ease the physical cravings while you deal with the behavioral side separately. Some people taper their vape's nicotine strength over a few weeks before quitting entirely, which can soften the crash. Others go cold turkey and accept a rough five to seven days.
 
-There's no single right answer, but there is data on what helps. Phone-based quitline coaching showed real results: in one study, 45% of participants aged 18-24 had stopped vaping entirely three months after starting coaching calls. That's a strikingly high success rate for a free, low-effort resource that most people never think to use.
+There's no single right answer, but there is data on what helps. Phone-based quitline coaching showed real results: a Journal of Adolescent Health study found 45% of participants aged 18-24 had stopped vaping entirely three months after starting coaching calls. That's a strikingly high success rate for a free, low-effort resource that most people never think to use.
 
 ## Step 4: Rebuild the moments you used to fill with vaping
 

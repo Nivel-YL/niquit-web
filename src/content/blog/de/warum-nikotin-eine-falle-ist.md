@@ -22,4 +22,4 @@ Den Mechanismus zu verstehen ist keine Theorie. Es verändert, wie du Verlangen 
 
 Wenn ein Craving kommt und du weißt, dass es nur ein Entzugssymptom ist und kein echtes Bedürfnis, dann ist es leichter, es durchzuhalten. Verlangen erreicht seinen Höhepunkt innerhalb von Minuten und klingt von selbst ab. Jedes Mal, das du es ohne Zigarette überwindest, macht das nächste kürzer.
 
-NiQuit ist um diesen Gedanken herum aufgebaut. Keine Willenskraft. Keine Pflaster. Verstehen.
+NiQuit basiert auf diesem Gedanken. Keine Willenskraft. Keine Pflaster. Verstehen.

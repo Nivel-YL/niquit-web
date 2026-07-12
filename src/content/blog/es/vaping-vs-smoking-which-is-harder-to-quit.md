@@ -17,7 +17,7 @@ Durante años se vendió la idea de que el vape era el hermano menor y más mane
 
 Un cigarrillo se termina. Lo enciendes, fumas, lo apagas. Ese final natural marca una pausa que tu cerebro reconoce.
 
-El vape no tiene ese límite. A diferencia de los cigarrillos que se consumen y terminan, los vapes se pueden usar de forma continua, lo que dificulta reconocer los patrones de consumo y crear pausas naturales. Puedes dar una calada mientras esperas el ascensor, mientras conduces, mientras ves una serie, sin que nadie lo note y sin que tú mismo lo registres como "un cigarrillo más".
+El vape no tiene ese límite. No hay ninguna "última calada" que marque una pausa obligatoria. Puedes darle mientras esperas el ascensor, mientras conduces, mientras ves una serie, sin que nadie lo note y sin que tú mismo lo registres como "un cigarrillo más".
 
 Esto tiene una consecuencia directa en la velocidad de la adicción. La adicción al vapeo suele desarrollarse más rápido de lo que muchos usuarios esperan. El cuerpo se acostumbra a recibir nicotina de forma casi constante, y esa costumbre se instala antes de que te des cuenta de que ya no puedes parar.
 

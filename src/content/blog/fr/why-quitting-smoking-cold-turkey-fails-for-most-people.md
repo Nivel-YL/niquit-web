@@ -1,17 +1,17 @@
 ---
 title: "Pourquoi arrêter de fumer d'un coup ne marche presque jamais"
-description: "Arrêter de fumer du jour au lendemain semble être la méthode la plus simple. Les chiffres montrent pourtant qu'elle échoue dans 93 à 97% des cas."
+description: "Arrêter de fumer du jour au lendemain semble être la méthode la plus simple. Les chiffres montrent pourtant qu'elle échoue dans 93 à 97 % des cas."
 publishDate: 2026-07-11
 lang: fr
 draft: true
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 
-> Arrêter de fumer du jour au lendemain semble être la méthode la plus simple. Les chiffres montrent pourtant qu'elle échoue dans 93 à 97% des cas.
+> Arrêter de fumer du jour au lendemain semble être la méthode la plus simple. Les chiffres montrent pourtant qu'elle échoue dans 93 à 97 % des cas.
 
-Tu as jeté ton paquet à la poubelle un lundi matin, plein de bonne volonté. Trois jours plus tard, tu étais en train d'en racheter un. Si c'est ton histoire, tu n'es pas seul. Arrêter de fumer du jour au lendemain, ce qu'on appelle la méthode "cold turkey", ne fonctionne que pour 3 à 7% des fumeurs sur le long terme, selon Truth Initiative et UCSF Health. Autrement dit, sur cent personnes qui arrêtent brutalement sans aucune aide, moins de sept sont encore non-fumeuses six mois plus tard.
+Tu as jeté ton paquet à la poubelle un lundi matin, plein de bonne volonté. Trois jours plus tard, tu étais en train d'en racheter un. Si c'est ton histoire, tu n'es pas seul. Arrêter de fumer du jour au lendemain, ce qu'on appelle la méthode "cold turkey", ne fonctionne que pour 3 à 7 % des fumeurs sur le long terme, selon Truth Initiative et UCSF Health. Autrement dit, sur cent personnes qui arrêtent brutalement sans aucune aide, moins de sept sont encore non-fumeuses six mois plus tard.
 
-Et pourtant, c'est la méthode la plus utilisée au monde. Plus de 74,7% des fumeurs qui tentent d'arrêter le font sans assistance, que ce soit d'un coup ou avec des remèdes maison, selon Wikipedia. On a tous cette idée que la volonté suffit, qu'il suffit de "tenir bon" quelques jours difficiles. Le problème, c'est que ce n'est pas une question de caractère. C'est une question de chimie cérébrale.
+Et pourtant, c'est la méthode la plus utilisée au monde. Plus de 74,7 % des fumeurs qui tentent d'arrêter le font sans assistance, que ce soit d'un coup ou avec des remèdes maison, selon Wikipedia. On a tous cette idée que la volonté suffit, qu'il suffit de "tenir bon" quelques jours difficiles. Le problème, c'est que ce n'est pas une question de caractère. C'est une question de chimie cérébrale.
 
 ## Pourquoi j'ai si envie de fumer après avoir arrêté d'un coup ?
 
@@ -29,9 +29,9 @@ Le problème, c'est justement que ces deux premières semaines sont les plus vio
 
 ## Faut-il arrêter progressivement ou d'un coup ?
 
-C'est là que les choses deviennent intéressantes. Un essai clinique randomisé mené par Lindson-Hawley et relayé par Time a comparé les deux approches, arrêt brutal contre réduction progressive, chez des fumeurs bénéficiant tous les deux d'un accompagnement (substituts nicotiniques et suivi comportemental). À quatre semaines, 49% du groupe "arrêt brutal" avaient réussi, contre 39% du groupe "réduction progressive". Mais à six mois, l'écart s'inverse en partie : 22% du groupe brutal étaient toujours non-fumeurs, contre 15% du groupe progressif.
+C'est là que les choses deviennent intéressantes. Un essai clinique randomisé mené par Lindson-Hawley et relayé par Time a comparé les deux approches, arrêt brutal contre réduction progressive, chez des fumeurs bénéficiant tous les deux d'un accompagnement (substituts nicotiniques et suivi comportemental). À quatre semaines, 49 % du groupe "arrêt brutal" avaient réussi, contre 39 % du groupe "réduction progressive". Mais à six mois, l'écart s'inverse en partie : 22 % du groupe brutal étaient toujours non-fumeurs, contre 15 % du groupe progressif.
 
-Ce qui ressort de cette étude, ce n'est pas que l'arrêt brutal est mauvais en soi. C'est que l'arrêt brutal fonctionne mieux quand il est accompagné. Sans accompagnement, on retombe sur les chiffres de 3 à 7%. Avec un accompagnement (médicaments et suivi psychologique combinés), les chances de réussite peuvent être multipliées par plus de trois, selon Truth Initiative. La différence ne se joue pas sur la volonté, elle se joue sur les outils.
+Ce qui ressort de cette étude, ce n'est pas que l'arrêt brutal est mauvais en soi. C'est que l'arrêt brutal fonctionne mieux quand il est accompagné. Sans accompagnement, on retombe sur les chiffres de 3 à 7 %. Avec un accompagnement (médicaments et suivi psychologique combinés), les chances de réussite peuvent être multipliées par plus de trois, selon Truth Initiative. La différence ne se joue pas sur la volonté, elle se joue sur les outils.
 
 ## Que faire à la place du sevrage brutal sans aide ?
 

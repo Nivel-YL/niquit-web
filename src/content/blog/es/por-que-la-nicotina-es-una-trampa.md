@@ -8,7 +8,7 @@ draft: true
 
 La nicotina no te hace sentir bien. Elimina el malestar que ella misma provoca.
 
-Esa es toda la trampa. El anhelo que sientes no es un deseo de placer. Es tu cerebro pidiendo la sustancia que ahora necesita solo para sentirse normal. En el momento en que entiendes esto, la trampa empieza a perder su fuerza.
+Esa es toda la trampa. El anhelo que sientes no es un deseo de placer. Es tu cerebro pidiendo la sustancia que ahora necesita solamente para sentirse normal. En el momento en que entiendes esto, la trampa empieza a perder su fuerza.
 
 ## El alivio no es lo que parece
 
@@ -22,4 +22,4 @@ Entender el mecanismo no es un ejercicio intelectual. Cambia la manera en que ex
 
 Cuando llega un antojo y sabes que es simplemente abstinencia, no una señal de que necesitas algo, se vuelve más fácil dejarlo pasar. Los antojos alcanzan su punto máximo en minutos y luego ceden solos. Cada uno que superas sin ceder hace el siguiente más corto.
 
-NiQuit está construido alrededor de esta idea. Sin fuerza de voluntad. Sin parches. Entendimiento.
+NiQuit se basa en esta idea. Sin fuerza de voluntad. Sin parches. Entendimiento.

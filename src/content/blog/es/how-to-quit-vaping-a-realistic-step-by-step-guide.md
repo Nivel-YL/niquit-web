@@ -17,9 +17,9 @@ La buena noticia es que sí existe un camino que funciona. No es mágico ni inst
 
 La nicotina líquida de los vapes suele venir en concentraciones altas, hasta 20 mg/mL en países como España, que es el límite legal. Eso significa que muchos vapeadores reciben dosis de nicotina comparables o incluso superiores a las de un cigarrillo, pero con la ventaja (o desventaja) de poder darle una calada cada cinco minutos sin que nadie se dé cuenta.
 
-Esa disponibilidad constante es la trampa. El cuerpo se acostumbra a un flujo de nicotina prácticamente ininterrumpido, y eso hace que el mono aparezca más rápido y con más intensidad que con el tabaco fumado de forma tradicional.
+Esa disponibilidad constante es la trampa. El cuerpo se acostumbra a un flujo de nicotina prácticamente ininterrumpido, y eso hace que la abstinencia aparezca más rápido y con más intensidad que con el tabaco fumado de forma tradicional.
 
-## ¿Cuáles son los síntomas del mono al dejar de vapear?
+## ¿Cuáles son los síntomas de abstinencia al dejar de vapear?
 
 En las primeras dos semanas es normal sentir irritación de garganta (le pasa a más de un tercio de quienes lo dejan), sequedad bucal, dolor de cabeza y tos seca. Suena desagradable, y lo es, pero aquí está el dato que importa: estos síntomas bajan muchísimo hacia la semana 24. No es una sensación eterna, es un pico que se atraviesa.
 
@@ -31,7 +31,7 @@ Elige un día concreto para dejarlo, idealmente uno sin demasiado estrés previs
 
 ## Paso 2: reduce antes de cortar de golpe
 
-Contrario a lo que mucha gente cree, no hace falta dejarlo en seco desde el minuto uno. Bajar la concentración de nicotina de tu líquido durante dos o tres semanas antes de la fecha elegida suaviza mucho el golpe. Si vapeas con 20 mg/mL, pasa a 12, luego a 6, antes de eliminarlo del todo.
+Al contrario de lo que mucha gente cree, no hace falta dejarlo en seco desde el minuto uno. Bajar la concentración de nicotina de tu líquido durante dos o tres semanas antes de la fecha elegida suaviza mucho el golpe. Si vapeas con 20 mg/mL, pasa a 12, luego a 6, antes de eliminarlo del todo.
 
 ## Paso 3: identifica tus disparadores reales
 

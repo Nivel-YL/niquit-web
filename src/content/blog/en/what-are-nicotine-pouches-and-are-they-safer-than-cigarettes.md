@@ -23,7 +23,7 @@ Here's where it gets nuanced. The single biggest health argument in favor of pou
 
 That's a real difference, and it's the foundation of the "harm reduction" case that public health bodies in places like the UK have leaned on for years with other smoke-free products.
 
-But "less harmful than cigarettes" is not the same as "safe." Nicotine itself, regardless of delivery method, raises your heart rate and blood pressure and is one of the most addictive substances readily available. Some pouches pack a serious punch, too. Standard strengths run around 3mg to 6mg of nicotine per pouch, but "extra strength" versions can hit 8mg to 12mg, which in some cases delivers more nicotine per unit than a single cigarette. That's not a minor detail if you're trying to actually reduce your dependence rather than just relocate it.
+But "less harmful than cigarettes" is not the same as "safe." Nicotine itself, regardless of delivery method, raises your heart rate and blood pressure and is one of the most addictive substances readily available. Some pouches pack a serious punch, too. Standard strengths run around 3mg to 6mg of nicotine per pouch, but "extra strength" versions can hit 8mg to 12mg, which delivers more nicotine per unit than a single cigarette. That's not a minor detail if you're trying to actually reduce your dependence rather than just relocate it.
 
 ## Do nicotine pouches cause gum damage?
 

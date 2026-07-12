@@ -43,9 +43,9 @@ Nicotine pouches go in a completely different direction. Mint, citrus, berry, co
 
 ## Why are nicotine pouches suddenly everywhere?
 
-The growth here isn't small. The global nicotine pouch market was worth close to $7 billion in 2024, with sales jumping more than 50% in a single year from 2023 to 2024. Nearly 80% of that revenue comes from the United States alone, where the market was valued at $2.4 billion in 2025 and is projected to keep growing at over 20% a year through 2035.
+The growth here isn't small. According to Grand View Research, the global nicotine pouch market was worth close to $7 billion in 2024, with sales jumping more than 50% in a single year from 2023 to 2024. Nearly 80% of that revenue comes from the United States alone, where the market was valued at $2.4 billion in 2025 and is projected to keep growing at over 20% a year through 2035.
 
-Zoom out further and the shift is even more dramatic. Back in 2017, oral nicotine pouches made up just 0.6% of the nicotine sold by weight in e-cigarettes and pouches combined. By 2024, that number hit 37%. Total kilograms of nicotine sold through these two categories jumped from 655 kg to over 9,200 kg in seven years, better than a 1,300% increase.
+Zoom out further and the shift is even more dramatic. CDC Foundation and Circana data show that back in 2017, oral nicotine pouches made up just 0.6% of the nicotine sold by weight in e-cigarettes and pouches combined. By 2024, that number hit 37%. Total kilograms of nicotine sold through these two categories jumped from 655 kg to over 9,200 kg in seven years, better than a 1,300% increase.
 
 That growth isn't happening because pouches are a niche curiosity. It's happening because a lot of people are actively looking for something that isn't a cigarette and isn't tobacco, and pouches fit that gap.
 
@@ -56,3 +56,5 @@ Neither snus nor nicotine pouches are nicotine-free, so neither one gets you off
 But if you're weighing the two against each other, the practical differences are real. Nicotine pouches skip the tobacco-related health risks that come with snus, they're more discreet, they don't require refrigeration, and the wide strength range makes it easier to step your dose down over time. Snus delivers a steadier, longer release if that's what you're used to from years of dipping.
 
 If you're using either one as a stepping stone away from cigarettes, that can be a reasonable harm-reduction move. Just be honest with yourself about the next step: does this end with zero nicotine, or does it end with a different can in your pocket?
+
+**A note on legal status:** Regulations around nicotine pouches vary by country. France banned the manufacture, sale, purchase, possession, use, and import of nicotine pouches nationwide starting April 1, 2026. If you are in France or another country with restrictions on these products, check local law before purchasing.

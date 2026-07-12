@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base title="Politique de confidentialite" lang="fr" description="Politique de confidentialite de NiQuit">
+  <article class="max-w-2xl mx-auto px-5 py-16" style="color:#D0D8E8; line-height:1.8;">
+    <h1 class="text-3xl font-extrabold mb-2" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">
+      Politique de confidentialite de NiQuit
+    </h1>
+    <p class="text-sm mb-10" style="color:#B0B8C8;">Derniere mise a jour : 7 juillet 2026</p>
+
+    <p class="mb-6">NiQuit est une application d'aide a l'arret du tabac. Cette politique explique quelles donnees nous traitons et de quelle maniere.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Donnees stockees sur votre appareil</h2>
+    <p class="mb-3">Les informations suivantes sont stockees localement sur votre appareil via AsyncStorage et ne sont jamais transmises a nos serveurs :</p>
+    <ul class="list-disc pl-6 mb-6 space-y-1" style="color:#B0B8C8;">
+      <li>Habitudes de consommation (type de produit, quantite journaliere, prix par paquet)</li>
+      <li>Date d'arret</li>
+      <li>Progression dans le cours (lecons terminees)</li>
+      <li>Preferences de notifications</li>
+      <li>Langue selectionnee</li>
+    </ul>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Coach IA</h2>
+    <p class="mb-6">Lorsque vous utilisez la fonction Coach, vos messages sont transmis via notre serveur a <a href="https://www.anthropic.com/privacy" target="_blank" style="color:#35C6D8;">Anthropic</a> pour generer une reponse. Nous ne stockons pas vos conversations. Elles restent uniquement sur votre appareil. NiQuit ne lit ni ne conserve le contenu de vos echanges avec le Coach.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Paiements dans l'application</h2>
+    <p class="mb-6">Le soutien a NiQuit est entierement facultatif. Si vous choisissez de contribuer depuis l'application, le paiement est traite par le systeme d'achats integres de votre plateforme : <a href="https://www.apple.com/legal/privacy/" target="_blank" style="color:#35C6D8;">Apple</a> sur iOS ou <a href="https://policies.google.com/privacy" target="_blank" style="color:#35C6D8;">Google</a> sur Android. Nous ne recevons ni ne stockons vos coordonnees bancaires. Leurs politiques de confidentialite s'appliquent a la transaction. Nous utilisons <a href="https://www.revenuecat.com/privacy" target="_blank" style="color:#35C6D8;">RevenueCat</a> pour gerer les achats integres, qui recoit un enregistrement d'achat et un identifiant utilisateur anonyme, jamais vos informations de paiement.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Dons via le site web</h2>
+    <p class="mb-6">Si vous faites un don via le site NiQuit (niquit.app/support), votre paiement est traite par <a href="https://stripe.com/privacy" target="_blank" style="color:#35C6D8;">Stripe</a>. NiQuit ne stocke pas vos coordonnees bancaires. Stripe agit en tant que processeur de paiement et sa politique de confidentialite regit le traitement de vos donnees. Cela s'applique uniquement aux dons effectues sur le site, pas aux achats integres dans l'application.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Notifications push</h2>
+    <p class="mb-6">Les notifications de motivation sont programmees localement sur votre appareil. Le contenu des messages n'est pas transmis a des serveurs externes.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Analyse</h2>
+    <p class="mb-4">NiQuit utilise <a href="https://posthog.com/privacy" target="_blank" style="color:#35C6D8;">PostHog</a> pour comprendre l'utilisation globale de l'application. Toutes les donnees sont stockees exclusivement sur les serveurs de PostHog dans l'UE (eu.i.posthog.com) et ne sont jamais transferees en dehors de l'Union europeenne.</p>
+    <p class="mb-6">Nous collectons des evenements d'utilisation anonymes, comme "application ouverte", "etape franchie" ou "lecon du cours vue", ainsi qu'un identifiant genere aleatoirement qui n'est en aucun cas lie a votre identite. Nous ne collectons pas votre nom, adresse e-mail, date d'arret, habitudes de consommation, raison personnelle d'arret ni aucune autre information susceptible de vous identifier. NiQuit n'utilise pas de reseaux publicitaires ni de suivi inter-applications.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Enfants</h2>
+    <p class="mb-6">NiQuit s'adresse aux adultes de 18 ans et plus souhaitant arreter de consommer de la nicotine. Nous ne collectons pas sciemment de donnees concernant des personnes de moins de 18 ans.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Suppression des donnees</h2>
+    <p class="mb-6">Toutes les donnees de l'application sont stockees sur votre appareil. La suppression de l'application efface definitivement toutes les donnees.</p>
+
+    <h2 class="text-xl font-bold mt-10 mb-3" style="font-family:'Montserrat',sans-serif; color:#F5F7FA;">Contact</h2>
+    <p>Questions relatives a cette politique : <a href="mailto:hello@niquit.app" style="color:#35C6D8;">hello@niquit.app</a></p>
+  </article>
+</Base>

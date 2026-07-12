@@ -39,7 +39,7 @@ Un estudio de 2026 encontró que los adolescentes que vapean obtienen puntuacion
 
 El cerebro adolescente, además, es más sensible a las recompensas. Eso significa que el subidón que sientes al vapear se registra con más fuerza que en un adulto, y por eso el enganche ocurre más rápido y con menos exposición.
 
-## ¿Por qué me dan ganas de vapear solo con ver a alguien fumando o al entrar a ciertos lugares?
+## ¿Por qué me dan ganas de vapear solamente con ver a alguien fumando o al entrar a ciertos lugares?
 
 Esto tiene una explicación científica muy concreta. El cerebro asocia ciertos lugares, personas o momentos del día con el acto de vapear, y esas asociaciones alteran los niveles de dopamina antes de que tú tomes ninguna decisión consciente.
 
