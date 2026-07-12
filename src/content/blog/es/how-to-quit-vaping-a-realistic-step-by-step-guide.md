@@ -9,11 +9,11 @@ heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
 
 > Dejar de vapear no es cuestión de fuerza de voluntad. Te explicamos, paso a paso, cómo hacerlo con un plan que funciona de verdad.
 
-Si llevas semanas diciéndote "mañana lo dejo" y sigues dándole a la vape en cuanto te despiertas, no eres el único. En España hay más de 535.000 personas vapeando a diario, y muchas empezaron pensando que sería "solo un tiempo" para dejar el tabaco. Dejar de vapear tiene sus propias reglas, distintas a las del cigarro tradicional, y por eso una guía genérica de "fuerza de voluntad" no te va a servir de mucho.
+Si llevas semanas diciéndote "mañana lo dejo" y sigues dándole a la vape en cuanto te despiertas, no eres el único. En España hay más de 535.000 personas vapeando a diario, y muchas empezaron pensando que sería "solamente un tiempo" para dejar el tabaco. Dejar de vapear tiene sus propias reglas, distintas a las del cigarro tradicional, y por eso una guía genérica de "fuerza de voluntad" no te va a servir de mucho.
 
 La buena noticia es que sí existe un camino que funciona. No es mágico ni instantáneo, pero es realista. Vamos a desglosarlo.
 
-## ¿Por qué es tan difícil dejar el vapeo si "solo es vapor"?
+## ¿Por qué es tan difícil dejar el vapeo si "solamente es vapor"?
 
 La nicotina líquida de los vapes suele venir en concentraciones altas, hasta 20 mg/mL en países como España, que es el límite legal. Eso significa que muchos vapeadores reciben dosis de nicotina comparables o incluso superiores a las de un cigarrillo, pero con la ventaja (o desventaja) de poder darle una calada cada cinco minutos sin que nadie se dé cuenta.
 

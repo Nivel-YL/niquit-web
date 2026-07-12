@@ -41,7 +41,7 @@ Lo que ninguno de los dos hace es eliminar la dependencia. Si tu objetivo final 
 
 Depende de qué estés buscando exactamente. Si vienes de fumar y quieres algo con presencia, sabor a tabaco real y un efecto duradero, el snus puede sentirse más cercano a lo que dejaste atrás. Si prefieres algo discreto, sin manchas en los dientes, sin mal aliento y con más variedad de sabores, las bolsas de nicotina suelen ganar en comodidad diaria.
 
-Ninguna de las dos opciones te libera de la nicotina, solamente cambia el vehículo. Y ahí está el punto que casi nadie te dice cuando compras tu primera lata: tarde o temprano, si de verdad quieres dejarlo, vas a tener que enfrentar la dependencia misma, no solo el formato en el que llega.
+Ninguna de las dos opciones te libera de la nicotina, solamente cambia el vehículo. Y ahí está el punto que casi nadie te dice cuando compras tu primera lata: tarde o temprano, si de verdad quieres dejarlo, vas a tener que enfrentar la dependencia misma, no solamente el formato en el que llega.
 
 Conocer estas diferencias, eso sí, te ayuda a tomar decisiones con información real en lugar de suposiciones. Saber que una bolsa de 6 mg puede ser más suave que un snus tradicional, o que el snus libera nicotina más despacio, te permite ajustar mejor tu consumo mientras trabajas en reducirlo o dejarlo del todo.
 
