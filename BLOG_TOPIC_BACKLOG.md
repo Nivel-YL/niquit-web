@@ -73,17 +73,17 @@ topics:
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: C-04
   title_en: How to quit smoking when nothing has worked before
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
   cluster: D
-  status: pending
+  status: drafted
   published: {}
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
