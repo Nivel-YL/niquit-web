@@ -1,9 +1,9 @@
 ---
 title: "Cómo dejar de vapear: guía realista paso a paso"
 description: "Dejar de vapear no es cuestión de fuerza de voluntad. Te explicamos, paso a paso, cómo hacerlo con un plan que funciona de verdad."
-publishDate: 2026-07-06
+publishDate: 2026-07-13
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
 ---
 

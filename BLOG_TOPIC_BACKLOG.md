@@ -43,8 +43,13 @@ topics:
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-13'
+    ru: '2026-07-13'
+    de: '2026-07-13'
+    es: '2026-07-13'
+    fr: '2026-07-13'
 - id: B-02
   title_en: Are you addicted to vaping signs and science
   cluster: B
