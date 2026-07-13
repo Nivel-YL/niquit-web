@@ -13,6 +13,7 @@ import hashlib
 import os
 import re
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -248,6 +249,22 @@ def generate_svg(topic_id: str, cluster: str) -> str:
     )
 
 
+# ── retry helper ─────────────────────────────────────────────────────────────
+
+def with_retries(fn, *args, max_attempts: int = 3, **kwargs):
+    """Call fn(*args, **kwargs) up to max_attempts times with exponential backoff."""
+    for attempt in range(max_attempts):
+        try:
+            return fn(*args, **kwargs)
+        except Exception as exc:
+            if attempt < max_attempts - 1:
+                wait = 2 ** attempt  # 1s, 2s
+                print(f'  [retry {attempt + 1}/{max_attempts - 1}] {exc} — retrying in {wait}s', flush=True)
+                time.sleep(wait)
+            else:
+                raise
+
+
 # ── Claude calls ──────────────────────────────────────────────────────────────
 
 RESEARCH_SYSTEM = (
@@ -452,7 +469,10 @@ def write_article(
         }],
     )
 
-    text = next(b.text for b in resp.content if b.type == 'text').strip()
+    text_blocks = [b.text for b in resp.content if b.type == 'text']
+    if not text_blocks:
+        raise RuntimeError(f'API returned no text block for [{lang}] write call')
+    text = text_blocks[0].strip()
 
     title_m = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
     title   = title_m.group(1).strip() if title_m else topic_title
@@ -515,7 +535,8 @@ def process_language(
     lang_specific_facts = lang_specific.get(lang, '')
 
     print(f'[{lang}] writing...', flush=True)
-    title, description, body = write_article(
+    title, description, body = with_retries(
+        write_article,
         client, topic_title, lang, shared_facts, lang_specific_facts,
         voice_guide_txt, published_articles, cluster_prior_articles,
     )
@@ -547,7 +568,7 @@ def process_language(
     if lang_specific_facts:
         research_for_audit += f'\n\n{lang_specific_facts}'
 
-    audit_report = audit_article(client, article_text, research_for_audit)
+    audit_report = with_retries(audit_article, client, article_text, research_for_audit)
 
     audit_dir = AUDIT_DIR / article_slug
     audit_dir.mkdir(parents=True, exist_ok=True)
