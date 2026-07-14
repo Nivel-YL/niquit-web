@@ -70,8 +70,14 @@ html {
 }
 
 @keyframes float-mobile {
-  0%, 100% { transform: translateY(0px); }
-  50%       { transform: translateY(-12px); }
+  0%, 100% {
+    transform: translateY(0px);
+    box-shadow: 0 30px 60px rgba(0,0,0,.5), 0 0 0 1px rgba(53,198,216,.12);
+  }
+  50% {
+    transform: translateY(-14px);
+    box-shadow: 0 42px 75px rgba(0,0,0,.4), 0 0 0 1px rgba(53,198,216,.2);
+  }
 }
 
 .phone {
