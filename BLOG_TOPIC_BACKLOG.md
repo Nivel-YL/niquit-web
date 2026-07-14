@@ -53,13 +53,23 @@ topics:
 - id: B-02
   title_en: Are you addicted to vaping signs and science
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-14'
+    ru: '2026-07-14'
+    de: '2026-07-14'
+    es: '2026-07-14'
+    fr: '2026-07-14'
 - id: B-03
   title_en: Why disposable vapes are so hard to quit
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-14'
+    ru: '2026-07-14'
+    de: '2026-07-14'
+    es: '2026-07-14'
+    fr: '2026-07-14'
 - id: B-04
   title_en: Vaping vs smoking which is harder to quit?
   cluster: B

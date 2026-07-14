@@ -1,9 +1,9 @@
 ---
 title: "¿Eres adicto al vapeo? Señales y lo que dice la ciencia"
 description: "¿Vapeas nada más despertarte? Descubre las señales reales de adicción a la nicotina y qué dice la ciencia sobre dejar de vapear."
-publishDate: 2026-07-06
+publishDate: 2026-07-14
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg
 ---
 

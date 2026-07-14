@@ -1,9 +1,9 @@
 ---
 title: "Как понять, что у тебя зависимость от вейпа: признаки и научные факты"
 description: "Тянешься за вейпом каждые 20 минут и не замечаешь этого? Разбираем реальные признаки никотиновой зависимости от вейпинга и что говорит наука."
-publishDate: 2026-07-06
+publishDate: 2026-07-14
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg
 ---
 
