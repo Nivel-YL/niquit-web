@@ -10,16 +10,31 @@ interface Props {
 const { lang, size = 'md', location = 'hero' } = Astro.props;
 const s = t(lang);
 
-// When iOS launches: set SHOW_APPLE = true and fill APPLE_URL
-const SHOW_APPLE = false;
+const SHOW_APPLE = true;
 const GOOGLE_URL = 'https://play.google.com/store/apps/details?id=com.niquit.app';
-const APPLE_URL  = 'https://apps.apple.com/app/niquit/id6781069151';
+const APPLE_URL  = 'https://apps.apple.com/app/id6781069151';
 
 const classes = {
   sm:  'px-4 py-2 text-sm rounded-lg font-semibold',
   md:  'px-5 py-3 text-sm rounded-xl font-semibold',
   lg:  'px-7 py-4 text-base rounded-xl font-semibold',
 };
+
+// Official Apple-hosted badge, localized per language (same badge Apple's own
+// App Store Marketing Tools generator embeds: https://toolbox.marketingtools.apple.com/app-store/)
+const APPLE_BADGE_LOCALE: Record<Lang, string> = {
+  en: 'en-us',
+  ru: 'ru-ru',
+  de: 'de-de',
+  es: 'es-es',
+  fr: 'fr-fr',
+};
+const badgeHeights = {
+  sm: 'h-9',
+  md: 'h-11',
+  lg: 'h-14',
+};
+const appleBadgeSrc = `https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/${APPLE_BADGE_LOCALE[lang]}?size=250x83`;
 ---
 
 <div class={`flex gap-3 ${size === 'lg' ? 'flex-col sm:flex-row' : 'items-center'}`}>
@@ -39,10 +54,17 @@ const classes = {
       href={APPLE_URL}
       target="_blank"
       rel="noopener"
-      class={`${classes[size]} transition-opacity hover:opacity-90`}
-      style="background:#18243F; color:#F5F7FA; border:1px solid #22D3EE44;"
+      data-ph-install={location}
+      class="inline-flex items-center transition-opacity hover:opacity-90"
     >
-      {s.install.apple}
+      <img
+        src={appleBadgeSrc}
+        alt={s.install.apple}
+        width="250"
+        height="83"
+        loading="lazy"
+        class={`${badgeHeights[size]} w-auto`}
+      />
     </a>
   )}
 </div>
