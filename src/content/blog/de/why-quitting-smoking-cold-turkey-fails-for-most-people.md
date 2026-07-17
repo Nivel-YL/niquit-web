@@ -1,9 +1,9 @@
 ---
 title: "Warum kalter Entzug beim Rauchen für die meisten Menschen scheitert"
 description: "Fast 75% aller Raucher versuchen es ohne Hilfe, aber nur 3 bis 7% schaffen es dauerhaft. Die Gründe liegen tief im Gehirn, nicht in fehlender Willenskraft."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Why quitting smoking cold turkey fails for most people"
 description: "Cold turkey has a 3-7% long-term success rate. Here's the brain science behind why willpower alone can't beat nicotine withdrawal."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 

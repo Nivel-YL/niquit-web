@@ -73,13 +73,23 @@ topics:
 - id: B-04
   title_en: Vaping vs smoking which is harder to quit?
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-17'
+    ru: '2026-07-17'
+    de: '2026-07-17'
+    es: '2026-07-17'
+    fr: '2026-07-17'
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-17'
+    ru: '2026-07-17'
+    de: '2026-07-17'
+    es: '2026-07-17'
+    fr: '2026-07-17'
 - id: C-02
   title_en: Nicotine withdrawal symptoms day by day timeline
   cluster: C

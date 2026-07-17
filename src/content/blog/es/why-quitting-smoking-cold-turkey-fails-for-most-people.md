@@ -1,9 +1,9 @@
 ---
 title: "Por qué dejar de fumar de golpe falla en la mayoría de los casos"
 description: "Solamente entre el 3 y el 7% logra dejar el cigarro de golpe y sin ayuda. Descubre por qué el método más popular es también el que menos funciona."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 

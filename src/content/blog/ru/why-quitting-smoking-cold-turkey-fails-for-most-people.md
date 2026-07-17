@@ -1,9 +1,9 @@
 ---
 title: "Почему бросить курить резко не получается почти ни у кого"
 description: "Резкий отказ от курения работает только у 3-7% людей. Разбираемся, почему сила воли тут ни при чём и что действительно помогает."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 

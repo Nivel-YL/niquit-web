@@ -1,9 +1,9 @@
 ---
 title: "Pourquoi arrêter de fumer d'un coup ne marche presque jamais"
 description: "Arrêter de fumer du jour au lendemain semble être la méthode la plus simple. Les chiffres montrent pourtant qu'elle échoue dans 93 à 97 % des cas."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 
