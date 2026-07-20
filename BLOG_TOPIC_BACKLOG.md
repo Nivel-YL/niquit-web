@@ -113,17 +113,17 @@ topics:
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
   cluster: D
-  status: pending
+  status: drafted
   published: {}
 - id: D-03
   title_en: How to quit all nicotine at once multi-product addiction guide
   cluster: D
-  status: pending
+  status: drafted
   published: {}
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
-  status: pending
+  status: drafted
   published: {}
 - id: E-02
   title_en: Does smoking actually reduce stress the real science
