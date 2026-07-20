@@ -51,6 +51,6 @@ If your struggle isn't cigarettes but nicotine pouches like ZYN or Velo, the sam
 
 ## What actually addresses the psychological side
 
-There's a piece cold turkey skips entirely: the psychological dependence. Physical addiction fades on its own timeline, roughly two to four weeks per the Cleveland Clinic, but the habits, the associations, the "I always smoke with coffee" wiring stick around long after nicotine has left your bloodstream. Quit Smoking Advisor notes that this is exactly what cold turkey doesn't touch, which is why people who white-knuckle through the physical withdrawal often relapse months later over something as small as a stressful phone call or a drink with friends.
+There's a piece cold turkey skips entirely: the psychological dependence. Physical addiction fades on its own timeline, roughly two to four weeks per the Cleveland Clinic, but the habits, the associations, the "I always smoke with coffee" wiring stick around long after nicotine has left your bloodstream. The Cleveland Clinic notes that this is exactly what cold turkey doesn't touch, which is why people who white-knuckle through the physical withdrawal often relapse months later over something as small as a stressful phone call or a drink with friends.
 
 Most people relapse not because they lack willpower, but because their brain chemistry is still catching up. Knowing that changes what a failed attempt means. It's not proof you can't quit. It's data telling you the method needs backup.
