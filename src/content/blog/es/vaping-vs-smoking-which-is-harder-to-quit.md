@@ -39,14 +39,12 @@ Un estudio de 2016 publicado en PMC sugería que los cigarrillos electrónicos p
 
 Un estudio del National Elf Service en el Reino Unido (2023) preguntó directamente a los usuarios cómo se sentían respecto a su propia adicción. El 17% dijo sentirse muy enganchado al cigarrillo electrónico, el 35% consideró que el vape era igual de adictivo que el tabaco, y casi un 6% lo calificó como más adictivo todavía. Los factores que más se repetían entre quienes se sentían "muy enganchados" eran vapear justo al despertar, sentir ansias intensas durante el día y usar líquidos con más de 15 mg/ml de nicotina.
 
-La comparación de sensaciones también es reveladora. Según Best Fast Food Franchise (2026), los síntomas de abstinencia al dejar el vape son parecidos a los del tabaco, pero algunas personas reportan ansias más fuertes precisamente por lo fácil que resultaba consumir nicotina con tanta frecuencia. Y el patrón de recaída cambia: mientras que en el tabaco la recaída suele ocurrir en el primer mes, en el vapeo puede aparecer meses después, gracias a lo cómodo del dispositivo y a la ausencia de barreras externas como el mechero, el humo o el olor que delatan al fumador.
-
 ## ¿Cómo se compara esto con dejar el tabaco?
 
 Dejar de fumar tampoco es sencillo, ni mucho menos. Según los CDC (2022), en Estados Unidos el 67,7% de los adultos fumadores quería dejarlo y el 53,3% lo intentó, pero solamente el 8,8% lo logró. Datos del propio CDC (2024) muestran que, de 28,8 millones de adultos fumadores que intentaron dejarlo en 2022, menos del 10% tuvo éxito.
 
 La buena noticia es que combinar acompañamiento y tratamiento funciona. Un estudio publicado en PMC (Qatar, 2023) estima que la tasa de éxito al intentar dejarlo por cuenta propia es del 5%, pero sube al 16% entre quienes usan medicación prescrita. Aun así, el CDC (2022) reporta que menos del 40% de los fumadores que intentan dejarlo usan algún tipo de tratamiento, ya sea consejería o medicación.
 
-La nicotina, venga de donde venga, es una droga muy adictiva, y eso es justamente lo que hace tan difícil dejarla, según explica Allen Carr's Easyway (2025). No importa si el formato es un cigarrillo que se consume y termina o un vape que puede acompañarte todo el día sin pausas: el reto de fondo es el mismo.
+La nicotina, venga de donde venga, es una droga muy adictiva, y eso es justamente lo que hace tan difícil dejarla, según datos del CDC. No importa si el formato es un cigarrillo que se consume y termina o un vape que puede acompañarte todo el día sin pausas: el reto de fondo es el mismo.
 
 Si vienes de un desechable y sientes que no puedes soltarlo, en nuestro artículo sobre por qué los vapes desechables son tan difíciles de dejar profundizamos en las razones específicas de ese formato. Y si estás considerando otras alternativas de nicotina, vale la pena leer qué son las bolsitas de nicotina y si son más seguras que el cigarrillo antes de cambiar una dependencia por otra.

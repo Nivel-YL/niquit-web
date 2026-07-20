@@ -15,7 +15,7 @@ Connaître ce calendrier change tout. Quand tu sais que le jour 3 sera dur mais 
 
 ## Que se passe-t-il pendant les 3 premiers jours ?
 
-Les 24 à 72 premières heures sont un sprint. Ton corps termine d'éliminer la nicotine, et selon Charlie Health, c'est à ce moment-là que les maux de tête, les nausées et l'irritabilité commencent à s'installer. La Cleveland Clinic confirme que ces trois premiers jours correspondent au pic d'irritabilité, avec des difficultés de concentration marquées.
+Les 24 à 72 premières heures sont un sprint. Ton corps termine d'éliminer la nicotine, et selon la Cleveland Clinic, c'est à ce moment-là que les maux de tête, les nausées et l'irritabilité commencent à s'installer. La Cleveland Clinic confirme que ces trois premiers jours correspondent au pic d'irritabilité, avec des difficultés de concentration marquées.
 
 Le pic absolu arrive au jour 2 ou 3. La Cleveland Clinic le confirme : c'est à ce moment précis que les symptômes sont les plus intenses. Tu peux te sentir à fleur de peau, incapable de te concentrer sur une tâche simple, avec l'impression que ton cerveau tourne au ralenti.
 
@@ -31,7 +31,7 @@ Dans la journée qui suit ta dernière cigarette, ton appétit explose, selon We
 
 Les jours 3 à 5 sont souvent décrits comme le moment où la nicotine a fini de quitter complètement l'organisme. WebMD précise que c'est justement là que maux de tête, envies compulsives et insomnies frappent le plus fort, presque en même temps.
 
-Mais à partir du jour 4, quelque chose change. Les symptômes physiques commencent à s'estomper entre les jours 4 et 7, selon la Cleveland Clinic. Tu ne seras pas guéri, mais le pire du combat physique touche à sa fin. Ce qui reste, ce sont les vagues émotionnelles : selon le EX Program, il est tout à fait normal de ressentir de l'irritabilité, de la colère, de la frustration, de l'anxiété ou même une forme de tristesse pendant cette phase.
+Mais à partir du jour 4, quelque chose change. Les symptômes physiques commencent à s'estomper entre les jours 4 et 7, selon la Cleveland Clinic. Tu ne seras pas guéri, mais le pire du combat physique touche à sa fin. Ce qui reste, ce sont les vagues émotionnelles : la même source note qu'il est tout à fait normal de ressentir de l'irritabilité, de la colère, de la frustration, de l'anxiété ou même une forme de tristesse pendant cette phase.
 
 ## Combien de temps durent les symptômes de sevrage de la nicotine ?
 

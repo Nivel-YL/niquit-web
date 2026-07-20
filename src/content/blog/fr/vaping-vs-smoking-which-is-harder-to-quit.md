@@ -21,8 +21,6 @@ L'accoutumance à la vape se développe souvent plus vite que beaucoup d'utilisa
 
 Une étude publiée dans Nicotine & Tobacco Research (Oxford University Press, 2024) confirme que les vapoteurs à sels de nicotine, comme les JUUL, délivrent la nicotine au cerveau à une vitesse comparable à celle d'une cigarette classique, parfois même plus rapide selon l'appareil et le format du liquide.
 
-Il y a aussi un effet de rechute différé. Selon une compilation de données comportementales (Best Fast Food Franchise, 2026), les fumeurs qui rechutent le font souvent dans le premier mois après l'arrêt. Les vapoteurs, eux, peuvent replonger des mois plus tard, simplement parce que l'appareil reste accessible, discret, sans les signaux d'alarme habituels du tabac (odeur, mégots, briquet qui manque).
-
 ## La vape rend-elle vraiment l'arrêt du tabac plus facile ?
 
 C'est l'argument qu'on entend partout : la vape serait une porte de sortie du tabac. Les données récentes racontent une autre histoire.
@@ -35,7 +33,7 @@ Ce flou réglementaire n'est pas propre à la vape. Si tu es passé aux sachets 
 
 ## Le sevrage est-il différent entre vape et cigarette ?
 
-Sur le papier, les symptômes de manque se ressemblent : irritabilité, difficulté à se concentrer, envies pressantes. Mais plusieurs utilisateurs rapportent des cravings plus intenses avec la vape, justement à cause de la facilité de consommation (Best Fast Food Franchise, 2026). Quand la nicotine est accessible à chaque instant, ton cerveau s'habitue à ne jamais attendre. Le manque devient alors plus difficile à tolérer, même quelques minutes.
+Sur le papier, les symptômes de manque se ressemblent : irritabilité, difficulté à se concentrer, envies pressantes. Quand la nicotine est accessible à chaque instant, ton cerveau s'habitue à ne jamais attendre. Le manque devient alors plus difficile à tolérer, même quelques minutes.
 
 Une enquête britannique relayée par le National Elf Service (2023) montre que 17 % des vapoteurs interrogés se sentent très dépendants à la cigarette électronique, et 35 % la considèrent aussi addictive que le tabac classique. Les facteurs les plus liés à cette dépendance forte : vapoter dès le réveil, ressentir des envies intenses, et utiliser des liquides à plus de 15 mg/ml de nicotine, un seuil proche du plafond légal français fixé à 20 mg/ml.
 
