@@ -49,7 +49,7 @@ Tracke deine rauchfreie Zeit sichtbar. Menschen, die ihren Fortschritt konkret s
 
 ## Was, wenn ich schon einmal rückfällig geworden bin?
 
-Ein Rückfall ist kein Neustart bei null. Der Markt für Nikotinbeutel ist in den letzten zwei Jahren explodiert, allein zwischen Januar 2023 und April 2025 stiegen die monatlichen Verkäufe von 145,5 Millionen auf 446,8 Millionen Dollar. Diese Produkte sind bewusst so designt, dass sie schwer loszulassen sind. Wenn du also schon mal zurückgefallen bist, liegt das nicht an dir, sondern am Produkt.
+Ein Rückfall ist kein Neustart bei null. Der Markt für Nikotinbeutel ist in den letzten zwei Jahren explodiert, allein zwischen Januar 2023 und August 2025 stiegen die monatlichen Verkäufe von 145,5 Millionen auf 510,5 Millionen Dollar, ein Plus von 250,8 Prozent, so Daten der CDC Foundation auf Basis von Circana-Handelsdaten. Diese Produkte sind bewusst so designt, dass sie schwer loszulassen sind. Wenn du also schon mal zurückgefallen bist, liegt das nicht an dir, sondern am Produkt.
 
 Das Wichtige ist, wie schnell du wieder einsteigst. Jeder Tag ohne Nikotin, auch nach einem Rückfall, reduziert die Rezeptorempfindlichkeit im Gehirn erneut. Du fängst nicht wirklich bei null an, dein Körper erinnert sich an frühere rauchfreie Phasen und reagiert beim zweiten oder dritten Versuch oft schneller positiv.
 
