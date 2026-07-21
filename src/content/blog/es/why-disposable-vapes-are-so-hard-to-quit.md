@@ -27,9 +27,9 @@ La respuesta está en el cerebro, no en la fuerza de voluntad.
 
 Cuando la nicotina llega al cerebro, se une a un receptor llamado α4β2 nAChR y activa el sistema dopaminérgico mesolímbico, la red cerebral encargada del placer y la recompensa, según un estudio publicado en Frontiers in Neuroscience en 2025. Con el vape, esta llegada es casi inmediata: la nicotina se absorbe rápido y produce un pico de dopamina que genera una sensación de placer instantánea, de acuerdo con la FDA y el HHS.
 
-Lo interesante es que esta dopamina no llega de forma constante, sino en ráfagas rápidas de alta frecuencia, un patrón conocido como disparo fásico, según ScienceInsights (2025). Ese patrón de picos cortos y repetidos es precisamente lo que hace que el cerebro asocie el vape con el alivio de forma tan potente: cada calada refuerza la conexión entre el dispositivo y esa sensación momentánea de bienestar.
+Lo interesante es que esta dopamina no llega de forma constante, sino en ráfagas rápidas de alta frecuencia, un patrón conocido como disparo fásico, según el mismo estudio de Frontiers in Neuroscience. Ese patrón de picos cortos y repetidos es precisamente lo que hace que el cerebro asocie el vape con el alivio de forma tan potente: cada calada refuerza la conexión entre el dispositivo y esa sensación momentánea de bienestar.
 
-Y aquí viene algo que sorprende a mucha gente: la nicotina no produce euforia como otras drogas. No te "coloca". Según Scientific American (2024), la nicotina no genera el mismo tipo de intoxicación que el alcohol o los opioides, pero su capacidad de reforzar comportamientos, aunque de forma sutil, es tan fuerte que provoca 480.000 muertes al año. No necesita hacerte sentir "drogado" para volverte dependiente. Solamente necesita repetirse suficientes veces.
+Y aquí viene algo que sorprende a mucha gente: la nicotina no produce euforia como otras drogas. No te "coloca". Según Scientific American (2024), la nicotina no genera el mismo tipo de intoxicación que el alcohol o los opioides, pero su capacidad de reforzar comportamientos, aunque de forma sutil, es tan fuerte que, según datos del CDC, provoca 480.000 muertes al año. No necesita hacerte sentir "drogado" para volverte dependiente. Solamente necesita repetirse suficientes veces.
 
 ## ¿Bajar la concentración de nicotina ayuda a dejarlo?
 
