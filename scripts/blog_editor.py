@@ -13,7 +13,7 @@ Architecture (per topic):
                                       whose named source disagrees across languages
   6. Self-correction + escalation -> up to 2 search-backed attempts to re-attribute
                                       (or remove) each flagged citation; unresolved
-                                      Tier-3 findings open a GitHub Issue
+                                      Tier-3 or UNK findings open a GitHub Issue
 """
 
 import datetime
@@ -759,8 +759,8 @@ def run_source_verification_pipeline(
     lang_results: dict[str, dict],
 ) -> dict:
     """Steps 4-6: cross-language consistency check, then up to 2 search-backed fix
-    attempts per flagged citation, then GitHub Issue escalation for any Tier-3 finding
-    still unresolved. Returns a summary dict used to build the report file.
+    attempts per flagged citation, then GitHub Issue escalation for any Tier-3 or UNK
+    finding still unresolved. Returns a summary dict used to build the report file.
     """
     lang_tables = {lang: r['source_table'] for lang, r in lang_results.items()}
     cross_findings = cross_language_consistency(lang_tables)
@@ -820,21 +820,27 @@ def run_source_verification_pipeline(
             unresolved.append(record)
             print(f'[{lang}] COULD NOT FIX flagged source "{row["source_name"]}": {record["error"]}', flush=True)
 
-    # Escalate only unresolved Tier-3 (hard block) findings. Unresolved Tier-2/UNK
-    # findings are still recorded in the report below for a human to see on manual
-    # review, but do not open an issue.
+    # Escalate unresolved Tier-3 (hard block) and UNK (could not confirm the source
+    # exists or is relevant) findings alike. Both are "no legitimate source, and the
+    # automated fix could not even remove the line" states, a fact with an unconfirmed
+    # source left silently live in a report nobody reads is exactly the risk this
+    # pipeline exists to close (e.g. the Best Fast Food Franchise incident this project
+    # already had). Unresolved Tier-2 findings (a real, named, lower-quality source that
+    # just couldn't be swapped) are recorded in the report but don't escalate.
     escalated: list[str] = []
     for record in unresolved:
-        if record.get('tier') != '3':
+        tier = record.get('tier')
+        if tier not in ('3', 'UNK'):
             continue
         out_path = lang_results[record['lang']]['out_path']
         current_text = out_path.read_text(encoding='utf-8')
         line_no = _line_number_of(current_text, record['quote'])
-        title = f'[blog-pipeline] Unresolved Tier-3 source in {article_slug} ({record["lang"]})'
+        tier_label = 'Tier 3, hard block' if tier == '3' else 'UNK, could not confirm source exists or is relevant'
+        title = f'[blog-pipeline] Unresolved {tier} source in {article_slug} ({record["lang"]})'
         body = (
             f'Article: `{out_path.relative_to(REPO_ROOT)}`\n'
             f'Line: {line_no if line_no else "not found, the quote may no longer match the file exactly"}\n\n'
-            f'Flagged source: **{record["source_name"]}** (Tier 3, hard block)\n\n'
+            f'Flagged source: **{record["source_name"]}** ({tier_label})\n\n'
             f'Flagged sentence:\n> {record["quote"]}\n\n'
             f'What was already tried: an automated, search-backed fix attempt was made and did '
             f'not resolve cleanly ({record["error"]}). This needs a manual edit.\n'
