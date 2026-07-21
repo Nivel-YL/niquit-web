@@ -83,6 +83,13 @@ BLOCKED_SOURCES: list[str] = [
     'smoke free app', 'smokefreeglobal',
     'kwit app', 'kwit.app',
     'tobaccostopswithme', 'tobacco stops with me',  # nicotine sales / quit-product hybrid
+    'the ex program', 'ex program',   # Truth Initiative's own cessation app, not the org itself
+    'villa treatment center',         # for-profit rehab clinic, content written to attract clients
+    'ethra',                          # harm-reduction advocacy group's own self-selected survey
+    'charlie health',                 # for-profit telehealth mental-health treatment provider
+    'quit smoking advisor',           # affiliate site monetizing quit-program comparisons
+    'quit smoking community',         # The EX Program's own community page
+    "allen carr's easyway", 'allen carr easyway', 'allen carr\'s easy way',  # paid quit-smoking program
 ]
 
 # Human-readable names for the same entries (matched case-insensitively in research text).
@@ -301,7 +308,11 @@ RESEARCH_SYSTEM = (
     'links, describes itself as "app to quit smoking/vaping/pouches").\n'
     '  Explicit block list: Juicefly, juicefly.com, Quit With Jones, quitwithjones.com, '
     'Jones Quit App, QuitNic app (≠ Bonevski et al. 2021 RCT in Nicotine & Tobacco Research), '
-    'Tobacco Stops With Me, Smoke Free app, Kwit app.\n\n'
+    'Tobacco Stops With Me, Smoke Free app, Kwit app, The EX Program (Truth Initiative\'s own '
+    'cessation app, note that the organization itself is Tier 1, this product is not), Villa '
+    'Treatment Center, ETHRA (a harm-reduction advocacy group\'s own self-selected survey, not an '
+    'independent source), Charlie Health, Quit Smoking Advisor, Quit Smoking Community, '
+    'Allen Carr\'s Easyway.\n\n'
     'MANDATORY SOURCING RULES:\n'
     '- Every specific number must be verified by at least 2 independent TIER 1 or TIER 2 sources.\n'
     '- If sources disagree, report a range (e.g. "300,000–400,000"), not a single figure.\n'
