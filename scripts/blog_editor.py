@@ -167,6 +167,22 @@ def style_check(text: str, lang: str) -> list[str]:
     ]
 
 
+# Source: CONTENT_VOICE_GUIDE.md body-length requirement.
+WORD_COUNT_MIN = 800
+WORD_COUNT_MAX = 1200
+
+
+def word_count_check(text: str) -> list[str]:
+    """Code-only check (no AI, no cost). Flags drafts outside the required word range.
+    Catches silent short-generation failures (e.g. a language coming back at a fraction
+    of the required length) that would otherwise only surface on manual review.
+    """
+    count = len(text.split())
+    if count < WORD_COUNT_MIN or count > WORD_COUNT_MAX:
+        return [f'word count {count} outside required {WORD_COUNT_MIN}-{WORD_COUNT_MAX} range']
+    return []
+
+
 # ── backlog ───────────────────────────────────────────────────────────────────
 
 BACKLOG_RE = re.compile(r'<!--BACKLOG\n(.*?)BACKLOG-->', re.DOTALL)
@@ -546,8 +562,8 @@ def process_language(
     if dash_count:
         print(f'[{lang}] auto-fixed {dash_count} em-dash(es).', flush=True)
 
-    # Mechanical style check (banned phrases only) — code only, no AI, no extra cost.
-    violations = style_check(body, lang)
+    # Mechanical style check (banned phrases + word count), code only, no AI, no extra cost.
+    violations = style_check(body, lang) + word_count_check(body)
     if violations:
         print(f'[{lang}] STYLE CHECK FAILED: {violations}', flush=True)
     else:
