@@ -31,7 +31,7 @@ jobs:
       - name: Run publisher
         run: python scripts/publisher.py
         env:
-          PUBLISH_COUNT: ${{ github.event.inputs.count || '2' }}
+          PUBLISH_COUNT: ${{ github.event.inputs.count || '1' }}
 
       - name: Commit and push
         run: |
