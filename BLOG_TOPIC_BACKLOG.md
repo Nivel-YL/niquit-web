@@ -93,8 +93,13 @@ topics:
 - id: C-02
   title_en: Nicotine withdrawal symptoms day by day timeline
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-21'
+    ru: '2026-07-21'
+    de: '2026-07-21'
+    es: '2026-07-21'
+    fr: '2026-07-21'
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
   cluster: C

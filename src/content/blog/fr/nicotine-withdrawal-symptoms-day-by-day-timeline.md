@@ -1,9 +1,9 @@
 ---
 title: "Symptômes de sevrage de la nicotine jour par jour : à quoi t'attendre vraiment"
 description: "Jour 1, jour 3, semaine 2... voici ce qui se passe réellement dans ton corps et ta tête quand tu arrêtes la nicotine, heure par heure."
-publishDate: 2026-07-11
+publishDate: 2026-07-21
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg
 ---
 

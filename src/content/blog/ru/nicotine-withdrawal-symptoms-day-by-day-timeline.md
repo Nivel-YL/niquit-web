@@ -1,9 +1,9 @@
 ---
 title: "Симптомы отмены никотина по дням: чего ждать в первую неделю и дальше"
 description: "Через четыре, максимум двадцать четыре часа после последней сигареты или пары снюса начинается то, из-за чего срываются чаще всего: ломка. Симптомы отме..."
-publishDate: 2026-07-11
+publishDate: 2026-07-21
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg
 ---
 
