@@ -11,7 +11,7 @@ heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
 
 Du schiebst dir einen Nikotinbeutel unter die Lippe und denkst: kein Rauch, kein Teer, also auch keine Gefahr. Genau diese Annahme macht Nikotinbeutel so tückisch. Die Nebenwirkungen von Nikotinbeuteln reichen von Zahnfleischschäden über Herzrasen bis zu Veränderungen im Gehirn, die erst Jahre später sichtbar werden. Und kaum jemand spricht darüber.
 
-Der Markt explodiert gerade. Zwischen Januar 2023 und Dezember 2025 sind die weltweiten Umsätze mit Nikotinbeuteln von 146 Millionen auf 539,5 Millionen US-Dollar gestiegen, fast eine Vervierfachung in nicht einmal drei Jahren. Die Nutzung bei jungen Erwachsenen hat sich im selben Zeitraum ebenfalls fast vervierfacht. Das Produkt wächst schneller, als die Forschung mit den Langzeitfolgen mithalten kann.
+Der Markt explodiert gerade. Zwischen Januar 2023 und August 2025 sind die Umsätze mit Nikotinbeuteln in den USA von 145,5 Millionen auf 510,5 Millionen US-Dollar gestiegen, ein Plus von 250,8 Prozent, so Daten der CDC Foundation auf Basis von Circana-Handelsdaten. Die Nutzung bei jungen Erwachsenen hat sich im selben Zeitraum ebenfalls fast vervierfacht. Das Produkt wächst schneller, als die Forschung mit den Langzeitfolgen mithalten kann.
 
 ## Was passiert mit deinem Körper, wenn du Nikotinbeutel nimmst?
 
