@@ -22,3 +22,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Python bytecode cache (scripts/blog_editor.py, scripts/publisher.py)
+__pycache__/
+*.pyc
