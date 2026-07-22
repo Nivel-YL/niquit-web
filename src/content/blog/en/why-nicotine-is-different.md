@@ -4,6 +4,7 @@ description: "Most people try to quit using willpower alone. Here is why that al
 publishDate: 2026-07-05
 lang: en
 draft: true
+translationKey: why-nicotine-is-different
 ---
 
 Nicotine does not make you feel good. It makes withdrawal feel bad, and then removes it.

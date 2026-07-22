@@ -2,6 +2,7 @@
 import { type Lang } from '../../i18n/ui';
 import { getCollection, type CollectionEntry, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
+import { getBlogAlternates } from '../../utils/blogAlternates';
 
 interface Props {
   lang: Lang;
@@ -32,6 +33,8 @@ const related = allPosts
     description: e.data.description,
     slug: e.id.split('/').pop() ?? e.id,
   }));
+
+const alternates = await getBlogAlternates(entry);
 ---
 
 <BlogPost
@@ -43,6 +46,7 @@ const related = allPosts
   slug={slug}
   cluster={cluster}
   related={related}
+  alternates={alternates}
 >
   <Content />
 </BlogPost>
