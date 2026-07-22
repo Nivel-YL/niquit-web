@@ -25,6 +25,10 @@ AUDIT_DIR         = REPO_ROOT / 'docs' / 'fact-audits'
 PILOT_LOG_PATH    = AUDIT_DIR / '_pilot_runs_log.json'
 PILOT_RUN_TARGET  = 3
 
+GITHUB_REPO   = 'Nivel-YL/niquit-web'
+GITHUB_BRANCH = 'master'
+LINK_LANG_ORDER = ['en', 'ru', 'es', 'de', 'fr']
+
 BACKLOG_RE = re.compile(r'<!--BACKLOG\n(.*?)BACKLOG-->', re.DOTALL)
 
 _WEEKDAY_NAMES_RU = [
@@ -96,6 +100,28 @@ def _latest_published_date(topic: dict) -> str:
     return max(dates) if dates else ''
 
 
+def _blob_url(rel_path: str) -> str:
+    return f'https://github.com/{GITHUB_REPO}/blob/{GITHUB_BRANCH}/{rel_path}'
+
+
+def _topic_links(slug: str) -> str:
+    """One compact row of [EN] [RU] [ES] [DE] [FR] [отчёт] links for a topic,
+    each word its own link, only for files that actually exist on disk right
+    now. Missing language files (e.g. mid-generation) are silently omitted
+    rather than linked to a 404; a missing report is omitted too, the stage
+    text next to it already says "нет отчёта" and that wording stays as-is.
+    """
+    parts = []
+    for lang in LINK_LANG_ORDER:
+        rel = f'src/content/blog/{lang}/{slug}.md'
+        if (REPO_ROOT / rel).exists():
+            parts.append(f'[{lang.upper()}]({_blob_url(rel)})')
+    report_rel = f'docs/fact-audits/{slug}/_source_verification_report.md'
+    if (REPO_ROOT / report_rel).exists():
+        parts.append(f'[отчёт]({_blob_url(report_rel)})')
+    return ' '.join(parts)
+
+
 def write_pipeline_status() -> None:
     topics = load_backlog()
     now = datetime.datetime.utcnow()
@@ -129,7 +155,10 @@ def write_pipeline_status() -> None:
     lines.append(f'## Цех и ОТК: в работе, {in_work_total}')
     if in_work_total:
         for t in in_progress:
-            lines.append(f'- {t["id"]}: {t["title_en"]} — в цехе, идёт генерация (in_progress)')
+            slug = slugify(t['title_en'])
+            links = _topic_links(slug)
+            suffix = f' — {links}' if links else ''
+            lines.append(f'- {t["id"]}: {t["title_en"]} — в цехе, идёт генерация (in_progress){suffix}')
         for t in drafted:
             slug = slugify(t['title_en'])
             report_path = AUDIT_DIR / slug / '_source_verification_report.md'
@@ -138,7 +167,9 @@ def write_pipeline_status() -> None:
                 if report_path.exists()
                 else 'черновик готов, написан до внедрения ОТК шагов 4-6 (отчёта нет)'
             )
-            lines.append(f'- {t["id"]}: {t["title_en"]} — {stage}')
+            links = _topic_links(slug)
+            suffix = f' — {links}' if links else ''
+            lines.append(f'- {t["id"]}: {t["title_en"]} — {stage}{suffix}')
     else:
         lines.append('(пусто)')
     lines.append('')
@@ -146,7 +177,10 @@ def write_pipeline_status() -> None:
     lines.append(f'## Склад готовой продукции: одобрено, в очереди (approved), {len(approved)}')
     if approved:
         for t in approved:
-            lines.append(f'- {t["id"]}: {t["title_en"]}')
+            slug = slugify(t['title_en'])
+            links = _topic_links(slug)
+            suffix = f' — {links}' if links else ''
+            lines.append(f'- {t["id"]}: {t["title_en"]}{suffix}')
     else:
         lines.append('(пусто)')
     lines.append('')
