@@ -5,5 +5,12 @@
     "flagged": 0,
     "cross_mismatches": 0,
     "date": "2026-07-22"
+  },
+  "C-01": {
+    "title": "Why quitting smoking cold turkey fails for most people",
+    "slug": "why-quitting-smoking-cold-turkey-fails-for-most-people",
+    "flagged": 5,
+    "cross_mismatches": 2,
+    "date": "2026-07-22"
   }
 }
