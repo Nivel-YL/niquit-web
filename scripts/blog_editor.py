@@ -542,12 +542,14 @@ FIX_SYSTEM = (
     'project (government health agencies, named peer-reviewed journals, major academic medical '
     'centers, or mass health media as one of several voices) that actually supports this specific '
     'claim, respond with ONLY the corrected sentence, written in {lang_name}, ready to directly '
-    'replace the flagged sentence in the article verbatim.\n\n'
+    'replace the flagged sentence in the article verbatim. It must be a complete, self-contained '
+    'sentence starting with a capital letter, not a fragment that continues from where the '
+    'flagged quote used to end.\n\n'
     'Your entire response must be that single sentence and nothing else: no preamble, no '
     'description of your search process, no phrases like "Based on my research" or "Let me '
     'verify", no line breaks, no quotation marks around it. A response that is not a single '
-    'clean sentence is discarded automatically and treated as if you had said REMOVE, so do any '
-    'reasoning before your final message, not inside it.\n\n'
+    'complete clean sentence is discarded automatically and treated as if you had said REMOVE, so '
+    'do any reasoning before your final message, not inside it.\n\n'
     'If after searching you cannot find any legitimate primary source for this specific claim, '
     'respond with exactly: REMOVE\n'
     'and nothing else.'
@@ -591,15 +593,24 @@ def find_replacement_source(
 FIX_RESPONSE_MAX_CHARS = 400
 
 
+FIX_CONTINUATION_PUNCTUATION = ',;:)]}’”»'
+
+
 def _looks_like_clean_sentence(text: str) -> bool:
     """Structural check for whether a fix response is a single ready-to-insert
-    sentence rather than a reasoning trace. Checks shape (no line breaks, a
-    plausible sentence length), not specific phrases, a phrase blacklist is a
-    losing game against wording the model hasn't used yet. This exact failure
-    mode, a multi-paragraph reasoning trace spliced verbatim into a live draft
-    because it wasn't the literal string REMOVE, already corrupted two article
-    files in this project before this check existed. Anything that doesn't
-    clearly qualify as a sentence gets discarded, never salvaged.
+    sentence rather than a reasoning trace or a sentence fragment. Checks shape
+    (no line breaks, a plausible sentence length, doesn't open mid-sentence),
+    not specific phrases, a phrase blacklist is a losing game against wording
+    the model hasn't used yet. The line-break and length checks target a
+    multi-paragraph reasoning trace spliced verbatim into a live draft because
+    it wasn't the literal string REMOVE, which already corrupted two article
+    files in this project before this check existed. The leading-punctuation
+    check targets a subtler variant of the same problem found in real testing
+    of the first fix: a short, single-line response that is not actually a
+    complete sentence, only the tail of one (e.g. starting with ", followed by
+    ..."), which passes the first two checks but would still splice into
+    broken, duplicated prose. Anything that doesn't clearly qualify as a
+    complete sentence gets discarded, never salvaged.
     """
     stripped = text.strip()
     if not stripped:
@@ -607,6 +618,8 @@ def _looks_like_clean_sentence(text: str) -> bool:
     if '\n' in stripped:
         return False
     if len(stripped) > FIX_RESPONSE_MAX_CHARS:
+        return False
+    if stripped[0] in FIX_CONTINUATION_PUNCTUATION:
         return False
     return True
 
