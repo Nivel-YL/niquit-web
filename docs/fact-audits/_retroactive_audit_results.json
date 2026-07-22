@@ -12,5 +12,12 @@
     "flagged": 5,
     "cross_mismatches": 2,
     "date": "2026-07-22"
+  },
+  "C-02": {
+    "title": "Nicotine withdrawal symptoms day by day timeline",
+    "slug": "nicotine-withdrawal-symptoms-day-by-day-timeline",
+    "flagged": 3,
+    "cross_mismatches": 0,
+    "date": "2026-07-22"
   }
 }
