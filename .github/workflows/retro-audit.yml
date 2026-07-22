@@ -1,0 +1,43 @@
+name: Retroactive Audit (steps 4-5, no regeneration)
+
+on:
+  workflow_dispatch:
+    inputs:
+      topics:
+        description: 'Comma-separated topic ids to audit (default: all 16 pre-steps-4-6 topics)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  retro-audit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic pyyaml python-slugify
+
+      - name: Run retroactive audit
+        run: python scripts/retro_audit.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY1 }}
+          RETRO_TOPICS: ${{ github.event.inputs.topics }}
+
+      - name: Commit and push reports
+        run: |
+          git config user.name "Retro Audit Bot"
+          git config user.email "jelissei.levin@gmail.com"
+          git add docs/fact-audits/
+          git diff --cached --quiet && echo "Nothing to commit." || (
+            git commit -m "retro-audit: steps 4-5 findings for pre-steps-4-6 topics" &&
+            git pull --rebase origin master &&
+            git push
+          )
