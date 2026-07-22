@@ -26,7 +26,9 @@ as UNVERIFIED for that same reason, not because it is wrong.
 """
 
 import datetime
+import json
 import os
+import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -156,11 +158,99 @@ def write_topic_report(result: dict, today: datetime.date) -> Path:
     return out_path
 
 
-def write_summary_report(results: list[dict], today: datetime.date) -> None:
+def _git(*args: str) -> subprocess.CompletedProcess:
+    return subprocess.run(
+        ['git', *args], cwd=REPO_ROOT, capture_output=True, text=True,
+    )
+
+
+def _configure_git_identity() -> None:
+    _git('config', 'user.name', 'Retro Audit Bot')
+    _git('config', 'user.email', 'jelissei.levin@gmail.com')
+
+
+def commit_and_push(paths: list[str], message: str) -> bool:
+    """Stage and commit exactly the given paths, then push, right after each
+    topic finishes, not batched at the end. A failure here means the run may
+    still be usable up to the last successful push (each topic pushes on its
+    own), instead of losing every completed topic if a later one crashes,
+    which is what happened the first time this script hit an API usage cap
+    partway through B-04 and lost B-01 and B-02's already-finished results.
+    Returns True if a commit was made and pushed (or there was nothing new to
+    commit), False if git itself failed.
+    """
+    add = _git('add', *paths)
+    if add.returncode != 0:
+        print(f'  WARNING: git add failed: {add.stderr.strip()}', file=sys.stderr)
+        return False
+
+    diff = _git('diff', '--cached', '--quiet')
+    if diff.returncode == 0:
+        print('  (nothing new to commit)', flush=True)
+        return True
+
+    commit = _git('commit', '-m', message)
+    if commit.returncode != 0:
+        print(f'  WARNING: git commit failed: {commit.stderr.strip()}', file=sys.stderr)
+        return False
+
+    pull = _git('pull', '--rebase', 'origin', 'master')
+    if pull.returncode != 0:
+        print(f'  WARNING: git pull --rebase failed: {pull.stderr.strip()}', file=sys.stderr)
+        return False
+
+    push = _git('push')
+    if push.returncode != 0:
+        print(f'  WARNING: git push failed: {push.stderr.strip()}', file=sys.stderr)
+        return False
+
+    print(f'  committed and pushed: {message}', flush=True)
+    return True
+
+
+RESULTS_LOG_PATH = AUDIT_DIR / '_retroactive_audit_results.json'
+
+
+def _read_results_log() -> dict:
+    if not RESULTS_LOG_PATH.exists():
+        return {}
+    try:
+        return json.loads(RESULTS_LOG_PATH.read_text(encoding='utf-8'))
+    except (ValueError, OSError):
+        return {}
+
+
+def _record_result(result: dict, today: datetime.date) -> None:
+    """Update the persistent results log with this one topic, then re-render
+    the combined summary from the full accumulated log, not just this run's
+    in-memory results. This is what makes resuming in separate batches
+    (as requested: B-04/C-01/C-02 first, then A-01-04/B-03, then the 6
+    drafts) actually work, each batch is a separate script invocation with
+    its own empty `results` list, so the summary must read prior batches'
+    entries back from disk rather than only knowing about the current one.
+    """
+    total_flagged = sum(
+        len([row for row in lr['source_table'] if row.get('status', '').startswith('flag:')])
+        for lr in result['lang_results'].values()
+    )
+    log = _read_results_log()
+    log[result['topic_id']] = {
+        'title': result['title'],
+        'slug': result['slug'],
+        'flagged': total_flagged,
+        'cross_mismatches': len(result['cross_findings']),
+        'date': today.isoformat(),
+    }
+    RESULTS_LOG_PATH.write_text(json.dumps(log, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+    _write_summary_from_log(log, today)
+
+
+def _write_summary_from_log(log: dict, today: datetime.date) -> Path:
     out_path = AUDIT_DIR / '_retroactive_audit_summary.md'
     lines = [
         '# Retroactive steps 4-5 audit: summary across all pre-steps-4-6 topics',
-        f'Generated: {today.isoformat()}',
+        f'Last updated: {today.isoformat()}',
+        f'Progress: {len(log)}/{len(RETRO_ORDER)} topics audited so far.',
         '',
         'Order: B-01, B-02, B-04, C-01, C-02 (live, deep cross-language check not yet '
         'confirmed) first; then A-01, A-02, A-03, A-04, B-03 (live, already manually '
@@ -170,18 +260,19 @@ def write_summary_report(results: list[dict], today: datetime.date) -> None:
         'applied fixes.',
         '',
     ]
-    for r in results:
-        total_flagged = sum(
-            len([row for row in lr['source_table'] if row.get('status', '').startswith('flag:')])
-            for lr in r['lang_results'].values()
-        )
+    for topic_id in RETRO_ORDER:
+        entry = log.get(topic_id)
+        if not entry:
+            lines.append(f'- **{topic_id}**: not yet audited')
+            continue
         lines.append(
-            f'- **{r["topic_id"]}** ({r["title"]}): {total_flagged} flagged source(s) across '
-            f'languages, {len(r["cross_findings"])} cross-language mismatch(es). '
-            f'[Full report](./{r["slug"]}/_retroactive_audit_report.md)'
+            f'- **{topic_id}** ({entry["title"]}): {entry["flagged"]} flagged source(s) across '
+            f'languages, {entry["cross_mismatches"]} cross-language mismatch(es). '
+            f'[Full report](./{entry["slug"]}/_retroactive_audit_report.md)'
         )
     out_path.write_text('\n'.join(lines) + '\n', encoding='utf-8')
-    print(f'\nSummary written: {out_path.relative_to(REPO_ROOT)}', flush=True)
+    print(f'  summary updated: {out_path.relative_to(REPO_ROOT)}', flush=True)
+    return out_path
 
 
 def main() -> None:
@@ -197,18 +288,28 @@ def main() -> None:
     requested = os.environ.get('RETRO_TOPICS', '').strip()
     order = [t.strip() for t in requested.split(',') if t.strip()] if requested else RETRO_ORDER
 
-    results = []
+    _configure_git_identity()
+
+    done = 0
     for topic_id in order:
         topic = topics_by_id.get(topic_id)
         if not topic:
             print(f'WARNING: {topic_id} not found in backlog, skipping', file=sys.stderr)
             continue
         result = retro_audit_topic(client, topic)
-        write_topic_report(result, today)
-        results.append(result)
+        report_path = write_topic_report(result, today)
+        _record_result(result, today)
+        commit_and_push(
+            [
+                str(report_path.relative_to(REPO_ROOT)),
+                str(RESULTS_LOG_PATH.relative_to(REPO_ROOT)),
+                'docs/fact-audits/_retroactive_audit_summary.md',
+            ],
+            message=f'retro-audit: {topic_id}',
+        )
+        done += 1
 
-    write_summary_report(results, today)
-    print(f'\nDone: retroactively audited {len(results)}/{len(order)} topic(s).')
+    print(f'\nDone: retroactively audited {done}/{len(order)} topic(s).')
 
 
 if __name__ == '__main__':

@@ -31,13 +31,18 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY1 }}
           RETRO_TOPICS: ${{ github.event.inputs.topics }}
 
-      - name: Commit and push reports
+      - name: Commit and push reports (backstop)
+        # The script itself commits and pushes after every single topic, so this
+        # step normally finds nothing new. It runs even if the audit step above
+        # failed partway (if: always()), as a safety net for any file that got
+        # written but not yet committed before a crash.
+        if: always()
         run: |
           git config user.name "Retro Audit Bot"
           git config user.email "jelissei.levin@gmail.com"
           git add docs/fact-audits/
           git diff --cached --quiet && echo "Nothing to commit." || (
-            git commit -m "retro-audit: steps 4-5 findings for pre-steps-4-6 topics" &&
+            git commit -m "retro-audit: steps 4-5 findings for pre-steps-4-6 topics (backstop)" &&
             git pull --rebase origin master &&
             git push
           )
