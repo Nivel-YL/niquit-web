@@ -4,6 +4,7 @@ description: "La plupart des gens essaient d'arrêter par la seule force de volo
 publishDate: 2026-07-05
 lang: fr
 draft: true
+translationKey: why-nicotine-is-different
 ---
 
 La nicotine ne te fait pas te sentir bien. Elle supprime l'inconfort qu'elle a elle-même créé.
