@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "Publisher Bot"
           git config user.email "jelissei.levin@gmail.com"
-          git add src/content/blog/ BLOG_TOPIC_BACKLOG.md
+          git add src/content/blog/ BLOG_TOPIC_BACKLOG.md PIPELINE_STATUS.md
           git diff --cached --quiet && echo "Nothing to commit." || (
             git commit -m "publish: ${{ env.PUBLISHED_IDS }}" &&
             git pull --rebase origin master &&

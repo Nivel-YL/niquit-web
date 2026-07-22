@@ -32,6 +32,8 @@ import anthropic
 import yaml
 from slugify import slugify
 
+import pipeline_status
+
 # -- paths --------------------------------------------------------------------
 
 REPO_ROOT    = Path(__file__).parent.parent
@@ -798,24 +800,11 @@ def create_github_issue(title: str, body: str) -> str | None:
 # -- pilot-run tracking -------------------------------------------------------------
 # The first few topics to go through steps 4-6 are marked as pilot runs in their
 # report so a human can manually spot-check correctness and actual added API cost
-# before trusting this fully, per the operator's explicit request.
+# before trusting this fully, per the operator's explicit request. The log itself
+# (with per-attempt dates and whether each counted) lives in pipeline_status.py,
+# shared with publisher.py so PIPELINE_STATUS.md can show the same history.
 
-PILOT_COUNTER_PATH = AUDIT_DIR / '_pilot_runs_completed.txt'
-PILOT_RUN_TARGET   = 3
-
-
-def _read_pilot_count() -> int:
-    try:
-        return int(PILOT_COUNTER_PATH.read_text(encoding='utf-8').strip())
-    except (FileNotFoundError, ValueError):
-        return 0
-
-
-def _increment_pilot_count() -> int:
-    count = _read_pilot_count() + 1
-    AUDIT_DIR.mkdir(parents=True, exist_ok=True)
-    PILOT_COUNTER_PATH.write_text(str(count), encoding='utf-8')
-    return count
+PILOT_RUN_TARGET = pipeline_status.PILOT_RUN_TARGET
 
 
 # -- steps 4-6 orchestration --------------------------------------------------------
@@ -824,6 +813,7 @@ def run_source_verification_pipeline(
     client: anthropic.Anthropic,
     article_slug: str,
     lang_results: dict[str, dict],
+    today: datetime.date,
 ) -> dict:
     """Steps 4-6: cross-language consistency check, then up to 2 search-backed fix
     attempts per flagged citation, then GitHub Issue escalation for any Tier-3 or UNK
@@ -921,7 +911,7 @@ def run_source_verification_pipeline(
             escalated.append(issue_url)
             print(f'Escalated to {issue_url}', flush=True)
 
-    pilot_count = _increment_pilot_count()
+    pilot_count = pipeline_status.record_pilot_run(article_slug, today)
     return {
         'cross_language_findings': cross_findings,
         'fixed': fixed,
@@ -1245,7 +1235,7 @@ def draft_one(
 
     # 5-6. Cross-language consistency, self-correction, escalation.
     print('\nRunning cross-language consistency check and self-correction...', flush=True)
-    report = run_source_verification_pipeline(client, article_slug, lang_results)
+    report = run_source_verification_pipeline(client, article_slug, lang_results, today)
     write_source_verification_report(article_slug, report, today)
 
     # Mark drafted
@@ -1270,28 +1260,33 @@ def main() -> None:
     today           = datetime.date.today()
 
     drafted_ids: list[str] = []
-    for i in range(BATCH_SIZE):
-        print(f'\n-- Batch {i + 1}/{BATCH_SIZE} --------------------------------')
-        try:
-            topic_id = draft_one(client, voice_guide_txt, today)
-        except RuntimeError as exc:
-            print(f'ERROR: {exc}', file=sys.stderr)
-            sys.exit(1)
-        if topic_id is None:
-            print('No pending topics remaining.')
-            break
-        drafted_ids.append(topic_id)
+    try:
+        for i in range(BATCH_SIZE):
+            print(f'\n-- Batch {i + 1}/{BATCH_SIZE} --------------------------------')
+            try:
+                topic_id = draft_one(client, voice_guide_txt, today)
+            except RuntimeError as exc:
+                print(f'ERROR: {exc}', file=sys.stderr)
+                sys.exit(1)
+            if topic_id is None:
+                print('No pending topics remaining.')
+                break
+            drafted_ids.append(topic_id)
 
-    if not drafted_ids:
-        print('Nothing drafted. Exiting.')
-        sys.exit(0)
+        if not drafted_ids:
+            print('Nothing drafted. Exiting.')
+            sys.exit(0)
 
-    gh_env = os.environ.get('GITHUB_ENV')
-    if gh_env:
-        with open(gh_env, 'a', encoding='utf-8') as f:
-            f.write(f'DRAFTED_IDS={",".join(drafted_ids)}\n')
+        gh_env = os.environ.get('GITHUB_ENV')
+        if gh_env:
+            with open(gh_env, 'a', encoding='utf-8') as f:
+                f.write(f'DRAFTED_IDS={",".join(drafted_ids)}\n')
 
-    print(f'\nTotal drafted: {len(drafted_ids)} topic(s): {", ".join(drafted_ids)}')
+        print(f'\nTotal drafted: {len(drafted_ids)} topic(s): {", ".join(drafted_ids)}')
+    finally:
+        # Regenerate PIPELINE_STATUS.md from current backlog + logs, every run,
+        # success or early exit alike, so the status file never goes stale.
+        pipeline_status.write_pipeline_status()
 
 
 if __name__ == '__main__':
