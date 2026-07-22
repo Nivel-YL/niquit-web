@@ -1,7 +1,21 @@
 # Source verification report: does-smoking-actually-reduce-stress-the-real-science
 Generated: 2026-07-22
 
-PILOT RUN 1/3: this topic went through the new independent source-verification and self-correction pipeline for the first 3 times since it was deployed. Please manually spot-check this article's sources and compare the actual added API cost in the console before relying on this fully.
+NOTE (2026-07-22, added after manual review): this run does not count toward the 3 pilot runs.
+The spot-check it asked for found a real bug: find_replacement_source could return a full
+reasoning trace instead of a clean sentence, and the old apply logic spliced that text verbatim
+into both the en and fr article files below, since it only special-cased the exact literal string
+REMOVE. Both files were corrupted and have since been manually reconstructed (the en/fr "About an
+hour after smoking... Quitsure" claim was removed from both, matching the model's own accuracy
+finding for that specific fact, rather than keeping fr's inconsistent reattribution). The pipeline
+now validates that a fix response is a single clean sentence before applying it, falling back to
+REMOVE otherwise; see scripts/blog_editor.py's _looks_like_clean_sentence. The pilot counter was
+reset to 0, the 3 clean pilot runs are counted from the fixed version, not this one.
+
+PILOT RUN 1/3 (INVALIDATED, see note above): this topic went through the new independent
+source-verification and self-correction pipeline for the first 3 times since it was deployed.
+Please manually spot-check this article's sources and compare the actual added API cost in the
+console before relying on this fully.
 
 Cross-language mismatches found: 3
 - F15: {'en': 'NHS via APC Birmingham', 'fr': 'NHS'}

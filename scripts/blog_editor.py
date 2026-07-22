@@ -542,8 +542,12 @@ FIX_SYSTEM = (
     'project (government health agencies, named peer-reviewed journals, major academic medical '
     'centers, or mass health media as one of several voices) that actually supports this specific '
     'claim, respond with ONLY the corrected sentence, written in {lang_name}, ready to directly '
-    'replace the flagged sentence in the article verbatim. No commentary, no quotation marks '
-    'around it, just the sentence.\n\n'
+    'replace the flagged sentence in the article verbatim.\n\n'
+    'Your entire response must be that single sentence and nothing else: no preamble, no '
+    'description of your search process, no phrases like "Based on my research" or "Let me '
+    'verify", no line breaks, no quotation marks around it. A response that is not a single '
+    'clean sentence is discarded automatically and treated as if you had said REMOVE, so do any '
+    'reasoning before your final message, not inside it.\n\n'
     'If after searching you cannot find any legitimate primary source for this specific claim, '
     'respond with exactly: REMOVE\n'
     'and nothing else.'
@@ -584,6 +588,29 @@ def find_replacement_source(
     return result or 'REMOVE'
 
 
+FIX_RESPONSE_MAX_CHARS = 400
+
+
+def _looks_like_clean_sentence(text: str) -> bool:
+    """Structural check for whether a fix response is a single ready-to-insert
+    sentence rather than a reasoning trace. Checks shape (no line breaks, a
+    plausible sentence length), not specific phrases, a phrase blacklist is a
+    losing game against wording the model hasn't used yet. This exact failure
+    mode, a multi-paragraph reasoning trace spliced verbatim into a live draft
+    because it wasn't the literal string REMOVE, already corrupted two article
+    files in this project before this check existed. Anything that doesn't
+    clearly qualify as a sentence gets discarded, never salvaged.
+    """
+    stripped = text.strip()
+    if not stripped:
+        return False
+    if '\n' in stripped:
+        return False
+    if len(stripped) > FIX_RESPONSE_MAX_CHARS:
+        return False
+    return True
+
+
 def find_replacement_source_with_attempts(
     client: anthropic.Anthropic,
     lang: str,
@@ -591,23 +618,50 @@ def find_replacement_source_with_attempts(
     flagged_source: str,
     article_text: str,
     max_attempts: int = 2,
-) -> str:
+) -> tuple[str, bool]:
     """Up to max_attempts independent search-backed tries to find a real replacement
-    source for the same fact. A single attempt answering REMOVE is not the final
-    word, a second independent search may still turn up a legitimate source, only
-    remove after every attempt agrees (or errors out).
+    source for the same fact. Returns (result, malformed_seen).
+
+    result is either a validated single-sentence replacement or the literal string
+    'REMOVE'; it is never anything else, regardless of what the model actually said,
+    a response that fails _looks_like_clean_sentence is treated as this attempt
+    answering REMOVE rather than being applied as-is.
+
+    malformed_seen is True if any attempt's response was discarded for failing that
+    shape check, so the caller can record that a REMOVE was forced by a validation
+    rejection rather than the model reaching a genuine "no source exists" conclusion
+    on a well-formed answer, useful signal for a human spot-checking the report.
+
+    A single attempt answering REMOVE (validated or forced) is not the final word
+    either, a second independent search may still turn up a legitimate source, only
+    give up after every attempt agrees or fails validation.
     """
+    malformed_seen = False
     last = 'REMOVE'
     for attempt in range(max_attempts):
         try:
-            last = find_replacement_source(client, lang, flagged_quote, flagged_source, article_text)
+            raw = find_replacement_source(client, lang, flagged_quote, flagged_source, article_text)
         except Exception as exc:
             print(f'  [fix attempt {attempt + 1}/{max_attempts}] search failed: {exc}', flush=True)
             last = 'REMOVE'
             continue
-        if last.strip().upper() != 'REMOVE':
-            return last
-    return last
+
+        candidate = raw.strip()
+        if candidate.upper() == 'REMOVE':
+            last = 'REMOVE'
+            continue
+        if _looks_like_clean_sentence(candidate):
+            return candidate, malformed_seen
+
+        malformed_seen = True
+        print(
+            f'  [fix attempt {attempt + 1}/{max_attempts}] response rejected, not a single clean '
+            f'sentence ({len(candidate)} chars, {"contains" if chr(10) in candidate else "no"} line '
+            f'breaks), treating this attempt as REMOVE',
+            flush=True,
+        )
+        last = 'REMOVE'
+    return last, malformed_seen
 
 
 def split_frontmatter(article_text: str) -> tuple[str, str]:
@@ -796,7 +850,7 @@ def run_source_verification_pipeline(
         out_path = lang_results[lang]['out_path']
         article_text = out_path.read_text(encoding='utf-8')
 
-        result = find_replacement_source_with_attempts(
+        result, malformed = find_replacement_source_with_attempts(
             client, lang, row['quote'], row['source_name'], article_text,
             max_attempts=2,
         )
@@ -810,9 +864,13 @@ def run_source_verification_pipeline(
             'quote': row['quote'],
         }
         if applied:
-            record['resolution'] = (
-                'removed' if result.strip().upper() == 'REMOVE' else f'reattributed: {result.strip()}'
-            )
+            if result.strip().upper() == 'REMOVE':
+                record['resolution'] = (
+                    'removed (model response failed validation, treated as no source found)'
+                    if malformed else 'removed'
+                )
+            else:
+                record['resolution'] = f'reattributed: {result.strip()}'
             fixed.append(record)
             print(f'[{lang}] fixed flagged source "{row["source_name"]}": {record["resolution"]}', flush=True)
         else:

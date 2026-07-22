@@ -17,29 +17,11 @@ The sensation is real. What's misidentified is the cause.
 
 Nicotine reaches your brain within about ten seconds of inhaling, according to EBSCO Research Starters, triggering a rush of dopamine, acetylcholine, and norepinephrine. That combination genuinely feels good. It sharpens focus and lifts mood, at least for a while.
 
-Here's the part nobody explains at the corner store: that "relief" isn't relief from ordinary life stress. It's relief from a discomfort your last cigarette created. Based on my research, the claim in the article states: "About an hour after smoking, nicotine levels drop enough to trigger the early stages of withdrawal, irritability, restlessness, trouble concentrating, a low hum of tension."
-
-However, the scientific evidence from multiple authoritative sources shows:
-
-- Nicotine withdrawal symptoms typically begin 4-24 hours after the last cigarette (not about 1 hour)
-- Withdrawal symptoms appear 4-24 hours after someone smokes their last cigarette (Medical News Today)
-- Most people begin to have withdrawal symptoms 4 hours after their last cigarette (GoodRx, Nicorette)
-- The affective and cognitive withdrawal symptoms show onset of 2 to 12 hours post-cessation (clinical research)
-- Around 2 hours after the last cigarette, nicotine levels drop by 50%, but withdrawal symptoms don't typically begin until 4+ hours
-
-The "one hour" timing is not supported by any legitimate peer-reviewed sources or major health authority sources I found. While nicotine does have a short half-life and levels begin dropping within hours, the withdrawal symptoms themselves don't typically manifest until 4-24 hours after smoking cessation.
-
-The article already cites EBSCO Research Starters for other nicotine-related information. However, EBSCO also would not support the "one hour" claim based on standard medical literature.
-
-Since I cannot find a legitimate Tier 1 or Tier 2 source that supports the specific claim that withdrawal symptoms trigger "about an hour after smoking," I must respond:
-
-REMOVE. That withdrawal feels exactly like stress. So you smoke again, nicotine floods back in, the withdrawal symptoms disappear, and your brain logs the whole thing as "cigarette equals calm."
+Here's the part nobody explains at the corner store: that "relief" isn't relief from ordinary life stress. It's relief from a discomfort your last cigarette created. That withdrawal feels exactly like stress. So you smoke again, nicotine floods back in, the withdrawal symptoms disappear, and your brain logs the whole thing as "cigarette equals calm."
 
 It isn't calm. It's a return to baseline.
 
-, which matches the claim in the flagged sentence. The article already cites EBSCO Research Starters elsewhere, but the American Journal of Psychiatry is a more authoritative Tier 1 source for this specific claim.
-
-According to research from the American Journal of Psychiatry, chronic smokers carry consistently higher resting anxiety and perceived stress levels than non-smokers.: chronic smokers carry consistently higher resting anxiety and higher perceived stress than non-smokers. When a smoker lights up and says they feel better, their anxiety hasn't dropped below where a non-smoker sits all day. It has simply climbed back up to that smoker's own normal, right before the next dip starts the cycle over again. You're not de-stressing. You're patching a hole you keep digging.
+According to research from the American Journal of Psychiatry, chronic smokers carry consistently higher resting anxiety and higher perceived stress than non-smokers. When a smoker lights up and says they feel better, their anxiety hasn't dropped below where a non-smoker sits all day. It has simply climbed back up to that smoker's own normal, right before the next dip starts the cycle over again. You're not de-stressing. You're patching a hole you keep digging.
 
 ## Does nicotine actually make anxiety worse over time?
 
@@ -63,22 +45,10 @@ This is the part tobacco marketing never mentions, and it's the most encouraging
 
 Oxford University's Nuffield Department analyzed a randomized clinical trial with 4,260 participants across sixteen countries, run between 2011 and 2015. The conclusion: quitting smoking does not damage mental health, and for most people it improves it. The researchers were direct about the myth: what people interpret as the mental health benefits of smoking are, in reality, the symptoms of nicotine withdrawal being temporarily suppressed. Take away the cigarette, and eventually you take away the withdrawal cycle that made the cigarette feel necessary.
 
-The CDC confirms the same pattern: quitting is linked to lower depression, lower anxiety, lower stress, and a better overall quality of life. And the improvement isn't instant. Give it time. The CDC's education materials note that a few smoke-free months in, most people report anxiety and depression levels lower than they had while still smoking. Perfect. I found the primary source. The NHS website (index 6) directly states the claim about smoking cessation being as effective as antidepressants. This is a Tier 1 government health agency source that is more authoritative than the secondary reporting mentioned in the flagged sentence.
-
-In the UK, the NHS states that evidence suggests the beneficial effect of stopping smoking on symptoms of anxiety and depression can equal that of taking antidepressants..
+The CDC confirms the same pattern: quitting is linked to lower depression, lower anxiety, lower stress, and a better overall quality of life. And the improvement isn't instant. Give it time. The CDC's education materials note that a few smoke-free months in, most people report anxiety and depression levels lower than they had while still smoking. In the UK, the NHS states that evidence suggests the beneficial effect of stopping smoking on symptoms of anxiety and depression can equal that of taking antidepressants.
 
 ## One honest caveat
 
-None of this means quitting is simple if you already struggle with anxiety. .
-
-The article currently says "more than a third met criteria for a lifetime anxiety diagnosis" - let me verify this matches. Looking at the numbers: 455 + 199 + 99 = 753 out of 1504 = 50%. This is indeed "more than a third."
-
-Since the University of Wisconsin Center for Tobacco Research and Intervention is already cited as a source elsewhere in the article (it appears the article uses EBSCO and other sources), and this IS the legitimate primary peer-reviewed journal source, the corrected sentence is:
-
-A 2010 study in the peer-reviewed journal Addiction, conducted by the University of Wisconsin Center for Tobacco Research and Intervention, followed 1,504 participants and found more than a third met criteria for a lifetime anxiety diagnosis, including 455 with a history of panic attacks., followed 1,504 participants and found more than a third met criteria for a lifetime anxiety diagnosis, including 455 with a history of panic attacks. .
-
-The University of Wisconsin Center for Tobacco Research and Intervention is already cited elsewhere in the article as the source of the study mentioning that "more than a third met criteria for a lifetime anxiety diagnosis." The Addiction journal is a Tier 1 peer-reviewed source that directly supports the claim about quit success rates.
-
-That same study found people with anxiety diagnoses were significantly less likely to be abstinent at 8 weeks and 6 months post-quit. than smokers without one. If you fall into that group, the early weeks may genuinely feel harder, and that's not a personal failing. It's a documented pattern, and it's worth planning around rather than being surprised by. Reading through a nicotine withdrawal timeline before you start can help you tell the difference between a hard day and a warning sign.
+None of this means quitting is simple if you already struggle with anxiety. Research from the University of Wisconsin Center for Tobacco Research, published in the journal Addiction in 2010, followed 1,504 participants and found more than a third met criteria for a lifetime anxiety diagnosis, including 455 with a history of panic attacks. That same study found people with anxiety diagnoses were significantly less likely to quit successfully than smokers without one. If you fall into that group, the early weeks may genuinely feel harder, and that's not a personal failing. It's a documented pattern, and it's worth planning around rather than being surprised by. Reading through a nicotine withdrawal timeline before you start can help you tell the difference between a hard day and a warning sign.
 
 The core finding stands regardless: smoking doesn't lower your stress below where it would otherwise sit. It creates a dip, then fills it back in, and charges you your long-term mental health for the service.
