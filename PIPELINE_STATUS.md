@@ -1,5 +1,5 @@
 # NiQuit Blog Pipeline: производственная линия
-Обновлено автоматически: 2026-07-22 16:20 UTC
+Обновлено автоматически: 2026-07-24 10:11 UTC
 
 Склад сырья → Цех (research + написание, 5 языков) → ОТК (источники →
 между языками → автоисправление) → Склад готовой продукции (approved) →
@@ -34,7 +34,7 @@
 
 ## Следующая смена по расписанию
 - Генерация (blog-editor): понедельник, 2026-07-27 09:00 UTC
-- Отгрузка (publisher): пятница, 2026-07-24 08:00 UTC
+- Отгрузка (publisher): вторник, 2026-07-28 08:00 UTC
 
 ## Приёмка новой линии (пилотный счётчик): 0 из 3 чистых прогонов
 - 2026-07-22 (does-smoking-actually-reduce-stress-the-real-science): НЕ засчитан — invalidated: real API run of steps 4-6 found a validation bug (reasoning traces spliced into the article instead of a clean sentence); code was fixed as a result, so this run does not count toward the 3 clean pilot runs
