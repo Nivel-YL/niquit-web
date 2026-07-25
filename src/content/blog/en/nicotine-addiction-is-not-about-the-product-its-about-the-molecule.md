@@ -17,7 +17,7 @@ This matters because so much of quitting advice treats products as the enemy. Qu
 
 Because you never stopped feeding the same receptor.
 
-Nicotine's addictive power comes from a specific interaction in your brain: it binds to α4β2 nicotinic receptors, which are the most common receptor subtype in the brain. When nicotine attaches to them, it ramps up the firing rate of dopamine neurons and switches on the mesolimbic dopamine system, the circuit responsible for reward and craving (Frontiers in Neuroscience, NIH PMC, 2025). This happens whether the nicotine comes from a cigarette, a disposable vape, a ZYN pouch, or a nicotine patch. The molecule is identical. The receptor doesn't check the packaging.
+Nicotine's addictive power comes from a specific interaction in your brain: it binds to α4β2 nicotinic receptors, which are the most common receptor subtype in the brain. When nicotine binds to α4β2 nicotinic receptors, it enhances the firing rate of dopamine neurons and activates the mesolimbic dopamine system, the circuit responsible for reward and craving (Frontiers in Neuroscience, 2025). This happens whether the nicotine comes from a cigarette, a disposable vape, a ZYN pouch, or a nicotine patch. The molecule is identical. The receptor doesn't check the packaging.
 
 That's why data from Japan on tobacco and nicotine users found strikingly similar dependence rates across totally different products: 42.9% among cigarette smokers, 44.2% among people using multiple products, and 43.0% among heated tobacco users (Nicotine & Tobacco Research, NIH PMC, 2024). If the product itself were the main driver of addiction, you'd expect a big gap between these numbers. There isn't one. The addiction lives in the molecule, not the device.
 
