@@ -570,22 +570,27 @@ FIX_SYSTEM = (
     'via web_search, not from memory. Prefer a source ALREADY cited elsewhere in the article below '
     'over introducing a new name, if it genuinely supports the same claim. The underlying fact '
     'itself must not change, only who it is attributed to.\n\n'
-    'If you find a legitimate Tier 1 or Tier 2 source, per the standard tier rules for this '
+    'Do all your searching and reasoning first. Once you have your conclusion, output a final '
+    'answer block in EXACTLY this form, as the very last thing in your response, nothing after it:\n\n'
+    '===FIX_ANSWER===\n'
+    '<single sentence, or REMOVE>\n'
+    '===END_FIX_ANSWER===\n\n'
+    'If you found a legitimate Tier 1 or Tier 2 source, per the standard tier rules for this '
     'project (government health agencies, named peer-reviewed journals, major academic medical '
     'centers, or mass health media as one of several voices) that actually supports this specific '
-    'claim, respond with ONLY the corrected sentence, written in {lang_name}, ready to directly '
-    'replace the flagged sentence in the article verbatim. It must be a complete, self-contained '
-    'sentence starting with a capital letter, not a fragment that continues from where the '
-    'flagged quote used to end.\n\n'
-    'Your entire response must be that single sentence and nothing else: no preamble, no '
-    'description of your search process, no phrases like "Based on my research" or "Let me '
-    'verify", no line breaks, no quotation marks around it. A response that is not a single '
-    'complete clean sentence is discarded automatically and treated as if you had said REMOVE, so '
-    'do any reasoning before your final message, not inside it.\n\n'
-    'If after searching you cannot find any legitimate primary source for this specific claim, '
-    'respond with exactly: REMOVE\n'
-    'and nothing else.'
+    'claim, the line between the markers must be ONLY the corrected sentence, written in '
+    '{lang_name}, ready to directly replace the flagged sentence in the article verbatim: one '
+    'complete, self-contained sentence starting with a capital letter, no preamble, no line '
+    'breaks, no quotation marks, not a fragment that continues from where the flagged quote used '
+    'to end. If after searching you cannot find any legitimate primary source for this specific '
+    'claim, the line between the markers must be exactly: REMOVE\n\n'
+    'Anything between the markers that is not a single complete clean sentence (or REMOVE) is '
+    'discarded automatically and treated as if you had said REMOVE, so keep your reasoning and '
+    'search narration entirely outside the block.'
 )
+
+
+FIX_ANSWER_RE = re.compile(r'===FIX_ANSWER===\s*(.*?)\s*===END_FIX_ANSWER===', re.DOTALL)
 
 
 def find_replacement_source(
@@ -600,7 +605,7 @@ def find_replacement_source(
     """
     resp = client.messages.create(
         model=RESEARCH_MODEL,
-        max_tokens=512,
+        max_tokens=1024,
         tools=[{
             'type': 'web_search_20260209',
             'name': 'web_search',
@@ -617,9 +622,11 @@ def find_replacement_source(
             ),
         }],
     )
-    parts = [b.text for b in resp.content if hasattr(b, 'text') and b.text]
-    result = (parts[-1] if parts else '').strip()
-    return result or 'REMOVE'
+    full_text = '\n'.join(b.text for b in resp.content if hasattr(b, 'text') and b.text)
+    m = FIX_ANSWER_RE.search(full_text)
+    if not m:
+        return full_text.strip() or 'REMOVE'
+    return m.group(1).strip() or 'REMOVE'
 
 
 FIX_RESPONSE_MAX_CHARS = 400

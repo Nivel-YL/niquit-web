@@ -234,25 +234,41 @@ def main() -> None:
 
     _configure_git_identity()
 
-    # 1. Targeted remediation: E-02, ru/de/es only.
-    e02 = topics_by_id['E-02']
-    slug = slugify(e02['title_en'])
-    remediate_langs(client, e02, ['ru', 'de', 'es'], today)
-    commit_and_push(
-        [
-            f'src/content/blog/ru/{slug}.md',
-            f'src/content/blog/de/{slug}.md',
-            f'src/content/blog/es/{slug}.md',
-            f'docs/fact-audits/{slug}/ru.md',
-            f'docs/fact-audits/{slug}/de.md',
-            f'docs/fact-audits/{slug}/es.md',
-            f'docs/fact-audits/{slug}/_remediation_ru_de_es_report.md',
-        ],
-        message='steps4-6: E-02 remediation (ru/de/es)',
+    # Env-controlled scope, so a single topic can be re-run in isolation (e.g. to
+    # verify a pipeline fix) without redoing already-committed topics.
+    # STEPS456_SKIP_E02=1 skips the E-02 remediation step entirely.
+    # STEPS456_TOPICS=<comma-separated ids> limits the full-pipeline loop below
+    # (default: all 6 first-time topics).
+    skip_e02 = os.environ.get('STEPS456_SKIP_E02', '').strip() == '1'
+    topics_raw = os.environ.get('STEPS456_TOPICS', '').strip()
+    full_pipeline_ids = (
+        [t.strip() for t in topics_raw.split(',') if t.strip()]
+        if topics_raw
+        else ['C-03', 'C-04', 'D-01', 'D-02', 'D-03', 'E-01']
     )
 
-    # 2. First-time full steps 4-6 for the 6 never-audited drafts.
-    for topic_id in ['C-03', 'C-04', 'D-01', 'D-02', 'D-03', 'E-01']:
+    # 1. Targeted remediation: E-02, ru/de/es only.
+    if not skip_e02:
+        e02 = topics_by_id['E-02']
+        slug = slugify(e02['title_en'])
+        remediate_langs(client, e02, ['ru', 'de', 'es'], today)
+        commit_and_push(
+            [
+                f'src/content/blog/ru/{slug}.md',
+                f'src/content/blog/de/{slug}.md',
+                f'src/content/blog/es/{slug}.md',
+                f'docs/fact-audits/{slug}/ru.md',
+                f'docs/fact-audits/{slug}/de.md',
+                f'docs/fact-audits/{slug}/es.md',
+                f'docs/fact-audits/{slug}/_remediation_ru_de_es_report.md',
+            ],
+            message='steps4-6: E-02 remediation (ru/de/es)',
+        )
+    else:
+        print('Skipping E-02 remediation (STEPS456_SKIP_E02=1).', flush=True)
+
+    # 2. First-time full steps 4-6 for the given never-audited drafts.
+    for topic_id in full_pipeline_ids:
         topic = topics_by_id[topic_id]
         result = run_full_pipeline_on_existing(client, topic, today)
         topic_slug = result['slug']

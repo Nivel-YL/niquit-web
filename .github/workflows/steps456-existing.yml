@@ -2,6 +2,15 @@ name: Steps 4-6 on existing drafts (E-02 remediation + first full audits)
 
 on:
   workflow_dispatch:
+    inputs:
+      topics:
+        description: 'Comma-separated topic ids for the first-time full pipeline (default: C-03,C-04,D-01,D-02,D-03,E-01)'
+        required: false
+        default: ''
+      skip_e02:
+        description: 'Skip the E-02 remediation step (true/false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -26,6 +35,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY1 }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STEPS456_TOPICS: ${{ github.event.inputs.topics }}
+          STEPS456_SKIP_E02: ${{ github.event.inputs.skip_e02 == 'true' && '1' || '' }}
 
       - name: Commit and push reports (backstop)
         # The script itself commits and pushes after every single topic, so this
