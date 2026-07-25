@@ -19,7 +19,7 @@ Cuando la nicotina entra en tu cuerpo, sea por humo, vapor o la mucosa de la boc
 
 No importa si esa nicotina viene de un Marlboro, un Juul o una bolsita de ZYN. El receptor no distingue el envase. Solamente reconoce la molécula.
 
-Lo único que cambia entre productos es la velocidad. Según la FDA (citada por SingleCare, 2025), inhalar humo o vapor permite que la nicotina llegue al cerebro en segundos, lo que hace más probable que la persona desarrolle dependencia rápido. Una bolsita o un parche la liberan más lento. Pero "más lento" no significa "sin riesgo": significa que tarda un poco más en engancharte, no que te libre de engancharte. Si quieres entender esto con más detalle sobre las bolsitas específicamente, ya escribimos sobre si son realmente más seguras que fumar.
+Lo único que cambia entre productos es la velocidad. , inhalar humo o vapor permite que la nicotina llegue al cerebro en segundos, lo que hace más probable que la persona desarrolle dependencia rápido. Una bolsita o un parche la liberan más lento. Pero "más lento" no significa "sin riesgo": significa que tarda un poco más en engancharte, no que te libre de engancharte. Si quieres entender esto con más detalle sobre las bolsitas específicamente, ya escribimos sobre si son realmente más seguras que fumar.
 
 ## ¿Las bolsitas de nicotina son menos adictivas que fumar?
 
@@ -43,9 +43,9 @@ Esto explica por qué tu amigo probó el cigarrillo tres veces en la universidad
 
 ## Los números detrás del problema
 
-La magnitud de esto es enorme. Según la Organización Mundial de la Salud (citada por SingleCare, 2025), más de 7 millones de personas mueren cada año en el mundo por el consumo de tabaco. En Estados Unidos, la SAMHSA reportó que 61,6 millones de personas, el 22% de la población mayor de 12 años, usó algún producto de tabaco o nicotina en vapeo durante el último mes de 2021.
+La magnitud de esto es enorme. , más de 7 millones de personas mueren cada año en el mundo por el consumo de tabaco. En Estados Unidos, la SAMHSA reportó que 61,6 millones de personas, el 22% de la población mayor de 12 años, usó algún producto de tabaco o nicotina en vapeo durante el último mes de 2021.
 
-Y la dependencia no es un fenómeno marginal ni algo que solo afecte a fumadores de toda la vida. Un análisis publicado en JAMA Network Open (2023) encontró que entre adultos que fumaban cigarrillos en Estados Unidos, la prevalencia de dependencia a la nicotina fue del 59,52% en 2006 y del 56,00% en 2019. Prácticamente sin cambios en más de una década, a pesar de todas las campañas de salud pública. Y quienes tienen 50 años o más, especialmente con antecedentes de depresión o consumo de sustancias, muestran las tasas más altas.
+Y la dependencia no es un fenómeno marginal ni algo que solo afecte a fumadores de toda la vida.  encontró que entre adultos que fumaban cigarrillos en Estados Unidos, la prevalencia de dependencia a la nicotina fue del 59,52% en 2006 y del 56,00% en 2019. Prácticamente sin cambios en más de una década, a pesar de todas las campañas de salud pública. Y quienes tienen 50 años o más, especialmente con antecedentes de depresión o consumo de sustancias, muestran las tasas más altas.
 
 Entre usuarios más jóvenes, el mismo estudio de Tobacco Control (2024) encontró que, aunque los síntomas de dependencia siguen siendo más altos entre fumadores de cigarrillo, aumentaron notablemente entre quienes usan solamente cigarrillos electrónicos desde 2017. El vapeo no llegó como una alternativa sin consecuencias: llegó con su propia curva de dependencia.
 

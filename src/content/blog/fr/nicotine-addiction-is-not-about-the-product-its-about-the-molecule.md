@@ -25,7 +25,7 @@ C'est une question qu'on nous pose souvent, et la réponse tient en un chiffre q
 
 Trois chiffres quasiment identiques, pour trois modes de consommation différents. Si le produit changeait vraiment la donne, on verrait un écart net. Ce n'est pas le cas. Ce que ces chiffres montrent, c'est que la dépendance suit la molécule, pas le packaging.
 
-Ce qui change en revanche, c'est la vitesse à laquelle la nicotine atteint ton cerveau. Selon la FDA, inhaler de la fumée ou de la vapeur permet à la nicotine d'arriver au cerveau en quelques secondes, ce qui augmente la probabilité de devenir dépendant plus vite (source : FDA, cité par SingleCare, 2025). Un sachet sous la lèvre agit plus lentement, mais il active exactement les mêmes récepteurs. La vitesse influence à quelle vitesse tu deviens accro, pas si tu le deviens. Tu peux creuser ce sujet dans notre article sur [les sachets de nicotine, sont-ils vraiment plus sûrs que les cigarettes ?]
+Ce qui change en revanche, c'est la vitesse à laquelle la nicotine atteint ton cerveau.  Un sachet sous la lèvre agit plus lentement, mais il active exactement les mêmes récepteurs. La vitesse influence à quelle vitesse tu deviens accro, pas si tu le deviens. Tu peux creuser ce sujet dans notre article sur [les sachets de nicotine, sont-ils vraiment plus sûrs que les cigarettes ?]
 
 ## Pourquoi mon cerveau a besoin de toujours plus de nicotine ?
 
