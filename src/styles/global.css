@@ -88,7 +88,7 @@ html {
   width: 100%;
   border-radius: 34px;
   object-fit: cover;
-  min-height: 520px;
+  aspect-ratio: 791 / 1600;
 }
 
 @media (max-width: 767px) {
