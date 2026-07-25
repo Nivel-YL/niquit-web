@@ -4,5 +4,11 @@
     "slug": "does-smoking-actually-reduce-stress-the-real-science",
     "counted": false,
     "note": "invalidated: real API run of steps 4-6 found a validation bug (reasoning traces spliced into the article instead of a clean sentence); code was fixed as a result, so this run does not count toward the 3 clean pilot runs"
+  },
+  {
+    "date": "2026-07-25",
+    "slug": "why-do-i-always-want-a-cigarette-the-science-of-cravings",
+    "counted": true,
+    "note": ""
   }
 ]

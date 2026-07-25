@@ -19,7 +19,7 @@ Nicotine binds to receptors in your brain called α4β2 nicotinic acetylcholine 
 
 Your brain didn't choose this. It's just doing what brains do: reinforcing whatever gave it a strong reward signal.
 
-The problem is what happens next. With repeated exposure, your brain adapts. According to Medindia (2026), the brain responds to constant nicotine by increasing the number of nicotine receptors while dulling its sensitivity to natural rewards, things like food, exercise, or a good laugh with a friend. Villa Treatment Center (2026) describes this as receptor upregulation: more receptors, less satisfaction from anything that isn't nicotine. That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
+The problem is what happens next. With repeated exposure, your brain adapts.  Frontiers in Neuroscience (2025) research has documented that chronic nicotine exposure leads to upregulation of nicotinic acetylcholine receptors, which correlates with the development of tolerance and the brain's shifting reward sensitivity toward nicotine while other stimuli become That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
 
 There's also a faster mechanism at play. ScienceInsights (2025) notes that nicotinic receptors desensitize shortly after activation, meaning they temporarily stop responding. This forces you to smoke more, sooner, to get any effect at all. It's a built-in tolerance loop, and it's a big part of why one cigarette a day quietly turns into a pack.
 
@@ -27,7 +27,7 @@ There's also a faster mechanism at play. ScienceInsights (2025) notes that nicot
 
 This is the question everyone actually wants answered when they're gripping their phone at 11pm resisting a gas station run: does it get better, and when?
 
-The timeline looks something like this. According to Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette. One study tracking smokers through a 6-hour abstinence window found cravings increasing steadily, with the first noticeable pull usually hitting between 60 and 180 minutes in, according to Consensus. The Cleveland Clinic (2021) reports that withdrawal peaks on day two or three, then gradually fades over the following 3 to 4 weeks.
+The timeline looks something like this. According to Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette. One study tracking smokers through a 6-hour abstinence window found cravings increasing steadily, with the first noticeable pull usually hitting between 60 and 180 minutes in, according to Consensus. 
 
 The good news buried in that timeline: individual cravings don't last forever. HSE Ireland notes that a single craving usually passes within 3 to 5 minutes, while WebMD (2024) puts the window a bit longer, around 15 to 20 minutes. The honest answer is somewhere in between, and it depends on the person, the trigger, and how many days into quitting you are. Either way, the craving that feels unbearable right now is not permanent. It's a wave, not a wall.
 

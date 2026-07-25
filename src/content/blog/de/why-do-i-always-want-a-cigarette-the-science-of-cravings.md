@@ -25,9 +25,9 @@ Das erklärt auch, warum kurze Strategien so gut funktionieren. Es geht nicht da
 
 ## Warum wird es nach dem Rauchstopp erst schlimmer, bevor es besser wird?
 
-Laut Medical News Today (2024) treten die ersten Entzugssymptome bereits 4 bis 24 Stunden nach der letzten Zigarette auf. Danach nimmt die Intensität zu: Studien zufolge erreichen Cravings ihren Höhepunkt innerhalb der ersten 24 bis 72 Stunden. Die Cleveland Clinic (2021) bestätigt, dass die schlimmste Phase meist am zweiten oder dritten Tag liegt, und dass die körperlichen Symptome über drei bis vier Wochen abklingen.
+Laut Medical News Today (2024) treten die ersten Entzugssymptome bereits 4 bis 24 Stunden nach der letzten Zigarette auf. Danach nimmt die Intensität zu: Studien zufolge erreichen Cravings ihren Höhepunkt innerhalb der ersten 24 bis 72 Stunden.  bestätigt, dass die schlimmste Phase meist am zweiten oder dritten Tag liegt, und dass die körperlichen Symptome über drei bis vier Wochen abklingen.
 
-Das liegt an einem Prozess, den man Rezeptor-Upregulation nennt: Weil dein Gehirn über Jahre ständig Nikotin bekommen hat, hat es die Anzahl seiner Rezeptoren erhöht, um überhaupt noch normal zu funktionieren. Fällt das Nikotin plötzlich weg, sind diese zusätzlichen Rezeptoren erst einmal unterversorgt, was laut Villa Treatment Center (2026) genau die Phase ist, in der die Reizbarkeit am größten ist. Erst nach einigen Wochen normalisiert sich die Rezeptordichte wieder.
+ Erst nach einigen Wochen normalisiert sich die Rezeptordichte wieder.
 
 Wichtig dabei: Körperliche und psychische Entzugssymptome laufen nicht synchron. Medical News Today (2024) unterscheidet klar zwischen beiden. Die körperlichen Beschwerden, etwa Unruhe oder Schlafprobleme, verschwinden meist nach wenigen Tagen. Die psychischen Effekte, also das Gefühl, dass etwas fehlt oder das ständige Denken an die Zigarette, können laut Drugs.com (2025) dagegen Monate anhalten. Eine spürbare Besserung setzt bei den meisten Menschen zwischen der siebten und zehnten Woche nach dem Rauchstopp ein.
 

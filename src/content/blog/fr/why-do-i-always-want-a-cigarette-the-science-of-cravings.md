@@ -13,13 +13,13 @@ Tu viens d'éteindre une cigarette il y a deux heures et déjà, ton cerveau te 
 
 ## Pourquoi le cerveau réclame de la nicotine aussi vite ?
 
-Quand la nicotine entre dans ton organisme, elle se fixe sur des récepteurs précis dans ton cerveau, les récepteurs nicotiniques α4β2. D'après une étude publiée dans Frontiers in Neuroscience (2025), cette liaison augmente fortement l'activité des neurones à dopamine et active le système mésolimbique, celui qui gère la récompense. Résultat : ton cerveau libère de la dopamine en rafales rapides et intenses, un mécanisme que les chercheurs appellent le "phasic firing" (ScienceInsights, 2025). C'est ce pic soudain qui crée cette sensation de satisfaction immédiate, et qui grave dans ton circuit cérébral l'association entre la cigarette et le plaisir.
+Quand la nicotine entre dans ton organisme, elle se fixe sur des récepteurs précis dans ton cerveau, les récepteurs nicotiniques α4β2. D'après une étude publiée dans Frontiers in Neuroscience (2025), cette liaison augmente fortement l'activité des neurones à dopamine et active le système mésolimbique, celui qui gère la récompense. Résultat : ton cerveau libère de la dopamine en rafales rapides et intenses,  C'est ce pic soudain qui crée cette sensation de satisfaction immédiate, et qui grave dans ton circuit cérébral l'association entre la cigarette et le plaisir.
 
 Le problème, c'est que ce système s'use. Le cerveau ne reste jamais passif face à cette stimulation répétée.
 
 ## Pourquoi j'ai besoin de fumer de plus en plus pour ressentir le même effet ?
 
-Avec le temps, ton cerveau s'adapte. Il augmente le nombre de récepteurs nicotiniques disponibles, un phénomène appelé "upregulation" (Villa Treatment Center, 2026). En parallèle, ta sensibilité aux récompenses naturelles (un bon repas, une sortie entre amis, une victoire au sport) diminue. Tu as alors besoin de plus de nicotine pour ressentir ce que tu ressentais avant avec une seule cigarette.
+Avec le temps, ton cerveau s'adapte.  En parallèle, ta sensibilité aux récompenses naturelles (un bon repas, une sortie entre amis, une victoire au sport) diminue. Tu as alors besoin de plus de nicotine pour ressentir ce que tu ressentais avant avec une seule cigarette.
 
 Il existe aussi un phénomène de désensibilisation : les récepteurs nicotiniques deviennent temporairement insensibles juste après avoir été activés (ScienceInsights, 2025). C'est une forme de tolérance à court terme, qui explique pourquoi la deuxième cigarette de la journée procure souvent moins de plaisir que la première, alors même que l'envie reste là.
 
@@ -35,13 +35,13 @@ Ce détail change tout. Si tu sais qu'une envie va s'estomper d'elle-même en qu
 
 ## Pourquoi je me sens si irritable et anxieux après avoir arrêté ?
 
-Quand tu arrêtes de fumer, ton taux de dopamine dans le noyau accumbens chute brutalement. Selon Biology Insights (2025), cette chute soudaine est la cause directe des symptômes de sevrage : irritabilité, anxiété, envies intenses. Ton cerveau, habitué à des niveaux de dopamine artificiellement élevés, se retrouve en déficit, et il te le fait savoir.
+Quand tu arrêtes de fumer, ton taux de dopamine dans le noyau accumbens chute brutalement.  Ton cerveau, habitué à des niveaux de dopamine artificiellement élevés, se retrouve en déficit, et il te le fait savoir.
 
-D'après Medical News Today (2024), les symptômes de sevrage apparaissent généralement entre 4 et 24 heures après la dernière cigarette. Une étude portant sur des fumeurs en abstinence sur une période de 6 heures a montré que les envies augmentent de façon linéaire, avec un début détectable souvent entre 60 et 180 minutes.
+ Une étude portant sur des fumeurs en abstinence sur une période de 6 heures a montré que les envies augmentent de façon linéaire, avec un début détectable souvent entre 60 et 180 minutes.
 
-Le pic d'intensité arrive vite. Selon plusieurs analyses compilées par Consensus, les envies atteignent leur maximum entre 24 et 72 heures d'abstinence. La Cleveland Clinic (2021) précise que les symptômes culminent au deuxième ou troisième jour sans nicotine, puis s'atténuent progressivement sur 3 à 4 semaines.
+Le pic d'intensité arrive vite. Selon plusieurs analyses compilées par Consensus, les envies atteignent leur maximum entre 24 et 72 heures d'abstinence. 
 
-Il faut distinguer deux types de symptômes. Les effets physiques (comme les maux de tête ou la fatigue) disparaissent généralement en quelques jours, le temps que la nicotine sorte complètement du corps. Mais les effets psychologiques, eux, peuvent persister bien plus longtemps, parfois plusieurs mois selon Drugs.com (2025). C'est cette phase psychologique qui piège le plus de monde : on croit que tout est fini après trois semaines, alors que le cerveau continue son travail de réajustement en silence.
+Il faut distinguer deux types de symptômes. Les effets physiques (comme les maux de tête ou la fatigue) disparaissent généralement en quelques jours, le temps que la nicotine sorte complètement du corps.  C'est cette phase psychologique qui piège le plus de monde : on croit que tout est fini après trois semaines, alors que le cerveau continue son travail de réajustement en silence.
 
 ## Pourquoi certains lieux ou moments déclenchent une envie soudaine ?
 

@@ -35,7 +35,7 @@ Esto explica por qué puedes llevar dos meses sin fumar y de repente, en una fie
 
 ## ¿Por qué ciertos lugares o situaciones me dan más ganas de fumar?
 
-El café de la mañana, el coche, la terraza del bar con amigos: hay lugares que parecen fumar por ti. Villa Treatment Center (2026) explica que estas señales del entorno reactivan las vías de la dopamina y activan los sistemas de estrés del cerebro justo cuando los niveles de nicotina bajan. No es casualidad ni falta de fuerza de voluntad: es un mecanismo aprendido, repetido cientos de veces, que tu cerebro dispara de forma automática.
+El café de la mañana, el coche, la terraza del bar con amigos: hay lugares que parecen fumar por ti.  No es casualidad ni falta de fuerza de voluntad: es un mecanismo aprendido, repetido cientos de veces, que tu cerebro dispara de forma automática.
 
 Hay incluso un componente de rechazo en juego. Investigaciones publicadas en Frontiers in Neuroscience (2025) describen una vía cerebral, entre la habénula medial y el núcleo interpeduncular, que regula los efectos desagradables de la nicotina, como las náuseas o el mareo. La adicción funciona como un equilibrio inestable entre esa recompensa placentera y esa señal de rechazo, lo que explica por qué a veces las ganas vienen acompañadas de una sensación contradictoria: quieres el cigarrillo y al mismo tiempo recuerdas lo mal que te sienta.
 
