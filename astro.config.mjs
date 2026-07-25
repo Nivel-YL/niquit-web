@@ -19,5 +19,19 @@ export default defineConfig({
     },
   },
 
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // Match the site's own link convention (localePath() never adds a
+      // trailing slash) so the sitemap doesn't advertise a different URL
+      // than the one every internal link actually points to.
+      serialize(item) {
+        const url = new URL(item.url);
+        if (url.pathname.length > 1) {
+          url.pathname = url.pathname.replace(/\/$/, '');
+        }
+        item.url = url.toString();
+        return item;
+      },
+    }),
+  ],
 });
