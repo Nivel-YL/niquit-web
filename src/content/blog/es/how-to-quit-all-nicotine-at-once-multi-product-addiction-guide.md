@@ -29,7 +29,7 @@ Si tu plan incluye bolsitas de nicotina, quizás te interese revisar primero [c�
 
 ## ¿Cuánto tarda mi cuerpo en librarse de la nicotina?
 
-Aquí hay buenas noticias, aunque no lo parezca en el momento. La nicotina se elimina de tu sangre en un plazo de uno a tres días. Su principal metabolito, la cotinina, tarda entre uno y diez días en desaparecer por completo, dependiendo de cuánto y con qué frecuencia consumías, según la American Cancer Society. De hecho, apenas dos horas después de tu último cigarrillo o calada, los niveles de nicotina en tu cuerpo ya han bajado a la mitad, según datos de GoodRx (2024).
+Aquí hay buenas noticias, aunque no lo parezca en el momento. La nicotina se elimina de tu sangre en un plazo de uno a tres días. Su principal metabolito, la cotinina, tarda entre uno y diez días en desaparecer por completo, dependiendo de cuánto y con qué frecuencia consumías, según la American Cancer Society. De hecho, apenas dos horas después de tu último cigarrillo o calada, los niveles de nicotina en tu cuerpo ya han bajado a la mitad, según Medical News Today.
 
 Lo que tarda más en recuperarse es el cerebro, no la sangre. Los receptores nicotínicos que se multiplicaron con el uso constante necesitan entre dos y cuatro semanas para volver a su estado normal, según investigación publicada en Psychopharmacology. Esto explica por qué los síntomas físicos desaparecen en pocos días, pero la irritabilidad, la ansiedad o la dificultad para concentrarte pueden seguir presentes semanas después.
 
@@ -37,7 +37,7 @@ En cuanto al calendario general: los síntomas de abstinencia aparecen entre 4 y
 
 ## ¿Necesito medicación para dejar varios productos de nicotina a la vez?
 
-Aquí está el dato que más cuesta aceptar cuando llevas tiempo pensando en dejarlo "por tu cuenta": solamente entre el 3% y el 5% de las personas que intentan dejar la nicotina sin asesoramiento ni medicación aprobada logran mantenerse sin fumar más de seis meses, según Truth Initiative (2024). UCSF Health sitúa la tasa de éxito al año en torno al 5%, mientras que el CDC reporta cifras algo más generosas para métodos de autoayuda, entre el 8% y el 25%, dependiendo de cómo se defina el éxito en cada estudio. Ya hablamos de esto en detalle en [por qué dejarlo de golpe falla para la mayoría](/why-quitting-smoking-cold-turkey-fails-for-most-people).
+Solamente entre el 3% y el 5% de las personas que intentan dejar la nicotina sin asesoramiento ni medicación aprobada logran mantenerse sin fumar más de seis meses, según los expertos en dejar de fumar. Ya hablamos de esto en detalle en [por qué dejarlo de golpe falla para la mayoría](/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
 La combinación de medicación y acompañamiento (counseling) puede triplicar tus probabilidades de dejarlo, según datos de la FDA compilados por Truth Initiative. La FDA ha aprobado varias formas de terapia de reemplazo de nicotina (chicles, inhaladores, pastillas, spray nasal, parches), además de vareniclina y bupropión. .
 

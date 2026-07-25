@@ -21,7 +21,7 @@ Ce cumul n'est pas anodin sur le plan de la dépendance. Une enquête nationale 
 
 ## Que se passe-t-il dans le corps quand on arrête tout d'un coup ?
 
-La nicotine quitte le sang assez vite : entre un et trois jours. Son métabolite, la cotinine, met plus longtemps, entre un et dix jours selon les habitudes de consommation, d'après l'American Cancer Society. Concrètement, deux heures seulement après ta dernière prise, le taux de nicotine dans ton organisme a déjà chuté de moitié, selon GoodRx.
+La nicotine quitte le sang assez vite : entre un et trois jours. Son métabolite, la cotinine, met plus longtemps, entre un et dix jours selon les habitudes de consommation, d'après l'American Cancer Society. Deux heures seulement après ta dernière prise, le taux de nicotine dans ton organisme a déjà chuté de moitié, selon Johns Hopkins Aramco Healthcare.
 
 Mais le plus dur ne se joue pas dans le sang. Les récepteurs nicotiniques du cerveau, qui se sont multipliés à force d'usage, mettent deux à quatre semaines à revenir à la normale, d'après des données publiées dans Psychopharmacology. C'est cette adaptation neurologique, pas le taux sanguin, qui explique pourquoi l'envie psychologique dure bien plus longtemps que les symptômes physiques.
 
@@ -37,7 +37,7 @@ Ce qui compte, c'est plutôt la façon dont tu t'y prends une fois la décision 
 
 Oui, et les chiffres sont clairs sur ce point. Associer médicaments et accompagnement peut plus que tripler tes chances de réussir, selon des données FDA compilées par Truth Initiative. La FDA a approuvé plusieurs formes de substituts nicotiniques : gommes, inhalateurs, pastilles, spray nasal, patchs, ainsi que deux médicaments sur ordonnance, la varénicline et le bupropion.
 
-Les substituts nicotiniques classiques, eux, doublent les chances d'arrêter par rapport à un placebo, d'après des données cliniques citées par le fabricant Nicorette. Ce qui change avec une dépendance multi-produits, c'est le dosage : une personne qui fume, vape et utilise des pouches n'a pas les mêmes besoins qu'une personne qui ne fume que des cigarettes. Un patch seul risque de ne pas suffire si ton apport en nicotine venait de trois sources différentes. C'est un point à discuter avec un pharmacien ou un médecin plutôt qu'à deviner seul.
+Les substituts nicotiniques classiques doublent les chances d'arrêter par rapport à un placebo, selon les essais cliniques publiés dans Psychopharmacology. Ce qui change avec une dépendance multi-produits, c'est le dosage : une personne qui fume, vape et utilise des pouches n'a pas les mêmes besoins qu'une personne qui ne fume que des cigarettes. Un patch seul risque de ne pas suffire si ton apport en nicotine venait de trois sources différentes. C'est un point à discuter avec un pharmacien ou un médecin plutôt qu'à deviner seul.
 
 ## Comment tenir les premiers jours sans aucun produit ?
 
