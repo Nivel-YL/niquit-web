@@ -35,6 +35,6 @@ Realistisch heißt das: Ein fester Stichtag für alle Produkte gleichzeitig ist 
 
 ## Was passiert im Körper, wenn ich mit allem gleichzeitig aufhöre?
 
-Die Zahlen dazu sind erstaunlich konkret. Schon etwa zwei Stunden nach der letzten Nicotinaufnahme ist der Nicotinspiegel im Blut laut GoodRx bereits um die Hälfte gesunken. Innerhalb von ein bis drei Tagen ist Nicotin komplett aus dem Blut verschwunden, sein Abbauprodukt Cotinin braucht laut American Cancer Society je nach Konsummuster zwischen einem und zehn Tagen.
+Die Zahlen dazu sind erstaunlich konkret.  Innerhalb von ein bis drei Tagen ist Nicotin komplett aus dem Blut verschwunden, sein Abbauprodukt Cotinin braucht laut American Cancer Society je nach Konsummuster zwischen einem und zehn Tagen.
 
 Die Entzugssymptome selbst treten typischerweise vier bis 24 Stunden nach der letzten Nutzung auf, erreichen um den dritten Tag ihren Höhepunkt und werden innerhalb von ein bis zwei Wochen spürbar schwächer, so Daten von Medical News Today und der Johns H
