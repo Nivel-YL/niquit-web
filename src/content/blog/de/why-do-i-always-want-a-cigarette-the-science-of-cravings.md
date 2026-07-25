@@ -25,7 +25,7 @@ Das erklärt auch, warum kurze Strategien so gut funktionieren. Es geht nicht da
 
 ## Warum wird es nach dem Rauchstopp erst schlimmer, bevor es besser wird?
 
-Laut Medical News Today (2024) treten die ersten Entzugssymptome bereits 4 bis 24 Stunden nach der letzten Zigarette auf. Danach nimmt die Intensität zu: Studien zufolge erreichen Cravings ihren Höhepunkt innerhalb der ersten 24 bis 72 Stunden.  bestätigt, dass die schlimmste Phase meist am zweiten oder dritten Tag liegt, und dass die körperlichen Symptome über drei bis vier Wochen abklingen.
+Laut Medical News Today (2024) treten die ersten Entzugssymptome bereits 4 bis 24 Stunden nach der letzten Zigarette auf. Danach nimmt die Intensität zu: Studien zufolge erreichen Cravings ihren Höhepunkt innerhalb der ersten 24 bis 72 Stunden. Die Cleveland Clinic (2021) bestätigt, dass die schlimmste Phase meist am zweiten oder dritten Tag liegt, und dass die körperlichen Symptome über drei bis vier Wochen abklingen.
 
  Erst nach einigen Wochen normalisiert sich die Rezeptordichte wieder.
 
@@ -37,6 +37,6 @@ Das liegt an einem zweiten Mechanismus: der Rezeptordesensibilisierung. Kurz nac
 
 Gleichzeitig spielt laut Frontiers in Neuroscience (2025) auch die andere Seite der Medaille eine Rolle: Nikotin hat neben der belohnenden Wirkung auch aversive Effekte wie Übelkeit oder Schwindel, gesteuert über einen Signalweg zwischen Habenula und Interpeduncular-Kern. Das Gehirn balanciert also ständig zwischen Belohnung und Abwehr, und genau dieses Wechselspiel erklärt, warum du dich manchmal nach einer Zigarette sehnst und sie dir gleichzeitig gar nicht mehr wirklich schmeckt.
 
-Dieses Muster gilt übrigens nicht nur für Zigaretten. ob Nikotinbeutel wirklich weniger schädlich sind als Zigaretten oder Velo](https://niquit.netlify.app/how-to-quit-nicotine-pouches-zyn-on-velo).
+Dieses Muster gilt übrigens nicht nur für Zigaretten. Auch bei Nikotinbeuteln greifen dieselben Rezeptor-Mechanismen, weshalb sich viele fragen, [ob Nikotinbeutel wirklich sicherer sind](https://niquit.netlify.app/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes) oder wie man den Ausstieg dort angeht, etwa bei [ZYN, On! oder Velo](https://niquit.netlify.app/how-to-quit-nicotine-pouches-zyn-on-velo).
 
 Wenn du verstehst, dass ein Craving biologisch nur wenige Minuten dauert und die schlimmste Phase nach spätestens drei Tagen ihren Höhepunkt überschreitet, wird der nächste Anlauf leichter zu planen. Nicht weil das Verlangen verschwindet, sondern weil du weißt, womit du es genau zu tun hast.

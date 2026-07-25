@@ -19,7 +19,7 @@ Nicotine binds to receptors in your brain called α4β2 nicotinic acetylcholine 
 
 Your brain didn't choose this. It's just doing what brains do: reinforcing whatever gave it a strong reward signal.
 
-The problem is what happens next. With repeated exposure, your brain adapts.  Frontiers in Neuroscience (2025) research has documented that chronic nicotine exposure leads to upregulation of nicotinic acetylcholine receptors, which correlates with the development of tolerance and the brain's shifting reward sensitivity toward nicotine while other stimuli become That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
+The problem is what happens next. With repeated exposure, your brain adapts.  Frontiers in Neuroscience (2025) research has documented that chronic nicotine exposure leads to upregulation of nicotinic acetylcholine receptors, which correlates with the development of tolerance and the brain's shifting reward sensitivity toward nicotine while other stimuli become less rewarding. That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
 
 There's also a faster mechanism at play. Frontiers in Neuroscience (2025) research demonstrates that nicotinic receptors undergo rapid desensitization shortly after activation, meaning they temporarily stop responding. This forces you to smoke more, sooner, to get any effect at all. It's a built-in tolerance loop, and it's a big part of why one cigarette a day quietly turns into a pack.
 

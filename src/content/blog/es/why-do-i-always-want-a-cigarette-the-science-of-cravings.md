@@ -13,7 +13,7 @@ Son las cuatro de la tarde y de repente necesitas un cigarrillo. No tienes hambr
 
 ## ¿Por qué mi cerebro pide nicotina aunque yo no quiera fumar?
 
-según un estudio publicado en Frontiers in Neuroscience (2025) Ese enganche dispara ráfagas rápidas y muy intensas de dopamina, un patrón conocido como disparo fásico. Según un estudio publicado en Frontiers in Neuroscience (2025), esa señal es tan potente que refuerza el comportamiento y graba en tu circuito cerebral la asociación entre fumar y sentir placer.
+Cuando fumas, la nicotina se engancha a unos receptores llamados α4β2, los más comunes del cerebro y los principales implicados en la adicción, según un estudio publicado en Frontiers in Neuroscience (2025). Ese enganche dispara ráfagas rápidas y muy intensas de dopamina, un patrón conocido como disparo fásico. Según un estudio publicado en Frontiers in Neuroscience (2025), esa señal es tan potente que refuerza el comportamiento y graba en tu circuito cerebral la asociación entre fumar y sentir placer.
 
 El problema es que el cerebro se adapta. Con la exposición repetida, aumenta el número de receptores nicotínicos disponibles, un proceso llamado regulación al alza, y al mismo tiempo esos receptores se vuelven menos sensibles a los estímulos naturales de la vida diaria, según señala Frontiers in Neuroscience (2025). Necesitas más nicotina para sentir lo mismo de antes. Además, los receptores se desensibilizan poco después de activarse, un mecanismo de tolerancia aguda descrito por ScienceInsights (2025) que te empuja a fumar otra vez, y otra, y otra.
 
