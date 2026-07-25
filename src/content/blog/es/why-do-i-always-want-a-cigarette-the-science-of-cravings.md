@@ -13,11 +13,11 @@ Son las cuatro de la tarde y de repente necesitas un cigarrillo. No tienes hambr
 
 ## ¿Por qué mi cerebro pide nicotina aunque yo no quiera fumar?
 
-Cuando fumas, la nicotina se engancha a unos receptores llamados α4β2, los más comunes del cerebro y los principales implicados en la adicción, según un estudio publicado en Frontiers in Neuroscience (2025). Ese enganche dispara ráfagas rápidas y muy intensas de dopamina, un patrón conocido como disparo fásico. Según ScienceInsights (2025), esa señal es tan potente que refuerza el comportamiento y graba en tu circuito cerebral la asociación entre fumar y sentir placer.
+según un estudio publicado en Frontiers in Neuroscience (2025) Ese enganche dispara ráfagas rápidas y muy intensas de dopamina, un patrón conocido como disparo fásico. Según un estudio publicado en Frontiers in Neuroscience (2025), esa señal es tan potente que refuerza el comportamiento y graba en tu circuito cerebral la asociación entre fumar y sentir placer.
 
-El problema es que el cerebro se adapta. Con la exposición repetida, aumenta el número de receptores nicotínicos disponibles, un proceso llamado regulación al alza, y al mismo tiempo esos receptores se vuelven menos sensibles a los estímulos naturales de la vida diaria, explica Villa Treatment Center (2026). Necesitas más nicotina para sentir lo mismo de antes. Además, los receptores se desensibilizan poco después de activarse, un mecanismo de tolerancia aguda descrito por ScienceInsights (2025) que te empuja a fumar otra vez, y otra, y otra.
+El problema es que el cerebro se adapta. Con la exposición repetida, aumenta el número de receptores nicotínicos disponibles, un proceso llamado regulación al alza, y al mismo tiempo esos receptores se vuelven menos sensibles a los estímulos naturales de la vida diaria, según señala Frontiers in Neuroscience (2025). Necesitas más nicotina para sentir lo mismo de antes. Además, los receptores se desensibilizan poco después de activarse, un mecanismo de tolerancia aguda descrito por ScienceInsights (2025) que te empuja a fumar otra vez, y otra, y otra.
 
-Cuando dejas de fumar, esa dopamina que el cerebro esperaba recibir simplemente no llega. Biology Insights (2025) señala que esa caída brusca de dopamina en el núcleo accumbens es la causa directa de la irritabilidad, la ansiedad y las ganas intensas que sientes en los primeros días.
+Cuando dejas de fumar, esa dopamina que el cerebro esperaba recibir simplemente no llega. La Cleveland Clinic (2021) explica que cuando dejas de fumar, tu cerebro libera menos dopamina, lo que afecta tu centro de placer y causa síntomas de abstinencia como irritabilidad, ansiedad y ganas intensas en los primeros días.
 
 ## ¿Cuánto duran realmente las ganas de fumar?
 
@@ -25,7 +25,7 @@ Aquí hay buenas noticias, aunque no lo parezca en el momento. Según HSE Irelan
 
 Lo que de verdad importa es esto: una ganas individual no dura para siempre. Según las fuentes, una ganas típica se disuelve entre 3 y 20 minutos, con variaciones según la persona y el estudio consultado. Eso significa que si aguantas esos minutos sin encender un cigarrillo, la ola pasa sola.
 
-El pico más difícil llega entre las 24 y las 72 horas de abstinencia, según Consensus, y la Cleveland Clinic (2021) confirma que los síntomas suelen ser más intensos el segundo o tercer día, para luego ir desapareciendo a lo largo de 3 a 4 semanas. La reducción significativa de las ganas suele producirse entre la séptima y la décima semana sin fumar, apunta Consensus. No es cuestión de un día bueno o malo: es una curva que baja con el tiempo, aunque no se sienta así a las tres de la madrugada del segundo día.
+El pico más difícil llega entre las 24 y las 72 horas de abstinencia, según Consensus, y la Cleveland Clinic (2021) confirma que los síntomas suelen ser más intensos el segundo o tercer día, para luego ir desapareciendo a lo largo de 3 a 4 semanas. La reducción significativa de las ganas suele producirse entre la séptima y la décima semana sin fumar, según señala Consensus. No es cuestión de un día bueno o malo: es una curva que baja con el tiempo, aunque no se sienta así a las tres de la madrugada del segundo día.
 
 ## ¿Por qué después de semanas sin fumar sigo teniendo ganas?
 

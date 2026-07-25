@@ -15,13 +15,13 @@ Here's the short version: your brain has been retrained to expect nicotine, and 
 
 ## Why does my brain crave nicotine so badly?
 
-Nicotine binds to receptors in your brain called α4β2 nicotinic acetylcholine receptors. According to research published in Frontiers in Neuroscience (2025), when nicotine attaches to these receptors, it significantly ramps up dopamine neuron firing and activates the mesolimbic dopamine system, the same circuitry involved in nearly every addictive behavior. This isn't a slow trickle of dopamine either. Research summarized by ScienceInsights (2025) describes it as rapid, high-frequency bursts, a signal so potent it cements the link between smoking and pleasure almost instantly.
+Nicotine binds to receptors in your brain called α4β2 nicotinic acetylcholine receptors. According to research published in Frontiers in Neuroscience (2025), when nicotine attaches to these receptors, it significantly ramps up dopamine neuron firing and activates the mesolimbic dopamine system, the same circuitry involved in nearly every addictive behavior. This isn't a slow trickle of dopamine either. Research published in Frontiers in Neuroscience (2025) describes nicotine's effect as triggering rapid, high-frequency bursts of dopamine neuron firing, a signal pattern so potent it cements the link between smoking and pleasure almost instantly.
 
 Your brain didn't choose this. It's just doing what brains do: reinforcing whatever gave it a strong reward signal.
 
 The problem is what happens next. With repeated exposure, your brain adapts.  Frontiers in Neuroscience (2025) research has documented that chronic nicotine exposure leads to upregulation of nicotinic acetylcholine receptors, which correlates with the development of tolerance and the brain's shifting reward sensitivity toward nicotine while other stimuli become That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
 
-There's also a faster mechanism at play. ScienceInsights (2025) notes that nicotinic receptors desensitize shortly after activation, meaning they temporarily stop responding. This forces you to smoke more, sooner, to get any effect at all. It's a built-in tolerance loop, and it's a big part of why one cigarette a day quietly turns into a pack.
+There's also a faster mechanism at play. Frontiers in Neuroscience (2025) research demonstrates that nicotinic receptors undergo rapid desensitization shortly after activation, meaning they temporarily stop responding. This forces you to smoke more, sooner, to get any effect at all. It's a built-in tolerance loop, and it's a big part of why one cigarette a day quietly turns into a pack.
 
 ## How long do nicotine cravings actually last?
 

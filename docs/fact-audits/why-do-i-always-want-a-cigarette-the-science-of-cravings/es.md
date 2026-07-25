@@ -1,120 +1,109 @@
 # Fact Audit: why-do-i-always-want-a-cigarette-the-science-of-cravings (es)
 Generated: 2026-07-25
 
-I'll audit this article systematically. Let me first identify all named sources and then verify the facts against the provided research.
+I need to audit this article systematically. Let me start by identifying all sources mentioned and checking any I'm unfamiliar with.
+Now I have sufficient information. Let me search for one more key check on Medical News Today and Drugs.com withdrawal timing claims.
+Now I have all the information needed to conduct the audit. Let me analyze the article systematically.
 
-**Sources mentioned in the article:**
-1. Frontiers in Neuroscience (2025) – appears multiple times
-2. ScienceInsights (2025) – appears multiple times
-3. Villa Treatment Center (2026) – appears twice
-4. Biology Insights (2025)
-5. HSE Ireland
-6. Medical News Today (2024) – appears multiple times
-7. Consensus – appears multiple times
-8. Cleveland Clinic (2021)
-9. Drugs.com (2025)
+## PART 1: Fact Accuracy Analysis
 
-Let me verify the unfamiliar sources:
-Now let me search for HSE Ireland and Drugs.com to verify their status:
-Based on my research, I now have enough information to compile the audit. Let me analyze the facts and sources:
+**F1 - Dopamine release nucleus accumbens**: Article does not cite a specific claim tied to this fact directly.
 
-**FACT CHECKING AGAINST PROVIDED RESEARCH:**
+**F2 - α4β2 binding and dopamine firing**: VERIFIED. The article states: "Cuando fumas, la nicotina se engancha a unos receptores llamados α4β2...Ese enganche dispara ráfagas rápidas y muy intensas de dopamina" directly matches F2 and cites "Frontiers in Neuroscience (2025)".
 
-1. "α4β2 receptors" and dopamine - article says these are "the most common of the brain and the principal ones involved in addiction." F2 says "α4β2 receptor subtype" triggers dopamine, and F17 says it's "one of the key drivers." The article overstates the exclusivity ("principal" suggests a singular role when F2 and F17 indicate it's one of several important mechanisms).
+**F3 - Mesolimbic circuit**: Not directly cited in article.
 
-2. "phasic firing" - article says nicotine produces "ráfagas rápidas y muy intensas de dopamina" (rapid and intense bursts of dopamine known as phasic firing). This aligns with F1 and F2's description of dopamine release.
+**F4 - Withdrawal onset 2-3 hours, peak 2-3 days**: DISCREPANCY. F4 states onset at "2–3 hours" but article via HSE Ireland and Medical News Today states onset at "4 to 24 hours" per multiple sources (35-1, 36-1, 37-8). The article text says "los síntomas de abstinencia en general suelen manifestarse entre las 4 y las 24 horas siguientes" which matches Medical News Today's claim, not F4's 2-3 hours claim.
 
-3. Duration of individual cravings: article claims "una ganas típica se disuelve entre 3 y 20 minutos" (a typical craving dissolves between 3 and 20 minutes). **This is NOT in the provided research facts.** The research mentions craving onsets and peaks, but no specific duration of individual cravings.
+**F5 - Withdrawal peak day 2-3, fade 3-4 weeks**: VERIFIED. Article states "la Cleveland Clinic (2021) confirma que los síntomas suelen ser más intensos el segundo o tercer día, para luego ir desapareciendo a lo largo de 3 a 4 semanas."
 
-4. "Síntomas suelen ser más intensos el segundo o tercer día" - matches F6 which states withdrawal peaks "on the second or third day."
+**F6 - Cravings begin within hours, peak 24-72 hours**: VERIFIED. Article states cravings appear "30 minutos" to "24 horas" and peak "entre las 24 y las 72 horas de abstinencia, según Consensus" which aligns with F6.
 
-5. "3 a 4 semanas" (3-4 weeks) - matches F6 "fade over days to 3-4 weeks."
+**F7 - Individual cravings last 15-20 minutes**: DISCREPANCY. Article states "una ganas típica se disuelve entre 3 y 20 minutos, con variaciones según la persona y el estudio consultado." Research fact F7 says "15 to 20 minutes" but HSE Ireland says "3 to 5 minutes" (21-2, 21-5) and the article is using the broader "3 and 20 minutes" range. The article does cite sources but the lower end (3 min) differs from F7 (15 min).
 
-6. "séptima y la décima semana" (seventh to tenth week) - **NOT in provided research facts.** The research discusses weeks 7-10 in some studies, but this is not explicitly covered in the provided facts.
+**F8 - Cravings duration, significant reduction 7-10 weeks**: VERIFIED. Article states "La reducción significativa de las ganas suele producirse entre la séptima y la décima semana sin fumar, apunta Consensus" which matches F8.
 
-**SOURCES ANALYSIS:**
+**F9 - In minority, cravings persist for years**: UNVERIFIED in article. Article does not mention this claim.
 
-- **ScienceInsights**: The search found scienceinsights.org is a real website with nicotine/dopamine content. However, it is not a peer-reviewed journal and does not appear to be in the Tier 1 category. It's an educational/informational website. **Tier: 2** (similar to Medindia in the provided facts).
+**F10 - Withdrawal symptoms: irritability/anxiety/concentration most common, depression/insomnia least common**: VERIFIED. Wikipedia (39-3) confirms this matches F10.
 
-- **Biology Insights**: The search found biologyinsights.com is a real website. It also appears to be a non-peer-reviewed educational site, not a journal. **Tier: 2**.
+**F11 - Cravings triggered by associated stimuli (people, places, activities)**: VERIFIED. Article discusses this and article does not cite F11 directly but the concept is covered.
 
-- **Consensus**: The search revealed Consensus is a legitimate academic search platform aggregating research findings, mentioned in multiple results as a credible source for synthesizing research. **Tier: 2** (similar to Wikipedia in provided facts).
+**F12 - CYP2A6 metabolism, genetic polymorphism**: UNVERIFIED. Article does not mention this.
 
-- **Villa Treatment Center**: This is a real treatment facility in Woodland Hills, California offering addiction recovery services. However, **TIER 3 - BLOCKED**: It is a competing quit-nicotine product/service (rehabilitation facility) and appears in the hard-block category per instructions.
+**F13 - Everyone experiences some withdrawal symptoms**: UNVERIFIED. Article does not cite this.
 
-- **HSE Ireland**: Confirmed as the Health Service Executive, Ireland's government health agency. **Tier: 1**.
+**F14 - Withdrawal can't hurt you unless you smoke**: UNVERIFIED. Article does not cite this CDC claim.
 
-- **Medical News Today**: Tier 2 health media with editorial oversight.
+**F15 - Nicotine releases serotonin/dopamine, reduces hunger**: UNVERIFIED. Article does not cite this.
 
-- **Cleveland Clinic**: Tier 1 - major academic medical center.
+## PART 2: Source Tier Assessment
 
-- **Frontiers in Neuroscience**: Tier 1 - peer-reviewed journal.
+Now checking each source mentioned in the article:
 
-- **Drugs.com**: This is a medication reference site. It's not a primary research source but a reference/informational site. **Tier: 2** (health information service).
+1. **Frontiers in Neuroscience (2025)** – Named peer-reviewed journal → **TIER 1** ✓
+2. **ScienceInsights (2025)** – Two mentions. Is this a real source? Web search found scienceinsights.org - appears to be a blog/content site, not a peer-reviewed journal or government agency. Not in Tier 1 examples. Must mark as **UNK** and flag.
+3. **Villa Treatment Center (2026)** – Web search confirms this is a luxury rehab treatment center in Woodland Hills, CA. This is a treatment facility that sells addiction treatment services. This is a **TIER 3** → block as competing quit-nicotine program.
+4. **Biology Insights (2025)** – Web search found biologyinsights.com. This is a blog/content site, not a peer-reviewed journal or government agency. Must mark as **UNK** and flag.
+5. **HSE Ireland** – Irish Health Service Executive, a government health agency → **TIER 1** ✓
+6. **Medical News Today (2024)** – Named mass health media with editorial oversight → **TIER 2** ✓
+7. **Consensus** (referenced multiple times) – Web search found Consensus is a legitimate AI search engine for academic research that aggregates peer-reviewed papers → **TIER 2** ✓ (established academic tool)
+8. **Cleveland Clinic (2021)** – Major academic medical center → **TIER 1** ✓
+9. **Drugs.com (2025)** – This is a pharmacy/drug information website, but need to check if it sells products. Web search indicates it's an informational site about medications, not a retailer → **TIER 2** ✓
+10. **Frontiers in Neuroscience (2025)** – (second mention) → **TIER 1** ✓
+
+Now, I need to identify internal links to nicotine pouches:
+- "[bolsitas de nicotina](https://niquit.netlify.app/blog/how-to-quit-nicotine-pouches-zyn-on-velo)" - This links to niquit.netlify.app which is a blog about quitting nicotine pouches. The URL structure suggests this is an educational resource about nicotine pouches, but I should check if it's part of a competitive quit-nicotine product.
+- "[qué son las bolsitas de nicotina y si son realmente más seguras que los cigarrillos](https://niquit.netlify.app/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigare-cigarettes)" - Same domain.
+
+The niquit.netlify.app domain appears to be a blog about quitting nicotine pouches. This could be a competing product/service since it discusses quitting strategies. However, without evidence that it's an app store link or that it sells products, I cannot definitively call it TIER 3. The links are to blog posts, not product pages. But given the self-description as a quit-nicotine guide, this warrants scrutiny. However, since the article text doesn't attribute claims to these links (they're just hyperlinks in the text), I should not create source rows for them unless they're cited as sources for claims.
 
 ===SOURCE_TABLE===
-NONE|Frontiers in Neuroscience (2025)|1|ok|Cuando fumas, la nicotina se engancha a unos receptores llamados α4β2, los más comunes del cerebro y los principales implicados en la adicción, según un estudio publicado en Frontiers in Neuroscience (2025).
-NONE|ScienceInsights (2025)|2|ok|Según ScienceInsights (2025), esa señal es tan potente que refuerza el comportamiento y graba en tu circuito cerebral la asociación entre fumar y sentir placer.
-NONE|Villa Treatment Center (2026)|3|flag:competing-rehab-facility|Al mismo tiempo esos receptores se vuelven menos sensibles a los estímulos naturales de la vida diaria, explica Villa Treatment Center (2026).
-NONE|ScienceInsights (2025)|2|ok|un mecanismo de tolerancia aguda descrito por ScienceInsights (2025) que te empuja a fumar otra vez, y otra, y otra.
-NONE|Biology Insights (2025)|2|ok|Biology Insights (2025) señala que esa caída brusca de dopamina en el núcleo accumbens es la causa directa de la irritabilidad, la ansiedad y las ganas intensas que sientes en los primeros días.
-NONE|HSE Ireland|1|ok|Según HSE Ireland, las primeras ganas pueden aparecer ya a los 30 minutos de tu último cigarrillo
-NONE|Medical News Today (2024)|2|ok|y los síntomas de abstinencia en general suelen manifestarse entre las 4 y las 24 horas siguientes, de acuerdo con Medical News Today (2024).
-NONE|Consensus|2|ok|Un estudio citado por Consensus, que siguió a fumadores durante seis horas de abstinencia, encontró que las ganas y los síntomas aumentan de forma lineal, con inicios detectables entre los 60 y los 180 minutos.
-NONE|Consensus|2|ok|El pico más difícil llega entre las 24 y las 72 horas de abstinencia, según Consensus
-NONE|Cleveland Clinic (2021)|1|ok|y la Cleveland Clinic (2021) confirma que los síntomas suelen ser más intensos el segundo o tercer día, para luego ir desapareciendo a lo largo de 3 a 4 semanas.
-NONE|Consensus|2|ok|La reducción significativa de las ganas suele producirse entre la séptima y la décima semana sin fumar, apunta Consensus.
-NONE|Medical News Today (2024)|2|ok|Medical News Today (2024) distingue entre síntomas físicos, que duran solo unos días mientras la nicotina sale del cuerpo, y síntomas psicológicos, que pueden prolongarse mucho más.
-NONE|Drugs.com (2025)|2|ok|Drugs.com (2025) lo confirma: aunque las ganas físicas bajan en unas semanas, los efectos mentales y emocionales de la abstinencia pueden durar meses.
-NONE|Villa Treatment Center (2026)|3|flag:competing-rehab-facility|Villa Treatment Center (2026) explica que estas señales del entorno reactivan las vías de la dopamina y activan los sistemas de estrés del cerebro justo cuando los niveles de nicotina bajan.
-NONE|Frontiers in Neuroscience (2025)|1|ok|Investigaciones publicadas en Frontiers in Neuroscience (2025) describen una vía cerebral, entre la habénula medial y el núcleo interpeduncular, que regula los efectos desagradables de la nicotina, como las náuseas o el mareo.
+fact_id|source_name|tier|status|exact_quote
+F2|Frontiers in Neuroscience (2025)|1|ok|según un estudio publicado en Frontiers in Neuroscience (2025)
+NONE|ScienceInsights (2025)|UNK|flag:blog-site-not-verified|Según ScienceInsights (2025), esa señal es tan potente que refuerza el comportamiento
+NONE|Villa Treatment Center (2026)|3|flag:treatment-center-competitor|explica Villa Treatment Center (2026)
+NONE|Biology Insights (2025)|UNK|flag:blog-site-not-verified|Biology Insights (2025) señala que esa caída brusca de dopamina
+NONE|HSE Ireland|1|ok|Según HSE Ireland, las primeras ganas pueden aparecer
+F5|Cleveland Clinic (2021)|1|ok|la Cleveland Clinic (2021) confirma que los síntomas suelen ser más intensos
+NONE|Medical News Today (2024)|2|ok|según Medical News Today (2024)
+NONE|Consensus|2|ok|Un estudio citado por Consensus
+F8|Consensus|2|ok|apunta Consensus
+NONE|Drugs.com (2025)|2|ok|Drugs.com (2025) lo confirma
+NONE|Frontiers in Neuroscience (2025)|1|ok|Investigaciones publicadas en Frontiers in Neuroscience (2025) describen
 ===END_SOURCE_TABLE===
 
 ---
 
-## PART 1: FACT ACCURACY
+## HUMAN-READABLE SUMMARY TABLE
 
-| Claim in Article | Status | Fact # | Notes |
+| Claim in article | Status | Source Tier | Source / Note |
 |---|---|---|---|
-| Nicotina se engancha a receptores α4β2, "los más comunes del cerebro y los principales implicados en la adicción" | DISCREPANCY | F2, F17 | Article overstates: F2 says α4β2 is involved in dopamine release; F17 says it's "one of the key drivers," not the singular principal one. Article suggests it's the sole primary mechanism. |
-| Dopamine release as "phasic firing" (ráfagas rápidas y muy intensas) | VERIFIED | F1, F2 | Matches description of dopamine release and receptor activation. |
-| Cravings last "3 a 20 minutos típicamente" | UNVERIFIED | None | Not found in provided research facts. Research discusses onset and peaks but not duration of individual craving episodes. |
-| Withdrawal peaks "segundo o tercer día" | VERIFIED | F6 | "peak on the second or third day" |
-| Withdrawal "desapareciendo a lo largo de 3 a 4 semanas" | VERIFIED | F6 | "fade over days to 3-4 weeks" |
-| "Reducción significativa entre la séptima y décima semana" | UNVERIFIED | None | While F6 mentions timelines, seventh-to-tenth week improvement is not explicitly stated in provided facts. |
-| Ganas pueden aparecer "a los 30 minutos" | VERIFIED | F8 | "withdrawal symptoms can begin as soon as 30 minutes after a cigarette" |
-| Síntomas entre "4 y 24 horas" | VERIFIED | F6 | "begin 4-24 hours after the last dose" |
-| Síntomas "aumentan de forma lineal, con inicios entre 60-180 minutos" | VERIFIED | F8 | Research shows "withdrawal symptoms can begin...30 minutes" and similar onset windows. |
+| α4β2 nicotinic receptors and dopamine bursts (phasic firing) | VERIFIED | Tier 1 | Frontiers in Neuroscience (2025) |
+| Rapid dopamine signal reinforces behavior | UNK SOURCE | UNK | ScienceInsights (2025) — **BLOCKED: blog/content site, not verified as credible academic source** |
+| Brain upregulates receptors, develops tolerance | UNK SOURCE | Tier 3 | Villa Treatment Center (2026) — **BLOCKED: Treatment facility that sells addiction programs (competing quit service)** |
+| Dopamine drop in nucleus accumbens causes irritability/anxiety | UNK SOURCE | UNK | Biology Insights (2025) — **BLOCKED: blog/content site, not verified as credible academic source** |
+| Cravings appear 30 minutes after last cigarette | VERIFIED | Tier 1 | HSE Ireland (government health agency) |
+| General withdrawal symptoms 4-24 hours | VERIFIED | Tier 2 | Medical News Today (2024) |
+| Cravings peak 24-72 hours | VERIFIED | Tier 2 | Consensus (academic search engine) |
+| Individual craving duration 3-20 minutes | DISCREPANCY | Tier 2 | HSE Ireland / Consensus — Article claims "3 to 20 minutes" but F7 research fact says "15 to 20 minutes"; HSE says "3 to 5 minutes" |
+| Significant reduction by 7-10 weeks | VERIFIED | Tier 2 | Consensus (academic search engine) |
+| Withdrawal peak day 2-3, fade 3-4 weeks | VERIFIED | Tier 1 | Cleveland Clinic (2021) |
+| Physical vs. psychological symptoms timeline | VERIFIED | Tier 2 | Medical News Today (2024), Drugs.com (2025) |
+| Cravings triggered by associated stimuli | VERIFIED | Tier 1 | Frontiers in Neuroscience (2025) — habenula pathway |
 
 ---
 
-## PART 2: SOURCE TIER TABLE
+## KEY FINDINGS
 
-| Claim in Article | Status | Source Tier | Source / Note |
-|---|---|---|---|
-| α4β2 receptors and dopamine release | Ok | Tier 1 | Frontiers in Neuroscience (peer-reviewed journal) |
-| Phasic dopamine firing mechanism | Ok | Tier 2 | ScienceInsights (educational health website) |
-| Upregulation and desensitization | **BLOCKED** | Tier 3 | Villa Treatment Center – Competing addiction rehabilitation facility/product |
-| Dopamine drop in nucleus accumbens | Ok | Tier 2 | Biology Insights (educational health website) |
-| 30-minute craving onset | Ok | Tier 1 | HSE Ireland (Irish government health agency) |
-| 4–24 hour withdrawal onset | Ok | Tier 2 | Medical News Today (health media with editorial oversight) |
-| 60–180 minute onset in 6-hour study | Ok | Tier 2 | Consensus (academic research synthesis platform) |
-| 24–72 hour craving peak | Ok | Tier 2 | Consensus (academic research synthesis platform) |
-| Second/third day intensity, 3–4 week duration | Ok | Tier 1 | Cleveland Clinic (major academic medical center) |
-| 7–10 week significant reduction | Ok | Tier 2 | Consensus (academic research synthesis platform) |
-| Physical vs. psychological symptom distinction | Ok | Tier 2 | Medical News Today (health media) |
-| Months-long emotional/mental effects | Ok | Tier 2 | Drugs.com (medication reference/information site) |
-| Environmental cue reactivity | **BLOCKED** | Tier 3 | Villa Treatment Center – Competing addiction rehabilitation facility/product |
-| Habenula–interpeduncular pathway and aversion | Ok | Tier 1 | Frontiers in Neuroscience (peer-reviewed journal) |
+**Critical Issues:**
 
----
+1. **Villa Treatment Center (Tier 3, BLOCKED)**: The article cites Villa Treatment Center as a scientific source on receptor upregulation and tolerance. Villa Treatment Center is a luxury rehab facility in California that offers addiction treatment programs, including nicotine cessation. This is a competing quit-nicotine service and therefore a **Tier 3 blocked source**. The claim about receptor desensitization should not come from a treatment center marketing its services.
 
-## KEY ISSUES
+2. **ScienceInsights (UNK, BLOCKED)**: Appears to be scienceinsights.org, a blog/content site that discusses science topics. Not a peer-reviewed journal or recognized academic source. Cannot be verified as Tier 1 or 2. **Must flag.**
 
-**Critical Tier 3 Blocks:**
-- **Villa Treatment Center** appears twice in the article and must be flagged each time. It is a licensed rehabilitation facility offering treatment programs for addiction, making it a competing "quit nicotine" product per your definition (self-describes as a treatment program to quit smoking/nicotine). This violates the hard-block rule.
+3. **Biology Insights (UNK, BLOCKED)**: Similar to ScienceInsights, appears to be biologyinsights.com, a content blog. Not a peer-reviewed journal or recognized source. Cannot be verified. **Must flag.**
 
-**Fact Accuracy Issues:**
-1. **Receptor characterization**: The article describes α4β2 as "the most common in the brain and the principal ones involved in addiction," which overstates exclusivity compared to research showing it is one of several important subtypes.
-2. **Unverified craving duration**: The claim that individual cravings last "3–20 minutes" has no support in the provided research facts.
-3. **7–10 week improvement**: While some research may support this, it is not explicitly covered in your provided fact set.
+4. **Craving Duration Discrepancy**: The article states individual cravings last "3 to 20 minutos" but cites unspecific sources ("según las fuentes"). Research fact F7 states "15 to 20 minutes," and HSE Ireland (a cited source) states "3 to 5 minutes." The article's range is wider than F7 and appears to blend different timelines without clarity.
+
+5. **Withdrawal Onset Timing**: F4 in research facts states onset at "2–3 hours" but the article cites Medical News Today claiming "4 to 24 hours" and HSE Ireland also citing "30 minutos" for cravings and general symptoms "between 4 and 24 hours." The article is actually more aligned with Medical News Today (Tier 2) than with F4, creating an inconsistency between provided research facts and what the article actually presents.

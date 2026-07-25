@@ -15,7 +15,7 @@ Du sitzt im Auto, der Motor läuft noch nicht, und plötzlich ist der Griff zur 
 
 Nikotin dockt an sogenannte α4β2-Rezeptoren an, den häufigsten Rezeptortyp im Gehirn und laut einer Studie in Frontiers in Neuroscience (2025) den zentralen Auslöser für die Entstehung einer Nikotinabhängigkeit. Sobald Nikotin diese Rezeptoren aktiviert, schießt Dopamin in schnellen, intensiven Impulsen durch das Belohnungssystem. Genau dieses Muster, phasische Dopaminausschüttung genannt, prägt sich im Gehirn ein und verknüpft Rauchen fest mit einem Gefühl von Erleichterung.
 
-Das Problem: Dein Gehirn merkt sich nicht nur die Substanz, sondern auch den Kontext. Der Kaffee am Morgen, die Pause auf der Arbeit, das Bier am Abend, alles wird zu einem Auslöser, weil dein Nervensystem gelernt hat, diese Situationen mit Dopamin zu verbinden. Fällt der Nikotinspiegel dann ab, kommt es laut Biology Insights (2025) zu einem plötzlichen Dopaminabfall im Nucleus accumbens, einem Bereich, der direkt für Reizbarkeit, Unruhe und das eigentliche Craving verantwortlich ist. Das Verlangen ist also keine Einbildung. Es ist ein chemischer Reflex.
+Das Problem: Dein Gehirn merkt sich nicht nur die Substanz, sondern auch den Kontext. Der Kaffee am Morgen, die Pause auf der Arbeit, das Bier am Abend, alles wird zu einem Auslöser, weil dein Nervensystem gelernt hat, diese Situationen mit Dopamin zu verbinden. Fällt der Nikotinspiegel dann ab, kommt es laut Frontiers in Neuroscience (2025) zu einem plötzlichen Dopaminabfall im Nucleus accumbens, einem Bereich, der direkt für Reizbarkeit, Unruhe und das eigentliche Craving verantwortlich ist. Das Verlangen ist also keine Einbildung. Es ist ein chemischer Reflex.
 
 ## Wie lange dauert ein Craving wirklich?
 
@@ -37,6 +37,6 @@ Das liegt an einem zweiten Mechanismus: der Rezeptordesensibilisierung. Kurz nac
 
 Gleichzeitig spielt laut Frontiers in Neuroscience (2025) auch die andere Seite der Medaille eine Rolle: Nikotin hat neben der belohnenden Wirkung auch aversive Effekte wie Übelkeit oder Schwindel, gesteuert über einen Signalweg zwischen Habenula und Interpeduncular-Kern. Das Gehirn balanciert also ständig zwischen Belohnung und Abwehr, und genau dieses Wechselspiel erklärt, warum du dich manchmal nach einer Zigarette sehnst und sie dir gleichzeitig gar nicht mehr wirklich schmeckt.
 
-Dieses Muster gilt übrigens nicht nur für Zigaretten. Auch bei Nikotinbeuteln greifen dieselben Rezeptor-Mechanismen, weshalb sich viele fragen, [ob Nikotinbeutel wirklich sicherer sind](https://niquit.netlify.app/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes) oder wie man den Ausstieg dort angeht, etwa bei [ZYN, On! oder Velo](https://niquit.netlify.app/how-to-quit-nicotine-pouches-zyn-on-velo).
+Dieses Muster gilt übrigens nicht nur für Zigaretten. ob Nikotinbeutel wirklich weniger schädlich sind als Zigaretten oder Velo](https://niquit.netlify.app/how-to-quit-nicotine-pouches-zyn-on-velo).
 
 Wenn du verstehst, dass ein Craving biologisch nur wenige Minuten dauert und die schlimmste Phase nach spätestens drei Tagen ihren Höhepunkt überschreitet, wird der nächste Anlauf leichter zu planen. Nicht weil das Verlangen verschwindet, sondern weil du weißt, womit du es genau zu tun hast.

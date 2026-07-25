@@ -1,81 +1,108 @@
 # Fact Audit: why-do-i-always-want-a-cigarette-the-science-of-cravings (en)
 Generated: 2026-07-25
 
-I'll conduct a systematic fact-check and source audit of this article. Let me start by verifying unfamiliar sources.
-Now let me search for information about Drugs.com to verify its tier:
-## ANALYSIS
+I'll analyze this article systematically against the research facts provided. Let me start by checking any sources I need to verify.
+Now let me search for "Biology Insights" to verify that source:
+Now I have enough information to complete my audit. Let me analyze the article systematically.
 
-Based on my research, I can now provide the comprehensive audit. Let me organize my findings:
+## PART 1: FACT ACCURACY ANALYSIS
 
-### PART 1: FACT ACCURACY
+**F1** (Nicotine enhances dopamine release in nucleus accumbens) – Article discusses this broadly; VERIFIED
 
-Comparing article claims against provided research facts (F1-F18):
+**F2** (α4β2 receptor binding and dopamine neuron firing) – Article states: "Nicotine binds to receptors in your brain called α4β2 nicotinic acetylcholine receptors. According to research published in Frontiers in Neuroscience (2025), when nicotine attaches to these receptors, it significantly ramps up dopamine neuron firing" – VERIFIED
 
-1. **"Nicotine binds to receptors... α4β2"** — VERIFIED (F2, F17)
-2. **"rapid, high-frequency bursts"** — VERIFIED (F2, supported by ScienceInsights article demonstrating phasic firing)
-3. **"increasing the number of nicotine receptors while dulling sensitivity"** — VERIFIED (F3)
-4. **"desensitize shortly after activation"** — VERIFIED (article claim about tolerance loop matches receptor desensitization/upregulation cycle in F3)
-5. **"4 and 24 hours after your last cigarette"** — VERIFIED (F6 states "4-24 hours")
-6. **"peaks on day two or three"** — VERIFIED (F6 states "peak on the second or third day")
-7. **"fades over the following 3 to 4 weeks"** — VERIFIED (F6 states "fade over days to 3-4 weeks")
-8. **"single craving usually passes within 3 to 5 minutes"** — VERIFIED (HSE Ireland source, F28-2)
-9. **"15 to 20 minutes"** — UNVERIFIED (WebMD cited but F28-2 gives 3-5 minutes range; article attributes longer duration to WebMD without checking research)
-10. **"first 7 to 10 weeks"** — UNVERIFIED (not in provided facts; Consensus source citation unverified for this specific timeframe)
-11. **"physical and psychological withdrawal"** — VERIFIED (implied in F6, F7, F13)
-12. **"sudden drop in dopamine in the nucleus accumbens"** — VERIFIED conceptually (F4 identifies nucleus accumbens circuits; dopamine mechanism confirmed in F2, F3)
+**F3** (Mesolimbic circuit reward mechanism) – Article references "mesolimbic dopamine system" consistent with F3 – VERIFIED
 
-### PART 2: SOURCE TIER CLASSIFICATION
+**F4** (Withdrawal symptoms 2–3 hours after last intake, peak 2–3 days) – Article states "Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette" – DISCREPANCY: Article says 4-24 hours, F4 says 2-3 hours
 
-Based on my web searches:
+**F5** (Withdrawal symptoms peak day 2-3, fade over 3-4 weeks) – Consistent with article's general timeline – VERIFIED
 
-- **ScienceInsights** — A legitimate health/science blog/publication site (scienceinsights.org) with substantive content on nicotine. TIER 2 (mass health media).
-- **Villa Treatment Center** — Real entity (thevillatreatmentcenter.com). TIER 3 — **BLOCKED** because it sells addiction treatment services and is a competing product for nicotine cessation.
-- **Consensus** — Consensus.app is a legitimate academic search engine aggregating peer-reviewed research. TIER 1 when citing research, but article cites specific claims not clearly tied to a dated study, making precise source attribution difficult.
-- **HSE Ireland** — Health Service Executive Ireland, government health agency. TIER 1.
-- **WebMD** — Major health media with editorial oversight. TIER 2.
-- **Medical News Today** — Major health media with editorial oversight. TIER 2.
-- **Drugs.com** — Verified as legitimate independent medicine information site with editorial oversight by registered pharmacists/physicians, powered by ASHP and FDA data. TIER 2.
-- **Biology Insights** — A legitimate health information website (biologyinsights.com) with substantive content. TIER 2 (mass health media).
-- **Frontiers in Neuroscience** — Peer-reviewed journal. TIER 1.
-- **Cleveland Clinic** — Major academic medical center. TIER 1.
+**F6** (Cravings within hours, peak 24-72 hours) – Article states "first noticeable pull usually hitting between 60 and 180 minutes in" – DISCREPANCY: Article says 60-180 minutes (1-3 hours), F6 says within hours with peak 24-72 hours
+
+**F7** (Individual cravings last 15-20 minutes) – Article states "WebMD (2024) puts the window a bit longer, around 15 to 20 minutes" and "HSE Ireland notes that a single craving usually passes within 3 to 5 minutes" – DISCREPANCY: Article gives both 3-5 minutes and 15-20 minutes; F7 specifies 15-20 minutes
+
+**F8** (Cravings last hours to weeks, significant reduction 7-10 weeks) – Article states "Consensus notes that nicotine cravings can stretch anywhere from a few hours to several weeks, but the sharpest drop-off tends to happen within the first 7 to 10 weeks of quitting" – VERIFIED
+
+**F9** (In minority, cravings persist for years) – Not explicitly mentioned in article – UNVERIFIED
+
+**F10** (Most common: irritability, anxiety, concentration difficulty; least common: depression, insomnia) – Article mentions "irritability, anxiety, and craving intensity" but does not provide comparative data on which are most/least common – UNVERIFIED
+
+**F11** (Cravings triggered by contextual cues) – Article discusses "people you smoked with, a place you often smoked, or things you used to do while smoking like having a cup of coffee" – VERIFIED (implicitly from CDC, though article attributes to triggers generally)
+
+**F12** (CYP2A6 metabolism and withdrawal severity) – Not mentioned in article – UNVERIFIED
+
+**F13** (Almost everyone has withdrawal symptoms) – Article states "Almost everyone will have some symptoms of nicotine withdrawal" – VERIFIED (though article doesn't explicitly cite CDC here)
+
+**F14** (Withdrawal can't hurt you unless you smoke) – Not explicitly stated in article – UNVERIFIED
+
+**F15** (Nicotine binds to receptors releasing dopamine/serotonin, reduces hunger) – Article mentions dopamine but not serotonin or hunger reduction – UNVERIFIED for complete claim
+
+## PART 2: SOURCE TIER ANALYSIS
+
+Now I'll identify all named sources in the article and verify their tier:
+
+1. **Frontiers in Neuroscience (2025)** – Tier 1 (peer-reviewed journal) ✓
+2. **ScienceInsights (2025)** – Not a recognized peer-reviewed journal. Search results show it's a blog/content site (scienceinsights.org), not a peer-reviewed publication – **Tier UNK**
+3. **Medical News Today (2024)** – Tier 2 (mass health media with editorial oversight)
+4. **Consensus** – Tier 2 (described as "systematic review" aggregator, academic but not Tier 1)
+5. **HSE Ireland** – Need to verify; search results show it's the Health Service Executive Ireland, which is a Tier 1 government health agency ✓ – Tier 1
+6. **WebMD (2024)** – Tier 2 (mass health media)
+7. **Drugs.com (2025)** – Tier 2 (medical information site)
+8. **Biology Insights (2025)** – Search results show "Biology Insights" is from Mediterranean Journals (MENA region journal), which is a peer-reviewed journal but relatively obscure. However, the article doesn't link to a specific paper, and "Biology Insights" appears to be a generic name. Not a Tier 1 recognized journal – **Tier 2** (open-access peer-reviewed but not Tier 1)
+9. **Allen Carr's Easyway** – This is explicitly a competing quit-smoking program/product. Search shows it's a commercial quit-smoking program. – **Tier 3** (competing product)
 
 ===SOURCE_TABLE===
-NONE|Frontiers in Neuroscience (2025)|1|ok|According to research published in Frontiers in Neuroscience (2025), when nicotine attaches to these receptors, it significantly ramps up dopamine neuron firing and activates the mesolimbic dopamine system, the same circuitry involved in nearly every addictive behavior.
-NONE|ScienceInsights (2025)|2|ok|Research summarized by ScienceInsights (2025) describes it as rapid, high-frequency bursts, a signal so potent it cements the link between smoking and pleasure almost instantly.
-F3|Medindia (2026)|2|ok|According to Medindia (2026), the brain responds to constant nicotine by increasing the number of nicotine receptors while dulling its sensitivity to natural rewards, things like food, exercise, or a good laugh with a friend.
-NONE|Villa Treatment Center (2026)|3|flag:sells-addiction-treatment|Villa Treatment Center (2026) describes this as receptor upregulation: more receptors, less satisfaction from anything that isn't nicotine.
-NONE|ScienceInsights (2025)|2|ok|ScienceInsights (2025) notes that nicotinic receptors desensitize shortly after activation, meaning they temporarily stop responding.
+F2|Frontiers in Neuroscience (2025)|1|ok|According to research published in Frontiers in Neuroscience (2025), when nicotine attaches to these receptors, it significantly ramps up dopamine neuron firing and activates the mesolimbic dopamine system, the same circuitry involved in nearly every addictive behavior.
+NONE|ScienceInsights (2025)|unk|flag:not-peer-reviewed-journal|Research summarized by ScienceInsights (2025) describes it as rapid, high-frequency bursts, a signal so potent it cements the link between smoking and pleasure almost instantly.
+NONE|Frontiers in Neuroscience (2025)|1|ok|Frontiers in Neuroscience (2025) research has documented that chronic nicotine exposure leads to upregulation of nicotinic acetylcholine receptors, which correlates with the development of tolerance and the brain's shifting reward sensitivity toward nicotine while other stimuli become That's why an ordinary cigarette starts feeling less like a treat and more like basic maintenance, just to feel normal.
+NONE|ScienceInsights (2025)|unk|flag:not-peer-reviewed-journal|ScienceInsights (2025) notes that nicotinic receptors desensitize shortly after activation, meaning they temporarily stop responding.
 NONE|Medical News Today (2024)|2|ok|According to Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette.
-NONE|Consensus|1|ok|One study tracking smokers through a 6-hour abstinence window found cravings increasing steadily, with the first noticeable pull usually hitting between 60 and 180 minutes in, according to Consensus.
-F6|Cleveland Clinic (2021)|1|ok|The Cleveland Clinic (2021) reports that withdrawal peaks on day two or three, then gradually fades over the following 3 to 4 weeks.
+NONE|Consensus|2|ok|One study tracking smokers through a 6-hour abstinence window found cravings increasing steadily, with the first noticeable pull usually hitting between 60 and 180 minutes in, according to Consensus.
 NONE|HSE Ireland|1|ok|HSE Ireland notes that a single craving usually passes within 3 to 5 minutes, while WebMD (2024) puts the window a bit longer, around 15 to 20 minutes.
 NONE|WebMD (2024)|2|ok|HSE Ireland notes that a single craving usually passes within 3 to 5 minutes, while WebMD (2024) puts the window a bit longer, around 15 to 20 minutes.
-NONE|Consensus|1|ok|Consensus notes that nicotine cravings can stretch anywhere from a few hours to several weeks, but the sharpest drop-off tends to happen within the first 7 to 10 weeks of quitting.
+NONE|Consensus|2|ok|As for the bigger picture, Consensus notes that nicotine cravings can stretch anywhere from a few hours to several weeks, but the sharpest drop-off tends to happen within the first 7 to 10 weeks of quitting.
 NONE|Medical News Today (2024)|2|ok|Medical News Today (2024) draws a clear line between physical and psychological withdrawal.
 NONE|Drugs.com (2025)|2|ok|But Drugs.com (2025) points out that the mental and emotional side, the habit of reaching for a cigarette when you're stressed, bored, or celebrating, can linger for months after the physical craving is long gone.
 NONE|Biology Insights (2025)|2|ok|Biology Insights (2025) explains that a sudden drop in dopamine in the nucleus accumbens, the brain's reward hub, is the direct cause of the irritability, anxiety, and craving intensity you feel after quitting.
 NONE|Frontiers in Neuroscience (2025)|1|ok|Research in Frontiers in Neuroscience (2025) describes it as biphasic: your brain runs a constant tug-of-war between the reward (that hit of dopamine) and aversive effects like nausea or dizziness, regulated partly through a brain pathway called the medial habenula-interpeduncular nucleus circuit.
+F7|Allen Carr's Easyway|3|flag:competing-quit-product|Each craving during nicotine withdrawal usually lasts 15 to 20 minutes
 ===END_SOURCE_TABLE===
 
 ---
 
-## SUMMARY TABLE
+## Summary Table
 
-| Claim in article | Status | Source Tier | Source / Note |
+| Claim in Article | Status | Source Tier | Source / Note |
 |---|---|---|---|
-| Nicotine binds to α4β2 receptors causing dopamine burst | Verified | 1 | Frontiers in Neuroscience |
-| Rapid, high-frequency dopamine bursts cement smoking-pleasure link | Verified | 2 | ScienceInsights |
-| Brain increases nicotine receptors, dulls natural reward sensitivity | Verified | 2 | Medindia |
-| Receptor upregulation mechanism explained | **BLOCKED** | 3 | Villa Treatment Center (addiction treatment provider—competing product) |
-| Nicotinic receptors desensitize shortly after activation | Verified | 2 | ScienceInsights |
-| Withdrawal starts 4-24 hours after last cigarette | Verified | 1 | Cleveland Clinic |
-| Cravings noticeable 60-180 minutes in | Verified | 1 | Consensus (peer-reviewed aggregator) |
-| Withdrawal peaks day 2-3, fades over 3-4 weeks | Verified | 1 | Cleveland Clinic |
-| Single craving lasts 3-5 minutes | Verified | 1 | HSE Ireland |
-| WebMD claims 15-20 minute craving duration | Cited | 2 | WebMD (article asserts without independent verification) |
-| Cravings drop off sharply within 7-10 weeks | Unverified | 1 | Consensus (claim not traceable to dated study in research facts) |
-| Physical vs. psychological withdrawal distinction | Verified | 2 | Medical News Today |
-| Dopamine drop in nucleus accumbens causes symptoms | Verified | 2 | Biology Insights |
-| Biphasic reward-aversion mechanism via medial habenula circuit | Verified | 1 | Frontiers in Neuroscience |
+| α4β2 receptors ramp up dopamine neuron firing | VERIFIED | 1 | Frontiers in Neuroscience (2025) – peer-reviewed journal |
+| Rapid, high-frequency dopamine bursts from nicotine | UNVERIFIED | UNK | **BLOCKED – ScienceInsights is a blog, not peer-reviewed** |
+| Receptor upregulation with chronic exposure | VERIFIED | 1 | Frontiers in Neuroscience (2025) |
+| Receptor desensitization mechanism | UNVERIFIED | UNK | **BLOCKED – ScienceInsights is a blog, not peer-reviewed** |
+| Withdrawal symptoms appear 4–24 hours after last cigarette | DISCREPANCY | 2 | Medical News Today; research facts say 2–3 hours (F4) |
+| Cravings peak at 60–180 minutes in | PARTIAL | 2 | Consensus; F6 says cravings peak 24–72 hours overall |
+| Single craving lasts 3–5 minutes | DISCREPANCY | 1 | HSE Ireland; conflicts with F7 (15–20 min) and article's own WebMD cite (15–20 min) |
+| Single craving lasts 15–20 minutes | DISCREPANCY | 2/3 | WebMD & **Allen Carr's Easyway (BLOCKED – competing quit product)**; matches F7 |
+| Cravings reduce in 7–10 weeks | VERIFIED | 2 | Consensus; matches F8 |
+| Physical vs. psychological withdrawal timeline | VERIFIED | 2 | Medical News Today |
+| Dopamine drop causes irritability/anxiety/cravings | UNVERIFIED | 2 | Biology Insights (Tier 2, not Tier 1) |
+| Biphasic reward/aversion mechanism | VERIFIED | 1 | Frontiers in Neuroscience (2025) |
 
-**KEY ISSUE:** Villa Treatment Center (a nicotine addiction treatment provider) is cited as a source and must be **BLOCKED per Tier 3** audit rules. This is a competing quit-nicotine product and should not be used as a source for health claims.
+---
+
+## Key Findings
+
+**TIER 3 BLOCKS:**
+- 
+Allen Carr's Easyway claims "each craving during nicotine withdrawal usually lasts only 10 to 15 minutes"
+ – This is a competing quit-smoking product and must be removed or replaced with Tier 1 source.
+
+**UNK FLAGS (Not peer-reviewed):**
+- **ScienceInsights** – Used twice for claims about dopamine bursts and receptor desensitization. This appears to be a content/blog site (scienceinsights.org), not a peer-reviewed journal. These claims need Tier 1 sources.
+
+**KEY DISCREPANCIES:**
+1. **Withdrawal onset timing**: Article says 4–24 hours (Medical News Today); research facts say 2–3 hours (F4, Wikipedia/CDC sources).
+2. **Craving duration conflict**: Article cites HSE Ireland (3–5 min) AND WebMD (15–20 min) as if both are correct, but they contradict. F7 specifies 15–20 minutes. The 3–5 minute figure cannot be verified against provided research facts.
+3. **F7 source problem**: The research fact cites Allen Carr's Easyway (2026) as one source for the 15–20 minute claim, but Allen Carr's Easyway is a Tier 3 competing product and should never be cited as a research source for a neutral health blog.
+
+**UNVERIFIED CLAIMS (not tied to research facts):**
+- F9, F10, F12, F14, and parts of F15 are not discussed in the article.
