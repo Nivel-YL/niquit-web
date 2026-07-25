@@ -17,7 +17,7 @@ Trente. Ce chiffre mérite qu'on s'y arrête, parce qu'il change complètement l
 
 D'après une revue de littérature publiée sur PMC/NIH, entre 40 et 50% des fumeurs arrêtent au moins 24 heures chaque année, mais très peu restent sans fumer pendant six mois. Même avec un accompagnement, les taux d'abstinence dépassent rarement 35%. Autrement dit : la rechute n'est pas l'exception, c'est la norme statistique.
 
-Le moment critique se situe presque toujours au début. Selon le registre des essais cliniques du NIH, les taux de rechute atteignent 50 à 80% dans l'année qui suit l'arrêt, et la majorité de ces rechutes survient dans les trois premiers mois. Quand un traitement médicamenteux s'arrête, le risque grimpe encore plus vite : certains essais rapportent 50% de rechute dès trois mois d'arrêt du traitement, la plupart des reprises ayant lieu dans les deux premières semaines.
+Le moment critique se situe presque toujours au début. , et la majorité de ces rechutes survient dans les trois premiers mois. Quand un traitement médicamenteux s'arrête, le risque grimpe encore plus vite : certains essais rapportent 50% de rechute dès trois mois d'arrêt du traitement, la plupart des reprises ayant lieu dans les deux premières semaines.
 
 Ce n'est donc pas une question de caractère. C'est une fenêtre biologique précise, et elle est brutale pour tout le monde.
 
@@ -33,7 +33,7 @@ Quand tu arrêtes, ce n'est pas juste que le plaisir disparaît. Une recherche d
 
 Non, et c'est justement pour ça que la stratégie qui a échoué la dernière fois peut ne pas être le bon diagnostic.
 
-Plusieurs études convergent sur les causes principales de rechute : la prise de poids, le stress, et les symptômes de sevrage, selon une recherche publiée sur PMC/NIH. Une étude qualitative polonaise de 2021 ajoute d'autres facteurs très concrets : le manque de discipline personnelle ressenti par la personne, le contact régulier avec d'autres fumeurs, l'exposition à des situations stressantes, l'absence de soutien familial, et le sentiment que rien ne s'améliore vraiment sur le plan physique ou mental malgré l'arrêt.
+ Une étude qualitative polonaise de 2021 ajoute d'autres facteurs très concrets : le manque de discipline personnelle ressenti par la personne, le contact régulier avec d'autres fumeurs, l'exposition à des situations stressantes, l'absence de soutien familial, et le sentiment que rien ne s'améliore vraiment sur le plan physique ou mental malgré l'arrêt.
 
 Une étude menée dans une clinique turque en 2024 a interrogé des patients ayant rechuté : les causes les plus citées étaient des événements stressants, en particulier des problèmes au travail ou des soucis de santé graves touchant un proche. Et le simple fait d'avoir des fumeurs autour de soi augmentait nettement le risque de rechute, selon la même étude.
 

@@ -15,9 +15,9 @@ Y hay algo que deberías saber antes de seguir leyendo: según un estudio en cl�
 
 ## ¿Por qué he recaído tantas veces al intentar dejar de fumar?
 
-Las razones no son un misterio ni un fallo de carácter. Según una revisión de estudios publicada por el NIH, las causas más comunes de recaída son el aumento de peso, el estrés y los síntomas de abstinencia física. En estudios cualitativos con exfumadores, como uno realizado en Polonia en 2021, aparecen también otros factores: falta de apoyo familiar, contacto con personas que fuman, y la sensación de que, después de semanas sin fumar, el malestar físico y mental no mejora lo suficiente como para justificar el esfuerzo.
+Las razones no son un misterio ni un fallo de carácter.  En estudios cualitativos con exfumadores, como uno realizado en Polonia en 2021, aparecen también otros factores: falta de apoyo familiar, contacto con personas que fuman, y la sensación de que, después de semanas sin fumar, el malestar físico y mental no mejora lo suficiente como para justificar el esfuerzo.
 
-Un dato que sorprende a mucha gente: el sitio donde relajas la guardia no es un día cualquiera, es un momento específico. Entre el 50% y el 80% de las personas que dejan de fumar recaen dentro del primer año, y la mayoría de esas recaídas ocurren en los primeros tres meses, según datos de registros de ensayos clínicos del NIH. Si tomaste medicación o algún tratamiento y lo dejaste, el riesgo es todavía más alto justo después: algunos ensayos reportan que hasta la mitad de las recaídas asociadas a la interrupción del tratamiento farmacológico ocurren en las primeras dos semanas sin él.
+Un dato que sorprende a mucha gente: el sitio donde relajas la guardia no es un día cualquiera, es un momento específico. Entre el 50% y el 80% de las personas que dejan de fumar recaen dentro del primer año, y la mayoría de esas recaídas ocurren en los primeros tres meses, según datos de registros de ensayos clínicos del NIH. 
 
 Hay un grupo especialmente vulnerable. Según datos de la encuesta poblacional TUS-CPS en Estados Unidos, la prevalencia de recaída se mantiene por debajo del 20% en la mayoría de los grupos, pero sube al 34,4% entre personas de 18 a 24 años, y llega al 40,8% entre quienes llevan menos de seis meses sin fumar. Es decir: los primeros meses son el terreno más resbaladizo, no una excepción.
 
@@ -31,7 +31,7 @@ Pero hay algo más interesante todavía. Investigaciones recientes del NIH seña
 
 ## ¿Cuántos intentos hacen falta para dejar de fumar de verdad?
 
-El promedio suele citarse en cinco intentos, según protocolos de ensayos clínicos del NIH. Pero como mencionamos antes, otros estudios más recientes hablan de más de 30. La diferencia no es contradictoria: cada intento, aunque termine en recaída, deja información. Aprendes qué situación te hizo ceder, qué hora del día es más peligrosa, qué emoción específica te empuja a fumar.
+ Pero como mencionamos antes, otros estudios más recientes hablan de más de 30. La diferencia no es contradictoria: cada intento, aunque termine en recaída, deja información. Aprendes qué situación te hizo ceder, qué hora del día es más peligrosa, qué emoción específica te empuja a fumar.
 
 De hecho, entre personas que ya habían recaído, un estudio de atención primaria encontró que de 894 casos, 291 (un 33%) volvieron a intentarlo por al menos 24 horas, y de esos, un 34% seguía sin fumar en el seguimiento posterior. Volver a intentarlo funciona, incluso después de recaer. Lo que no funciona es repetir exactamente lo mismo esperando un resultado distinto.
 

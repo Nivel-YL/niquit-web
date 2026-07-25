@@ -9,7 +9,7 @@ heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
 
 > You've tried patches, cold turkey, apps, maybe hypnosis. Here's what the research says about quitting smoking when nothing has worked before.
 
-If you've quit smoking three times, five times, maybe more, and you're back here again, you're not doing this wrong. You're doing exactly what most smokers do. Research on tobacco cessation shows the average smoker makes five attempts before achieving sustained abstinence, according to an NIH clinical trials protocol. A 2024 study out of a Turkish smoking cessation clinic found the real number, for many people, closer to 30 attempts. So if you're wondering how to quit smoking when nothing has worked before, the first thing to understand is that "nothing working" isn't a verdict on you. It's the normal shape of this process.
+If you've quit smoking three times, five times, maybe more, and you're back here again, you're not doing this wrong. You're doing exactly what most smokers do.  A 2024 study out of a Turkish smoking cessation clinic found the real number, for many people, closer to 30 attempts. So if you're wondering how to quit smoking when nothing has worked before, the first thing to understand is that "nothing working" isn't a verdict on you. It's the normal shape of this process.
 
 That doesn't make it less frustrating. But it changes the question. Instead of "why can't I do this," the better question is "what's different about the way I've been trying."
 
