@@ -29,9 +29,9 @@ Die Zahlen zur Verbindung von Rauchen und psychischer Belastung sind deutlich. L
 
 ## Wird man nach dem Rauchstopp wirklich entspannter?
 
-Genau das zeigen mehrere unabhängige Untersuchungen.  Was Raucher als Vorteil des Rauchens empfinden, sind in Wirklichkeit die eigenen Entzugssymptome, die durch die nächste Zigarette kurzzeitig unterdrückt werden.
+Genau das zeigen mehrere unabhängige Untersuchungen. Eine Oxford-Studie (Nuffield Department, 2023), die auf einer großen randomisierten klinischen Studie mit 4.260 Teilnehmern aus sechzehn Ländern zwischen 2011 und 2015 basiert, widerlegt den Mythos direkt: Aufhören verschlechtert die psychische Gesundheit nicht, sondern verbessert sie. Was Raucher als Vorteil des Rauchens empfinden, sind in Wirklichkeit die eigenen Entzugssymptome, die durch die nächste Zigarette kurzzeitig unterdrückt werden.
 
-Das CDC bestätigt: Rauchstopp geht mit weniger Depression, weniger Angst und weniger Stress einher, dazu mit einer besseren Lebensqualität. Nach einigen rauchfreien Monaten liegen Angst- und Depressionswerte häufig niedriger als während der Rauchphase (CDC, zitiert 2026). 
+Das CDC bestätigt: Rauchstopp geht mit weniger Depression, weniger Angst und weniger Stress einher, dazu mit einer besseren Lebensqualität. Nach einigen rauchfreien Monaten liegen Angst- und Depressionswerte häufig niedriger als während der Rauchphase (CDC, zitiert 2026). Der britische NHS geht sogar noch weiter: Rauchstopp kann bei manchen Menschen genauso wirksam sein wie Antidepressiva, wenn es darum geht, Traurigkeit, Hoffnungslosigkeit und das Gefühl der Isolation zu reduzieren.
 
 Wer sich fragt, was in den ersten Tagen und Wochen ohne Nikotin im Körper passiert, findet konkrete Antworten im [Nikotin-Entzug Tag für Tag Zeitplan](/nikotin-entzugssymptome-tag-fuer-tag-zeitplan).
 
