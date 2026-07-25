@@ -13,7 +13,7 @@ Tu as arrêté la cigarette il y a quelques mois. Fini le paquet, fini l'odeur d
 
 ## Vapoter, c'est vraiment moins addictif que fumer ?
 
-La question mérite d'être posée franchement, parce que la réponse n'est pas si simple. Une étude publiée sur ScienceDirect en 2020 a montré que les niveaux de dépendance déclarés par les fumeurs et les vapoteurs étaient similaires, mais que la nicotine semblait avoir une valeur de renforcement plus forte chez les fumeurs : ils étaient prêts à payer plus cher pour leurs cigarettes que les vapoteurs pour leur e-liquide.
+La question mérite d'être posée franchement, parce que la réponse n'est pas si simple.  : ils étaient prêts à payer plus cher pour leurs cigarettes que les vapoteurs pour leur e-liquide.
 
 Une revue publiée sur PMC (NIH) en 2024 confirme ce constat : les personnes qui vapotent régulièrement présentent les mêmes signes de dépendance que les fumeurs de tabac, envies irrépressibles, symptômes de sevrage, usage répété tout au long de la journée. En général, les niveaux de dépendance restent un peu plus bas qu'avec la cigarette classique.
 
@@ -41,7 +41,7 @@ Cette étude a d'ailleurs identifié un phénomène précis chez les personnes q
 
 ## La vape a-t-elle un impact sur le moral ?
 
-Un point que beaucoup de gens ignorent : la nicotine et la santé mentale sont étroitement liées. Une étude JAMA de 2019, portant sur près de 30 000 vapoteurs actuels, a trouvé que les utilisateurs réguliers d'e-cigarette avaient deux fois plus de risques de recevoir un diagnostic de dépression que les non-utilisateurs, ce chiffre grimpant à 2,4 fois chez les vapoteurs fréquents.
+Un point que beaucoup de gens ignorent : la nicotine et la santé mentale sont étroitement liées. 
 
 La bonne nouvelle, c'est que l'inverse fonctionne aussi. Un rapport de la Truth Initiative datant de 2024 montre que parmi les personnes qui ont arrêté de vapoter, 90 % ont déclaré se sentir moins stressées, anxieuses ou déprimées, et 47 % ont ressenti un meilleur sentiment de contrôle sur leur vie.
 

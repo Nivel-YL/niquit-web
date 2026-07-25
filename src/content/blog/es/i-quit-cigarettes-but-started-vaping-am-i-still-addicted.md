@@ -35,18 +35,18 @@ Para quienes usan ambos productos, la Escuela de Medicina de la Universidad de W
 
 Aquí la evidencia es mixta. Un estudio publicado en ScienceDirect (2020) encontró que, aunque los niveles de dependencia reportados eran similares, los fumadores estaban dispuestos a pagar más por sus cigarrillos que los vapeadores por sus dispositivos, lo que sugiere que la nicotina podría tener un valor de refuerzo ligeramente mayor en el tabaco. Otro estudio de PMC (2024) confirma que quienes vapean regularmente muestran los mismos indicadores centrales de dependencia que los fumadores: antojos, urgencia por consumir, síntomas de abstinencia y uso constante durante el día, aunque en general con niveles algo más bajos que el cigarrillo.
 
-Pero hay una excepción importante. Los dispositivos tipo pod, cada vez más comunes, entregan la nicotina de forma mucho más eficiente. Según un estudio publicado en Nicotine and Tobacco Research (Milstred et al., 2025), estos dispositivos son más reforzantes incluso que el chicle de nicotina, generando mayor dependencia, especialmente entre adultos jóvenes y personas que nunca habían fumado antes. Si usas un pod moderno, es probable que estés consumiendo nicotina de forma más intensa de lo que crees.
+Pero hay una excepción importante. Los dispositivos tipo pod, cada vez más comunes, entregan la nicotina de forma mucho más eficiente.  Si usas un pod moderno, es probable que estés consumiendo nicotina de forma más intensa de lo que crees.
 
 ## ¿Por qué siento que consumo más nicotina que antes con el cigarrillo?
 
-Probablemente no es una impresión tuya. Según Healthline (2024), la ausencia de humo hace que sea más fácil consumir más nicotina con el vapeador que con el cigarrillo, simplemente porque no hay las mismas señales físicas de saciedad. La Universidad de Washington (2022) confirma esto: en lugar de reducir su consumo, muchos usuarios duales terminan aumentando sustancialmente la cantidad de nicotina que consumen al día.
+Probablemente no es una impresión tuya. Según Healthline (2024), la ausencia de humo hace que sea más fácil consumir más nicotina con el vapeador que con el cigarrillo, simplemente porque no hay las mismas señales físicas de saciedad. 
 
 ## ¿El vapeo afecta también la salud mental?
 
-Un estudio publicado en JAMA en 2019, con casi 30.000 usuarios actuales de cigarrillo electrónico, encontró que quienes vapean tienen el doble de probabilidades de tener un diagnóstico de depresión comparado con quienes nunca vapearon. Entre quienes vapean con frecuencia, esa probabilidad sube a 2,4 veces más. La buena noticia es que esto se revierte: según Truth Initiative (2024), entre quienes lograron dejar el vapeo, el 90% dijo sentirse menos estresado, ansioso o deprimido, y el 47% reportó sentir más control sobre su vida.
+Un estudio publicado en JAMA en 2019, con casi 30.000 usuarios actuales de cigarrillo electrónico, encontró que quienes vapean tienen el doble de probabilidades de tener un diagnóstico de depresión comparado con quienes nunca vapearon. Entre quienes vapean con frecuencia, esa probabilidad sube a 2,4 veces más. La buena noticia es que esto se revierte: 
 
 ## ¿Qué funciona realmente para dejar la nicotina del todo?
 
-La Universidad de Washington (2022) encontró algo alentador: los tratamientos aprobados para dejar de fumar, basados en reemplazo de nicotina y acompañamiento, funcionan igual de bien tanto para usuarios duales como para quienes fuman exclusivamente cigarrillo tradicional. No necesitas resolverlo solo ni depender únicamente de fuerza de voluntad.
+ No necesitas resolverlo solo ni depender únicamente de fuerza de voluntad.
 
 Si además usas bolsas de nicotina junto con el vapeador o el cigarrillo, vale la pena que revises [qué son las bolsas de nicotina y si son más seguras que el cigarrillo](what-are-nicotine-pouches-and-are-they-safer-than-cigarettes) y también [cómo dejar las bolsas de nicotina como ZYN, On! o Velo](how-to-quit-nicotine-pouches-zyn-on-velo). Cuantas más fuentes de nicotina tengas activas al mismo tiempo, más difícil se vuelve el proceso de dejarlo, y más importante es tener un plan claro para abandonar todas, no solamente una.
