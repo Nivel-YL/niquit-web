@@ -21,7 +21,7 @@ Alrededor de una hora tras el cigarro, los niveles de nicotina caen lo suficient
 
 ## ¿Fumar aumenta o disminuye la ansiedad a largo plazo?
 
-Aquí está la parte que casi nadie te cuenta: aunque la nicotina ofrezca un alivio momentáneo, también activa las respuestas de estrés del cuerpo, elevando hormonas como la adrenalina y el cortisol. Esta paradoja hace que la nicotina, con el tiempo, empeore el estrés y la ansiedad en lugar de mejorarlos, alimentando el círculo de dependencia (EBSCO Research Starters). Además, la dependencia a la nicotina se asocia con inestabilidad emocional, lo que intensifica la sensación de estrés en muchos fumadores habituales; en cambio, ese nivel de estrés tiende a bajar tras dejar de fumar (Behavioral Pharmacology, 2007).
+Aquí está la parte que casi nadie te cuenta: aunque la nicotina ofrezca un alivio momentáneo, también activa las respuestas de estrés del cuerpo, elevando hormonas como la adrenalina y el cortisol. Esta paradoja hace que la nicotina, con el tiempo, empeore el estrés y la ansiedad en lugar de mejorarlos, alimentando el círculo de dependencia (EBSCO Research Starters). Además, la dependencia a la nicotina se asocia con inestabilidad emocional, lo que intensifica la sensación de estrés en muchos fumadores habituales; en cambio, ese nivel de estrés tiende a bajar tras dejar de fumar (CDC, 2026).
 
 Los datos poblacionales confirman este patrón. Según los Centros para el Control de Enfermedades de EE.UU. (CDC, 2019), más del 27% de los adultos estadounidenses con algún trastorno mental fumaba en el último mes, frente a solamente el 16% de quienes no tenían ningún trastorno mental. El propio CDC señala que cerca del 25% de los adultos en EE.UU. tienen algún trastorno mental o de consumo de sustancias, y ese grupo consume casi el 40% de todos los cigarros fumados por adultos en el país.
 
@@ -31,7 +31,7 @@ Un estudio del University College London junto al British Heart Foundation, cita
 
 Esta es la pregunta que de verdad importa, y la evidencia es contundente.  Lo que muchos fumadores interpretan como "beneficios" del cigarro son en realidad síntomas de abstinencia que desaparecen al dejarlo del todo, no al seguir alimentándolos con más nicotina.
 
-El propio CDC confirma que dejar de fumar se asocia con una disminución de la depresión, la ansiedad y el estrés, además de una mejora en la calidad de vida. Y según datos citados en educación sanitaria (CDC, 2026), una vez que llevas unos meses sin fumar, tus niveles de ansiedad y depresión suelen ser más bajos que cuando fumabas. El sistema nacional de salud del Reino Unido (NHS, vía APC Birmingham, 2022) llega incluso más lejos: afirma que dejar de fumar puede mejorar los síntomas depresivos, reducir la sensación de tristeza y aislamiento, y para algunas personas ser tan eficaz como un antidepresivo.
+El propio CDC confirma que dejar de fumar se asocia con una disminución de la depresión, la ansiedad y el estrés, además de una mejora en la calidad de vida. Y según datos citados en educación sanitaria (CDC, 2026), una vez que llevas unos meses sin fumar, tus niveles de ansiedad y depresión suelen ser más bajos que cuando fumabas. El Servicio Nacional de Salud del Reino Unido (NHS) afirma que dejar de fumar puede mejorar los síntomas depresivos, reducir la sensación de tristeza y aislamiento, y que los beneficios de dejar de fumar en los síntomas de ansiedad y depresión pueden ser equivalentes a tomar antidepresivos.
 
 ## ¿Es más difícil dejarlo si ya tienes ansiedad?
 

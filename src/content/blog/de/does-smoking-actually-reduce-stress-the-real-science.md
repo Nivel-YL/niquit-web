@@ -19,7 +19,7 @@ Warum sich dieses Verlangen so dringend anfühlt, erklären wir ausführlicher i
 
 Genau hier liegt der Denkfehler.  Wenn ein Raucher nach der Zigarette sagt, er fühle sich ruhiger, dann sinkt seine Angst nicht unter das Niveau eines Nichtrauchers. Sie kehrt nur zu seinem eigenen, ohnehin erhöhten Ausgangswert zurück.
 
-Das Truth Initiative bestätigt das aus einer anderen Richtung: Junge Menschen, die rauchen, berichten trotz jahrzehntelanger Werbung der Tabakindustrie über Zigaretten als Stresslöser von einem höheren wahrgenommenen Stresslevel als Nichtraucher (Truth Initiative, 2022). Die Zigarette verspricht Ruhe und liefert am Ende genau das Gegenteil.
+Laut einer im Fachjournal JAMA Pediatrics veröffentlichten Studie berichten Jugendliche, die Zigaretten rauchen, trotz jahrzehntelanger Werbung der Tabakindustrie über Zigaretten als Stresslöser von signifikant höheren Stressleveln als diejenigen, die mit dem Rauchen aufgehört haben. Die Zigarette verspricht Ruhe und liefert am Ende genau das Gegenteil.
 
 ## Erhöht Rauchen den Stresspegel im Körper?
 
