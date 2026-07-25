@@ -13,6 +13,27 @@ export function localePath(lang: Lang, path = ''): string {
   return `${base}/${path}`.replace(/\/$/, '') || '/';
 }
 
+// build.format:'file' makes Astro.url.pathname reflect the actual output
+// filename (e.g. /method.html, or literally /index.html for the root), but
+// every internal link (localePath()) points to the clean, extensionless URL
+// Cloudflare actually serves it at. Normalize any Astro.url.pathname to that
+// clean form - used for canonical/og:url and anywhere else a "which page am
+// I on" path is needed.
+export function canonicalPath(url: URL): string {
+  let path = url.pathname
+    .replace(/(^|\/)index\.html$/, '$1')
+    .replace(/\.html$/, '');
+  if (path.length > 1) path = path.replace(/\/$/, '');
+  return path === '' ? '/' : path;
+}
+
+// localePath() expects a bare path with no leading slash and no locale
+// prefix (it adds both itself). Strips the locale prefix from an already-
+// clean path (see canonicalPath()) down to that bare form.
+export function stripLocalePrefix(path: string): string {
+  return path.replace(/^\/(ru|de|es|fr)(\/|$)/, '/').replace(/^\//, '');
+}
+
 export const ui = {
   en: {
     nav: {

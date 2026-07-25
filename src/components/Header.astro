@@ -1,5 +1,5 @@
 ---
-import { type Lang, LANGS, t, localePath } from '../i18n/ui';
+import { type Lang, LANGS, t, localePath, canonicalPath, stripLocalePrefix } from '../i18n/ui';
 import InstallButton from './InstallButton.astro';
 
 interface Props { lang: Lang; }
@@ -11,7 +11,11 @@ const langName: Record<string, string> = {
   en: 'English', ru: 'Русский', de: 'Deutsch', es: 'Español', fr: 'Français',
 };
 
-const currentPathNoLang = Astro.url.pathname.replace(/^\/(ru|de|es|fr)(\/|$)/, '/');
+// build.format:'file' makes Astro.url.pathname carry a .html extension (and
+// literally /index.html at root) - canonicalPath() strips that back to the
+// clean URL before stripping the locale prefix, so the switcher never links
+// to a *.html path (which would 404, nothing serves it under 'file' format).
+const currentPathNoLang = stripLocalePrefix(canonicalPath(Astro.url));
 const otherLangs = LANGS.filter((l) => l !== lang);
 ---
 
@@ -67,7 +71,7 @@ const otherLangs = LANGS.filter((l) => l !== lang);
       <ul class="lang__menu" role="listbox" hidden>
         {otherLangs.map((l) => (
           <li role="option">
-            <a href={localePath(l, currentPathNoLang.replace(/^\//, ''))} data-ph-from={lang} data-ph-to={l}>
+            <a href={localePath(l, currentPathNoLang)} data-ph-from={lang} data-ph-to={l}>
               <b>{langCode[l]}</b>{langName[l]}
             </a>
           </li>
