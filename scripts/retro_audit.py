@@ -47,6 +47,7 @@ from blog_editor import (
     cross_language_consistency,
     load_backlog,
     research_shared,
+    with_retries,
 )
 
 # Requested order: live articles with unconfirmed deep cross-language checks
@@ -64,7 +65,7 @@ def _audit_one_lang(client: anthropic.Anthropic, lang: str, slug: str, shared_fa
     if not path.exists():
         return lang, None, f'file not found: {path.relative_to(REPO_ROOT)}'
     full_text = path.read_text(encoding='utf-8')
-    audit_text, source_table = audit_article(client, full_text, shared_facts)
+    audit_text, source_table = with_retries(audit_article, client, full_text, shared_facts)
     return lang, {'audit_text': audit_text, 'source_table': source_table}, None
 
 

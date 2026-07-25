@@ -448,11 +448,14 @@ AUDIT_SYSTEM = (
     'be unrelated to the topic, mark its tier as UNK and flag it. This is a distinct problem from '
     'Tier 3, it is not necessarily a competitor, it may simply not be real or not relevant, but it '
     'must be flagged the same way.\n\n'
-    'Output BOTH of the following, in this order.\n\n'
-    'First, a compact markdown table for a human to skim, columns: '
-    '| Claim in article | Status | Source Tier | Source / Note |. '
-    'Flag any Tier 3 or UNK source with a BLOCKED note.\n\n'
-    'Second, a machine-readable block, exactly in this format, one line per sentence in the article '
+    'Output BOTH of the following, in this order. The machine-readable block comes FIRST, before '
+    'any prose or reasoning about individual sources, and the human-readable table comes second. '
+    'This order matters: if your response is ever cut short, the machine-readable block is the '
+    'part that must survive intact, the prose table is a nice-to-have summary on top of it, not '
+    'the other way around. Do not write scratch notes, a numbered list of sources to check, or any '
+    'other prose before the machine-readable block, do that reasoning silently and only write it '
+    'out, if at all, after the block is already complete.\n\n'
+    'First, a machine-readable block, exactly in this format, one line per sentence in the article '
     'that names a source (whether or not it is tied to a numbered fact):\n'
     '===SOURCE_TABLE===\n'
     'fact_id|source_name|tier|status|exact_quote\n'
@@ -462,7 +465,13 @@ AUDIT_SYSTEM = (
     'is no issue, or "flag:short-reason-no-spaces" if tier is 3 or UNK; and exact_quote is the '
     'verbatim sentence from the article containing the citation, copied exactly, not paraphrased '
     '(this is used to locate and fix the sentence programmatically). Use the literal pipe character '
-    '| as the field separator and do not use it inside any field.'
+    '| as the field separator and do not use it inside any field. Every named source in the article '
+    'must appear as its own row in this block, a source only discussed in prose afterward and never '
+    'given a row here will be treated as never audited at all, not as implicitly fine.\n\n'
+    'Second, after the block is fully closed with ===END_SOURCE_TABLE===, a compact markdown table '
+    'for a human to skim, columns: | Claim in article | Status | Source Tier | Source / Note |. '
+    'Flag any Tier 3 or UNK source with a BLOCKED note. If you run low on space, shorten or drop '
+    'this second table entirely rather than the first block.'
 )
 
 SOURCE_TABLE_RE = re.compile(
@@ -508,10 +517,17 @@ def audit_article(
     memory-based self-check, this can actually verify whether an unfamiliar source
     exists and what kind of site it is.
     Returns (human_readable_report, parsed_source_table).
+
+    Raises RuntimeError if the response was cut off by the token limit, or if it
+    produced substantial text but no parseable source table at all. Both are the
+    same underlying failure this project already hit once for real: a truncated
+    or malformed response silently parses to an empty table, which reads as "0
+    flagged, all clean" instead of "this audit never actually completed." Callers
+    (with_retries) should retry rather than accept that as a real answer.
     """
     resp = client.messages.create(
         model=RESEARCH_MODEL,
-        max_tokens=2048,
+        max_tokens=4096,
         tools=[{
             'type': 'web_search_20260209',
             'name': 'web_search',
@@ -529,7 +545,21 @@ def audit_article(
     )
     parts = [b.text for b in resp.content if hasattr(b, 'text') and b.text]
     full_text = '\n'.join(parts) if parts else '(Audit failed to produce output)'
-    return full_text, parse_source_table(full_text)
+
+    if resp.stop_reason == 'max_tokens':
+        raise RuntimeError(
+            'audit_article response was cut off by the token limit before the '
+            'source table could close, findings would silently be lost if accepted'
+        )
+
+    source_table = parse_source_table(full_text)
+    if not source_table and len(full_text) > 200:
+        raise RuntimeError(
+            'audit_article produced substantial output but no parseable source '
+            'table, likely a malformed or truncated ===SOURCE_TABLE=== block'
+        )
+
+    return full_text, source_table
 
 
 # -- step 6: search-backed self-correction ------------------------------------------
