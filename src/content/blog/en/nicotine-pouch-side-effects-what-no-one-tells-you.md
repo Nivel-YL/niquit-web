@@ -11,7 +11,7 @@ heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
 
 Someone hands you a can of nicotine pouches and says "it's basically nothing, no smoke, no vape, just tuck it under your lip." That's how most people start. What they don't mention: a single 6mg pouch can push more nicotine into your blood within 30 minutes than smoking a cigarette. Nicotine pouch side effects are rarely discussed honestly, and the gap between marketing and reality is bigger than most users realize.
 
-Pouches have exploded in popularity because they seem discreet and low-risk. According to CDC Foundation and Circana data, U.S. past-30-day use nearly doubled between 2023 and 2024, jumping from 2.3% to 4.2%. Among people who already used some form of nicotine, current pouch use grew 66% in just two years. But rapid adoption doesn't mean the product is well understood, and a lot of users are finding that out the hard way.
+Pouches have exploded in popularity because they seem discreet and low-risk. According to the Monitoring the Future adult survey, U.S. past-30-day use nearly doubled between 2023 and 2024, jumping from 2.3% to 4.2%. Among people who already used some form of nicotine, current pouch use grew 66% in just two years. But rapid adoption doesn't mean the product is well understood, and a lot of users are finding that out the hard way.
 
 ## Are nicotine pouches actually stronger than cigarettes?
 

@@ -33,9 +33,9 @@ Autrement dit, tu échanges un risque cancérigène contre un risque cardiovascu
 
 ## Est-ce que ça aide vraiment à arrêter de fumer ?
 
-C'est peut-être le chiffre le plus surprenant de toute cette histoire. Selon l'enquête ETHRA menée auprès de plus de 35 000 consommateurs européens, 83,5 % des vapoteurs et 73,7 % des utilisateurs de snus ont réussi à abandonner complètement la cigarette. Ce sont des taux très élevés, bien supérieurs à ceux obtenus avec les substituts nicotiniques classiques comme les patchs ou les gommes.
+C'est une question qui mérite un vrai chiffre, pas une intuition. Des essais randomisés en double aveugle, publiés dans Nicotine & Tobacco Research, ont testé le snus spécifiquement comme aide à l'arrêt : à 6 semaines, le taux d'abstinence était de 18,4 % dans le groupe snus contre 8,8 % dans le groupe placebo, un écart net. Mais à 28 semaines, la différence n'était plus statistiquement significative (12,8 % contre 7,2 %). Autrement dit, le snus peut donner un coup de pouce au tout début, mais l'avantage s'estompe avec le temps s'il n'est pas accompagné d'une vraie stratégie de sortie.
 
-Ça ne veut pas dire que le snus ou les sachets de nicotine sont une solution miracle. Ça veut juste dire que, pour certaines personnes, remplacer la cigarette par un produit qui apporte de la nicotine sans combustion facilite réellement la transition. Le vrai objectif reste ensuite de réduire progressivement, puis d'arrêter la nicotine elle-même.
+Ça ne veut pas dire que le snus ou les sachets de nicotine sont une solution miracle. Ça veut juste dire que, pour certaines personnes, remplacer la cigarette par un produit qui apporte de la nicotine sans combustion peut faciliter la transition à court terme. Le vrai objectif reste ensuite de réduire progressivement, puis d'arrêter la nicotine elle-même.
 
 ## Peut-on encore acheter des sachets de nicotine en France ?
 

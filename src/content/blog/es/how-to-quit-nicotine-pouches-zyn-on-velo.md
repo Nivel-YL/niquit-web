@@ -11,7 +11,7 @@ heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
 
 Metes una bolsa de ZYN debajo del labio antes de una reunión importante. Otra después de comer. Una más mientras conduces. Sin darte cuenta, terminas el día con medio bote vacío, unas 8 a 12 bolsas, y ni siquiera recuerdas cuándo empezaste a necesitarlas para concentrarte. Si estás pensando en dejar las bolsas de nicotina, no eres el único que se ha dado cuenta de que esto enganchó mucho más rápido de lo esperado.
 
-Estos productos se vendían como la alternativa "limpia" al cigarro: sin humo, sin olor, sin miradas raras en la oficina. Por eso las ventas se dispararon más del 200% entre enero de 2023 y abril de 2025, pasando de 145 millones a casi 447 millones de dólares al mes solamente en Estados Unidos. ZYN se llevó la mayor parte de ese crecimiento: el 84,3% de quienes usaron bolsas de nicotina el mes pasado eligió esa marca. Pero "limpio" no significa inofensivo, y quien lleva un par de meses metiéndose bolsas todos los días ya lo sabe por experiencia propia.
+Estos productos se vendían como la alternativa "limpia" al cigarro: sin humo, sin olor, sin miradas raras en la oficina. Por eso las ventas se dispararon un 250,8% entre enero de 2023 y agosto de 2025, pasando de 145,5 millones a 510,5 millones de dólares al mes solamente en Estados Unidos, según datos de CDC Foundation basados en datos minoristas de Circana. ZYN se llevó la mayor parte de ese crecimiento: el 84,3% de quienes usaron bolsas de nicotina el mes pasado eligió esa marca. Pero "limpio" no significa inofensivo, y quien lleva un par de meses metiéndose bolsas todos los días ya lo sabe por experiencia propia.
 
 ## ¿Por qué cuesta tanto dejar las bolsas de nicotina?
 

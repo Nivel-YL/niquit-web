@@ -1,0 +1,23 @@
+{
+  "B-04": {
+    "title": "Vaping vs smoking which is harder to quit?",
+    "slug": "vaping-vs-smoking-which-is-harder-to-quit",
+    "flagged": 0,
+    "cross_mismatches": 0,
+    "date": "2026-07-22"
+  },
+  "C-01": {
+    "title": "Why quitting smoking cold turkey fails for most people",
+    "slug": "why-quitting-smoking-cold-turkey-fails-for-most-people",
+    "flagged": 5,
+    "cross_mismatches": 2,
+    "date": "2026-07-22"
+  },
+  "C-02": {
+    "title": "Nicotine withdrawal symptoms day by day timeline",
+    "slug": "nicotine-withdrawal-symptoms-day-by-day-timeline",
+    "flagged": 3,
+    "cross_mismatches": 0,
+    "date": "2026-07-22"
+  }
+}

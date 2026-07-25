@@ -1,9 +1,9 @@
 ---
 title: "Как бросить вейпить: пошаговый план, который реально работает"
 description: "Пошаговый план, как бросить вейпить: что происходит с организмом по дням, как пережить тягу и не сорваться в первые недели."
-publishDate: 2026-07-06
+publishDate: 2026-07-13
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
 ---
 

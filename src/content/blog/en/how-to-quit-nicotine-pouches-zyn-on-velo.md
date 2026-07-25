@@ -9,7 +9,7 @@ heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
 
 > Struggling to quit ZYN, On! or Velo? Here's a real timeline, what withdrawal actually feels like, and a plan that works.
 
-You tuck one in, forget about it for an hour, put in another. No smoke, no vapor, no smell on your clothes. That's exactly why nicotine pouches spread so fast, and why quitting them catches people off guard. Monthly sales of ZYN, On!, and Velo jumped from $145.5 million to $446.8 million between January 2023 and April 2025. That's not a niche habit anymore. That's millions of people who thought they'd try "just the mint one" and now can't get through a meeting without one under their lip.
+You tuck one in, forget about it for an hour, put in another. No smoke, no vapor, no smell on your clothes. That's exactly why nicotine pouches spread so fast, and why quitting them catches people off guard. Monthly sales of ZYN, On!, and Velo jumped from $145.5 million to $510.5 million between January 2023 and August 2025, a 250.8% increase, according to CDC Foundation research using Circana retail data. That's not a niche habit anymore. That's millions of people who thought they'd try "just the mint one" and now can't get through a meeting without one under their lip.
 
 If you're one of them, here's what's actually going on, and how to get out.
 

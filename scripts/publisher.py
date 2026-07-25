@@ -18,6 +18,8 @@ from pathlib import Path
 import yaml
 from slugify import slugify
 
+import pipeline_status
+
 # ── paths ────────────────────────────────────────────────────────────────────
 
 REPO_ROOT    = Path(__file__).parent.parent
@@ -91,45 +93,50 @@ def publish_topic(topic: dict, today: datetime.date) -> list[str]:
 
 
 def main() -> None:
-    topics   = load_backlog()
-    approved = [t for t in topics if t.get('status') == 'approved']
+    try:
+        topics   = load_backlog()
+        approved = [t for t in topics if t.get('status') == 'approved']
 
-    if not approved:
-        print('No approved articles in queue. Nothing to publish.')
-        sys.exit(0)
+        if not approved:
+            print('No approved articles in queue. Nothing to publish.')
+            sys.exit(0)
 
-    today        = datetime.date.today()
-    to_publish   = approved[:PUBLISH_COUNT]
-    published_ids: list[str] = []
+        today        = datetime.date.today()
+        to_publish   = approved[:PUBLISH_COUNT]
+        published_ids: list[str] = []
 
-    for topic in to_publish:
-        print(f'\nPublishing: {topic["id"]} — {topic["title_en"]}')
-        langs = publish_topic(topic, today)
-        if langs:
-            # Update backlog entry in-place (topics list is already loaded)
-            topic['status'] = 'published'
-            topic.setdefault('published', {})
-            for lang in langs:
-                topic['published'][lang] = today.isoformat()
-            published_ids.append(topic['id'])
-            print(f'  → marked published ({", ".join(langs)})')
-        else:
-            print(f'  → no files updated, skipping backlog update', file=sys.stderr)
+        for topic in to_publish:
+            print(f'\nPublishing: {topic["id"]} — {topic["title_en"]}')
+            langs = publish_topic(topic, today)
+            if langs:
+                # Update backlog entry in-place (topics list is already loaded)
+                topic['status'] = 'published'
+                topic.setdefault('published', {})
+                for lang in langs:
+                    topic['published'][lang] = today.isoformat()
+                published_ids.append(topic['id'])
+                print(f'  → marked published ({", ".join(langs)})')
+            else:
+                print(f'  → no files updated, skipping backlog update', file=sys.stderr)
 
-    save_backlog(topics)
+        save_backlog(topics)
 
-    remaining = len([t for t in topics if t.get('status') == 'approved'])
-    print(f'\nPublished : {len(published_ids)} article(s): {", ".join(published_ids)}')
-    print(f'In queue  : {remaining} approved article(s) still waiting')
+        remaining = len([t for t in topics if t.get('status') == 'approved'])
+        print(f'\nPublished : {len(published_ids)} article(s): {", ".join(published_ids)}')
+        print(f'In queue  : {remaining} approved article(s) still waiting')
 
-    # Export IDs for GitHub Actions commit message
-    gh_env = os.environ.get('GITHUB_ENV')
-    if gh_env:
-        with open(gh_env, 'a', encoding='utf-8') as f:
-            f.write(f'PUBLISHED_IDS={",".join(published_ids)}\n')
+        # Export IDs for GitHub Actions commit message
+        gh_env = os.environ.get('GITHUB_ENV')
+        if gh_env:
+            with open(gh_env, 'a', encoding='utf-8') as f:
+                f.write(f'PUBLISHED_IDS={",".join(published_ids)}\n')
 
-    if not published_ids:
-        sys.exit(1)
+        if not published_ids:
+            sys.exit(1)
+    finally:
+        # Regenerate PIPELINE_STATUS.md from current backlog state, every run,
+        # success, no-op, or early exit alike, so the status file never goes stale.
+        pipeline_status.write_pipeline_status()
 
 
 if __name__ == '__main__':

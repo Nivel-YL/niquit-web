@@ -86,5 +86,19 @@ const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
     </main>
     <Footer lang={lang} />
     <CookieBanner lang={lang} />
+
+    <!-- Route single-target "download" links to the App Store on iOS/iPadOS, Google Play otherwise -->
+    <script>
+      const isIOS =
+        /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+      if (isIOS) {
+        document.querySelectorAll<HTMLAnchorElement>('[data-store-link]').forEach((el) => {
+          const appleHref = el.dataset.appleHref;
+          if (appleHref) el.href = appleHref;
+        });
+      }
+    </script>
   </body>
 </html>

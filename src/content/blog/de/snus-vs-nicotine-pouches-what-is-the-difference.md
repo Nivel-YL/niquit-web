@@ -38,7 +38,7 @@ Nicotine Pouches werden pro Beutel angegeben, was den direkten Vergleich schwier
 - Stark: 14 bis 20 mg pro Beutel
 - Sehr stark: 25 bis 30 mg pro Beutel
 
-Und hier kommt ein Punkt, der speziell für den deutschsprachigen Markt wichtig ist: In Deutschland und Österreich ist der Markt für Nicotine Pouches noch relativ jung. Viele der Produkte, die hier besonders populär sind, wie etwa Pablo, gehören zu den stärkeren Varianten und erreichen bis zu 30 mg pro Beutel. Wer aus dem klassischen Snus-Bereich kommt und zu Pouches wechselt, unterschätzt diese Stärke oft, weil die Beutel selbst kleiner und unauffälliger wirken als klassisches Snus.
+Und hier kommt ein Punkt, der speziell für den deutschsprachigen Markt wichtig ist: In Deutschland und Österreich ist der Markt für Nicotine Pouches noch relativ jung. Viele der besonders populären Marken auf dem deutschsprachigen Markt gehören zu den stärkeren Varianten und erreichen bis zu 30 mg pro Beutel. Wer aus dem klassischen Snus-Bereich kommt und zu Pouches wechselt, unterschätzt diese Stärke oft, weil die Beutel selbst kleiner und unauffälliger wirken als klassisches Snus.
 
 ## Schmecken Nicotine Pouches anders als Snus?
 

@@ -43,67 +43,102 @@ topics:
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-13'
+    ru: '2026-07-13'
+    de: '2026-07-13'
+    es: '2026-07-13'
+    fr: '2026-07-13'
 - id: B-02
   title_en: Are you addicted to vaping signs and science
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-14'
+    ru: '2026-07-14'
+    de: '2026-07-14'
+    es: '2026-07-14'
+    fr: '2026-07-14'
 - id: B-03
   title_en: Why disposable vapes are so hard to quit
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-14'
+    ru: '2026-07-14'
+    de: '2026-07-14'
+    es: '2026-07-14'
+    fr: '2026-07-14'
 - id: B-04
   title_en: Vaping vs smoking which is harder to quit?
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-17'
+    ru: '2026-07-17'
+    de: '2026-07-17'
+    es: '2026-07-17'
+    fr: '2026-07-17'
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-17'
+    ru: '2026-07-17'
+    de: '2026-07-17'
+    es: '2026-07-17'
+    fr: '2026-07-17'
 - id: C-02
   title_en: Nicotine withdrawal symptoms day by day timeline
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-21'
+    ru: '2026-07-21'
+    de: '2026-07-21'
+    es: '2026-07-21'
+    fr: '2026-07-21'
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
   cluster: C
-  status: pending
-  published: {}
+  status: published
+  published:
+    en: '2026-07-25'
+    ru: '2026-07-25'
+    de: '2026-07-25'
+    es: '2026-07-25'
+    fr: '2026-07-25'
 - id: C-04
   title_en: How to quit smoking when nothing has worked before
   cluster: C
-  status: pending
+  status: approved
   published: {}
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
   cluster: D
-  status: pending
+  status: approved
   published: {}
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
   cluster: D
-  status: pending
+  status: approved
   published: {}
 - id: D-03
   title_en: How to quit all nicotine at once multi-product addiction guide
   cluster: D
-  status: pending
+  status: approved
   published: {}
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
-  status: pending
+  status: approved
   published: {}
 - id: E-02
   title_en: Does smoking actually reduce stress the real science
   cluster: E
-  status: pending
+  status: approved
   published: {}
 - id: E-03
   title_en: Smoking triggers how to identify yours and break the loop

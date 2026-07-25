@@ -1,9 +1,9 @@
 ---
 title: "Por qué dejar de fumar de golpe falla en la mayoría de los casos"
 description: "Solamente entre el 3 y el 7% logra dejar el cigarro de golpe y sin ayuda. Descubre por qué el método más popular es también el que menos funciona."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 
@@ -25,7 +25,7 @@ Estudios clínicos documentados por el NIH lo confirman a nivel molecular: duran
 
 A esto se suma otro mecanismo menos conocido: el consumo prolongado de nicotina desensibiliza los receptores nicotínicos de acetilcolina y altera la transmisión colinérgica, según documentación del NIH de 2024. Cuando retiras la nicotina de golpe, el cerebro no solamente pierde su "recompensa" habitual, también activa mecanismos neuronales adicionales que generan un estado de malestar deliberado, un sistema de aversión que, según investigaciones del NIH, explica en buena parte la altísima tasa de recaída entre quienes consumen nicotina.
 
-Nada de esto se soluciona con voluntad. Como bien resume la comunidad de Quit Smoking Community, la mayoría de las recaídas no ocurren por falta de disciplina, sino porque la química cerebral sigue dependiendo de la sustancia.
+Nada de esto se soluciona con voluntad. Según datos del NIH, la mayoría de las recaídas no ocurren por falta de disciplina, sino porque la química cerebral sigue dependiendo de la sustancia.
 
 ## ¿Cuánto duran los síntomas de abstinencia al dejar de fumar de golpe?
 

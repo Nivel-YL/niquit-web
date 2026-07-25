@@ -1,9 +1,9 @@
 ---
 title: "Warum kalter Entzug beim Rauchen für die meisten Menschen scheitert"
 description: "Fast 75% aller Raucher versuchen es ohne Hilfe, aber nur 3 bis 7% schaffen es dauerhaft. Die Gründe liegen tief im Gehirn, nicht in fehlender Willenskraft."
-publishDate: 2026-07-11
+publishDate: 2026-07-17
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
 ---
 
@@ -39,7 +39,7 @@ Das klingt erstmal wie ein Argument für den abrupten Stopp. Der entscheidende P
 
 Medikamente und Beratung zusammen können die Erfolgschance mehr als verdreifachen, so Truth Initiative (2024). Von der FDA zugelassen sind Nikotinersatztherapien als Kaugummi, Inhalator, Lutschtablette, Nasenspray und Pflaster sowie die Wirkstoffe Vareniclin und Bupropion (Truth Initiative, 2024). Das sind keine Krücken für Schwache, sondern Werkzeuge, die genau an den Mechanismen ansetzen, die den kalten Entzug so schwer machen: Sie gleichen den Dopaminmangel teilweise aus und dämpfen die Entzugssymptome, während sich die Rezeptoren im Gehirn neu einstellen.
 
-Was dabei oft vergessen wird: Kalter Entzug kümmert sich überhaupt nicht um die psychologische Abhängigkeit. Die körperliche Sucht klingt irgendwann von selbst ab, aber wenn die psychologische Seite unbehandelt bleibt, kann sie dich noch lange nach dem letzten Zug beschäftigen (Quit Smoking Advisor). Die Zigarette nach dem Essen, die Pause mit Kollegen, der Griff zur Packung bei Stress, das sind Muster, die kein Nikotinentzug allein löst.
+Was dabei oft vergessen wird: Kalter Entzug kümmert sich überhaupt nicht um die psychologische Abhängigkeit. Die körperliche Sucht klingt irgendwann von selbst ab, aber wenn die psychologische Seite unbehandelt bleibt, kann sie dich laut Cleveland Clinic noch lange nach dem letzten Zug beschäftigen. Die Zigarette nach dem Essen, die Pause mit Kollegen, der Griff zur Packung bei Stress, das sind Muster, die kein Nikotinentzug allein löst.
 
 Wenn du gerade überlegst, von Zigaretten auf etwas vermeintlich Milderes umzusteigen, lohnt sich vorher ein Blick auf [Nikotinbeutel und ob sie wirklich sicherer sind](https://niquit.netlify.app/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes). Und falls du bereits bei Pouches gelandet bist und auch davon loskommen willst, gibt es einen eigenen Leitfaden dazu, [wie man Nikotinbeutel wie ZYN, On! oder Velo wieder loswird](https://niquit.netlify.app/how-to-quit-nicotine-pouches-zyn-on-velo).
 

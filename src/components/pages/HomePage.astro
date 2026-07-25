@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import BlogCard from '../BlogCard.astro';
 import DonateSection from '../DonateSection.astro';
 import { type Lang, t, localePath } from '../../i18n/ui';
+import { GOOGLE_URL, APPLE_URL } from '../../config/stores';
 import { getCollection } from 'astro:content';
 
 interface Props { lang: Lang; }
@@ -54,10 +55,12 @@ const posts = allPosts
       </p>
 
       <a
-        href="https://play.google.com/store/apps/details?id=com.niquit.app"
+        href={GOOGLE_URL}
         target="_blank"
         rel="noopener"
         data-ph-install="hero"
+        data-store-link
+        data-apple-href={APPLE_URL}
         class="inline-block mt-8 rounded-xl px-7 py-4 font-bold transition-opacity hover:opacity-90"
         style="background:#FF6B5C; color:#0A1A33; font-family:'Space Grotesk',sans-serif;"
       >
