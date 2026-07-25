@@ -4,6 +4,7 @@ description: "La mayoría lo intenta a base de fuerza de voluntad. Por qué casi
 publishDate: 2026-07-05
 lang: es
 draft: true
+translationKey: why-nicotine-is-different
 ---
 
 La nicotina no te hace sentir bien. Elimina el malestar que ella misma provoca.

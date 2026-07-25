@@ -4,6 +4,7 @@ description: "Die meisten versuchen aufzuhoeren, indem sie sich einfach zusammen
 publishDate: 2026-07-05
 lang: de
 draft: true
+translationKey: why-nicotine-is-different
 ---
 
 Nikotin macht dich nicht glücklich. Es beseitigt das Unbehagen, das es selbst verursacht hat.

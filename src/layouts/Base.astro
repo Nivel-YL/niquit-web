@@ -10,11 +10,27 @@ interface Props {
   description?: string;
   lang?: Lang;
   ogImage?: string;
+  // Explicit per-language slugs for the current blog entry, only languages
+  // that actually have a live version are present. When omitted (non-blog
+  // pages, where one path structure is shared 1:1 across all 5 languages by
+  // design), falls back to stripping the locale prefix from the current URL.
+  alternates?: Partial<Record<Lang, string>>;
 }
 
-const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage } = Astro.props;
+const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage, alternates } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://niquit.app');
 const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
+
+// Fallback for pages with no explicit `alternates` (i.e. not a blog post):
+// strip the locale prefix AND the leading slash before handing the path to
+// localePath(), which expects a path with no leading slash, exactly like
+// every other call site in the codebase (Header.astro, BlogCard.astro,
+// BlogPost.astro all do the same). Skipping that strip here previously
+// produced a double leading slash in every hreflang link on every page.
+const fallbackPath = Astro.url.pathname
+  .replace(/^\/(ru|de|es|fr)\//, '/')
+  .replace(/^\/(ru|de|es|fr)$/, '/')
+  .replace(/^\//, '');
 ---
 
 <!doctype html>
@@ -27,10 +43,18 @@ const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
     <link rel="canonical" href={canonicalUrl} />
 
     <!-- hreflang: tell search engines these are language variants of the same page -->
-    {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, Astro.url.pathname.replace(/^\/(ru|de|es|fr)\//, '/').replace(/^\/(ru|de|es|fr)$/, '/'))}`} />
-    ))}
-    <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', Astro.url.pathname.replace(/^\/(ru|de|es|fr)\//, '/').replace(/^\/(ru|de|es|fr)$/, '/'))}`} />
+    {alternates
+      ? LANGS.filter((l) => alternates[l]).map((l) => (
+          <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, `blog/${alternates[l]}`)}`} />
+        ))
+      : LANGS.map((l) => (
+          <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, fallbackPath)}`} />
+        ))}
+    {alternates
+      ? alternates.en && (
+          <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', `blog/${alternates.en}`)}`} />
+        )
+      : <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', fallbackPath)}`} />}
 
     <!-- Open Graph -->
     <meta property="og:title" content={`${title} | NiQuit`} />

@@ -14,9 +14,10 @@ interface Props {
   slug?: string;
   cluster?: string;
   related?: RelatedPost[];
+  alternates?: Partial<Record<Lang, string>>;
 }
 
-const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [] } = Astro.props;
+const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [], alternates } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
@@ -24,7 +25,7 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
 });
 ---
 
-<Base title={title} description={description} lang={lang}>
+<Base title={title} description={description} lang={lang} alternates={alternates}>
   <article class="max-w-2xl mx-auto px-5 py-16">
     {heroImage && (
       <img
