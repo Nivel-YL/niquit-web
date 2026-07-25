@@ -13,28 +13,13 @@ interface Props {
 }
 
 const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage } = Astro.props;
-// build.format:'file' makes Astro.url.pathname reflect the actual output
-// filename (e.g. /method.html, or /index.html for the root), but every
-// internal link (localePath()) points to the clean, extensionless URL
-// Cloudflare actually serves it at. Normalize to that form here so
-// canonical/og:url match what the site links to.
+// Astro's directory-format build resolves every route with a trailing slash,
+// but every internal link (localePath()) is generated without one. Strip it
+// here so canonical/og:url match the URLs the site actually links to.
 const rawPath = Astro.url.pathname;
-let normalizedPath = rawPath
-  .replace(/(^|\/)index\.html$/, '$1')
-  .replace(/\.html$/, '');
-if (normalizedPath.length > 1) {
-  normalizedPath = normalizedPath.replace(/\/$/, '');
-}
-if (normalizedPath === '') normalizedPath = '/';
+const normalizedPath = rawPath.length > 1 ? rawPath.replace(/\/$/, '') : rawPath;
 const canonicalUrl = new URL(normalizedPath, Astro.site ?? 'https://niquit.app');
 const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
-
-// localePath() expects a bare path with no leading slash (it adds its own),
-// so strip both the locale prefix and the leading slash here rather than
-// leaving one behind for it to double up on.
-const localeStrippedPath = normalizedPath
-  .replace(/^\/(ru|de|es|fr)(\/|$)/, '/')
-  .replace(/^\//, '');
 ---
 
 <!doctype html>
@@ -48,9 +33,9 @@ const localeStrippedPath = normalizedPath
 
     <!-- hreflang: tell search engines these are language variants of the same page -->
     {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, localeStrippedPath)}`} />
+      <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, Astro.url.pathname.replace(/^\/(ru|de|es|fr)\//, '/').replace(/^\/(ru|de|es|fr)$/, '/'))}`} />
     ))}
-    <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', localeStrippedPath)}`} />
+    <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', Astro.url.pathname.replace(/^\/(ru|de|es|fr)\//, '/').replace(/^\/(ru|de|es|fr)$/, '/'))}`} />
 
     <!-- Open Graph -->
     <meta property="og:title" content={`${title} | NiQuit`} />

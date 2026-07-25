@@ -26,4 +26,3 @@ pnpm-debug.log*
 # Python bytecode cache (scripts/blog_editor.py, scripts/publisher.py)
 __pycache__/
 *.pyc
-.wrangler/

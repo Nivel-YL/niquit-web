@@ -7,14 +7,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://niquit.app',
 
-  // 'directory' output (page/index.html) makes Cloudflare's static handler
-  // auto-redirect /page -> /page/, which fights the site's own no-trailing-
-  // slash convention and the redirect in functions/_middleware.js. 'file'
-  // output (page.html) removes that directory-index ambiguity entirely.
-  build: {
-    format: 'file',
-  },
-
   vite: {
     plugins: [tailwindcss()],
   },
