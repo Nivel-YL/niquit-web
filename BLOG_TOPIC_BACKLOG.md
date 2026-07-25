@@ -103,37 +103,37 @@ topics:
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
   cluster: C
-  status: drafted
+  status: approved
   published: {}
 - id: C-04
   title_en: How to quit smoking when nothing has worked before
   cluster: C
-  status: drafted
+  status: approved
   published: {}
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
   cluster: D
-  status: drafted
+  status: approved
   published: {}
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
   cluster: D
-  status: drafted
+  status: approved
   published: {}
 - id: D-03
   title_en: How to quit all nicotine at once multi-product addiction guide
   cluster: D
-  status: drafted
+  status: approved
   published: {}
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
-  status: drafted
+  status: approved
   published: {}
 - id: E-02
   title_en: Does smoking actually reduce stress the real science
   cluster: E
-  status: drafted
+  status: approved
   published: {}
 - id: E-03
   title_en: Smoking triggers how to identify yours and break the loop
