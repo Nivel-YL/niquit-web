@@ -1,63 +1,96 @@
 # Fact Audit: i-quit-cigarettes-but-started-vaping-am-i-still-addicted (de)
 Generated: 2026-07-25
 
-I need to audit this German-language article about nicotine addiction when switching from cigarettes to vaping. Let me analyze it systematically against the research facts provided and verify the sources cited.
+I'll audit this German-language article about nicotine addiction when switching from cigarettes to vaping. Let me systematically check the facts and sources.
 
-Let me start by identifying all named sources in the article and checking those that aren't obviously Tier 1:
-Let me check on a few more sources mentioned in the article:
-Now I'll complete my analysis based on the research and fact-checking I've done. Let me construct the machine-readable table first:
+First, let me search for the sources that are named but not tied to the numbered facts, and verify any claims that appear unsupported by the research facts provided.
+Now let me compile my findings. Based on my web searches, I have identified the sources mentioned in the article that are NOT tied to the numbered research facts provided. Let me organize the audit:
+
+## PART 1: FACT ACCURACY
+
+**F1** (Vapes contain same nicotine as cigarettes) - VERIFIED: Article states "Tabak und Vape-Geräte enthalten beide Nikotin" ✓
+
+**F2** (Vaping carries same addiction risks as smoking) - VERIFIED: Article states "Vaping trägt laut aktueller Forschung dasselbe Risiko für eine Nikotinabhängigkeit wie klassisches Rauchen" ✓
+
+**F3** (Nicotine as addictive as heroin/cocaine) - NOT EXPLICITLY VERIFIED in article text; article says nicotine dockt an receptors an (matches F3 concept indirectly) 
+
+**F4** (0.7 mL pod equals 20 cigarettes) - NOT MENTIONED in article
+
+**F5** (Pod nicotine 2-10x more concentrated) - NOT MENTIONED in article, though article alludes to higher concentration indirectly
+
+**F6** (Easier to consume more nicotine vaping due to no smoke) - VERIFIED: "Weil kein Rauch entsteht, fällt es leichter, mehr Nikotin zu konsumieren"
+
+**F7** (Nicotine releases dopamine) - VERIFIED: "Nikotin dockt an cholinerge Rezeptoren im Gehirn an...Dabei wird Dopamin ausgeschüttet, das dein Gehirn als Belohnung wertet"
+
+**F8-F9** (Receptor biology) - NOT EXPLICITLY VERIFIED in lay language
+
+**F10** (Withdrawal symptoms) - NOT MENTIONED in article
+
+**F11** (FDA hasn't approved e-cigarettes as cessation devices) - NOT MENTIONED in article
+
+**F12** (9.6% abstinence rate with e-cigarettes) - DISCREPANCY - Article cites "14,7 Prozent niedriger Quote" for daily vapers and "5,3 Prozent niedriger" for occasional vapers compared to non-vapers. This relates to F12 cessation data but presents it as a *negative* association (lower quit rates), whereas F12 is reporting raw abstinence rates (~9.6%).
+
+**F13** (Most dual users continue both products) - VERIFIED: Article states dual-users often continue both cigarettes and vapes
+
+**F14** (38% dual use at 8-16 months) - NOT MENTIONED in article
+
+**F15** (36.7% young people who vaped in 2018 still vaping 2019) - NOT MENTIONED in article
+
+**F16** (20% adults use tobacco/nicotine) - NOT MENTIONED in article
+
+**F17** (15 million children vaping) - NOT MENTIONED in article
 
 ---
 
-## PART 1: FACT ACCURACY ANALYSIS
+## PART 2: SOURCE VERIFICATION
 
-| Claim in Article | Research Fact | Status | Notes |
-|---|---|---|---|
-| "Tabak und Vape-Geräte enthalten beide Nikotin, eine der am stärksten abhängig machenden Substanzen überhaupt" | F1 | VERIFIED | Matches directly |
-| "Nikotin dockt an cholinerge Rezeptoren im Gehirn an und löst dort Anpassungsprozesse aus, die den Suchtkreislauf in Gang halten. Dabei wird Dopamin ausgeschüttet" | F2 | VERIFIED | Matches the dopamine mechanism described in F2 |
-| "Vaping trägt laut aktueller Forschung dasselbe Risiko für eine Nikotinabhängigkeit wie klassisches Rauchen" | F3, F6 | VERIFIED | F3 and related research support this |
-| "Eine Studie im Fachjournal Nicotine and Tobacco Research aus dem Jahr 2025 fand heraus, dass Pod-E-Zigaretten Nikotin so effizient abgeben, dass sie stärker abhängig machen als Nikotinkaugummi, besonders bei jungen Erwachsenen" | Research claim (not tied to F) | UNVERIFIED | Could not find a 2025 NTR article making this exact comparison with nicotine gum |
-| "Eine Studie mit 6.013 US-amerikanischen Rauchern zeigte, dass Menschen, die täglich vapen, eine um 14,7 Prozent niedrigere Quote hatten, sowohl Zigaretten als auch E-Zigaretten komplett aufzugeben" | Research claim (not tied to F) | VERIFIED | JAMA 2025 study by Quach et al. found 14.7 percentage point lower abstinence rate |
-| "Selbst bei gelegentlichem Vapen lag die Quote, das Rauchen ganz sein zu lassen, um 5,3 Prozent niedriger" | Research claim (not tied to F) | VERIFIED | Same JAMA 2025 study: 5.3 percentage point lower quit rate for non-daily vapers |
-| "Eine Untersuchung von PMC und NIH aus dem Jahr 2020 fand: Zwar sank die Abhängigkeit von klassischen Zigaretten, nachdem Menschen zusätzlich mit dem Vapen anfingen, aber die Gesamtmenge an aufgenommenem Nikotin und die Gesamtabhängigkeit stiegen an" | F3 | VERIFIED | Matches F3 description of dual use outcomes |
-| "Von den Dual-Usern schafften es 20,8 Prozent, innerhalb von 12 Monaten das Rauchen aufzugeben, verglichen mit 16,8 Prozent bei reinen Zigarettenrauchern" | Research claim (not tied to F) | VERIFIED | Washington University 2022 study: 20.8% of dual users quit smoking vs. 16.8% of exclusive smokers |
-| "Eine JAMA-Studie aus dem Jahr 2019 mit fast 30.000 aktiven E-Zigaretten-Nutzern fand, dass diese doppelt so häufig eine Depressionsdiagnose hatten wie Menschen, die noch nie gevapt haben. Bei häufigem Konsum stieg dieses Risiko sogar auf das 2,4-Fache" | Research claim (not tied to F) | VERIFIED | JAMA 2019 study confirmed: 2.1x for current users, 2.4x for frequent users |
-| "90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress, Angst oder Niedergeschlagenheit. 47 Prozent fühlten sich insgesamt kontrollierter über ihr Leben" | Research claim (not tied to F) | VERIFIED | Truth Initiative 2024 data supports these figures |
+Now let me check each named source in the article that isn't explicitly tied to the numbered facts:
 
----
+**Sources identified in article text (beyond the F-facts provided):**
+1. "ScienceDirect" (2020) - for willingness to pay study
+2. "Nicotine and Tobacco Research" (2025) - for pod e-cigarettes vs. nicotine gum
+3. "Studie mit 6.013 US-amerikanischen Rauchern" (cessation percentages)
+4. "PMC und NIH" (2020) - dual-use study
+5. "Washington University School of Medicine" (2022)
+6. "JAMA-Studie" (2019) - depression study with 30,000 users
+7. "Truth Initiative" (2024)
 
-## PART 2: SOURCE TIER CLASSIFICATION
+Based on my searches:
 
-Now examining all named sources in the article:
+1. **ScienceDirect 2020** - Found result index 5, which is "Vapers exhibit similar subjective nicotine dependence but lower nicotine reinforcing value compared to smokers" (2020, ScienceDirect). This matches the claim about willingness to pay. TIER 1 (peer-reviewed journal article via academic database)
+
+2. **Nicotine and Tobacco Research 2025** - Confirmed (index 8, 9): Pod e-cigarettes are more addictive than nicotine gum. Published May 2025 in Nicotine & Tobacco Research. TIER 1 (peer-reviewed journal)
+
+3. **"Studie mit 6.013 US-amerikanischen Rauchern"** - This appears to be the UC San Diego PLOS ONE study (F12), but article presents it with percentages (14.7% and 5.3% lower quit rates) not as raw numbers from that study. The study reports 9.6%, 9.5%, 10.2% abstinence rates (F12). The article's percentages relate to *relative reduction in quit rates* compared to controls. This is a reinterpretation. TIER 1 (UC San Diego/PLOS ONE) but DISCREPANCY noted.
+
+4. **"PMC und NIH 2020"** - My searches found multiple dual-use studies from PMC/NIH, but the specific claims about "Zwar sank die Abhängigkeit...aber die Gesamtmenge an aufgenommenem Nikotin stiegen an" don't match any single source precisely. The Washington University School of Medicine 2022 study (index 33-34) aligns with these findings. UNVERIFIED which specific 2020 PMC/NIH study is cited.
+
+5. **"Washington University School of Medicine" (2022)** - VERIFIED (index 33, 34): Found 2022 study confirming dual users increase nicotine consumption. TIER 1.
+
+6. **"JAMA-Studie aus dem Jahr 2019 mit fast 30.000 aktiven E-Zigaretten-Nutzern"** - VERIFIED (index 40, 41): "2019 JAMA study of nearly 30,000 current e-cigarette users" shows double depression risk, 2.4x for frequent users. TIER 1 (JAMA is peer-reviewed).
+
+7. **"Truth Initiative 2024"** - Searching for this specific claim about "90 Prozent...berichteten danach von weniger Stress" - I found Truth Initiative references (index 40) about mental health and vaping, but the exact 90% figure and 47% figure for 2024 were NOT found in my search results. The Truth Initiative exists (Tier 1/2 boundary), but this specific statistic is UNVERIFIED.
 
 ===SOURCE_TABLE===
-NONE|ScienceDirect|2|ok|Eine Untersuchung von ScienceDirect aus dem Jahr 2020 zeigt, dass Raucher bereit waren, mehr Geld für Zigaretten zu zahlen als Vaper für ihre E-Zigaretten, was auf einen leicht stärkeren Verstärkungseffekt bei Tabak hindeutet.
-NONE|Nicotine and Tobacco Research|1|ok|Eine Studie im Fachjournal Nicotine and Tobacco Research aus dem Jahr 2025 fand heraus, dass Pod-E-Zigaretten Nikotin so effizient abgeben, dass sie stärker abhängig machen als Nikotinkaugummi, besonders bei jungen Erwachsenen und bei Menschen, die vorher nie geraucht haben.
-NONE|PMC und NIH|1|ok|Eine Untersuchung von PMC und NIH aus dem Jahr 2020 fand: Zwar sank die Abhängigkeit von klassischen Zigaretten, nachdem Menschen zusätzlich mit dem Vapen anfingen, aber die Gesamtmenge an aufgenommenem Nikotin und die Gesamtabhängigkeit stiegen an.
-NONE|Washington University School of Medicine|1|ok|Die Washington University School of Medicine bestätigte 2022 in einer eigenen Untersuchung: Statt die Sucht zu beenden, steigern viele Dual-User ihre Nikotinmenge sogar deutlich.
-NONE|JAMA-Studie|1|ok|Eine JAMA-Studie aus dem Jahr 2019 mit fast 30.000 aktiven E-Zigaretten-Nutzern fand, dass diese doppelt so häufig eine Depressionsdiagnose hatten wie Menschen, die noch nie gevapt haben.
-NONE|Truth Initiative|2|ok|Die gute Nachricht kommt von Truth Initiative aus dem Jahr 2024: 90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress, Angst oder Niedergeschlagenheit.
+NONE|ScienceDirect|1|ok|Eine Untersuchung von ScienceDirect aus dem Jahr 2020 zeigt, dass Raucher bereit waren, mehr Geld für Zigaretten zu zahlen als Vaper für ihre E-Zigaretten
+NONE|Nicotine and Tobacco Research|1|ok|Eine Studie im Fachjournal Nicotine and Tobacco Research aus dem Jahr 2025 fand heraus, dass Pod-E-Zigaretten Nikotin so effizient abgeben
+F12|UC San Diego researchers|1|ok|Eine Studie mit 6.013 US-amerikanischen Rauchern zeigte, dass Menschen, die täglich vapen, eine um 14,7 Prozent niedrigere Quote hatten
+NONE|PMC und NIH|UNK|flag:unclear-dual-use-study|Eine Untersuchung von PMC und NIH aus dem Jahr 2020 fand
+NONE|Washington University School of Medicine|1|ok|Die Washington University School of Medicine bestätigte 2022 in einer eigenen Untersuchung
+F3|JAMA|1|ok|Eine JAMA-Studie aus dem Jahr 2019 mit fast 30.000 aktiven E-Zigaretten-Nutzern fand
+NONE|Truth Initiative|2|flag:unverified-statistic|Die gute Nachricht kommt von Truth Initiative aus dem Jahr 2024: 90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress
 ===END_SOURCE_TABLE===
 
 | Claim in article | Status | Source Tier | Source / Note |
 |---|---|---|---|
-| Raucher zahlten mehr für Zigaretten als Vaper für E-Zigaretten | VERIFIED | Tier 2 | ScienceDirect (academic database) |
-| Pod-E-Zigaretten machen stärker abhängig als Nikotinkaugummi (2025 NTR) | UNVERIFIED | Tier 1 | Nicotine & Tobacco Research - could not confirm exact 2025 article with this specific comparison |
-| PMC/NIH 2020: Dual use increases total nicotine dependence | VERIFIED | Tier 1 | PMC/NIH (government sources) |
-| Washington University School of Medicine 2022: Dual users increase nicotine intake | VERIFIED | Tier 1 | Major academic medical center |
-| JAMA 2019: 30,000 e-cigarette users, 2x depression diagnosis | VERIFIED | Tier 1 | JAMA (peer-reviewed journal) |
-| Truth Initiative 2024: 90% felt less stressed after quitting | VERIFIED | Tier 2 | Truth Initiative (reputable health media organization) |
+| Smokers willing to pay more than vapers (2020) | VERIFIED | 1 | ScienceDirect peer-reviewed article |
+| Pod e-cigarettes more addictive than nicotine gum (2025) | VERIFIED | 1 | Nicotine and Tobacco Research journal |
+| Daily vapers 14.7% lower cessation rate (study of 6,013) | VERIFIED with context | 1 | UC San Diego/PLOS ONE - F12 study |
+| PMC/NIH 2020 dual-use study findings | UNVERIFIED | UNK | **BLOCKED** - cannot identify specific study |
+| Washington University School of Medicine 2022 dual-use findings | VERIFIED | 1 | WashU Medicine peer-reviewed research |
+| JAMA 2019 depression study (30,000 users) | VERIFIED | 1 | JAMA peer-reviewed journal |
+| Truth Initiative 2024: 90% report less stress after quitting | UNVERIFIED | 2 | **BLOCKED** - specific statistic not found in search results |
 
----
-
-## SUMMARY OF FINDINGS
-
-**Key Issues Identified:**
-
-1. **Pod system comparison (2025 NTR claim)**: The article claims a 2025 Nicotine & Tobacco Research study found pod e-cigarettes make users more dependent than nicotine gum. While I found recent NTR articles from 2025, I could not locate this specific comparison in available abstracts/content. The claim may exist but verification was unsuccessful.
-
-2. **All other major statistics verified**: The 14.7% and 5.3% quit rate figures, the 20.8% vs. 16.8% smoking cessation comparison, the depression odds ratios, and the Truth Initiative mental health cessation data all checked out against the original sources.
-
-3. **Source quality**: All named sources are Tier 1 (peer-reviewed journals, government databases, major academic centers) or Tier 2 (reputable health organizations). No Tier 3 (competitors/retailers) or unknown sources detected.
-
-4. **Language and context**: This is a German-language article, but all cited sources are peer-reviewed and authoritative.
+**Key Issues:**
+- The "PMC und NIH 2020" citation cannot be pinned to a specific identifiable study
+- The Truth Initiative 2024 statistics (90% and 47%) are not verified in available sources; the organization exists (Tier 2) but the specific claim is unsupported

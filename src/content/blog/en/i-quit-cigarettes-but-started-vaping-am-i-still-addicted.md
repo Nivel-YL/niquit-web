@@ -41,9 +41,9 @@ So the "vaping is the lesser evil" argument mostly applied to older, weaker devi
 
 ## What happens to your mental health if you keep vaping?
 
-There's a mental health cost that rarely gets mentioned. A 2019 JAMA study of nearly 30,000 current e-cigarette users found that vapers had double the odds of a depression diagnosis compared to people who never vaped, and frequent vapers had 2.4 times the odds. Nicotine dependence and mood problems tend to travel together, each one making the other harder to shake.
+There's a mental health cost that rarely gets mentioned. A 2019 study published in JAMA Network Open of nearly 30,000 current e-cigarette users found that vapers had double the odds of a depression diagnosis compared to those who had never vaped, according to Truth Initiative.4 times the odds. Nicotine dependence and mood problems tend to travel together, each one making the other harder to shake.
 
-The flip side is encouraging. Among people who managed to quit vaping, Truth Initiative found in 2024 that 90% reported feeling less stressed, anxious, or depressed afterward, and 47% said they felt more in control of their lives. That's not a small effect. It suggests a lot of the anxiety people attribute to "needing a hit" is actually anxiety the nicotine itself is causing in the first place.
+The flip side is encouraging. Among people who managed to quit vaping, Truth Initiative found that 90% reported feeling less stressed, anxious, or depressed. That's not a small effect. It suggests a lot of the anxiety people attribute to "needing a hit" is actually anxiety the nicotine itself is causing in the first place.
 
 ## So what actually works?
 

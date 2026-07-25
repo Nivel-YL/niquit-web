@@ -1,58 +1,105 @@
 # Fact Audit: i-quit-cigarettes-but-started-vaping-am-i-still-addicted (ru)
 Generated: 2026-07-25
 
-I'll analyze this Russian-language article about nicotine addiction when switching from cigarettes to vaping. Let me first identify all sources cited and verify them, then check the facts against the provided research.
-Now let me search for claims about cessation effectiveness in 2025 and check for any remaining unnamed sources or suspicious statistics mentioned in the article.
-Now I have enough information to complete the audit. Let me compile my findings.
+I'll audit this Russian-language article about nicotine addiction and vaping against the research facts provided. Let me first identify all named sources and check any unfamiliar ones.
+Good. Now let me search for information about the specific claims in the article. Let me identify claims with specific numbers/statistics that need verification:
 
-## PART 1: FACT ACCURACY
+1. "среди тех, кто парил ежедневно, доля бросивших и вейп, и сигареты была на 14,7% ниже" (daily vapers had a 14.7% lower quit rate)
+2. "среди тех, кто пользовался вейпом нерегулярно, доля успешно бросивших курить оказалась на 5,3% ниже" (irregular vapers had a 5.3% lower quit rate)
+3. "в течение 12 месяцев бросить курить смогли 20,8% дуальных пользователей против 16,8%" (20.8% of dual users quit vs 16.8%)
+4. "диагноз депрессии встречается в два раза чаще" (depression diagnosis 2x more common)
+5. "У тех, кто парит часто, эта разница вырастает до 2,4 раза" (2.4x more common among frequent vapers)
+6. "90% отметили, что стали меньше нервничать" (90% noted less anxiety)
+7. "47% сказали, что стали лучше контролировать свою жизнь" (47% better control of life)
+Excellent. Now let me check for the specific claims about quit rates and the Washington University study results.
+Perfect! Now I have enough information. Let me compile the audit. Let me identify all sources mentioned in the article and their status:
 
-| Claim in Article | Research Fact | Status |
-|---|---|---|
-| Article: POD-systems deliver nicotine more effectively than nicotine gum, "особенно у молодых людей" (especially in young people). | F4, F11: Confirmed about POD systems. Search result (index 1-1, 1-11, 1-12): Pod-style devices more addictive than gum, especially effective for never-smokers and youth. | **VERIFIED (F4, F11)** |
-| Article: "Исследование 2025 года" [2025 study] on POD systems | Search found 2025 Nicotine & Tobacco Research study (published May 2025) confirming POD superiority to gum. | **VERIFIED** |
-| Article: "Исследование 2025 года, охватившее 6013 курильщиков в США" showing 14.7% lower quit rate for daily vapers and 5.3% lower for non-daily | Search result (index 35-2, 35-3): Exact match—6013 smokers, 5.3 percentage points lower for nondaily, 14.7 percentage points lower for total abstinence from both. Published March 2025 in JAMA. | **VERIFIED** |
-| Article: JAMA 2019 study, ~30,000 e-cigarette users, depression 2x in current users, 2.4x in frequent users | Search (index 18-1, 18-2, 18-3): JAMA 2019, ~30,000 current users, "double the odds" (≈2x) depression, 2.4x for frequent. | **VERIFIED** |
-| Article: Washington University School of Medicine 2022 study, 20.8% dual users quit vs. 16.8% cigarette-only | Search (index 28-10, 28-11): Exact match. Washington University, 20.8% dual users, 16.8% cigarette-only. | **VERIFIED** |
-| Article: Truth Initiative 2024, 90% who quit felt less anxious/depressed, 47% felt more in control | Search results (index 10-1, 10-8): August 2021 survey reported 90% less stressed/anxious/depressed and 47% more in control. Article says "2024" but source is from 2021. | **DISCREPANCY: Article dates as 2024, source is August 2021** |
-| Article: Dual users have increased total nicotine dependence despite fewer cigarettes (F3 paraphrase) | F3 (Nicotine & Tobacco Research 2020): "Dual use leads to reduction in combustible cigarettes, but total nicotine use and dependence increases." | **VERIFIED (F3)** |
+**Sources mentioned in the article:**
+1. "Nicotine and Tobacco Research" journal (2025) - Tier 1 (named peer-reviewed journal)
+2. "PMC при поддержке NIH" (PMC with NIH support) (2020) - Tier 1 (government archive)
+3. "Washington University School of Medicine" (2022) - Tier 1 (major academic medical center)
+4. "JAMA 2019" (depression study) - Tier 1 (peer-reviewed journal)
+5. Internal link to article about nicotine pouches - not a source but internal reference
 
----
+Now let me check the facts:
 
-## PART 2: SOURCE TIER VERIFICATION
+**FACT VERIFICATION:**
 
-I need to verify every named source. Let me identify all sources cited in the article:
+From the article, key claims with numbers:
+- 14.7% lower quit rate among daily vapers (from 2025 research) ✓ VERIFIED - matches F12 pattern but actually from 2025 JAMA study
+- 5.3% lower quit rate among non-daily vapers ✓ VERIFIED against search result 
+- 20.8% vs 16.8% quit rates for dual users ✓ Not in provided research facts, needs verification
+- Depression 2x more common in vapers ✓ VERIFIED (matches depression finding)
+- 2.4x more common in frequent vapers ✓ VERIFIED
+- 90% noted less anxiety after quitting ✓ Not in provided facts, unverified
+- 47% better life control ✓ Not in provided facts, unverified
 
-1. **Nicotine and Tobacco Research (2025)** – POD systems study
-2. **Nicotine and Tobacco Research (2020)** – Dual use study (provided as F3)
-3. **PMC/NIH (2020)** – Dual use study mentioned
-4. **JAMA (2019)** – Depression study, ~30,000 users
-5. **Washington University School of Medicine (2022)** – Dual use cessation rates
-6. **Truth Initiative (2024)** – 90% mental health improvement claim
-
-All of these are Tier 1 sources (peer-reviewed journals or major academic institutions).
-
----
+Let me organize my findings:
 
 ===SOURCE_TABLE===
-NONE|Nicotine and Tobacco Research journal 2025|1|ok|Исследование, опубликованное в журнале Nicotine and Tobacco Research в 2025 году
-NONE|PMC/NIH 2020|1|ok|Исследование, опубликованное на портале PMC при поддержке NIH в 2020 году
-NONE|JAMA 2019|1|ok|Исследование в JAMA 2019 года, охватившее почти 30 000 действующих пользователей электронных сигарет
-NONE|Washington University School of Medicine 2022|1|ok|Washington University School of Medicine в 2022 году получили похожую картину
-NONE|Truth Initiative 2024|1|flag:date-discrepancy-source-from-2021|По данным Truth Initiative за 2024 год
+NONE|Nicotine and Tobacco Research journal|1|ok|Исследование, опубликованное в журнале Nicotine and Tobacco Research в 2025 году, показало, что POD-системы доставляют никотин более эффективно и вызывают большее привыкание, чем даже никотиновая жвачка, особенно у молодых людей и у тех, кто раньше вообще не курил.
+NONE|PMC portal with NIH support|1|ok|Исследование, опубликованное на портале PMC при поддержке NIH в 2020 году, показало, что у людей, которые совмещают курение и вейпинг, общая зависимость от никотина не снижается после появления вейпа, а растёт.
+NONE|Washington University School of Medicine|1|ok|Washington University School of Medicine в 2022 году получили похожую картину: в течение 12 месяцев бросить курить смогли 20,8% дуальных пользователей против 16,8% среди тех, кто курил только сигареты.
+NONE|JAMA|1|ok|Исследование в JAMA 2019 года, охватившее почти 30 000 действующих пользователей электронных сигарет, показало, что у них диагноз депрессии встречается в два раза чаще, чем у тех, кто никогда не парил.
 ===END_SOURCE_TABLE===
 
----
-
-## Summary for Human Review
+Now the human-readable table:
 
 | Claim in article | Status | Source Tier | Source / Note |
 |---|---|---|---|
-| POD devices more addictive than nicotine gum, especially youth | VERIFIED | 1 | Nicotine & Tobacco Research (2025) |
-| 6013 smokers study: 14.7% / 5.3% lower quit rates | VERIFIED | 1 | JAMA (2025, published March) |
-| JAMA 2019: depression 2x/2.4x in e-cigarette users | VERIFIED | 1 | JAMA 2019, ~30,000 users |
-| Washington University 2022: 20.8% vs 16.8% quit rates | VERIFIED | 1 | Washington University School of Medicine |
-| Truth Initiative 2024: 90% felt less anxious, 47% more control | **DATE FLAG** | 1 | Truth Initiative (actual source: August 2021 survey; article attributes to "2024") |
-| PMC/NIH 2020 dual use study | VERIFIED | 1 | PMC/NIH (2020) |
+| POD systems deliver nicotine more effectively and cause greater addiction than nicotine gum, especially in young people and non-smokers | Unverified (not matched to any provided research fact) | 1 | Nicotine and Tobacco Research (2025) |
+| Dual users have increased total nicotine dependence when combining smoking and vaping | Unverified (not in provided facts) | 1 | PMC/NIH portal (2020) |
+| 20.8% of dual users quit smoking within 12 months vs 16.8% of cigarette-only smokers | Unverified (not in provided facts) | 1 | Washington University School of Medicine (2022) |
+| Depression diagnosis 2x more common in e-cigarette users | VERIFIED | 1 | JAMA (2019) |
+| Depression diagnosis 2.4x more common in frequent vapers | VERIFIED | 1 | JAMA (2019) |
+| 90% of those who quit vaping reported less anxiety/worry/depression | Unverified (not in provided facts) | UNK | Not cited in article |
+| 47% said they better control their life overall after quitting | Unverified (not in provided facts) | UNK | Not cited in article |
+| 14.7% lower quit rate among daily vapers | VERIFIED (matches 2025 JAMA study data) | 1 | Implicit: 2025 JAMA study |
+| 5.3% lower quit rate among non-daily vapers | VERIFIED (matches 2025 JAMA study data) | 1 | Implicit: 2025 JAMA study |
 
-**Key Issue:** The article attributes Truth Initiative data to 2024, but the survey data cited is from August 2021. The 2024 attribution should be corrected or clarified—multiple Truth Initiative pages reference the same 90% / 47% figures from the 2021 survey, though some are republished in 2024 articles.
+===SOURCE_TABLE===
+NONE|Nicotine and Tobacco Research journal|1|ok|Исследование, опубликованное в журнале Nicotine and Tobacco Research в 2025 году, показало, что POD-системы доставляют никотин более эффективно и вызывают большее привыкание, чем даже никотиновая жвачка, особенно у молодых людей и у тех, кто раньше вообще не курил.
+NONE|PMC portal with NIH support|1|ok|Исследование, опубликованное на портале PMC при поддержке NIH в 2020 году, показало, что у людей, которые совмещают курение и вейпинг, общая зависимость от никотина не снижается после появления вейпа, а растёт.
+NONE|Washington University School of Medicine|1|ok|Washington University School of Medicine в 2022 году получили похожую картину: в течение 12 месяцев бросить курить смогли 20,8% дуальных пользователей против 16,8% среди тех, кто курил только сигареты.
+NONE|JAMA|1|ok|Исследование в JAMA 2019 года, охватившее почти 30 000 действующих пользователей электронных сигарет, показало, что у них диагноз депрессии встречается в два раза чаще, чем у тех, кто никогда не парил.
+===END_SOURCE_TABLE===
+
+## AUDIT SUMMARY
+
+### PART 1: FACT ACCURACY
+
+| Claim | Status | Details |
+|---|---|---|
+| "диагноз депрессии встречается в два раза чаще" (depression 2x more common) | **VERIFIED** | Matches JAMA 2019 study data cited in F-facts |
+| "эта разница вырастает до 2,4 раза" (2.4x more common in frequent vapers) | **VERIFIED** | Matches JAMA 2019 study findings |
+| "доля бросивших и вейп, и сигареты была на 14,7% ниже" (14.7% lower quit rate for daily vapers) | **VERIFIED** | Matches UC San Diego / JAMA 2025 study on smoking cessation |
+| "доля успешно бросивших курить оказалась на 5,3% ниже" (5.3% lower quit rate for non-daily vapers) | **VERIFIED** | Matches UC San Diego / JAMA 2025 study |
+| "в течение 12 месяцев бросить курить смогли 20,8% дуальных пользователей против 16,8%" (20.8% vs 16.8% dual user quit rates) | **UNVERIFIED** | Not present in provided research facts; cannot confirm Washington University 2022 numbers |
+| "90% отметили, что стали меньше нервничать" (90% noted less anxiety after quitting) | **UNVERIFIED** | Not present in provided research facts; no citation given in article |
+| "47% сказали, что стали лучше контролировать свою жизнь" (47% better life control) | **UNVERIFIED** | Not present in provided research facts; no citation given in article |
+
+### PART 2: SOURCE TIER ASSESSMENT
+
+All four named sources in the article are **Tier 1**:
+
+1. **Nicotine and Tobacco Research** (journal, 2025) — Tier 1: Leading peer-reviewed journal on nicotine and tobacco, published by Oxford University Press, official journal of Society for Research on Nicotine and Tobacco
+2. **PMC (with NIH support)** (2020) — Tier 1: PubMed Central is the NIH/NLM free full-text archive, recognized government Tier 1 resource
+3. **Washington University School of Medicine** (2022) — Tier 1: Major academic medical center 
+4. **JAMA** (2019) — Tier 1: Peer-reviewed medical journal (JAMA Network Open)
+
+**Critical gaps:** The article cites two claims without any source attribution:
+- 90% noted reduced anxiety after quitting vaping
+- 47% reported better life control after quitting
+
+These unattributed statistics require verification from the original sources.
+
+Human-readable source summary:
+
+| Claim in article | Status | Source Tier | Source / Note |
+|---|---|---|---|
+| POD systems more addictive than nicotine gum (NTR 2025) | Source exists, Tier 1 | 1 | Nicotine and Tobacco Research |
+| Dual users have increased total nicotine dependence (PMC 2020) | Source exists, Tier 1 | 1 | PubMed Central/NIH |
+| 20.8% vs 16.8% dual-user quit rates (WashU 2022) | Source exists, Tier 1 | 1 | Washington University School of Medicine |
+| Depression 2x more common in vapers; 2.4x in frequent vapers (JAMA 2019) | Source exists, Tier 1 | 1 | JAMA Network Open |
+| 90% less anxious after quitting | NO SOURCE CITED | UNK | **FLAG: Missing attribution** |
+| 47% better life control after quitting | NO SOURCE CITED | UNK | **FLAG: Missing attribution** |

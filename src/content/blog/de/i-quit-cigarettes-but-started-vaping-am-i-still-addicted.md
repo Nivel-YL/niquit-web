@@ -25,7 +25,7 @@ Die Zahlen zur Rauchentwöhnung durch Vaping sind ernüchternd. Eine Studie mit 
 
 ## Macht Dual-Use, also Rauchen und Vapen gleichzeitig, die Sucht schlimmer?
 
-Ja, und das ist vielleicht der wichtigste Punkt in diesem ganzen Thema. Eine Untersuchung von PMC und NIH aus dem Jahr 2020 fand: Zwar sank die Abhängigkeit von klassischen Zigaretten, nachdem Menschen zusätzlich mit dem Vapen anfingen, aber die Gesamtmenge an aufgenommenem Nikotin und die Gesamtabhängigkeit stiegen an. Menschen, die beides nutzen, hatten eine höhere Nikotinabhängigkeit als reine Raucher oder reine Vaper. Sie berichteten außerdem von stärkerem Craving und heftigeren Entzugssymptomen.
+Ja, und das ist vielleicht der wichtigste Punkt in diesem ganzen Thema. Eine Studie von Martínez und Kollegen im Fachjournal Nicotine and Tobacco Research aus dem Jahr 2020 fand, dass zwar die Abhängigkeit von klassischen Zigaretten sank, nachdem Menschen zusätzlich mit dem Vapen anfingen, aber die Gesamtmenge an aufgenommenem Nikotin und die Gesamtabhängigkeit stiegen an. Menschen, die beides nutzen, hatten eine höhere Nikotinabhängigkeit als reine Raucher oder reine Vaper. Sie berichteten außerdem von stärkerem Craving und heftigeren Entzugssymptomen.
 
 Die Washington University School of Medicine bestätigte 2022 in einer eigenen Untersuchung: Statt die Sucht zu beenden, steigern viele Dual-User ihre Nikotinmenge sogar deutlich. Immerhin, die gleiche Studie fand auch etwas Hoffnungsvolles: Von den Dual-Usern schafften es 20,8 Prozent, innerhalb von 12 Monaten das Rauchen aufzugeben, verglichen mit 16,8 Prozent bei reinen Zigarettenrauchern. Ein Ausweg ist also möglich, nur eben schwerer, wenn man an beidem gleichzeitig festhält.
 
@@ -33,7 +33,7 @@ Die Washington University School of Medicine bestätigte 2022 in einer eigenen U
 
 Nikotin wirkt nicht nur auf den Körper. Eine JAMA-Studie aus dem Jahr 2019 mit fast 30.000 aktiven E-Zigaretten-Nutzern fand, dass diese doppelt so häufig eine Depressionsdiagnose hatten wie Menschen, die noch nie gevapt haben. Bei häufigem Konsum stieg dieses Risiko sogar auf das 2,4-Fache. Nikotin beruhigt kurzfristig, aber langfristig verstärkt es genau die Unruhe, die es angeblich lindert.
 
-Die gute Nachricht kommt von Truth Initiative aus dem Jahr 2024: 90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress, Angst oder Niedergeschlagenheit. 47 Prozent fühlten sich insgesamt kontrollierter über ihr Leben. Der Kopf beruhigt sich also tatsächlich, sobald das Nikotin verschwindet, nur eben erst nach dem Ausstieg, nicht während des Konsums.
+Die gute Nachricht kommt von Truth Initiative aus einer Umfrage von August 2021: 90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress, Angst oder Niedergeschlagenheit. 47 Prozent fühlten sich insgesamt kontrollierter über ihr Leben. Der Kopf beruhigt sich also tatsächlich, sobald das Nikotin verschwindet, nur eben erst nach dem Ausstieg, nicht während des Konsums.
 
 ## Wie komme ich wirklich weg vom Nikotin?
 

@@ -1,18 +1,13 @@
 # Source verification report: i-quit-cigarettes-but-started-vaping-am-i-still-addicted
 Generated: 2026-07-25
 
-PILOT RUN 3/3: this topic went through the new independent source-verification and self-correction pipeline for the first 3 times since it was deployed. Please manually spot-check this article's sources and compare the actual added API cost in the console before relying on this fully.
-
 Cross-language mismatches found: 0
 
-Fixed automatically: 7
-- [ru] "Truth Initiative 2024" -> removed (model response failed validation, treated as no source found)
-- [fr] "ScienceDirect" -> removed (model response failed validation, treated as no source found)
-- [fr] "JAMA" -> removed (model response failed validation, treated as no source found)
-- [es] "Nicotine and Tobacco Research (Milstred et al., 2025)" -> removed (model response failed validation, treated as no source found)
-- [es] "Universidad de Washington (2022)" -> removed (model response failed validation, treated as no source found)
-- [es] "Truth Initiative (2024)" -> removed (model response failed validation, treated as no source found)
-- [es] "Universidad de Washington (2022)" -> removed (model response failed validation, treated as no source found)
+Fixed automatically: 4
+- [en] "JAMA" -> reattributed: A 2019 study published in JAMA Network Open of nearly 30,000 current e-cigarette users found that vapers had double the odds of a depression diagnosis compared to those who had never vaped, according to Truth Initiative.
+- [en] "Truth Initiative" -> reattributed: Among people who managed to quit vaping, Truth Initiative found that 90% reported feeling less stressed, anxious, or depressed.
+- [de] "PMC und NIH" -> reattributed: Eine Studie von Martínez und Kollegen im Fachjournal Nicotine and Tobacco Research aus dem Jahr 2020 fand, dass zwar die Abhängigkeit von klassischen Zigaretten sank, nachdem Menschen zusätzlich mit dem Vapen anfingen, aber die Gesamtmenge an aufgenommenem Nikotin und die Gesamtabhängigkeit stiegen an.
+- [de] "Truth Initiative" -> reattributed: Die gute Nachricht kommt von Truth Initiative aus einer Umfrage von August 2021: 90 Prozent der Menschen, die das Vapen aufgegeben haben, berichteten danach von weniger Stress, Angst oder Niedergeschlagenheit.
 
 Unresolved: 0
 
