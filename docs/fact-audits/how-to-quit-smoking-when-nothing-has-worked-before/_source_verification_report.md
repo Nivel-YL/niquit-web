@@ -1,26 +1,13 @@
 # Source verification report: how-to-quit-smoking-when-nothing-has-worked-before
 Generated: 2026-07-25
 
-PILOT RUN 2/3: this topic went through the new independent source-verification and self-correction pipeline for the first 3 times since it was deployed. Please manually spot-check this article's sources and compare the actual added API cost in the console before relying on this fully.
+Cross-language mismatches found: 0
 
-Cross-language mismatches found: 3
-- F2: {'en': 'NIH clinical trials protocol', 'es': 'NIH Clinical Trials Registry'}
-- F5: {'fr': 'registre des essais cliniques du NIH', 'es': 'NIH Clinical Trials Registry'}
-- F6: {'fr': 'PMC/NIH', 'es': 'NIH', 'ru': 'PMC/NIH'}
-
-Fixed automatically: 12
-- [en] "NIH clinical trials protocol" -> removed (model response failed validation, treated as no source found)
-- [fr] "registre des essais cliniques du NIH" -> removed (model response failed validation, treated as no source found)
-- [fr] "PMC/NIH" -> removed (model response failed validation, treated as no source found)
-- [es] "NIH" -> removed (model response failed validation, treated as no source found)
-- [es] "NIH Clinical Trials Registry" -> removed (model response failed validation, treated as no source found)
-- [es] "NIH Clinical Trials Registry" -> removed (model response failed validation, treated as no source found)
-- [ru] "Turkish clinical study 2024" -> removed (model response failed validation, treated as no source found)
-- [ru] "NHANES (US Department of Health)" -> removed (model response failed validation, treated as no source found)
-- [ru] "TUS-CPS (USA)" -> removed (model response failed validation, treated as no source found)
-- [ru] "NIH Clinical Registry" -> removed (model response failed validation, treated as no source found)
-- [ru] "PMC/NIH" -> removed (model response failed validation, treated as no source found)
-- [ru] "Turkish clinic" -> removed (model response failed validation, treated as no source found)
+Fixed automatically: 4
+- [en] "US Tobacco Use Supplement analysis" -> removed
+- [de] "NIH Clinical Trials Protocols" -> reattributed: Laut einer Studie aus dem Ontario Tobacco Survey braucht der durchschnittliche Raucher etwa 30 Anläufe, bis er dauerhaft aufhört.
+- [de] "NIH Clinical Trials Registry" -> reattributed: Laut einer auf clinicaltrials.gov dokumentierten klinischen Studie liegen die Rückfallraten im ersten Jahr zwischen 50 und 80 Prozent, wobei die meisten Rückfälle in den ersten drei Monaten stattfinden.
+- [de] "Shanghai 2023 study" -> reattributed: Laut einer 2023 in Tobacco Induced Diseases publizierten Untersuchung von Wang et al. aus Shanghai waren soziale Bedürfnisse und klassische Entzugssymptome die Hauptauslöser für Rückfälle.
 
 Unresolved: 0
 

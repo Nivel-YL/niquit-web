@@ -9,11 +9,11 @@ heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
 
 > Schon dreimal versucht aufzuhören und jedes Mal zurück zur Zigarette? Das ist normal. Hier erfährst du, warum, und was diesmal wirklich helfen kann.
 
-Du hast es schon probiert. Vielleicht mit Kaugummi, vielleicht kalt entzogen, vielleicht mit einer App. Nach ein paar Wochen war die Zigarette wieder da. Wenn du glaubst, du hättest einfach nicht genug Willenskraft, liegst du falsch. Laut den NIH Clinical Trials Protocols braucht der durchschnittliche Raucher fünf Anläufe, bis er dauerhaft aufhört. Eine türkische Studie aus dem Jahr 2024 kommt sogar auf über 30 Versuche im Schnitt, bis es klappt. Rauchen aufhören, wenn nichts geholfen hat, ist also kein Ausnahmefall. Es ist der Normalfall.
+Du hast es schon probiert. Vielleicht mit Kaugummi, vielleicht kalt entzogen, vielleicht mit einer App. Nach ein paar Wochen war die Zigarette wieder da. Wenn du glaubst, du hättest einfach nicht genug Willenskraft, liegst du falsch. Laut einer Studie aus dem Ontario Tobacco Survey braucht der durchschnittliche Raucher etwa 30 Anläufe, bis er dauerhaft aufhört. Eine türkische Studie aus dem Jahr 2024 kommt sogar auf über 30 Versuche im Schnitt, bis es klappt. Rauchen aufhören, wenn nichts geholfen hat, ist also kein Ausnahmefall. Es ist der Normalfall.
 
 ## Warum scheitern die meisten Versuche aufzuhören?
 
-Die Zahlen sind ernüchternd, aber sie erklären viel. Laut dem NIH Clinical Trials Registry liegen die Rückfallraten im ersten Jahr zwischen 50 und 80 Prozent, die meisten Rückfälle passieren in den ersten drei Monaten. Selbst nach professioneller Entwöhnungsbehandlung sinkt die Erfolgsquote von anfänglich 80 Prozent nach drei Monaten auf etwa 50 Prozent nach einem Jahr, so eine Auswertung auf PMC/NIH.
+Die Zahlen sind ernüchternd, aber sie erklären viel. Laut einer auf clinicaltrials.gov dokumentierten klinischen Studie liegen die Rückfallraten im ersten Jahr zwischen 50 und 80 Prozent, wobei die meisten Rückfälle in den ersten drei Monaten stattfinden. Selbst nach professioneller Entwöhnungsbehandlung sinkt die Erfolgsquote von anfänglich 80 Prozent nach drei Monaten auf etwa 50 Prozent nach einem Jahr, so eine Auswertung auf PMC/NIH.
 
 Besonders gefährdet sind junge Erwachsene: In der US-amerikanischen TUS-CPS-Erhebung lag die Rückfallquote bei 18- bis 24-Jährigen bei 34,4 Prozent, bei Menschen, die weniger als sechs Monate rauchfrei waren, sogar bei 40,8 Prozent. Zwischen 40 und 50 Prozent aller Raucher schaffen es jedes Jahr, für mindestens 24 Stunden aufzuhören, aber nur wenige bleiben sechs Monate durch. Selbst mit Hilfsmitteln liegt die Erfolgsquote laut derselben Literaturübersicht selten über 35 Prozent.
 
@@ -23,7 +23,7 @@ Das sind keine Zahlen, die dich entmutigen sollen. Sie zeigen, dass das System g
 
 Nach Auswertungen auf PMC/NIH sind die drei häufigsten Rückfallgründe Gewichtszunahme, Stress und Entzugssymptome. Eine polnische Studie von 2021 nennt zusätzlich fehlende Unterstützung durch die Familie, Kontakt mit anderen Rauchern und das Gefühl, sich körperlich und mental nicht besser zu fühlen als vorher.
 
-In einer türkischen Untersuchung an einer Raucherentwöhnungsklinik berichteten Betroffene vor allem von stressigen Situationen im Job und gesundheitlichen Problemen bei Angehörigen als Auslöser. Wer Raucher im engeren Umfeld hat, trägt laut derselben Studie ein deutlich höheres Rückfallrisiko. In Shanghai zeigte eine Untersuchung aus 2023, dass soziale Bedürfnisse, also das Rauchen als Teil des Zusammenseins mit anderen, und klassische Entzugssymptome die Hauptrollen spielen.
+In einer türkischen Untersuchung an einer Raucherentwöhnungsklinik berichteten Betroffene vor allem von stressigen Situationen im Job und gesundheitlichen Problemen bei Angehörigen als Auslöser. Wer Raucher im engeren Umfeld hat, trägt laut derselben Studie ein deutlich höheres Rückfallrisiko. Laut einer 2023 in Tobacco Induced Diseases publizierten Untersuchung von Wang et al. aus Shanghai waren soziale Bedürfnisse und klassische Entzugssymptome die Hauptauslöser für Rückfälle.
 
 Das Muster wiederholt sich weltweit: Es ist selten reine Sucht nach Nikotin. Es ist eine Kombination aus Gewohnheit, sozialem Druck und einem Gehirn, das gelernt hat, Zigaretten als Belohnung zu erwarten. Wenn du wissen willst, wie dieses Verlangen im Detail entsteht, haben wir das in [Warum will ich immer eine Zigarette: die Wissenschaft hinter dem Verlangen](/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings) genauer erklärt.
 

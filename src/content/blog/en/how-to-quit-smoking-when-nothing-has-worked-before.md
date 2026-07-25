@@ -19,7 +19,7 @@ Between 40% and 50% of smokers try to quit for at least 24 hours every year, but
 
 The most common reasons attempts collapse, according to research reviewed by NIH, are weight gain, stress, and withdrawal symptoms. A Polish qualitative study from 2021 adds more texture: insufficient willpower, contact with other smokers, stressful situations, lack of support at home, and the sense that quitting didn't actually make you feel better yet. A study out of Qatar's primary care cessation services found something similar, relationships with people who still smoke and unresolved emotional stress were the biggest triggers for relapse.
 
-Age matters too. A US Tobacco Use Supplement analysis found relapse rates stayed under 20% across most groups, but jumped to 34.4% among people aged 18 to 24. Younger smokers relapse more, likely because nicotine dependence is still forming and social smoking environments are harder to escape.
+Age matters too.  Younger smokers relapse more, likely because nicotine dependence is still forming and social smoking environments are harder to escape.
 
 None of this means you lack discipline. It means the specific conditions around your last attempt (who you were around, how you handled stress, whether withdrawal caught you off guard) probably worked against you.
 
