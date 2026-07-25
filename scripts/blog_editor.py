@@ -649,7 +649,12 @@ def _looks_like_clean_sentence(text: str) -> bool:
     complete sentence, only the tail of one (e.g. starting with ", followed by
     ..."), which passes the first two checks but would still splice into
     broken, duplicated prose. Anything that doesn't clearly qualify as a
-    complete sentence gets discarded, never salvaged.
+    complete sentence gets discarded, never salvaged. Also requires a capitalized
+    start and terminal punctuation at the end: a lowercase, unpunctuated fragment
+    like "according to Frontiers in Neuroscience 2025" passed every check above but
+    is not actually a sentence, splicing it in merged two sentences into a
+    run-on with no period between them (why-do-i-always-want-a-cigarette's RU
+    file, 2026-07-25).
     """
     stripped = text.strip()
     if not stripped:
@@ -659,6 +664,10 @@ def _looks_like_clean_sentence(text: str) -> bool:
     if len(stripped) > FIX_RESPONSE_MAX_CHARS:
         return False
     if stripped[0] in FIX_CONTINUATION_PUNCTUATION:
+        return False
+    if not (stripped[0].isupper() or stripped[0].isdigit()):
+        return False
+    if stripped[-1] not in '.!?”"\'»':
         return False
     return True
 
@@ -737,17 +746,34 @@ def _looks_like_full_sentence(quote: str) -> bool:
     return q[0].isupper() and q[-1] in '.!?”"\'»'
 
 
+def _is_sentence_boundary(text: str, idx: int) -> bool:
+    """Is text[idx] a real sentence-ending character, as opposed to a decimal point
+    inside a number like "2.4"? A naive '.' check treats the dot in "2.4 times the
+    odds" as a sentence end, which spliced a replacement mid-number ("2.4 times the
+    odds" -> ".4 times the odds") in i-quit-cigarettes-but-started-vaping's EN file
+    on 2026-07-25.
+    """
+    ch = text[idx]
+    if ch in '!?\n':
+        return True
+    if ch == '.':
+        before = text[idx - 1] if idx > 0 else ''
+        after = text[idx + 1] if idx + 1 < len(text) else ''
+        return not (before.isdigit() and after.isdigit())
+    return False
+
+
 def _expand_to_sentence(body: str, start: int, end: int) -> tuple[int, int]:
     """Widen a matched span to the boundaries of the sentence containing it."""
     left = start
-    while left > 0 and body[left - 1] not in '.!?\n':
+    while left > 0 and not _is_sentence_boundary(body, left - 1):
         left -= 1
     while left < start and body[left] in ' \t':
         left += 1
 
     right = end
     n = len(body)
-    while right < n and body[right] not in '.!?\n':
+    while right < n and not _is_sentence_boundary(body, right):
         right += 1
     if right < n and body[right] in '.!?':
         right += 1
