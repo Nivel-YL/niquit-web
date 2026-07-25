@@ -15,9 +15,9 @@ Acabas de discutir con tu pareja, o el jefe te mandó un correo de esos que te s
 
 La respuesta está en la química del propio hábito, no en ningún efecto relajante real de la nicotina. Cuando inhalas humo, la nicotina llega al cerebro en apenas diez segundos y estimula dopamina, acetilcolina y noradrenalina, lo que genera placer inmediato y mejora la concentración (EBSCO Research Starters). El problema es lo que pasa después.
 
-Alrededor de una hora tras el cigarro, los niveles de nicotina caen lo suficiente como para provocar un síndrome de abstinencia leve: irritabilidad, inquietud, dificultad para concentrarse, una tensión de fondo que se parece muchísimo al estrés cotidiano. Cuando enciendes el siguiente cigarro, la nicotina vuelve a subir, esa abstinencia desaparece, y el alivio se interpreta como relajación (Quitsure, 2026). No estás calmando el estrés de la vida. Estás apagando un fuego que tú mismo encendiste dos horas antes.
+Alrededor de una hora tras el cigarro, los niveles de nicotina caen lo suficiente como para provocar un síndrome de abstinencia leve: irritabilidad, inquietud, dificultad para concentrarse, una tensión de fondo que se parece muchísimo al estrés cotidiano.  No estás calmando el estrés de la vida. Estás apagando un fuego que tú mismo encendiste dos horas antes.
 
-Por eso los fumadores crónicos muestran niveles de ansiedad en reposo, neuroticismo y estrés percibido consistentemente más altos que los no fumadores. Cuando un fumador dice sentirse más tranquilo tras un cigarro, su ansiedad no ha bajado por debajo de la de alguien que nunca fumó: simplemente ha vuelto a su propia línea base, la que tenía antes de empezar a sufrir el mono (Neurolaunch, 2026).
+
 
 ## ¿Fumar aumenta o disminuye la ansiedad a largo plazo?
 
@@ -29,7 +29,7 @@ Un estudio del University College London junto al British Heart Foundation, cita
 
 ## ¿Mejora la salud mental cuando dejas de fumar?
 
-Esta es la pregunta que de verdad importa, y la evidencia es contundente. Un estudio de la Universidad de Oxford (Nuffield Department, 2023), basado en un ensayo clínico aleatorizado con 4.260 participantes en dieciséis países entre 2011 y 2015, concluyó que dejar de fumar no empeora la salud mental y, de hecho, tiende a mejorarla. Lo que muchos fumadores interpretan como "beneficios" del cigarro son en realidad síntomas de abstinencia que desaparecen al dejarlo del todo, no al seguir alimentándolos con más nicotina.
+Esta es la pregunta que de verdad importa, y la evidencia es contundente.  Lo que muchos fumadores interpretan como "beneficios" del cigarro son en realidad síntomas de abstinencia que desaparecen al dejarlo del todo, no al seguir alimentándolos con más nicotina.
 
 El propio CDC confirma que dejar de fumar se asocia con una disminución de la depresión, la ansiedad y el estrés, además de una mejora en la calidad de vida. Y según datos citados en educación sanitaria (CDC, 2026), una vez que llevas unos meses sin fumar, tus niveles de ansiedad y depresión suelen ser más bajos que cuando fumabas. El sistema nacional de salud del Reino Unido (NHS, vía APC Birmingham, 2022) llega incluso más lejos: afirma que dejar de fumar puede mejorar los síntomas depresivos, reducir la sensación de tristeza y aislamiento, y para algunas personas ser tan eficaz como un antidepresivo.
 
