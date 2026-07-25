@@ -1,9 +1,9 @@
 ---
 title: "Warum will ich immer eine Zigarette? Die Wissenschaft hinter dem Verlangen"
 description: "Warum das Verlangen nach einer Zigarette so plötzlich und so stark kommt: die Wissenschaft hinter dem Craving, verständlich erklärt."
-publishDate: 2026-07-13
+publishDate: 2026-07-25
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
 ---
 

@@ -103,8 +103,13 @@ topics:
 - id: C-03
   title_en: Why do I always want a cigarette the science of cravings
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-25'
+    ru: '2026-07-25'
+    de: '2026-07-25'
+    es: '2026-07-25'
+    fr: '2026-07-25'
 - id: C-04
   title_en: How to quit smoking when nothing has worked before
   cluster: C

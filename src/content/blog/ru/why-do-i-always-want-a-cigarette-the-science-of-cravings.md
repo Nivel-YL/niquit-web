@@ -1,9 +1,9 @@
 ---
 title: "Почему постоянно хочется курить: наука о тяге к никотину"
 description: "Разбираем, почему тяга к сигарете возникает снова и снова: как никотин перестраивает мозг и сколько на самом деле длится один приступ."
-publishDate: 2026-07-13
+publishDate: 2026-07-25
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
 ---
 

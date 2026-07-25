@@ -1,9 +1,9 @@
 ---
 title: "Why Do I Always Want a Cigarette? The Science of Cravings"
 description: "Cravings aren't a willpower failure. They're your brain's wiring, hijacked by nicotine. Here's what's actually happening, and how long it lasts."
-publishDate: 2026-07-13
+publishDate: 2026-07-25
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
 ---
 
