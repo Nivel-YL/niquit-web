@@ -724,24 +724,70 @@ def split_frontmatter(article_text: str) -> tuple[str, str]:
     return m.group(1), m.group(2)
 
 
+def _looks_like_full_sentence(quote: str) -> bool:
+    """Heuristic: does this quote already span a whole sentence (starts capitalized,
+    ends with terminal punctuation), or is it a bare fragment like an attribution
+    phrase ("according to X (2026)")? Used by apply_quote_fix to decide whether a
+    full-sentence replacement can safely overwrite it in place, or the matched span
+    needs widening to the whole enclosing sentence first.
+    """
+    q = quote.strip()
+    if not q:
+        return False
+    return q[0].isupper() and q[-1] in '.!?”"\'»'
+
+
+def _expand_to_sentence(body: str, start: int, end: int) -> tuple[int, int]:
+    """Widen a matched span to the boundaries of the sentence containing it."""
+    left = start
+    while left > 0 and body[left - 1] not in '.!?\n':
+        left -= 1
+    while left < start and body[left] in ' \t':
+        left += 1
+
+    right = end
+    n = len(body)
+    while right < n and body[right] not in '.!?\n':
+        right += 1
+    if right < n and body[right] in '.!?':
+        right += 1
+    return left, right
+
+
 def apply_quote_fix(body: str, old_quote: str, new_text: str) -> tuple[str, bool]:
     """Replace old_quote with new_text inside body (or delete it if new_text is REMOVE).
     Tries an exact match first, falls back to a whitespace/non-breaking-space-tolerant
     match, since quotes copied by a model can differ from the source file only in
-    whitespace. Returns (new_body, applied).
+    whitespace.
+
+    If new_text is a real replacement (not REMOVE) and old_quote is only a fragment
+    of a sentence (e.g. a bare "according to X (2026)" attribution) rather than a
+    full sentence, the matched span is widened to the whole enclosing sentence
+    first: find_replacement_source always returns a complete, self-contained
+    sentence, and splicing that into a fragment-sized gap corrupts the surrounding
+    prose (this happened for real in why-nicotine-cravings-feel-so-urgent's EN
+    audit on 2026-07-25, duplicating a sentence). REMOVE is left untouched, deleting
+    just the fragment is already safe.
+
+    Returns (new_body, applied).
     """
     replacement = '' if new_text.strip().upper() == 'REMOVE' else new_text
 
-    if old_quote in body:
-        return body.replace(old_quote, replacement, 1), True
+    idx = body.find(old_quote)
+    if idx != -1:
+        start, end = idx, idx + len(old_quote)
+    else:
+        pattern = re.escape(old_quote)
+        pattern = re.sub(r'(?:\\ )+', r'[\\s\\u00a0]+', pattern)
+        m = re.search(pattern, body)
+        if not m:
+            return body, False
+        start, end = m.start(), m.end()
 
-    pattern = re.escape(old_quote)
-    pattern = re.sub(r'(?:\\ )+', r'[\\s\\u00a0]+', pattern)
-    m = re.search(pattern, body)
-    if m:
-        return body[:m.start()] + replacement + body[m.end():], True
+    if replacement and not _looks_like_full_sentence(old_quote):
+        start, end = _expand_to_sentence(body, start, end)
 
-    return body, False
+    return body[:start] + replacement + body[end:], True
 
 
 def _reload_and_fix(out_path: Path, old_quote: str, new_text: str) -> bool:
