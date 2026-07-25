@@ -23,11 +23,11 @@ Hier widersprechen sich Quellen leicht. Manche, wie WebMD (2024), sprechen von 1
 
 Der gesamte Entzug folgt einem klaren Muster. Laut Cleveland Clinic (2021) beginnen Entzugssymptome vier bis 24 Stunden nach der letzten Nikotinaufnahme, erreichen ihren Höhepunkt am zweiten oder dritten rauchfreien Tag und lassen über die folgenden drei bis vier Wochen nach. Die Consensus Academic Search Engine ergänzt, dass sich die Cravings innerhalb der ersten sieben bis zehn Wochen deutlich abschwächen.
 
-Auch dein Körper räumt in dieser Zeit auf. Nikotin selbst ist laut ScienceInsights (2026) nach ein bis drei Tagen fast komplett abgebaut, sein Abbauprodukt Cotinin braucht etwa zehn Tage, bis es verschwunden ist. Wenn du also am vierten Tag noch ein Craving spürst, ist das kein körperlicher Nikotinmangel mehr, sondern etwas anderes.
+Auch dein Körper räumt in dieser Zeit auf. Nikotin selbst ist laut Medical News Today (2024) nach ein bis drei Tagen fast komplett abgebaut, sein Abbauprodukt Cotinin braucht etwa zehn Tage, bis es verschwunden ist. Wenn du also am vierten Tag noch ein Craving spürst, ist das kein körperlicher Nikotinmangel mehr, sondern etwas anderes.
 
 ## Warum fühlt sich der Drang so unerträglich an, obwohl er kurz ist?
 
-Weil dein Kopf ein zweites Craving obendrauf packt: das gedankliche. Laut dem EX Program (2025) verknüpft wiederholter Nikotinkonsum bestimmte Situationen, Orte und Gefühle fest mit dem Verlangen. Der Kaffee am Morgen, die Pause nach dem Essen, der Stress vor einem Meeting: All das wird zum Auslöser, selbst Monate oder Jahre nach dem Aufhören.
+Weil dein Kopf ein zweites Craving obendrauf packt: das gedankliche. Laut der Klassischen Konditionierung verknüpft wiederholter Nikotinkonsum bestimmte Situationen, Orte und Gefühle fest mit dem Verlangen. Der Kaffee am Morgen, die Pause nach dem Essen, der Stress vor einem Meeting: All das wird zum Auslöser, selbst Monate oder Jahre nach dem Aufhören.
 
 Das eigentliche Verlangen dauert wenige Minuten. Was es künstlich verlängert, ist das Verhandeln mit dir selbst: "Nur eine, dann höre ich wirklich auf." Diese Gedankenschleife, das Abwägen, das Warten auf Erleichterung, macht drei Minuten zu einer gefühlten Ewigkeit.
 

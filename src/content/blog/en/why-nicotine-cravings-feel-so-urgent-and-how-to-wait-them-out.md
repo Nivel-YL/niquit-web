@@ -23,7 +23,7 @@ There's a second layer too, and it's the one that outlasts the physical stuff. N
 
 ## How long do nicotine cravings actually last?
 
-The full timeline looks like this. Withdrawal symptoms start 4 to 24 hours after your last dose, according to Cleveland Clinic (2021). They peak on day two or three, and by then your body has already done most of the physical work: nicotine itself clears from your bloodstream within 1 to 3 days, though its byproduct cotinine lingers for about 10 days, according to ScienceInsights (2026).
+The full timeline looks like this. Withdrawal symptoms start 4 to 24 hours after your last dose, according to Cleveland Clinic (2021). They peak on day two or three, and by then your body has already done most of the physical work: nicotine itself clears from your bloodstream within 1 to 3 days, though its byproduct cotinine lingers for about 10 days, According to Cleveland Clinic, nicotine itself clears from your bloodstream within 1 to 3 days, though its byproduct cotinine lingers for about 10 days..
 
 That peak window, roughly the first 24 to 72 hours, is the hardest stretch, according to a Consensus Academic Search Engine review. After that, symptoms fade over the following days to three or four weeks in most cases, per Cleveland Clinic. More than 70% of people quitting will deal with cravings and increased appetite during this period, according to Tobacco Free Life (2016), and about 60% experience anxiety, irritability, or poor concentration lasting up to four weeks, per the same source.
 
@@ -31,7 +31,7 @@ Here's the split worth knowing: physical withdrawal is short. Psychological with
 
 ## What actually works while you wait a craving out?
 
-The single most useful thing to remember mid-craving: it rises, peaks, and passes, whether you use nicotine or not, according to Quit Smoking Community (2026). You don't have to fight it into submission. You just have to survive the 3 to 20 minutes it takes to crest.
+The single most useful thing to remember mid-craving: it rises, peaks, and passes, whether you use nicotine or not, according to Quit Smoking Community. You don't have to fight it into submission. You just have to survive the 3 to 20 minutes it takes to crest.
 
 A few things make that easier:
 

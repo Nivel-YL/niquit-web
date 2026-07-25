@@ -13,9 +13,9 @@ Son las tres de la tarde, estás en una reunión aburrida y de repente sientes q
 
 ## ¿Qué pasa en el cerebro cuando aparece un antojo?
 
-La nicotina se engancha a unos receptores llamados α4β2, y cuando lo hace, dispara ráfagas rápidas de dopamina en el sistema mesolímbico del cerebro, la red encargada de las recompensas [Frontiers in Neuroscience, 2025]. No es solo que suba un poco el nivel de dopamina de fondo: son descargas breves y potentes, del tipo que el cerebro asocia inmediatamente con "esto se siente bien, repítelo" [ScienceInsights, 2025].
+La nicotina se engancha a unos receptores llamados α4β2, y cuando lo hace, dispara ráfagas rápidas de dopamina en el sistema mesolímbico del cerebro, la red encargada de las recompensas [Frontiers in Neuroscience, 2025]. 
 
-Con el uso repetido, tu cerebro se adapta. Aumenta el número de receptores y cambia la forma en que procesa las recompensas, así que cada vez necesitas más nicotina para sentir lo mismo. Cuando el nivel baja, aparece el vacío que llamamos antojo [Medindia, 2026]. Esto ocurre en neuronas del área tegmental ventral que se conectan con el núcleo accumbens y la corteza prefrontal, la parte del cerebro que también gestiona el impulso y la toma de decisiones [Frontiers in Neuroscience, 2025]. Por eso cuesta tanto pensar con claridad en medio de un antojo fuerte: literalmente estás usando la misma zona del cerebro que quiere convencerte de que fumes.
+Con el uso repetido, tu cerebro se adapta. Aumenta el número de receptores y cambia la forma en que procesa las recompensas, así que cada vez necesitas más nicotina para sentir lo mismo. Cuando el nivel baja, aparece el vacío que llamamos antojo [Medindia, 2026].  Por eso cuesta tanto pensar con claridad en medio de un antojo fuerte: literalmente estás usando la misma zona del cerebro que quiere convencerte de que fumes.
 
 ## ¿Cuánto dura realmente un antojo de nicotina?
 
@@ -27,17 +27,17 @@ También influye la memoria. Con el tiempo, tu cerebro asoció ciertos lugares, 
 
 ## ¿Cuándo empiezan de verdad a bajar los antojos?
 
-Los síntomas de abstinencia suelen aparecer entre 4 y 24 horas después de la última dosis, si llevabas tiempo consumiendo. El pico de intensidad llega al segundo o tercer día, y desde ahí van bajando durante tres a cuatro semanas [Cleveland Clinic, 2021]. Otros análisis sitúan ese pico entre las 24 y las 72 horas de abstinencia [Consensus Academic Search Engine].
+Los síntomas de abstinencia suelen aparecer entre 4 y 24 horas después de la última dosis, si llevabas tiempo consumiendo. El pico de intensidad llega al segundo o tercer día, y desde ahí van bajando durante tres a cuatro semanas [Cleveland Clinic, 2021]. 
 
-Físicamente, la nicotina desaparece casi por completo de tu sangre entre el día 1 y el 3, y su producto derivado, la cotinina, tarda unos 10 días en irse del todo [ScienceInsights, 2026]. A partir de ahí, lo que queda ya no es tu cuerpo pidiendo la sustancia: es tu mente pidiendo la costumbre [Medical News Today, 2024].
+ A partir de ahí, lo que queda ya no es tu cuerpo pidiendo la sustancia: es tu mente pidiendo la costumbre [Medical News Today, 2024].
 
-Más del 70% de las personas que deciden dejarlo experimentan antojos y más apetito, y estos suelen ser los síntomas más persistentes, capaces de durar más de cuatro semanas [Tobacco Free Life, 2016]. Un 60% adicional sufre ansiedad, irritabilidad o falta de concentración, aunque estos también se van diluyendo poco a poco durante ese mismo mes [Tobacco Free Life, 2016]. En algunos casos, antojos ocasionales pueden reaparecer durante meses o incluso un par de años, dentro de lo que se conoce como abstinencia postaguda, aunque con una intensidad muchísimo menor que al principio [ScienceInsights, 2026].
+  
 
 ## ¿Cómo aguanto un antojo sin ceder?
 
 La idea central que hay que grabarse es simple: un antojo es intenso, no permanente. Sube, llega a un pico y baja, fumes o no fumes [Quit Smoking Community, 2026]. Tu trabajo no es eliminar el antojo, es sobrevivir a esos 3 o 5 minutos sin actuar sobre él.
 
-Algunas cosas que sí funcionan, según la evidencia disponible: hacer ejercicio, buscar una distracción concreta, apoyarte en gente que también está en el proceso, y usar terapia de reemplazo de nicotina cuando sea necesario [Truth Initiative, 2026]. Si usas parches, los de 24 horas controlan mejor los antojos a lo largo del día que los de 16 horas, sobre todo durante las dos primeras semanas, que es cuando el pico de síntomas golpea más fuerte [Consensus Academic Search Engine].
+Algunas cosas que sí funcionan, según la evidencia disponible: hacer ejercicio, buscar una distracción concreta, apoyarte en gente que también está en el proceso, y usar terapia de reemplazo de nicotina cuando sea necesario [Truth Initiative, 2026]. 
 
 En la práctica, esto significa tener un plan antes de que llegue el antojo, no durante. Levantarte y caminar, mandar un mensaje a alguien, meter las manos en agua fría, contar hacia atrás desde cien. No importa tanto qué hagas, importa que hagas algo que ocupe esos minutos mientras la ola pasa sola.
 

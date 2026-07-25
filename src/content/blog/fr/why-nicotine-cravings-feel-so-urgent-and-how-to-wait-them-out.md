@@ -19,7 +19,7 @@ Le problème, c'est que ton cerveau s'adapte. Avec le temps, il fabrique plus de
 
 Il y a aussi une couche purement mentale, souvent plus difficile à gérer que le manque physique lui-même. Ce qui rend une envie si longue à vivre, ce n'est pas la molécule, c'est la boucle mentale qui l'accompagne : tu y penses, tu négocies avec toi-même, tu attends que ça passe en scrutant l'horloge (Quit Smoking Community, 2026). Plus tu résistes en y pensant activement, plus l'attente semble longue.
 
-Et il y a l'ancrage. Fumer dans les mêmes situations pendant des années crée des liens très forts entre certains lieux, certaines émotions, certains moments de la journée et l'envie de nicotine. Ton cerveau associe ces contextes précis aux effets de la nicotine, et ces connexions peuvent te faire craquer bien après avoir arrêté, parfois des mois ou des années plus tard (EX Program, 2025). La pause café au bureau, le trajet en voiture, le verre entre amis : ce ne sont pas de simples habitudes, ce sont des déclencheurs neuronaux.
+Et il y a l'ancrage. Fumer dans les mêmes situations pendant des années crée des liens très forts entre certains lieux, certaines émotions, certains moments de la journée et l'envie de nicotine. Ton cerveau associe ces contextes précis aux effets de la nicotine, et ces connexions peuvent te faire craquer bien après avoir arrêté, parfois des mois ou des années plus tard (Medical News Today, 2024). La pause café au bureau, le trajet en voiture, le verre entre amis : ce ne sont pas de simples habitudes, ce sont des déclencheurs neuronaux.
 
 ## Combien de temps dure vraiment le sevrage nicotinique ?
 
@@ -27,17 +27,17 @@ Il faut distinguer une envie ponctuelle du sevrage global, ce sont deux échelle
 
 Les premiers symptômes apparaissent entre 4 et 24 heures après la dernière prise, selon la Cleveland Clinic. Le pic d'intensité arrive généralement au deuxième ou troisième jour, puis les symptômes s'estompent progressivement sur trois à quatre semaines. D'autres travaux situent le pic de l'intensité des envies dans les premières 24 à 72 heures d'abstinence (Consensus Academic Search Engine).
 
-Côté chiffres, plus de 70% des personnes qui arrêtent de fumer ressentent des envies et une augmentation de l'appétit, et ces symptômes figurent parmi les plus persistants, pouvant durer plus de 4 semaines (Tobacco Free Life, 2016). Environ 60% des personnes traversent aussi une phase d'anxiété, d'irritabilité ou de difficulté à se concentrer, qui dure généralement jusqu'à 4 semaines avant de s'atténuer (Tobacco Free Life, 2016).
+ 
 
-La bonne nouvelle, c'est que le corps fait le plus gros du travail assez vite. La nicotine elle-même disparaît du sang en 1 à 3 jours, et son sous-produit, la cotinine, met environ 10 jours à s'éliminer complètement (ScienceInsights, 2026). Après ça, ce qui reste, c'est surtout psychologique : le corps a expulsé la nicotine, mais la tête, elle, continue à réclamer (Medical News Today, 2024).
+La bonne nouvelle, c'est que le corps fait le plus gros du travail assez vite.  Après ça, ce qui reste, c'est surtout psychologique : le corps a expulsé la nicotine, mais la tête, elle, continue à réclamer (Medical News Today, 2024).
 
-Pour certaines personnes, des envies isolées peuvent réapparaître bien après cette phase aiguë, dans ce qu'on appelle le sevrage post-aigu. Ces symptômes résiduels, envies ponctuelles, sautes d'humeur, sommeil perturbé, peuvent s'étaler sur plusieurs mois, voire jusqu'à deux ans, même si l'intensité maximale reste concentrée sur les premières semaines (ScienceInsights, 2026).
+Pour certaines personnes, des envies isolées peuvent réapparaître bien après cette phase aiguë, dans ce qu'on appelle le sevrage post-aigu. 
 
 ## Comment tenir 3 minutes sans craquer ?
 
-Voici le point clé à retenir : une envie est intense, mais elle n'est pas permanente. Elle monte, atteint un pic, puis redescend, que tu cèdes ou non (Quit Smoking Community, 2026). Ton seul travail, c'est de laisser ces 3 à 5 minutes s'écouler sans faire quoi que ce soit d'irréversible.
+Voici le point clé à retenir : une envie est intense, mais elle n'est pas permanente.  Ton seul travail, c'est de laisser ces 3 à 5 minutes s'écouler sans faire quoi que ce soit d'irréversible.
 
-Concrètement, plusieurs approches ont fait leurs preuves. Le sport, les distractions actives, le soutien d'une communauté et les substituts nicotiniques (patchs, gommes) aident réellement à traverser ces pics (Truth Initiative, 2026). Sur les patchs justement, une comparaison entre différents protocoles a montré que les patchs 24 heures contrôlaient mieux les envies tout au long de la journée que les patchs 16 heures, surtout pendant les deux premières semaines d'arrêt, quand les symptômes sont à leur maximum (Consensus Academic Search Engine).
+Concrètement, plusieurs approches ont fait leurs preuves.  Sur les patchs justement, une comparaison entre différents protocoles a montré que les patchs 24 heures contrôlaient mieux les envies tout au long de la journée que les patchs 16 heures, surtout pendant les deux premières semaines d'arrêt, quand les symptômes sont à leur maximum (Consensus Academic Search Engine).
 
 Dans l'instant, la stratégie la plus simple reste de changer de décor ou d'activité pendant ces minutes critiques. Va marcher, bois un verre d'eau, appelle quelqu'un, lave-toi les mains à l'eau froide, n'importe quoi qui occupe ton corps et détourne ton attention de la boucle mentale. Le but n'est pas de "vaincre" l'envie par la force de volonté, c'est juste de meubler le temps jusqu'à ce que la vague redescende naturellement.
 
