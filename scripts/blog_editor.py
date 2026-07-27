@@ -893,6 +893,31 @@ def _line_number_of(text: str, needle: str) -> int | None:
 
 # -- step 5: cross-language consistency --------------------------------------------
 
+_SOURCE_NAME_YEAR_RE = re.compile(r'[,(]\s*\d{4}\s*\)?\s*$')
+
+
+def _normalize_source_name(name: str) -> str:
+    """Strip a trailing ', 2022' / '(2022)' year suffix and collapse whitespace, so
+    the same source named with or without a year doesn't look like a different one.
+    """
+    n = _SOURCE_NAME_YEAR_RE.sub('', name.strip().lower()).strip()
+    return re.sub(r'\s+', ' ', n)
+
+
+def _names_equivalent(a: str, b: str) -> bool:
+    """Same organization named at different levels of detail (e.g. 'University of
+    Wisconsin' vs 'University of Wisconsin Center for Tobacco Research') counts as
+    equivalent, not a mismatch: one name containing the other, after year-stripping,
+    is the actual pattern behind every false-positive this project has hit so far
+    (F16, F7 in does-smoking-actually-reduce-stress's 2026-07-25 remediation), each
+    one triggering a full search-backed re-verification, and once nearly costing a
+    genuinely correct Tier 1 citation, for two names that were never in disagreement.
+    A real mismatch (e.g. "Quit Smoking Advisor" vs "Quit Smoking Community") shares
+    no such containment and is still flagged normally.
+    """
+    return a == b or a in b or b in a
+
+
 def cross_language_consistency(lang_tables: dict[str, list[dict]]) -> list[dict]:
     """Flag facts where 2+ languages each cite a NAMED source for the same fact_id, but
     the names do not all match, either in count or in the specific name at equal count.
@@ -903,6 +928,11 @@ def cross_language_consistency(lang_tables: dict[str, list[dict]]) -> list[dict]
     real pattern is one differing name per language at equal count (e.g. "Quit Smoking
     Advisor" in one language, "Quit Smoking Community" in another, for the same claim),
     not a difference in how many sources are named.
+
+    Note this is a secondary check only: a genuinely bad source (wrong tier, doesn't
+    exist) is still caught independently by that language's own per-audit flag,
+    regardless of what this function decides, so treating same-organization name
+    variants as non-mismatches here does not weaken that protection.
     """
     by_fact: dict[str, dict[str, dict]] = {}
     for lang, rows in lang_tables.items():
@@ -916,8 +946,13 @@ def cross_language_consistency(lang_tables: dict[str, list[dict]]) -> list[dict]
     for fact_id, per_lang in by_fact.items():
         if len(per_lang) < 2:
             continue
-        names = {row['source_name'].strip().lower() for row in per_lang.values()}
-        if len(names) > 1:
+        normalized = [_normalize_source_name(row['source_name']) for row in per_lang.values()]
+        mismatch = any(
+            not _names_equivalent(normalized[i], normalized[j])
+            for i in range(len(normalized))
+            for j in range(i + 1, len(normalized))
+        )
+        if mismatch:
             findings.append({
                 'fact_id': fact_id,
                 'per_lang': per_lang,  # {lang: row}
