@@ -42,9 +42,11 @@ from blog_editor import (
     BLOG_DIR,
     LANGUAGES,
     REPO_ROOT,
+    _configure_git_identity,
     _line_number_of,
     _reload_and_fix,
     audit_article,
+    commit_and_push,
     create_github_issue,
     cross_language_consistency,
     find_replacement_source_with_attempts,
@@ -54,7 +56,6 @@ from blog_editor import (
     with_retries,
     write_source_verification_report,
 )
-from retro_audit import commit_and_push, _configure_git_identity
 
 
 def _save_audit_dump(slug: str, lang: str, audit_text: str, today: datetime.date) -> None:
@@ -232,7 +233,7 @@ def main() -> None:
     today = datetime.date.today()
     topics_by_id = {t['id']: t for t in load_backlog()}
 
-    _configure_git_identity()
+    _configure_git_identity('Retro Audit Bot')
 
     # Env-controlled scope, so a single topic can be re-run in isolation (e.g. to
     # verify a pipeline fix) without redoing already-committed topics.

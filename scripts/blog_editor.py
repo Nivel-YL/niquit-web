@@ -21,6 +21,7 @@ import hashlib
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -239,6 +240,61 @@ def save_backlog(topics: list[dict]) -> None:
     new_block = f'<!--BACKLOG\n{new_yaml}BACKLOG-->'
     new_content = BACKLOG_RE.sub(new_block, content, count=1)
     BACKLOG_PATH.write_text(new_content, encoding='utf-8')
+
+
+# -- git helpers ----------------------------------------------------------------
+# Shared by blog_editor.py itself and by retro_audit.py / steps456_existing.py
+# (which import these from here). Committing and pushing after each unit of
+# work, not once at the end, matters because a later crash must not lose
+# earlier, already-finished, already-paid-for work: this is exactly what
+# happened to blog_editor.py's own regular run on 2026-07-27, where topics
+# E-03 and E-04 drafted successfully but were never pushed because the whole
+# script exited(1) when the third topic (F-01) failed, and the workflow's
+# single end-of-run commit step wasn't even `if: always()`.
+
+def _git(*args: str) -> subprocess.CompletedProcess:
+    return subprocess.run(
+        ['git', *args], cwd=REPO_ROOT, capture_output=True, text=True,
+    )
+
+
+def _configure_git_identity(bot_name: str = 'Blog Editor Bot') -> None:
+    _git('config', 'user.name', bot_name)
+    _git('config', 'user.email', 'jelissei.levin@gmail.com')
+
+
+def commit_and_push(paths: list[str], message: str) -> bool:
+    """Stage and commit exactly the given paths, then push. Returns True if a
+    commit was made and pushed (or there was nothing new to commit), False if
+    git itself failed.
+    """
+    add = _git('add', *paths)
+    if add.returncode != 0:
+        print(f'  WARNING: git add failed: {add.stderr.strip()}', file=sys.stderr)
+        return False
+
+    diff = _git('diff', '--cached', '--quiet')
+    if diff.returncode == 0:
+        print('  (nothing new to commit)', flush=True)
+        return True
+
+    commit = _git('commit', '-m', message)
+    if commit.returncode != 0:
+        print(f'  WARNING: git commit failed: {commit.stderr.strip()}', file=sys.stderr)
+        return False
+
+    pull = _git('pull', '--rebase', 'origin', 'master')
+    if pull.returncode != 0:
+        print(f'  WARNING: git pull --rebase failed: {pull.stderr.strip()}', file=sys.stderr)
+        return False
+
+    push = _git('push')
+    if push.returncode != 0:
+        print(f'  WARNING: git push failed: {push.stderr.strip()}', file=sys.stderr)
+        return False
+
+    print(f'  committed and pushed: {message}', flush=True)
+    return True
 
 
 def get_published_articles(topics: list[dict]) -> list[dict]:
@@ -1354,6 +1410,18 @@ def draft_one(
     topic.setdefault('published', {})
     save_backlog(topics)
 
+    # Commit and push this topic right now, not batched at the end of the run,
+    # so a later topic in the same batch crashing does not lose this one too.
+    paths = [f'src/content/blog/{lang}/{article_slug}.md' for lang in LANGUAGES]
+    paths += [f'docs/fact-audits/{article_slug}/{lang}.md' for lang in LANGUAGES]
+    paths += [
+        f'docs/fact-audits/{article_slug}/_source_verification_report.md',
+        f'public/images/blog/{article_slug}.svg',
+        'BLOG_TOPIC_BACKLOG.md',
+        'docs/fact-audits/_pilot_runs_log.json',
+    ]
+    commit_and_push(paths, message=f'blog: draft {topic_id}')
+
     print(f'Done   : {topic_id} drafted in {len(LANGUAGES)} languages.')
     return topic_id
 
@@ -1368,21 +1436,33 @@ def main() -> None:
     voice_guide_txt = VOICE_GUIDE.read_text(encoding='utf-8')
     today           = datetime.date.today()
 
+    _configure_git_identity()
+
     drafted_ids: list[str] = []
+    failed_ids: list[str] = []
     try:
         for i in range(BATCH_SIZE):
             print(f'\n-- Batch {i + 1}/{BATCH_SIZE} --------------------------------')
             try:
                 topic_id = draft_one(client, voice_guide_txt, today)
             except RuntimeError as exc:
+                # One topic failing (e.g. the audit never producing a parseable
+                # source table after retries) must not cost the rest of the
+                # batch: each topic already committed and pushed the moment it
+                # finished, so there is nothing to lose by moving on. Losing
+                # already-completed, already-paid-for topics to one later
+                # failure is exactly what happened on 2026-07-27 (E-03, E-04
+                # drafted fine, F-01 failed, and the old sys.exit(1) here threw
+                # away the whole run before this per-topic commit existed).
                 print(f'ERROR: {exc}', file=sys.stderr)
-                sys.exit(1)
+                failed_ids.append(str(exc))
+                continue
             if topic_id is None:
                 print('No pending topics remaining.')
                 break
             drafted_ids.append(topic_id)
 
-        if not drafted_ids:
+        if not drafted_ids and not failed_ids:
             print('Nothing drafted. Exiting.')
             sys.exit(0)
 
@@ -1392,6 +1472,13 @@ def main() -> None:
                 f.write(f'DRAFTED_IDS={",".join(drafted_ids)}\n')
 
         print(f'\nTotal drafted: {len(drafted_ids)} topic(s): {", ".join(drafted_ids)}')
+        if failed_ids:
+            print(f'Failed    : {len(failed_ids)} topic(s):', file=sys.stderr)
+            for msg in failed_ids:
+                print(f'  - {msg}', file=sys.stderr)
+            # Surface failure to CI (so it's still visible) only after every
+            # already-successful topic this run is safely committed and pushed.
+            sys.exit(1)
     finally:
         # Regenerate PIPELINE_STATUS.md from current backlog + logs, every run,
         # success or early exit alike, so the status file never goes stale.

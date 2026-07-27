@@ -35,13 +35,20 @@ jobs:
           BATCH_SIZE: ${{ github.event.inputs.batch_size || '3' }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push drafts
+      - name: Commit and push drafts (backstop)
+        # The script itself commits and pushes after every single topic, so this
+        # step normally finds nothing new. It runs even if the draft step above
+        # failed partway (if: always()), as a safety net for any file that got
+        # written but not yet committed before a crash, this is exactly the gap
+        # that lost E-03 and E-04's completed work on 2026-07-27 when F-01 failed
+        # and this step was skipped because it wasn't if: always().
+        if: always()
         run: |
           git config user.name "Blog Editor Bot"
           git config user.email "jelissei.levin@gmail.com"
           git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md docs/fact-audits/ PIPELINE_STATUS.md
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
-            git commit -m "blog: draft ${{ env.DRAFTED_IDS }}" &&
+            git commit -m "blog: draft ${{ env.DRAFTED_IDS }} (backstop)" &&
             git pull --rebase origin master &&
             git push
           )

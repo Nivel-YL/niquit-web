@@ -28,7 +28,6 @@ as UNVERIFIED for that same reason, not because it is wrong.
 import datetime
 import json
 import os
-import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -43,7 +42,9 @@ from blog_editor import (
     BLOG_DIR,
     LANGUAGES,
     REPO_ROOT,
+    _configure_git_identity,
     audit_article,
+    commit_and_push,
     cross_language_consistency,
     load_backlog,
     research_shared,
@@ -159,56 +160,6 @@ def write_topic_report(result: dict, today: datetime.date) -> Path:
     return out_path
 
 
-def _git(*args: str) -> subprocess.CompletedProcess:
-    return subprocess.run(
-        ['git', *args], cwd=REPO_ROOT, capture_output=True, text=True,
-    )
-
-
-def _configure_git_identity() -> None:
-    _git('config', 'user.name', 'Retro Audit Bot')
-    _git('config', 'user.email', 'jelissei.levin@gmail.com')
-
-
-def commit_and_push(paths: list[str], message: str) -> bool:
-    """Stage and commit exactly the given paths, then push, right after each
-    topic finishes, not batched at the end. A failure here means the run may
-    still be usable up to the last successful push (each topic pushes on its
-    own), instead of losing every completed topic if a later one crashes,
-    which is what happened the first time this script hit an API usage cap
-    partway through B-04 and lost B-01 and B-02's already-finished results.
-    Returns True if a commit was made and pushed (or there was nothing new to
-    commit), False if git itself failed.
-    """
-    add = _git('add', *paths)
-    if add.returncode != 0:
-        print(f'  WARNING: git add failed: {add.stderr.strip()}', file=sys.stderr)
-        return False
-
-    diff = _git('diff', '--cached', '--quiet')
-    if diff.returncode == 0:
-        print('  (nothing new to commit)', flush=True)
-        return True
-
-    commit = _git('commit', '-m', message)
-    if commit.returncode != 0:
-        print(f'  WARNING: git commit failed: {commit.stderr.strip()}', file=sys.stderr)
-        return False
-
-    pull = _git('pull', '--rebase', 'origin', 'master')
-    if pull.returncode != 0:
-        print(f'  WARNING: git pull --rebase failed: {pull.stderr.strip()}', file=sys.stderr)
-        return False
-
-    push = _git('push')
-    if push.returncode != 0:
-        print(f'  WARNING: git push failed: {push.stderr.strip()}', file=sys.stderr)
-        return False
-
-    print(f'  committed and pushed: {message}', flush=True)
-    return True
-
-
 RESULTS_LOG_PATH = AUDIT_DIR / '_retroactive_audit_results.json'
 
 
@@ -289,7 +240,7 @@ def main() -> None:
     requested = os.environ.get('RETRO_TOPICS', '').strip()
     order = [t.strip() for t in requested.split(',') if t.strip()] if requested else RETRO_ORDER
 
-    _configure_git_identity()
+    _configure_git_identity('Retro Audit Bot')
 
     done = 0
     for topic_id in order:
