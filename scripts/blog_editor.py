@@ -1175,11 +1175,17 @@ def write_article(
     if lang_specific_facts:
         facts_section += f'\n\n## Additional {LANG_NAMES[lang]}-specific facts:\n{lang_specific_facts}'
 
+    link_prefix = '/blog/' if lang == 'en' else f'/{lang}/blog/'
     links_context = ''
     if published_articles:
-        links_list = '\n'.join(f'- {a["title_en"]} (slug: {a["slug"]})' for a in published_articles)
+        links_list = '\n'.join(
+            f'- {a["title_en"]} ({link_prefix}{a["slug"]})' for a in published_articles
+        )
         links_context = (
-            f'\n\nALREADY PUBLISHED ARTICLES, link to these naturally where relevant:\n{links_list}'
+            '\n\nALREADY PUBLISHED ARTICLES, link to these naturally where relevant. '
+            f'Use the exact URL shown in parentheses (always starts with "{link_prefix}", '
+            'never translate or shorten it, never invent your own slug):\n'
+            f'{links_list}'
         )
 
     dedup_context = ''
