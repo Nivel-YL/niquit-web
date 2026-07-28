@@ -113,8 +113,13 @@ topics:
 - id: C-04
   title_en: How to quit smoking when nothing has worked before
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-28'
+    ru: '2026-07-28'
+    de: '2026-07-28'
+    es: '2026-07-28'
+    fr: '2026-07-28'
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
   cluster: D
