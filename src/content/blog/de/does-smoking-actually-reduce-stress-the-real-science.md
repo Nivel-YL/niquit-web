@@ -13,7 +13,7 @@ Du stehst vor einer wichtigen Präsentation, die Hände zittern leicht, und die 
 
 Nikotin wirkt schnell. Innerhalb von zehn Sekunden erreicht es das Gehirn und setzt Dopamin, Acetylcholin und Noradrenalin frei, das erklärt das kurze Hoch, die bessere Konzentration, das Gefühl von Kontrolle (Quelle: EBSCO Research Starters).  Dann greifst du zur nächsten Zigarette, das Nikotin flutet zurück, der Entzug verschwindet, und genau dieses Verschwinden interpretiert dein Gehirn als Entspannung. Es ist keine Entspannung. Es ist das Ende eines selbst verursachten Mangelzustands.
 
-Warum sich dieses Verlangen so dringend anfühlt, erklären wir ausführlicher im Artikel [Warum sich Nikotin-Cravings so dringend anfühlen und wie du sie aussitzt](/warum-nikotin-cravings-so-dringend-sind).
+Warum sich dieses Verlangen so dringend anfühlt, erklären wir ausführlicher im Artikel [Warum sich Nikotin-Cravings so dringend anfühlen und wie du sie aussitzt](/de/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out).
 
 ## Macht Rauchen wirklich weniger gestresst oder nur weniger entzogen?
 
@@ -33,12 +33,12 @@ Genau das zeigen mehrere unabhängige Untersuchungen. Eine Oxford-Studie (Nuffie
 
 Das CDC bestätigt: Rauchstopp geht mit weniger Depression, weniger Angst und weniger Stress einher, dazu mit einer besseren Lebensqualität. Nach einigen rauchfreien Monaten liegen Angst- und Depressionswerte häufig niedriger als während der Rauchphase (CDC, zitiert 2026). Der britische NHS geht sogar noch weiter: Rauchstopp kann bei manchen Menschen genauso wirksam sein wie Antidepressiva, wenn es darum geht, Traurigkeit, Hoffnungslosigkeit und das Gefühl der Isolation zu reduzieren.
 
-Wer sich fragt, was in den ersten Tagen und Wochen ohne Nikotin im Körper passiert, findet konkrete Antworten im [Nikotin-Entzug Tag für Tag Zeitplan](/nikotin-entzugssymptome-tag-fuer-tag-zeitplan).
+Wer sich fragt, was in den ersten Tagen und Wochen ohne Nikotin im Körper passiert, findet konkrete Antworten im [Nikotin-Entzug Tag für Tag Zeitplan](/de/blog/nicotine-withdrawal-symptoms-day-by-day-timeline).
 
 ## Ist der Rauchstopp für Menschen mit Angststörungen schwerer?
 
 Ja, und das sollte man nicht kleinreden. In einer Studie der University of Wisconsin, veröffentlicht im Fachjournal Addiction (2010), erfüllte mehr als ein Drittel der 1.504 Teilnehmer die Kriterien für mindestens eine Angstdiagnose im Laufe ihres Lebens: 455 hatten schon einmal eine Panikattacke erlebt, 199 eine soziale Angststörung, 99 eine generalisierte Angststörung. Menschen mit einer solchen Vorgeschichte hatten es deutlich schwerer, erfolgreich aufzuhören, auch wenn die Erfolgsquote insgesamt hoch war.
 
-Das bedeutet nicht, dass es unmöglich ist. Es bedeutet, dass ein abrupter Cold-Turkey-Versuch ohne Vorbereitung für diese Gruppe oft scheitert, was auch der Artikel [Warum Cold Turkey für die meisten Menschen nicht funktioniert](/warum-cold-turkey-aufhoeren-fuer-die-meisten-scheitert) genauer beschreibt. Wer weiß, dass die eigene Unruhe wahrscheinlich stärker ausfällt, kann sich gezielter vorbereiten, statt beim ersten Anflug von Anspannung wieder zur Zigarette zu greifen.
+Das bedeutet nicht, dass es unmöglich ist. Es bedeutet, dass ein abrupter Cold-Turkey-Versuch ohne Vorbereitung für diese Gruppe oft scheitert, was auch der Artikel [Warum Cold Turkey für die meisten Menschen nicht funktioniert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) genauer beschreibt. Wer weiß, dass die eigene Unruhe wahrscheinlich stärker ausfällt, kann sich gezielter vorbereiten, statt beim ersten Anflug von Anspannung wieder zur Zigarette zu greifen.
 
 Die Zigarette verspricht Ruhe. Sie liefert Entzug, der sich wie Ruhe anfühlt, sobald der nächste Zug den Mangel wieder auffüllt. Der eigentliche Ausweg aus diesem Kreislauf liegt nicht in der nächsten Zigarette, sondern darin, ihn ganz zu verlassen.

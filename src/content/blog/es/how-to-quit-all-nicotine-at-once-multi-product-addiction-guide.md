@@ -11,7 +11,7 @@ heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction
 
 Fumas un par de cigarrillos al día, vapeas en el coche y llevas una bolsita de nicotina en el bolsillo para las reuniones donde no puedes hacer ninguna de las dos cosas. Si esto te suena familiar, no estás solo: el patrón de uso doble de cigarrillos y vapeadores es el más común entre los jóvenes, con un 27,8% combinando ambos productos, según Truth Initiative (2026). Y el uso conjunto de vapeadores y bolsitas de nicotina ha crecido notablemente entre 2023 y 2024, según la misma fuente. Este artículo es para ti, que quieres dejar toda la nicotina de golpe, no cambiar un producto por otro.
 
-Si ya leíste sobre por qué [dejar cigarrillos y empezar a vapear no te libra de la adicción](/i-quit-cigarettes-but-started-vaping-am-i-still-addicted), sabrás que el problema nunca fue el cigarrillo en sí. Es la molécula. Y cuando esa molécula te llega por tres vías distintas, dejarla se complica de una manera muy concreta.
+Si ya leíste sobre por qué [dejar cigarrillos y empezar a vapear no te libra de la adicción](/es/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted), sabrás que el problema nunca fue el cigarrillo en sí. Es la molécula. Y cuando esa molécula te llega por tres vías distintas, dejarla se complica de una manera muy concreta.
 
 ## ¿Es peor estar enganchado a varios productos de nicotina a la vez?
 
@@ -23,9 +23,9 @@ Esto tiene sentido si piensas en cómo funciona tu cerebro. Cada vez que la nico
 
 Es la pregunta que más se repite, y la respuesta puede sorprenderte. Una revisión Cochrane que analizó 22 estudios encontró que dejarlo de forma abrupta y reducir gradualmente producen tasas de éxito prácticamente idénticas. Es decir, no hay una ventaja científica clara en ir dejando un producto tras otro durante meses.
 
-Dicho esto, dejar tres fuentes de nicotina al mismo tiempo tiene una lógica práctica que muchas personas pasan por alto: si dejas el cigarrillo pero sigues vapeando, tu cerebro sigue recibiendo su dosis y el ciclo de dependencia no se rompe. Solo cambias el envase. Esto es justo lo que explicamos en la guía sobre [cómo dejar de vapear paso a paso](/how-to-quit-vaping-a-realistic-step-by-step-guide): sustituir un producto por otro rara vez es dejar la nicotina, es solo reubicarla.
+Dicho esto, dejar tres fuentes de nicotina al mismo tiempo tiene una lógica práctica que muchas personas pasan por alto: si dejas el cigarrillo pero sigues vapeando, tu cerebro sigue recibiendo su dosis y el ciclo de dependencia no se rompe. Solo cambias el envase. Esto es justo lo que explicamos en la guía sobre [cómo dejar de vapear paso a paso](/es/blog/how-to-quit-vaping-a-realistic-step-by-step-guide): sustituir un producto por otro rara vez es dejar la nicotina, es solo reubicarla.
 
-Si tu plan incluye bolsitas de nicotina, quizás te interese revisar primero [cómo dejar las bolsitas de nicotina como ZYN, On! o Velo](/how-to-quit-nicotine-pouches-zyn-on-velo), porque el mecanismo de absorción es distinto al del cigarrillo y eso afecta cuánto tiempo tarda la nicotina en salir de tu cuerpo.
+Si tu plan incluye bolsitas de nicotina, quizás te interese revisar primero [cómo dejar las bolsitas de nicotina como ZYN, On! o Velo](/es/blog/how-to-quit-nicotine-pouches-zyn-on-velo), porque el mecanismo de absorción es distinto al del cigarrillo y eso afecta cuánto tiempo tarda la nicotina en salir de tu cuerpo.
 
 ## ¿Cuánto tarda mi cuerpo en librarse de la nicotina?
 
@@ -37,7 +37,7 @@ En cuanto al calendario general: los síntomas de abstinencia aparecen entre 4 y
 
 ## ¿Necesito medicación para dejar varios productos de nicotina a la vez?
 
-Solamente entre el 3% y el 5% de las personas que intentan dejar la nicotina sin asesoramiento ni medicación aprobada logran mantenerse sin fumar más de seis meses, según los expertos en dejar de fumar. Ya hablamos de esto en detalle en [por qué dejarlo de golpe falla para la mayoría](/why-quitting-smoking-cold-turkey-fails-for-most-people).
+Solamente entre el 3% y el 5% de las personas que intentan dejar la nicotina sin asesoramiento ni medicación aprobada logran mantenerse sin fumar más de seis meses, según los expertos en dejar de fumar. Ya hablamos de esto en detalle en [por qué dejarlo de golpe falla para la mayoría](/es/blog/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
 La combinación de medicación y acompañamiento (counseling) puede triplicar tus probabilidades de dejarlo, según datos de la FDA compilados por Truth Initiative. La FDA ha aprobado varias formas de terapia de reemplazo de nicotina (chicles, inhaladores, pastillas, spray nasal, parches), además de vareniclina y bupropión. .
 

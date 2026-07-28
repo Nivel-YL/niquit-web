@@ -31,7 +31,7 @@ The Cleveland Clinic's own breakdown of the first week mirrors this: days 1 thro
 
 This is also, not coincidentally, the danger zone. WebMD (2024) reports that most relapses happen within the first two weeks of quitting. If you're going to reach for a cigarette or a pouch out of pure discomfort, statistically it happens here, in this exact window.
 
-If you've been using nicotine pouches specifically, the pattern is similar but worth reading up on separately, since dosing and habits differ from smoking. [How to quit nicotine pouches (ZYN, On!, Velo)](/how-to-quit-nicotine-pouches-zyn-on-velo) walks through what changes for pouch users in these first days.
+If you've been using nicotine pouches specifically, the pattern is similar but worth reading up on separately, since dosing and habits differ from smoking. [How to quit nicotine pouches (ZYN, On!, Velo)](/blog/how-to-quit-nicotine-pouches-zyn-on-velo) walks through what changes for pouch users in these first days.
 
 ## Does it get better after week one?
 
@@ -49,4 +49,4 @@ This matches what's happening at the neural level. A 2023 review (NCBI/PMC) expl
 
 Quitting without any support is hard, and the numbers back that up starkly. According to the CDC, 68% of adult smokers want to quit, but only 7.5% succeed in a given year without help. Compare that to quit attempts using nicotine replacement therapy or medications like varenicline alongside behavioral support, where clinical trial data published in PMC shows initial abstinence rates in the range of 40–50% with varenicline plus behavioral support (PMC2879135). That gap is the entire argument for not doing this alone.
 
-If you're tempted to just white-knuckle it, it's worth reading [why quitting smoking cold turkey fails for most people](/why-quitting-smoking-cold-turkey-fails-for-most-people) before you decide how to approach day one. And if relapse does happen, longitudinal research from the ITC Four Country Survey (published in PMC, 2015) found that even with a 37% relapse rate between survey waves, 63% of people stayed abstinent. The odds are better than the worst days make them feel.
+If you're tempted to just white-knuckle it, it's worth reading [why quitting smoking cold turkey fails for most people](/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) before you decide how to approach day one. And if relapse does happen, longitudinal research from the ITC Four Country Survey (published in PMC, 2015) found that even with a 37% relapse rate between survey waves, 63% of people stayed abstinent. The odds are better than the worst days make them feel.

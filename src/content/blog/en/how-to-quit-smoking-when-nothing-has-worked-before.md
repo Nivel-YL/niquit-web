@@ -31,7 +31,7 @@ Nicotine binds to receptors in your brain and triggers dopamine release, the sam
 
 But there's a second mechanism that gets less attention, and it might explain why quitting feels like more than just "wanting a cigarette." NIH research from 2025 identifies a brain region called the interpeduncular nucleus, part of a midbrain circuit connected to the habenula, that becomes active during withdrawal and directly produces the physical and emotional discomfort of quitting: the irritability, the flatness, the restlessness. This isn't just your willpower being tested. It's a specific neural circuit generating an aversive state on purpose, which is part of why relapse rates are so high even among people using nicotine replacement therapy. Some clinical trials report 50% relapse by three months after stopping treatment, with most of that relapse happening in the first two weeks.
 
-If you want to understand more about why cravings hit so hard and so specifically, we've covered the mechanics of that in [why do I always want a cigarette: the science of cravings](/why-do-i-always-want-a-cigarette-the-science-of-cravings).
+If you want to understand more about why cravings hit so hard and so specifically, we've covered the mechanics of that in [why do I always want a cigarette: the science of cravings](/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings).
 
 ## How do I quit smoking when nothing has worked before?
 
@@ -45,6 +45,6 @@ Given all this, a few things actually shift the odds in your favor, based on wha
 
 **Separate stress management from quitting itself.** Since stress and negative emotion show up again and again as relapse triggers across multiple studies, from Turkey to Shanghai to Poland, going into a quit attempt with zero plan for stress is like going into a storm with no coat. This might mean a different way of handling a bad day at work before you even try to quit again.
 
-**If your last few attempts involved switching to pouches or vapes instead of quitting nicotine outright, it's worth knowing that swap often just moves the addiction, not away from it.** We've written about that pattern in [how to quit nicotine pouches (ZYN, On!, Velo)](/how-to-quit-nicotine-pouches-zyn-on-velo), if that's part of your history too.
+**If your last few attempts involved switching to pouches or vapes instead of quitting nicotine outright, it's worth knowing that swap often just moves the addiction, not away from it.** We've written about that pattern in [how to quit nicotine pouches (ZYN, On!, Velo)](/blog/how-to-quit-nicotine-pouches-zyn-on-velo), if that's part of your history too.
 
 The number of past attempts isn't a scoreboard against you. It's closer to a rehearsal. Each one tells you something specific about your own pattern, your own triggers, the exact moment things tend to fall apart. That information is worth more this time than it was the first.
