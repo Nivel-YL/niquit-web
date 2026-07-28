@@ -37,7 +37,7 @@ Der wichtigste Fakt zuerst: Ein Craving steigt, erreicht einen Höhepunkt und f�
 
 Konkret helfen laut Truth Initiative (2026) vier Dinge: Bewegung, Ablenkung, soziale Unterstützung und Nikotinersatztherapie. Ein kurzer Spaziergang, zehn Kniebeugen oder ein Anruf bei jemandem, der weiß, dass du gerade aufhörst, reichen oft schon aus, um die drei Minuten zu überbrücken.
 
-Wenn du Nikotinersatz nutzt, lohnt sich ein Blick auf die Form. Studien, die in der Consensus Academic Search Engine zusammengefasst sind, zeigen, dass 24-Stunden-Pflaster Cravings besser abfedern als 16-Stunden-Pflaster, besonders in den ersten zwei Wochen, wenn die Symptome am stärksten sind. Wer kalt aufhört, ohne jede Unterstützung, hat es oft schwerer als nötig, das haben wir bereits im Artikel [Warum Kaltentzug bei den meisten scheitert](/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) genauer aufgeschlüsselt.
+Wenn du Nikotinersatz nutzt, lohnt sich ein Blick auf die Form. Studien, die in der Consensus Academic Search Engine zusammengefasst sind, zeigen, dass 24-Stunden-Pflaster Cravings besser abfedern als 16-Stunden-Pflaster, besonders in den ersten zwei Wochen, wenn die Symptome am stärksten sind. Wer kalt aufhört, ohne jede Unterstützung, hat es oft schwerer als nötig, das haben wir bereits im Artikel [Warum Kaltentzug bei den meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) genauer aufgeschlüsselt.
 
 ## Was danach kommt: die Wochen nach dem Rauchstopp
 

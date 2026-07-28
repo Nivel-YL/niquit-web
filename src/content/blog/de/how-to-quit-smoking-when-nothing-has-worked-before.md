@@ -25,7 +25,7 @@ Nach Auswertungen auf PMC/NIH sind die drei häufigsten Rückfallgründe Gewicht
 
 In einer türkischen Untersuchung an einer Raucherentwöhnungsklinik berichteten Betroffene vor allem von stressigen Situationen im Job und gesundheitlichen Problemen bei Angehörigen als Auslöser. Wer Raucher im engeren Umfeld hat, trägt laut derselben Studie ein deutlich höheres Rückfallrisiko. Laut einer 2023 in Tobacco Induced Diseases publizierten Untersuchung von Wang et al. aus Shanghai waren soziale Bedürfnisse und klassische Entzugssymptome die Hauptauslöser für Rückfälle.
 
-Das Muster wiederholt sich weltweit: Es ist selten reine Sucht nach Nikotin. Es ist eine Kombination aus Gewohnheit, sozialem Druck und einem Gehirn, das gelernt hat, Zigaretten als Belohnung zu erwarten. Wenn du wissen willst, wie dieses Verlangen im Detail entsteht, haben wir das in [Warum will ich immer eine Zigarette: die Wissenschaft hinter dem Verlangen](/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings) genauer erklärt.
+Das Muster wiederholt sich weltweit: Es ist selten reine Sucht nach Nikotin. Es ist eine Kombination aus Gewohnheit, sozialem Druck und einem Gehirn, das gelernt hat, Zigaretten als Belohnung zu erwarten. Wenn du wissen willst, wie dieses Verlangen im Detail entsteht, haben wir das in [Warum will ich immer eine Zigarette: die Wissenschaft hinter dem Verlangen](/de/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings) genauer erklärt.
 
 ## Warum ist der Entzug im Kopf so brutal?
 
@@ -45,6 +45,6 @@ Zweitens: Identifiziere deine persönlichen Auslöser. War es Stress bei der Arb
 
 Drittens: Baue dir Unterstützung auf, die über die erste Woche hinaus trägt. Die meisten Rückfälle passieren laut den NIH-Registerdaten in den ersten drei Monaten, also genau in der Phase, in der viele Menschen aufhören, sich Hilfe zu holen, weil sie sich schon sicher fühlen. Das ist der gefährlichste Moment.
 
-Viertens: Wenn du zwischenzeitlich auf Nikotinbeutel umgestiegen bist, weil du dachtest, das sei der sanftere Ausstieg, lohnt sich ein Blick auf [wie man Nikotinbeutel wie ZYN, On! oder Velo absetzt](/blog/how-to-quit-nicotine-pouches-zyn-on-velo). Das Prinzip von Entzug und Rückfall ist dort dasselbe, nur ohne Rauch.
+Viertens: Wenn du zwischenzeitlich auf Nikotinbeutel umgestiegen bist, weil du dachtest, das sei der sanftere Ausstieg, lohnt sich ein Blick auf [wie man Nikotinbeutel wie ZYN, On! oder Velo absetzt](/de/blog/how-to-quit-nicotine-pouches-zyn-on-velo). Das Prinzip von Entzug und Rückfall ist dort dasselbe, nur ohne Rauch.
 
 Rauchen aufzuhören, wenn schon mehrere Versuche gescheitert sind, ist kein Zeichen dafür, dass es bei dir nicht funktioniert. Es ist ein Zeichen dafür, dass du noch nicht die Methode gefunden hast, die zu deinem Gehirn und deinem Alltag passt. Bei durchschnittlich fünf bis über dreißig Anläufen, die andere brauchen, bist du wahrscheinlich näher dran, als du denkst.
