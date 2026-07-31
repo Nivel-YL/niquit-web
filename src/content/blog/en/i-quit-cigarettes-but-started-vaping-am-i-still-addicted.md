@@ -1,9 +1,9 @@
 ---
 title: "I Quit Cigarettes but Started Vaping. Am I Still Addicted?"
 description: "Switched from cigarettes to vaping and still craving nicotine? Here's what actually happens to your addiction when you swap one nicotine product for another."
-publishDate: 2026-07-13
+publishDate: 2026-07-31
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
 ---
 

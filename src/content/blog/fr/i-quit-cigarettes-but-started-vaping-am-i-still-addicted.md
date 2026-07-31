@@ -1,9 +1,9 @@
 ---
 title: "J'ai arrêté la cigarette pour la vape, suis-je encore dépendant à la nicotine ?"
 description: "Tu as remplacé tes cigarettes par une e-cigarette et tu te demandes si tu es vraiment libéré de la nicotine. Réponse honnête : non, pas encore."
-publishDate: 2026-07-13
+publishDate: 2026-07-31
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
 ---
 

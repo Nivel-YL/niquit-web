@@ -1,9 +1,9 @@
 ---
 title: "Dejé el cigarrillo pero empecé a vapear, ¿sigo siendo adicto a la nicotina?"
 description: "Cambiaste el cigarro por el vapeador y crees que ya lo superaste. La ciencia dice otra cosa: la nicotina sigue ahí, y puede que consumas más que antes."
-publishDate: 2026-07-13
+publishDate: 2026-07-31
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
 ---
 

@@ -123,8 +123,13 @@ topics:
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
   cluster: D
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-07-31'
+    ru: '2026-07-31'
+    de: '2026-07-31'
+    es: '2026-07-31'
+    fr: '2026-07-31'
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
   cluster: D

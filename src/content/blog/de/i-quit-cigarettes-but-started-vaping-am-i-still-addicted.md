@@ -1,9 +1,9 @@
 ---
 title: "Ich habe mit dem Rauchen aufgehört, aber jetzt vape ich, bin ich immer noch süchtig?"
 description: "Du hast die Zigaretten weggeworfen und greifst jetzt zur E-Zigarette. Die ehrliche Antwort: Deine Nikotinsucht ist geblieben, nur die Verpackung hat sich geändert."
-publishDate: 2026-07-13
+publishDate: 2026-07-31
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
 ---
 
