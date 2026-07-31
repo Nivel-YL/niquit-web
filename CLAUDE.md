@@ -79,6 +79,15 @@ To add/replace: drop file in the right folder, update the map.
 - **Prose links**: use `#35C6D8` not `#22D3EE` (old cyan value, now replaced).
 - `DONATE_TIERS` order is descending on purpose (anchoring) — do not sort ascending.
 - **Slugs**: always `entry.id.split('/').pop()` — never `entry.slug` (removed in Astro v7).
+- **Trailing slash / canonical URL convention: no trailing slash anywhere.** Enforced by
+  `build.format:'file'` + `trailingSlash:'never'` in `astro.config.mjs`, not by a Pages
+  Function. Do not add `functions/_middleware.js` for this — one was tried and caused a
+  production outage (see `docs/KNOWN_PITFALLS.md`). Use `canonicalPath()`/`stripLocalePrefix()`
+  in `src/i18n/ui.ts` wherever a normalized current-page path is needed.
+- **Any change to Cloudflare Pages routing/redirect behavior must be tested against a real
+  preview deployment** (`git push` a branch → `<branch>.niquit-web.pages.dev`), not just local
+  `astro dev`/`wrangler pages dev`. Local wrangler testing passed clean on a change that then
+  hung in production — it does not reliably reproduce platform-level redirect interactions.
 
 ## Vercel niquit-stripe-api
 Separate project at `https://niquit-stripe-api.vercel.app`. Hosts:

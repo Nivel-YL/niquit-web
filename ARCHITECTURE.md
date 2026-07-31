@@ -5,7 +5,9 @@
 ```
 src/
   i18n/
-    ui.ts           ← all UI strings, 5 langs, as const
+    ui.ts           ← all UI strings, 5 langs, as const; localePath() (bare path in,
+                       no trailing slash out); canonicalPath()/stripLocalePrefix()
+                       (URL normalization for canonical/hreflang/lang switcher)
     donate.ts       ← Stripe links + DONATE_TIERS config
   styles/
     global.css      ← Tailwind @import, @theme tokens, custom CSS
@@ -66,11 +68,43 @@ AI_EDITOR_AUTOMATION_SPEC.md  ← full blog automation spec
 ```
 GitHub push to master
   → Cloudflare Pages auto-build (npm install && npm run build → dist/)
-  → Live at niquit-web.pages.dev (custom domain pending)
+  → Live at niquit.app (niquit-web.pages.dev and www.niquit.app 301-redirect to it)
 ```
 
 No `package-lock.json` in repo — deleted because Windows lock files break Linux CI.
 Cloudflare Pages build settings: build command `npm run build`, output dir `dist`, Node 22.
+
+Pushing a branch (not `master`) makes Cloudflare Pages build a preview at
+`<branch>.niquit-web.pages.dev` — used to test changes that affect Cloudflare's own routing
+behavior before they reach production (see Trailing Slashes below).
+
+## Trailing Slashes / Canonical URLs
+
+The site's convention is **no trailing slash** anywhere (`/method`, not `/method/`), matching
+`localePath()`'s output. `astro.config.mjs` sets `trailingSlash:'never'` and
+`build: { format: 'file' }`, which makes Astro emit flat `page.html` files instead of
+`page/index.html` directories.
+
+This isn't cosmetic — it's the mechanism. Cloudflare Pages has no trailing-slash configuration
+setting; its redirect direction is decided entirely by which of `page.html` /
+`page/index.html` actually exists in the build output. `'file'` format makes the no-slash form
+serve directly (200) and the slashed form 308-redirect to it — the direction this site wants.
+Using `'directory'` format (Astro's default) would make Cloudflare redirect the *other* way.
+
+Two helpers in `src/i18n/ui.ts` keep this consistent:
+- `canonicalPath(url)` — strips `.html`/`index.html`/trailing slash from `Astro.url.pathname`
+  (which carries the `.html` extension under `'file'` format) back to the clean URL. Used for
+  `canonical`/`og:url` in `Base.astro`.
+- `stripLocalePrefix(path)` — takes a `canonicalPath()` output and strips the locale prefix
+  down to the bare form `localePath()` expects (no leading slash, no locale). Used for hreflang
+  in `Base.astro` and the language-switcher href in `Header.astro`.
+
+**Do not add a Cloudflare Pages Function (`functions/_middleware.js`) to handle this instead.**
+One was tried and reverted after it caused a production outage — see
+`docs/KNOWN_PITFALLS.md` for the full trace of why (short version: the Function's redirect and
+Cloudflare's own file-layout-driven redirect fought each other in a loop that local
+`wrangler pages dev` testing did not reproduce). The file-layout approach has exactly one actor
+deciding redirects, so this class of loop isn't structurally possible.
 
 ## Blog Automation Flow
 

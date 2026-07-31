@@ -1,85 +1,61 @@
-# Session State — 2026-07-07
+# Session State — 2026-07-25/26 (end of session)
 
-## что сделано в этой сессии
+> Точка входа для новой сессии. После этого файла читай: CLAUDE.md, ARCHITECTURE.md, docs/KNOWN_PITFALLS.md.
+
+## Текущее состояние
+
+Сайт живой на `niquit.app` (Cloudflare Pages, авто-деплой из `master`). Все задачи этой сессии
+смерджены и проверены на проде — открытых задач нет.
+
+## Что сделано в этой сессии
 
 | commit | что |
-|--------|-----|
-| `45cc4b3` | netlify-deploy.yml (GitHub Actions → Netlify CLI) — позже удалён |
-| `ae292e3` | npm ci → npm install в workflow |
-| `1790141` | секрет NETLIFY_AUTH_TOKEN_V |
-| `892d2bf` | удалён package-lock.json (Windows→Linux мismatch) |
-| `f8efcf8` | пустой коммит для Cloudflare |
-| `ad43664` | **критический фикс**: `post.slug` → `post.id.split('/').pop()` в BlogListPage; иконка кластера A: 🤝→🍃; SVG A-01 перегенерирован |
-| `e6f1af1` | удалён мёртвый netlify-deploy.yml |
+|---|---|
+| `d0d29b2` | mobile hero phone mockup crop (`aspect-ratio` вместо `min-height`) + компактнее cookie-баннер |
+| `784bc79` | мобильное меню-гамбургер в шапке (Blog/Method/Support — раньше `hidden sm:flex`, на мобильном не было вообще) |
+| `5eddd6d` | canonical/og:url + sitemap перестали отдавать слэш на конце (не совпадало с `localePath()`) |
+| `97daed1` → `72c0d5b` | попытка №1 редиректа слэш→без-слэша через Cloudflare Pages Function — **уронила `/method` в проде** (зависание 45+ сек), откачена этим же коммитом |
+| `23ca407` | `/sitemap.xml` отдавал HTML главной вместо XML (реального файла с таким именем никогда не было — `@astrojs/sitemap` генерирует `sitemap-index.xml`). Фикс через `_redirects` rewrite |
+| `4696e8f` | попытка №2 (успешная): `build.format:'file'` + `trailingSlash:'never'`, без Pages Function. Подробности и почему первая попытка зациклилась — см. `docs/KNOWN_PITFALLS.md` |
 
-До этой сессии (из предыдущего summary):
-- Реализован `blog_editor.py` (CONTENT_RELIABILITY_SPEC.md): один shared research вызов, targeted local search, audit после каждой статьи, em-dash авто-замена, style_check banned phrases, SVG обложки, internal links, cluster dedup
-- `publisher.py` обновлён: publishDate теперь проставляется при публикации
-- A-01 опубликована (draft:false, status:published в backlog)
-- Статьи A-02..B-02 в очереди (status:approved)
+## Что именно исправлено (проверено на проде, не только локально)
 
-## точка остановки
+1. **Мокап телефона обрезал текст на мобильном.** `.phone img` имел `min-height:520px` одинаковый и для десктопной (288px), и для мобильной (220px) рамки → на узкой рамке `object-fit:cover` резал сильнее. Заменено на `aspect-ratio: 791/1600` (реальное соотношение сторон скриншотов, одинаковое у всех 5 языков).
+2. **На мобильном не было пути к Blog/Method/Support.** Нав в шапке был `hidden sm:flex` без мобильной альтернативы. Добавлено меню-гамбургер, переиспользует JS языкового переключателя (открыть/закрыть/клик-вне/Escape).
+3. **Canonical/og:url/sitemap не совпадали с внутренними ссылками.** Внутренние ссылки (`localePath()`) всегда без слэша, canonical/sitemap раньше — со слэшем. Нормализовано через новый `canonicalPath()` (`src/i18n/ui.ts`).
+4. **`/sitemap.xml` отдавал HTML.** Реальный файл — `sitemap-index.xml`. Добавлен `_redirects` rewrite (200, не редирект).
+5. **Направление редиректа не совпадало с canonical.** `/method` редиректило НА `/method/`, а canonical говорил `/method` — раскол. Теперь наоборот: `/method` отдаёт 200 напрямую, `/method/` редиректит на него одним 308. Решение — смена формата сборки Astro (`file` вместо `directory`), не middleware. Подробное обоснование почему — в ARCHITECTURE.md и KNOWN_PITFALLS.md.
+6. **hreflang с двойным слэшем** (`https://niquit.app//method`) — жил в проде независимо от пункта 5, найден попутно. Причина: в `localePath()` передавали путь с ведущим слэшем. Добавлен `stripLocalePrefix()`.
+7. **Языковой переключатель под новым форматом сборки** сломался бы (404 на всех 5 главных страницах) — `Astro.url.pathname` стал содержать `.html`. Пофикшено тем же `canonicalPath()`.
 
-Сайт **живой** на Cloudflare Pages. Блог открывается, статьи открываются (фикс slug применён — ждёт деплоя от последних коммитов).
+## Что подтверждено закрытым (не баг, зафиксировать чтобы не переоткрывать)
 
-### ✅ готово и работает
-- Cloudflare Pages авто-деплой из `master` ветки репо `Nivel-YL/niquit-web`
-- Publisher cron: вторник + пятница 08:00 UTC публикует по 1 статье из `approved` очереди
-- Blog Editor cron: понедельник 09:00 UTC генерирует 3 новых черновика
-- A-01 опубликована: `/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes`
-- Netlify (`niquit.netlify.app`) — **заморожен** на старом деплое, кредиты исчерпаны. Privacy/terms ещё доступны по старым ссылкам из приложений
+- На зоне `niquit.app` в Cloudflare нет Redirect/Page/Bulk/Transform Rules про trailing slash — пользователь проверил лично в дашборде 2026-07-26. Если похожая проблема всплывёт снова — это не там.
 
-### 🔴 активная задача на следующую сессию — ДОМЕН
-Нет единого кастомного домена. Сейчас:
-- `niquit.netlify.app` — заморожен, ссылки из приложений
-- `niquit-web.pages.dev` — живой, но SEO-трафик копится на pages.dev
+## Известные ограничения нового решения (осознанные, не баги)
 
-**Решение принято**: купить кастомный домен (niquit.app или аналог, ~$10-15/год), подключить к Cloudflare Pages (5 мин), обновить ссылки в приложениях в следующем релизе.
+- **Возвращающиеся браузеры** с закэшированным старым редиректом (`/method` → 308 → `/method/`, с прошлого инцидента) могут по инерции зациклить именно у конкретного пользователя, пока не почистит кэш сайта в браузере. Cloudflare не ставит `Cache-Control` на эти редиректы вообще (проверено `curl -I`), так что это не должно быть агрессивно закэшировано — но не гарантировано на 100%. Purge Everything в дашборде Cloudflare закрывает edge-сторону, но не браузеры пользователей.
+- **`public/_headers` сознательно не добавлен** для решения этого — синтаксис `_headers`/`_redirects` допускает wildcard только как суффикс, нельзя написать правило "любой путь, заканчивающийся на слэш, произвольной глубины" без учёта конкретных слагов статей блога (которые растут еженедельно через автоматику). Частичное покрытие (только статичные страницы) не стоило сложности.
 
-### 📋 backlog
-- **Домен** (см. выше) — приоритет #1
-- **Картинки блога** — SVG-иконки в карточках (🍃 A-01 уже обновлена, остальные при следующей генерации автоматически). Формат/дизайн карточек — на усмотрение.
-- **og:image** — meta-тег есть в Base.astro, изображение не создано
-- **Support page** — только DonateSection, нужен контент
+## Не в скоупе, найдено попутно
 
-## очередь публикаций
+- 3 англ. статьи блога ссылаются на `/why-do-i-always-want-a-cigarette-...` без префикса `/blog/` — битая внутренняя ссылка, не трогали.
+- `getLangFromUrl()` в `src/i18n/ui.ts` экспортируется, но нигде не вызывается (грепнуто) — не удаляли, не в скоупе задачи.
 
-```
-approved → в очереди Publisher:
-A-02  How to quit nicotine pouches (ZYN, On!, Velo)
-A-03  Snus vs nicotine pouches what is the difference?
-A-04  Nicotine pouch side effects what no one tells you
-B-01  How to quit vaping a realistic step-by-step guide
-B-02  Are you addicted to vaping signs and science
+## Ключевые файлы
 
-pending → следующая генерация (Blog Editor, понедельник 14.07):
-B-03, B-04, C-01
-```
+| Файл | Роль |
+|---|---|
+| `astro.config.mjs` | `trailingSlash`, `build.format`, sitemap `serialize()` |
+| `src/i18n/ui.ts` | `localePath()` (не трогать контракт), новые `canonicalPath()`/`stripLocalePrefix()` |
+| `src/layouts/Base.astro` | canonical/og:url/hreflang |
+| `src/components/Header.astro` | мобильное меню + языковой переключатель |
+| `src/styles/global.css` | `.phone`/`.phone img` мокап |
+| `src/components/CookieBanner.astro` | компактная раскладка на мобильном |
+| `public/_redirects` | www/pages.dev редиректы + sitemap.xml rewrite |
+| `docs/KNOWN_PITFALLS.md` | полная трассировка прод-инцидента и его причины |
 
-Плановый темп: 2 публикации в неделю (вт + пт). Первая неделя была исключением (3 за неделю).
+## Знания только в этой сессии (переносится в docs этим же обновлением)
 
-## ключевые файлы
-
-| файл | роль |
-|------|------|
-| `BLOG_TOPIC_BACKLOG.md` | очередь тем, статусы |
-| `scripts/blog_editor.py` | генерация статей (research→write→audit→svg) |
-| `scripts/publisher.py` | публикация (draft:true→false, publishDate) |
-| `.github/workflows/blog-editor.yml` | cron генерации, пн 09:00 UTC |
-| `.github/workflows/publisher.yml` | cron публикации, вт+пт 08:00 UTC |
-| `src/content.config.ts` | schema блога, glob() loader |
-| `src/components/pages/BlogListPage.astro` | список статей (slug фикс применён) |
-| `src/pages/{lang}/blog/[slug].astro` | роутинг статей |
-| `docs/CONTENT_RELIABILITY_SPEC.md` | правила исследования и фактчека |
-| `docs/CONTENT_VOICE_GUIDE.md` | голос и стиль |
-| `AI_EDITOR_AUTOMATION_SPEC.md` | полная спека автоматизации |
-
-## GitHub secrets (репо Nivel-YL/niquit-web)
-
-| секрет | зачем |
-|--------|-------|
-| `ANTHROPIC_API_KEY1` | Claude API для blog_editor.py |
-| `NETLIFY_AUTH_TOKEN_V` | Netlify CLI (не используется — workflow удалён) |
-| `NETLIFY_SITE_ID` | Netlify (не используется) |
-
-Cloudflare Pages деплоится автоматически через GitHub интеграцию — секреты не нужны.
+- Полная причина прод-инцидента с `/method` (встроенный 308 Cloudflare для directory-index против собственного 301 middleware = петля) — теперь в `docs/KNOWN_PITFALLS.md`.
+- Порядок проверки резолвера Cloudflare Pages (`.html` проверяется раньше `/index.html`) — вычитано из исходников `wrangler`, не из документации Cloudflare (там этого нет). В `docs/KNOWN_PITFALLS.md`.

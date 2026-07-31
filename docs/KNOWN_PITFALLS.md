@@ -76,3 +76,59 @@ This project must not be deleted or renamed.
 It hosts the AI coach proxy, feedback endpoint, and privacy redirect.
 App code hardcodes `https://niquit-stripe-api.vercel.app` in app constants.
 The `/privacy.html` redirect points to `niquit.netlify.app/privacy` — update when custom domain is live.
+
+## Cloudflare Pages serves the homepage for ANY unresolved path, never a real 404
+Discovered 2026-07-25 debugging `/sitemap.xml` returning the homepage's HTML instead of XML.
+There was no file literally named `sitemap.xml` (the real file is `sitemap-index.xml`), and
+Cloudflare Pages' fallback for a path with no matching static asset (and no custom `404.html`)
+is to serve `index.html` with status 200 — not a 404.
+**This means a bare `curl -o /dev/null -w '%{http_code}'` returning 200 proves nothing.** A
+totally broken route serves the same 200 as a working one. Any test of a Pages route must also
+check the response body (`<title>`, `<link rel="canonical">`) — never trust status code alone.
+
+## Cloudflare Pages: no trailing-slash config, direction is decided by file layout only
+There is no setting anywhere in Cloudflare Pages to control trailing-slash redirect direction
+(confirmed: it's an open community feature request, not a missing config we didn't find).
+The actual behavior comes entirely from the asset resolver reading the output file layout:
+`about.html` → served at `/about` (no slash); `about/index.html` → served at `/about/` (with
+slash). If a page is requested in the "wrong" form for its file, Pages 308-redirects to the
+form its file layout actually produces.
+Astro's `build.format` controls exactly this: `'directory'` (Astro's default) emits
+`page/index.html` (slash-served); `'file'` emits `page.html` (no-slash-served). Pair
+`build.format:'file'` with `trailingSlash:'never'` for a fully no-slash site (this project's
+current config) — Astro's own docs recommend this pairing, and `@astrojs/sitemap` also detects
+this exact config and special-cases the sitemap's root `<loc>` entry (strips even the bare `/`)
+to match.
+**Do not fight this with a Pages Function/middleware instead of fixing the file layout** — see
+the next entry.
+
+## Adding a Cloudflare Pages Function that redirects one direction, while the file layout still produces the other direction, is an infinite redirect loop
+2026-07-25: added `functions/_middleware.js` to 301-redirect `/path/` → `/path`, while the site
+was still built with `build.format:'directory'` (which makes Cloudflare's own resolver
+308-redirect `/path` → `/path/`). Tested clean locally via `wrangler pages dev` + Playwright
+across 13 pages. **In actual production, `/method` hung 45+ seconds and was unreachable in
+both forms** — local wrangler emulation did not reproduce the failure at all. Root cause:
+Cloudflare's resolver and the Function were each redirecting in the opposite direction, so a
+request bounced between the two forever (or until the platform's own timeout killed it).
+Had to be reverted (`git revert`) to restore the site.
+**Fix that actually worked** (no middleware at all): change `build.format` to make Astro's own
+output match the desired direction (see previous entry). One layout, one resolver, no second
+actor — a loop becomes structurally impossible.
+**Prevention:** never add a Pages Function to override trailing-slash/redirect behavior without
+first checking whether the platform's own behavior (driven by file layout, here) already
+conflicts with it. If you must add Function-based redirect logic for anything, test it against
+a real Cloudflare Pages preview deployment (`*.pages.dev`, built by an actual push) before
+merging — local `wrangler pages dev` did not catch this loop.
+
+## hreflang tags with a double slash from feeding a leading-slash path into localePath()
+`localePath(lang, path)` (`src/i18n/ui.ts`) builds its own leading slash — it expects a bare
+path like `'method'` or `''`, never `'/method'`. `Base.astro`'s hreflang block used to derive
+its input by regex-stripping the locale prefix directly off `Astro.url.pathname` (which starts
+with `/`), leaving a leading slash in what got passed to `localePath()`. Result, live in
+production for an unknown period until caught 2026-07-25: every hreflang tag on every
+translated nested page read `https://niquit.app//method` (double slash), for every locale.
+**Fix:** `stripLocalePrefix()` in `src/i18n/ui.ts` strips both the locale prefix and the leading
+slash, returning the bare form `localePath()` expects. Used in `Base.astro`'s hreflang block and
+`Header.astro`'s language-switcher href — anywhere a "current path with locale/extension
+stripped" is needed for `localePath()`, use `stripLocalePrefix(canonicalPath(Astro.url))`, not a
+one-off regex.
