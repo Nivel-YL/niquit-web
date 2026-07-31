@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: de
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
+cluster: B
 ---
 
 > Einweg-Vapes enthalten mehr Nikotin als je zuvor und machen schneller süchtig als klassische Zigaretten. Die Gründe dafür, klar erklärt.

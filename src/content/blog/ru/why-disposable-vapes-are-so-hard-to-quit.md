@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: ru
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
+cluster: B
 ---
 
 > Одноразовые вейпы содержат больше никотина, чем сигареты, и это меняет мозг быстрее. Разбираемся, почему бросить их труднее, чем кажется.

@@ -5,6 +5,7 @@ publishDate: 2026-07-28
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
+cluster: C
 ---
 
 > You've tried patches, cold turkey, apps, maybe hypnosis. Here's what the research says about quitting smoking when nothing has worked before.

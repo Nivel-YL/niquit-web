@@ -5,6 +5,7 @@ publishDate: 2026-07-13
 lang: ru
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
+cluster: B
 ---
 
 > Пошаговый план, как бросить вейпить: что происходит с организмом по дням, как пережить тягу и не сорваться в первые недели.

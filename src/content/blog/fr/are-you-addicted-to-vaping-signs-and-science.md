@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: fr
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg
+cluster: B
 ---
 
 > Tu vapotes dès le réveil et tu culpabilises ? Voici les vrais signes de l'addiction à la vape, selon la science, et comment agir maintenant.

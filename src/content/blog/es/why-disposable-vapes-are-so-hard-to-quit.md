@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: es
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
+cluster: B
 ---
 
 > Los vapes desechables enganchan más rápido que el cigarrillo. Descubre por qué, con datos reales, y qué hacer si ya intentaste dejarlo sin éxito.

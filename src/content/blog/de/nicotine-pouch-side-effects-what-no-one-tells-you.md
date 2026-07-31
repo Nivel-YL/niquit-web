@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: de
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
+cluster: A
 ---
 
 > Nikotinbeutel gelten als harmlose Alternative zur Zigarette. Die Nebenwirkungen sind es nicht. Hier erfährst du, was Hersteller verschweigen.

@@ -5,6 +5,7 @@ publishDate: 2026-07-31
 lang: fr
 draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
+cluster: D
 ---
 
 > Tu as remplacé tes cigarettes par une e-cigarette et tu te demandes si tu es vraiment libéré de la nicotine. Réponse honnête : non, pas encore.

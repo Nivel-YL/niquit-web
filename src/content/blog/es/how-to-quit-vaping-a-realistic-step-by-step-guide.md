@@ -5,6 +5,7 @@ publishDate: 2026-07-13
 lang: es
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
+cluster: B
 ---
 
 > Dejar de vapear no es cuestión de fuerza de voluntad. Te explicamos, paso a paso, cómo hacerlo con un plan que funciona de verdad.

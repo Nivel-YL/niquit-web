@@ -5,6 +5,7 @@ publishDate: 2026-07-21
 lang: es
 draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg
+cluster: C
 ---
 
 > ¿Sabes qué esperar al dejar la nicotina? Aquí tienes la línea de tiempo real, día a día, con lo que sucede en tu cuerpo y por qué.

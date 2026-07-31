@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: es
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
+cluster: A
 ---
 
 > Las bolsitas de nicotina no son tan inofensivas como parecen. Descubre qué le pasa realmente a tu cuerpo y por qué crecen tan rápido entre los jóvenes.

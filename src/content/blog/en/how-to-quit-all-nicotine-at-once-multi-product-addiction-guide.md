@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: en
 draft: true
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg
+cluster: D
 ---
 
 You vape during the day, smoke a cigarette when you're drinking, and tuck a pouch under your lip before bed. None of it feels like "real" addiction because no single product is doing all the damage. But if you're trying to figure out how to quit all nicotine at once instead of trading one product for another, you're dealing with something more layered than a single-habit quit attempt, and the standard advice usually doesn't account for that.

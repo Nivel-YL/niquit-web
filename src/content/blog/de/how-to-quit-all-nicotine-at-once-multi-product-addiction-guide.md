@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: de
 draft: true
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg
+cluster: D
 ---
 
 > Zigarette, Vape und Pouch parallel? So gehst du das Aufhören mit allen Nicotinprodukten auf einmal an, mit echten Zahlen statt leeren Versprechen.

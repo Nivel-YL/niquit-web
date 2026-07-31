@@ -5,6 +5,7 @@ publishDate: 2026-07-22
 lang: ru
 draft: true
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg
+cluster: E
 ---
 
 > Куришь, чтобы успокоиться? Разбираем, снижает ли курение стресс на самом деле, или ты просто гасишь ломку от собственной привычки.

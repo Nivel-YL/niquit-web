@@ -5,6 +5,7 @@ publishDate: 2026-07-25
 lang: en
 draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
+cluster: C
 ---
 
 > Cravings aren't a willpower failure. They're your brain's wiring, hijacked by nicotine. Here's what's actually happening, and how long it lasts.

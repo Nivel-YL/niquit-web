@@ -5,6 +5,7 @@ publishDate: 2026-07-25
 lang: de
 draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
+cluster: C
 ---
 
 > Warum das Verlangen nach einer Zigarette so plötzlich und so stark kommt: die Wissenschaft hinter dem Craving, verständlich erklärt.

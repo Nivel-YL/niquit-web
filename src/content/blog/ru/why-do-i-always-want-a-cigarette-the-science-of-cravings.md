@@ -5,6 +5,7 @@ publishDate: 2026-07-25
 lang: ru
 draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
+cluster: C
 ---
 
 > Разбираем, почему тяга к сигарете возникает снова и снова: как никотин перестраивает мозг и сколько на самом деле длится один приступ.

@@ -5,6 +5,7 @@ publishDate: 2026-07-28
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
+cluster: C
 ---
 
 > Patchs, gomme, volonté pure : rien n'a tenu plus de trois semaines ? Voici pourquoi, et ce qui change vraiment la donne pour arrêter de fumer.

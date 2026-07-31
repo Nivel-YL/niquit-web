@@ -5,6 +5,7 @@ publishDate: 2026-07-06
 lang: de
 draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg
+cluster: A
 ---
 
 > Nikotinbeutel gelten als Alternative zur Zigarette. Wir zeigen, was wirklich drinsteckt, was die Forschung sagt und warum "weniger schädlich" nicht "harmlos" bedeutet.

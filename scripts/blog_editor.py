@@ -1253,6 +1253,7 @@ def build_frontmatter(
     today: datetime.date,
     lang: str,
     slug: str,
+    cluster: str,
     style_violations: list[str] | None = None,
 ) -> str:
     t = title.replace('"', '\\"')
@@ -1265,6 +1266,7 @@ def build_frontmatter(
         f'lang: {lang}',
         'draft: true',
         f'heroImage: /images/blog/{slug}.svg',
+        f'cluster: {cluster}',
     ]
     if style_violations:
         issues = '; '.join(style_violations)
@@ -1286,6 +1288,7 @@ def process_language(
     today: datetime.date,
     published_articles: list[dict],
     cluster_prior_articles: list[str],
+    cluster: str,
 ) -> dict:
     lang_specific_facts = lang_specific.get(lang, '')
 
@@ -1308,7 +1311,7 @@ def process_language(
     else:
         print(f'[{lang}] style check passed.', flush=True)
 
-    frontmatter  = build_frontmatter(title, description, today, lang, article_slug, violations or None)
+    frontmatter  = build_frontmatter(title, description, today, lang, article_slug, cluster, violations or None)
     article_text = frontmatter + '\n\n' + body + '\n'
 
     out_dir = BLOG_DIR / lang
@@ -1418,6 +1421,7 @@ def draft_one(
                 process_language,
                 lang, client, topic_title, shared_facts, lang_specific,
                 voice_guide_txt, article_slug, today, published_articles, cluster_prior_articles,
+                cluster,
             ): lang
             for lang in LANGUAGES
         }

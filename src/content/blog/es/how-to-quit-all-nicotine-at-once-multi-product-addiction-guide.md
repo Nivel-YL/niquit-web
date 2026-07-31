@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: es
 draft: true
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg
+cluster: D
 ---
 
 > Fumas, vapeas y a veces te metes una bolsita de nicotina cuando no puedes hacer ninguna de las dos cosas. Aquí tienes una guía real para dejarlo todo a la vez.

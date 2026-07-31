@@ -5,6 +5,7 @@ publishDate: 2026-07-08
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
+cluster: A
 ---
 
 > Struggling to quit ZYN, On! or Velo? Here's a real timeline, what withdrawal actually feels like, and a plan that works.

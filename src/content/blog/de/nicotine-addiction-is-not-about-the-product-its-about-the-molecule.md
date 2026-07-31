@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: de
 draft: true
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
+cluster: D
 ---
 
 > Nikotinsucht hat nichts mit Zigarette, Vape oder Pouch zu tun. Sie entsteht im Gehirn, durch ein einziges Molekül. Hier erfährst du warum.

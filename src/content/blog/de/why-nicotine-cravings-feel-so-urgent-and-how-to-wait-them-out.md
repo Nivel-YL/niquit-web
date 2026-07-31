@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: de
 draft: true
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg
+cluster: E
 ---
 
 > Nikotin-Craving fühlt sich lebensbedrohlich an, dauert aber nur wenige Minuten. Die Wissenschaft dahinter und wie du die Welle ohne Zigarette übersteht.

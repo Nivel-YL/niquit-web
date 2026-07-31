@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: es
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg
+cluster: B
 ---
 
 > ¿Vapeas nada más despertarte? Descubre las señales reales de adicción a la nicotina y qué dice la ciencia sobre dejar de vapear.

@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: de
 draft: false
 heroImage: /images/blog/snus-vs-nicotine-pouches-what-is-the-difference.svg
+cluster: A
 ---
 
 > Snus enthält Tabak, Nicotine Pouches nicht. Klingt banal, ändert aber alles: Geschmack, Wirkung, Haltbarkeit. Der Vergleich im Detail.

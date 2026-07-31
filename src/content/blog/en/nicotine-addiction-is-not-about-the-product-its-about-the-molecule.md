@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: en
 draft: true
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
+cluster: D
 ---
 
 > Cigarettes, vapes, pouches, patches: different products, same molecule. Here's why nicotine addiction works the same way no matter how you take it.

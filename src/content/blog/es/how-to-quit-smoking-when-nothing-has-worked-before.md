@@ -5,6 +5,7 @@ publishDate: 2026-07-28
 lang: es
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
+cluster: C
 ---
 
 > Has probado parches, la fuerza de voluntad, el día de Año Nuevo. Y volviste a fumar. Esto es lo que realmente pasa en tu cerebro y qué hacer distinto ahora.

@@ -5,6 +5,7 @@ publishDate: 2026-07-06
 lang: es
 draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg
+cluster: A
 ---
 
 > Las bolsas de nicotina se venden como alternativa "segura" al tabaco, pero algunas contienen más nicotina que un cigarrillo entero. Te contamos qué dice la evidencia.

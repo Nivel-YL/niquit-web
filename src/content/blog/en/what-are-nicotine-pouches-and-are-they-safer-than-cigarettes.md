@@ -5,6 +5,7 @@ publishDate: 2026-07-06
 lang: en
 draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg
+cluster: A
 ---
 
 > Nicotine pouches promise a smoke-free fix without tar or tobacco leaf. Here's what the evidence actually says about the risks and how they compare to cigarettes.

@@ -5,6 +5,7 @@ publishDate: 2026-07-25
 lang: es
 draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg
+cluster: C
 ---
 
 > Las ganas de fumar no son falta de voluntad. Descubre qué pasa en tu cerebro cuando dejas la nicotina y por qué el deseo aparece justo cuando menos lo esperas.

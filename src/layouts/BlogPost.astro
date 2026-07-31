@@ -78,8 +78,8 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
         <p class="text-xs font-semibold uppercase tracking-widest mb-6" style="color:#35C6D8; font-family:'JetBrains Mono',monospace;">
           {s.article?.readNext ?? 'Read next'}
         </p>
-        <div class="flex flex-col gap-4">
-          {related.map((post) => (
+        <div id="related-articles" class="flex flex-col gap-4">
+          {related.slice(0, 3).map((post) => (
             <a
               href={localePath(lang, `blog/${post.slug}`)}
               class="group flex flex-col gap-1 rounded-xl px-5 py-4 transition-colors"
@@ -93,6 +93,18 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
             </a>
           ))}
         </div>
+        {
+          /* Wider topical pool (same cluster first, then nearby ones) for the
+             client to pick a random 3 from on each visit — see script below.
+             Server-rendered 3 above is the no-JS / first-paint fallback. */
+        }
+        <script type="application/json" id="related-pool" set:html={JSON.stringify(
+          related.map((post) => ({
+            title: post.title,
+            description: post.description,
+            href: localePath(lang, `blog/${post.slug}`),
+          }))
+        )} />
       </div>
     )}
 
@@ -198,6 +210,51 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
           to_article: toSlug,
         });
       }
+    });
+  })();
+
+  // 5. "Read next": pick a random 3 from the wider topical pool on each visit,
+  // instead of always showing the same server-rendered ones.
+  (function shuffleRelated() {
+    const poolEl = document.getElementById('related-pool');
+    const container = document.getElementById('related-articles');
+    if (!poolEl || !container) return;
+
+    let pool: { title: string; description: string; href: string }[];
+    try {
+      pool = JSON.parse(poolEl.textContent || '[]');
+    } catch {
+      return;
+    }
+    if (pool.length <= 3) return; // already showing everything there is
+
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+
+    container.innerHTML = '';
+    pool.slice(0, 3).forEach((post) => {
+      const a = document.createElement('a');
+      a.href = post.href;
+      a.className = 'group flex flex-col gap-1 rounded-xl px-5 py-4 transition-colors';
+      a.style.background = '#18243F';
+      a.style.textDecoration = 'none';
+
+      const titleSpan = document.createElement('span');
+      titleSpan.className = 'font-bold leading-snug group-hover:text-cyan-300 transition-colors';
+      titleSpan.style.fontFamily = "'Montserrat',sans-serif";
+      titleSpan.style.color = '#F5F7FA';
+      titleSpan.textContent = post.title;
+
+      const descSpan = document.createElement('span');
+      descSpan.className = 'text-sm line-clamp-2';
+      descSpan.style.color = '#B0B8C8';
+      descSpan.textContent = post.description;
+
+      a.appendChild(titleSpan);
+      a.appendChild(descSpan);
+      container.appendChild(a);
     });
   })();
 </script>

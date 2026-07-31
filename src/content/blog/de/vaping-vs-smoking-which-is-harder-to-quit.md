@@ -5,6 +5,7 @@ publishDate: 2026-07-17
 lang: de
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg
+cluster: B
 ---
 
 > Vapen oder Rauchen aufhören, was ist schwerer? Die Zahlen aus Deutschland und den USA geben eine überraschend klare Antwort.

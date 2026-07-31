@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: ru
 draft: true
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg
+cluster: E
 ---
 
 > Тяга к никотину длится всего 3-5 минут, но в моменте кажется, что она никогда не закончится. Разбираемся, что происходит в мозге и как продержаться.

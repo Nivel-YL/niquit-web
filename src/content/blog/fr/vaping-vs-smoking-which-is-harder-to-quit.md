@@ -5,6 +5,7 @@ publishDate: 2026-07-17
 lang: fr
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg
+cluster: B
 ---
 
 > Vape ou clope, laquelle est la plus difficile à quitter ? Les chiffres, les mécanismes et ce que révèle la recherche récente sur la dépendance.

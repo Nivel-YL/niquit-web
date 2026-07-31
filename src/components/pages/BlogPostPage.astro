@@ -13,20 +13,37 @@ const { Content } = await render(entry);
 
 const slug = entry.id.split('/').pop() ?? entry.id;
 
-function getCluster(s: string): string {
+// Fallback for the handful of legacy/orphan drafts predating the cluster
+// backlog (never published, but keep this so nothing crashes if one ever is).
+function guessCluster(s: string): string {
   if (s.includes('vap')) return 'vaping';
   if (s.includes('pouch') || s.includes('snus') || s.includes('zyn')) return 'nicotine-pouches';
   return 'nicotine-science';
 }
-const cluster = getCluster(slug);
+function clusterOf(e: CollectionEntry<'blog'>): string {
+  return e.data.cluster ?? guessCluster(e.id.split('/').pop() ?? e.id);
+}
+const cluster = clusterOf(entry);
+
+// Related-articles pool: same cluster first (true topical closeness, not a
+// slug-substring guess), topped up with the most recent other-cluster posts
+// so smaller clusters still get a decent-sized pool. Wider than 3 on purpose,
+// BlogPost.astro picks a random 3 from this pool client-side on each visit,
+// this list is not what gets shown as-is.
+const RELATED_POOL_SIZE = 8;
 
 const allPosts = await getCollection('blog', (e) =>
   e.data.lang === lang && !e.data.draft && e.id !== entry.id
 );
-const related = allPosts
-  .filter((e) => getCluster(e.id.split('/').pop() ?? e.id) === cluster)
-  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
-  .slice(0, 3)
+const sameCluster = allPosts
+  .filter((e) => clusterOf(e) === cluster)
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+const otherCluster = allPosts
+  .filter((e) => clusterOf(e) !== cluster)
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const related = [...sameCluster, ...otherCluster]
+  .slice(0, RELATED_POOL_SIZE)
   .map((e) => ({
     title: e.data.title,
     description: e.data.description,

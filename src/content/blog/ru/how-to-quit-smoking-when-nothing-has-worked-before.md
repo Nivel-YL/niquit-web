@@ -5,6 +5,7 @@ publishDate: 2026-07-28
 lang: ru
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
+cluster: C
 ---
 
 > Пластыри, никотиновая жвачка, книга Аллена Карра, сила воли на морозе, и снова сигарета в руке. Разбираемся, почему так происходит и что реально работает.

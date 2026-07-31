@@ -5,6 +5,7 @@ publishDate: 2026-07-08
 lang: es
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
+cluster: A
 ---
 
 > Dejar las bolsas de nicotina es más difícil de lo que parece: el 73% de los jóvenes que las prueban sigue usándolas meses después. Te contamos cómo lograrlo.

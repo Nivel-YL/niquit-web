@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: en
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg
+cluster: B
 ---
 
 > Wondering if you're addicted to vaping? Here are the real signs, backed by science, plus what's actually happening in your brain.

@@ -5,6 +5,7 @@ publishDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
+cluster: D
 ---
 
 > Du hast die Zigaretten weggeworfen und greifst jetzt zur E-Zigarette. Die ehrliche Antwort: Deine Nikotinsucht ist geblieben, nur die Verpackung hat sich geändert.

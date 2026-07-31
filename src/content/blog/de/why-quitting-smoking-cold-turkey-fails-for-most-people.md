@@ -5,6 +5,7 @@ publishDate: 2026-07-17
 lang: de
 draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
+cluster: C
 ---
 
 > Fast 75% aller Raucher versuchen es ohne Hilfe, aber nur 3 bis 7% schaffen es dauerhaft. Die Gründe liegen tief im Gehirn, nicht in fehlender Willenskraft.

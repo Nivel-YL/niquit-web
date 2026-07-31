@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: fr
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
+cluster: A
 ---
 
 > Sachets de nicotine : gencives abîmées, cœur qui s'emballe, dépendance express. Ce que les fabricants ne mettent pas sur l'emballage.

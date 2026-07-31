@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: es
 draft: false
 heroImage: /images/blog/snus-vs-nicotine-pouches-what-is-the-difference.svg
+cluster: A
 ---
 
 > Snus y bolsas de nicotina se confunden todo el tiempo, pero no son lo mismo. Te explicamos la diferencia real: composición, potencia y qué elegir si quieres dejarlo.

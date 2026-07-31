@@ -5,6 +5,7 @@ publishDate: 2026-07-20
 lang: ru
 draft: true
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
+cluster: D
 ---
 
 > Никотиновая зависимость работает одинаково в сигаретах, вейпах и паучах. Разбираемся, почему дело не в продукте, а в молекуле никотина.

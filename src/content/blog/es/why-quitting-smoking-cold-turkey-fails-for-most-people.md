@@ -5,6 +5,7 @@ publishDate: 2026-07-17
 lang: es
 draft: false
 heroImage: /images/blog/why-quitting-smoking-cold-turkey-fails-for-most-people.svg
+cluster: C
 ---
 
 > Solamente entre el 3 y el 7% logra dejar el cigarro de golpe y sin ayuda. Descubre por qué el método más popular es también el que menos funciona.

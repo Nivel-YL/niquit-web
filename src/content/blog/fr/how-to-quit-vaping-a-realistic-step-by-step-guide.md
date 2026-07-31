@@ -5,6 +5,7 @@ publishDate: 2026-07-13
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg
+cluster: B
 ---
 
 > Arrêter la vape sans y laisser sa santé mentale : timeline réaliste, symptômes attendus et méthode concrète pour tenir sur la durée.

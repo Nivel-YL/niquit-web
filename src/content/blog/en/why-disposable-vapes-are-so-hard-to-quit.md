@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: en
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
+cluster: B
 ---
 
 > Disposable vapes pack more nicotine, cheaper prices, and sweeter flavors than ever, and quitting rates have collapsed as a result. Here's why walking away feels so much harder now.

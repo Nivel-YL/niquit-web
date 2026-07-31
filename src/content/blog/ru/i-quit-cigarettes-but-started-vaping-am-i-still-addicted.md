@@ -5,6 +5,7 @@ publishDate: 2026-07-31
 lang: ru
 draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg
+cluster: D
 ---
 
 > Бросил сигареты, но вейп из рук не выпускаешь? Разбираемся, почему зависимость никуда не делась и что с этим делать дальше.

@@ -5,6 +5,7 @@ publishDate: 2026-07-17
 lang: en
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg
+cluster: B
 ---
 
 > Vaping vs smoking: which is harder to quit? The science is split, but the honest answer depends on your device, your habits, and how fast you built the routine.

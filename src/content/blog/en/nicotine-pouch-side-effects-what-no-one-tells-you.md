@@ -5,6 +5,7 @@ publishDate: 2026-07-10
 lang: en
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg
+cluster: A
 ---
 
 > Nicotine pouches feel "cleaner" than smoking, but the side effects are real. Here's what the research actually shows before you try one.

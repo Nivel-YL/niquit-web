@@ -5,6 +5,7 @@ publishDate: 2026-07-22
 lang: de
 draft: true
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg
+cluster: E
 ---
 
 Du stehst vor einer wichtigen Präsentation, die Hände zittern leicht, und die erste Zigarette der Pause fühlt sich an wie eine Rettung. Genau dieses Gefühl hält Millionen Menschen am Rauchen fest. Aber reduziert Rauchen wirklich Stress, oder erlebst du nur die Rückkehr zu einem Zustand, den das Rauchen selbst erst kaputt gemacht hat? Die Forschung gibt darauf eine klare Antwort, und sie widerspricht fast allem, was sich beim Rauchen anfühlt.

@@ -5,6 +5,7 @@ publishDate: 2026-07-08
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg
+cluster: A
 ---
 
 > Tu veux arrêter les sachets de nicotine mais les envies reviennent sans cesse ? Voici pourquoi c'est si difficile et comment s'en sortir vraiment.

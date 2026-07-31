@@ -5,6 +5,7 @@ publishDate: 2026-07-14
 lang: fr
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg
+cluster: B
 ---
 
 > Puffs, Elf Bar, Geek Bar : ces petites vapes jetables sont devenues un piège de dépendance sournois. Voici pourquoi elles sont si dures à lâcher, et ce qui a changé en quelques années.
