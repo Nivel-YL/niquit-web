@@ -1,12 +1,11 @@
 # NiQuit Blog Pipeline: производственная линия
-Обновлено автоматически: 2026-08-03 10:38 UTC
+Обновлено автоматически: 2026-08-03 12:46 UTC
 
 Склад сырья → Цех (research + написание, 5 языков) → ОТК (источники →
 между языками → автоисправление) → Склад готовой продукции (approved) →
 Отгрузка (публикация)
 
-## Склад сырья: темы в резерве (pending), 9
-- F-01: What happens to your body when you quit nicotine week by week
+## Склад сырья: темы в резерве (pending), 8
 - F-02: How nicotine rewires your brain and how long recovery takes
 - F-03: How much money do smokers actually spend in a lifetime?
 - G-01: The first 72 hours without nicotine a survival guide
@@ -16,9 +15,10 @@
 - H-02: There is no such thing as a casual smoker the evidence
 - H-03: Are light cigarettes actually safer what the research says
 
-## Цех и ОТК: в работе, 2
+## Цех и ОТК: в работе, 3
 - E-03: Smoking triggers how to identify yours and break the loop — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/smoking-triggers-how-to-identify-yours-and-break-the-loop.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/smoking-triggers-how-to-identify-yours-and-break-the-loop.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/smoking-triggers-how-to-identify-yours-and-break-the-loop.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/smoking-triggers-how-to-identify-yours-and-break-the-loop.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/smoking-triggers-how-to-identify-yours-and-break-the-loop.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/smoking-triggers-how-to-identify-yours-and-break-the-loop/_source_verification_report.md)
 - E-04: Quitting nicotine and anxiety what is normal and what to do — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do/_source_verification_report.md)
+- F-01: What happens to your body when you quit nicotine week by week — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/what-happens-to-your-body-when-you-quit-nicotine-week-by-week/_source_verification_report.md)
 
 ## Склад готовой продукции: одобрено, в очереди (approved), 4
 - D-02: Nicotine addiction is not about the product its about the molecule — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/nicotine-addiction-is-not-about-the-product-its-about-the-molecule/_source_verification_report.md)
@@ -47,3 +47,4 @@
 - 2026-07-25 (how-to-quit-all-nicotine-at-once-multi-product-addiction-guide): засчитан
 - 2026-08-03 (smoking-triggers-how-to-identify-yours-and-break-the-loop): засчитан
 - 2026-08-03 (quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do): засчитан
+- 2026-08-03 (what-happens-to-your-body-when-you-quit-nicotine-week-by-week): засчитан
