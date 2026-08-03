@@ -1229,6 +1229,12 @@ def write_article(
         raise RuntimeError(f'API returned no text block for [{lang}] write call')
     text = text_blocks[0].strip()
 
+    if resp.stop_reason == 'max_tokens':
+        raise RuntimeError(
+            f'write_article response for [{lang}] was cut off by the token limit, '
+            'the saved article would be an unusable fragment'
+        )
+
     title_m = re.search(r'^#\s+(.+)$', text, re.MULTILINE)
     title   = title_m.group(1).strip() if title_m else topic_title
 
@@ -1241,6 +1247,19 @@ def write_article(
     body = re.sub(r'^#\s+.+\n?', '', text, count=1)
     body = re.sub(r'^>\s+.+\n?', '', body, count=1)
     body = body.strip()
+
+    # A near-miss on the 800-1200 target is a style_check finding, not fatal (the
+    # article is still usable and gets flagged for review). But a fraction of that,
+    # like the 30-word fragment [de] produced for F-01 on 2026-08-03, is not "short",
+    # it's a broken generation: passing it on to the audit step wastes a full audit
+    # call trying to fact-check a sentence that was never finished, then fails there
+    # instead, so the real problem never gets a retry where it would actually help.
+    if len(body.split()) < WORD_COUNT_MIN // 2:
+        raise RuntimeError(
+            f'write_article response for [{lang}] is only {len(body.split())} words, '
+            f'far short of the {WORD_COUNT_MIN}-{WORD_COUNT_MAX} target, treating as a '
+            'failed generation rather than passing a broken draft on to the audit step'
+        )
 
     return title, description, body
 
