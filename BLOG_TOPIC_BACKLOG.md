@@ -153,7 +153,7 @@ topics:
 - id: E-03
   title_en: Smoking triggers how to identify yours and break the loop
   cluster: E
-  status: pending
+  status: drafted
   published: {}
 - id: E-04
   title_en: Quitting nicotine and anxiety what is normal and what to do
