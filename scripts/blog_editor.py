@@ -1532,8 +1532,19 @@ def main() -> None:
 
         gh_env = os.environ.get('GITHUB_ENV')
         if gh_env:
+            # Slugs of only the topics that actually finished, so the workflow's
+            # backstop commit step can stage exactly those files. Without this it
+            # falls back to `git add`-ing the whole content tree, which sweeps up
+            # partial/broken drafts left on disk by a topic that failed partway
+            # (e.g. F-01's 30-word [de] fragment on 2026-08-03) even though that
+            # topic's status was correctly reset to 'pending' in the backlog.
+            topics_now     = load_backlog()
+            drafted_slugs  = [
+                slugify(t['title_en']) for t in topics_now if t['id'] in drafted_ids
+            ]
             with open(gh_env, 'a', encoding='utf-8') as f:
                 f.write(f'DRAFTED_IDS={",".join(drafted_ids)}\n')
+                f.write(f'DRAFTED_SLUGS={",".join(drafted_slugs)}\n')
 
         print(f'\nTotal drafted: {len(drafted_ids)} topic(s): {", ".join(drafted_ids)}')
         if failed_ids:

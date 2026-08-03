@@ -42,13 +42,39 @@ jobs:
         # written but not yet committed before a crash, this is exactly the gap
         # that lost E-03 and E-04's completed work on 2026-07-27 when F-01 failed
         # and this step was skipped because it wasn't if: always().
+        #
+        # Scoped to DRAFTED_SLUGS (topics that actually finished) rather than
+        # `git add`-ing the whole content tree: a blanket add also picks up
+        # partial/broken files left on disk by a topic that failed partway (e.g.
+        # F-01's 30-word [de] fragment on 2026-08-03), even though that topic's
+        # own status was correctly reset to 'pending' in the backlog. Committing
+        # those orphaned files anyway just leaves stale drafts in the repo that
+        # get silently overwritten (and re-paid-for) next time F-01 is picked up.
         if: always()
         run: |
           git config user.name "Blog Editor Bot"
           git config user.email "jelissei.levin@gmail.com"
-          git add src/content/blog/ public/images/blog/ BLOG_TOPIC_BACKLOG.md docs/fact-audits/ PIPELINE_STATUS.md
+
+          if [ -n "$DRAFTED_SLUGS" ]; then
+            IFS=',' read -ra SLUGS <<< "$DRAFTED_SLUGS"
+            for slug in "${SLUGS[@]}"; do
+              for lang in en ru de es fr; do
+                f="src/content/blog/${lang}/${slug}.md"
+                if [ -f "$f" ]; then git add "$f"; fi
+              done
+              f="public/images/blog/${slug}.svg"
+              if [ -f "$f" ]; then git add "$f"; fi
+              d="docs/fact-audits/${slug}"
+              if [ -d "$d" ]; then git add "$d"; fi
+            done
+          fi
+
+          # Always safe to sync regardless of per-topic outcome: these reflect
+          # accurate status either way, including failed topics reset to pending.
+          git add BLOG_TOPIC_BACKLOG.md PIPELINE_STATUS.md docs/fact-audits/_pilot_runs_log.json 2>/dev/null || true
+
           git diff --cached --quiet && echo "Nothing to commit, skipping." || (
-            git commit -m "blog: draft ${{ env.DRAFTED_IDS }} (backstop)" &&
+            git commit -m "blog: draft ${DRAFTED_IDS:-unknown} (backstop)" &&
             git pull --rebase origin master &&
             git push
           )
