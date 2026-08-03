@@ -163,7 +163,7 @@ topics:
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
   cluster: F
-  status: pending
+  status: drafted
   published: {}
 - id: F-02
   title_en: How nicotine rewires your brain and how long recovery takes
