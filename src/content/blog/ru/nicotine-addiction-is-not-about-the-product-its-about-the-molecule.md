@@ -1,9 +1,9 @@
 ---
 title: "Никотиновая зависимость: дело не в сигаретах, вейпах или паучах, а в молекуле"
 description: "Никотиновая зависимость работает одинаково в сигаретах, вейпах и паучах. Разбираемся, почему дело не в продукте, а в молекуле никотина."
-publishDate: 2026-07-20
+publishDate: 2026-08-04
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
 cluster: D
 ---

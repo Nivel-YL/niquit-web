@@ -1,9 +1,9 @@
 ---
 title: "La adicción a la nicotina no es del producto: es de la molécula"
 description: "La adicción a la nicotina depende del cerebro, no del envase. Por qué cigarrillos, vapeadores y bolsitas activan el mismo mecanismo."
-publishDate: 2026-07-20
+publishDate: 2026-08-04
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
 cluster: D
 ---

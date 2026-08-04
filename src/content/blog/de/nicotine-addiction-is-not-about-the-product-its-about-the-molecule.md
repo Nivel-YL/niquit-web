@@ -1,9 +1,9 @@
 ---
 title: "Nikotinsucht: Warum es nie um die Zigarette ging, sondern ums Molekül"
 description: "Nikotinsucht hat nichts mit Zigarette, Vape oder Pouch zu tun. Sie entsteht im Gehirn, durch ein einziges Molekül. Hier erfährst du warum."
-publishDate: 2026-07-20
+publishDate: 2026-08-04
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg
 cluster: D
 ---

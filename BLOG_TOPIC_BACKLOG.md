@@ -133,8 +133,13 @@ topics:
 - id: D-02
   title_en: Nicotine addiction is not about the product its about the molecule
   cluster: D
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-04'
+    ru: '2026-08-04'
+    de: '2026-08-04'
+    es: '2026-08-04'
+    fr: '2026-08-04'
 - id: D-03
   title_en: How to quit all nicotine at once multi-product addiction guide
   cluster: D
