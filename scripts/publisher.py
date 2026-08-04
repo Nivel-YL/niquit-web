@@ -19,6 +19,7 @@ import yaml
 from slugify import slugify
 
 import pipeline_status
+from link_validator import create_github_issue, validate_links
 
 # ── paths ────────────────────────────────────────────────────────────────────
 
@@ -83,6 +84,31 @@ def publish_topic(topic: dict, today: datetime.date) -> list[str]:
         if 'draft: true' not in text:
             print(f'  [{lang}] already live, skipping')
             continue
+
+        # Last gate before this goes live (2026-08-04): draft-time validation
+        # in blog_editor.py already checks links, but this also catches a
+        # link broken by a manual edit made during human review between
+        # 'drafted' and 'approved', which draft-time validation never sees
+        # since it already ran and passed before that edit happened.
+        # require_published=True here (unlike the draft-time call) because a
+        # link to a still-draft sibling would 404 the moment this page
+        # actually goes live, where it was fine to leave unresolved earlier.
+        link_problems = validate_links(text, lang, BLOG_DIR, require_published=True)
+        if link_problems:
+            print(f'  [{lang}] BLOCKED: {len(link_problems)} bad link(s), not publishing', file=sys.stderr)
+            issue_url = create_github_issue(
+                title=f'[blog-pipeline] Publish blocked: bad link(s) in {slug} ({lang})',
+                body=(
+                    f'Article: `{path.relative_to(REPO_ROOT)}`\n\n'
+                    f'Publisher would not flip this to draft: false because of:\n\n'
+                    + '\n'.join(f'- {p}' for p in link_problems)
+                    + '\n\nFix the link(s) and re-run the publisher, or this topic stays queued.'
+                ),
+            )
+            if issue_url:
+                print(f'  [{lang}] escalated to {issue_url}', file=sys.stderr)
+            continue
+
         text = text.replace('draft: true', 'draft: false', 1)
         text = re.sub(r'publishDate: \d{4}-\d{2}-\d{2}', f'publishDate: {today.isoformat()}', text, count=1)
         path.write_text(text, encoding='utf-8')
@@ -110,12 +136,23 @@ def main() -> None:
             langs = publish_topic(topic, today)
             if langs:
                 # Update backlog entry in-place (topics list is already loaded)
-                topic['status'] = 'published'
                 topic.setdefault('published', {})
                 for lang in langs:
                     topic['published'][lang] = today.isoformat()
+                # Only 'published' once every language is actually live. A
+                # language the link validator just blocked stays draft: true
+                # on disk, so leaving status at 'approved' here (instead of
+                # unconditionally marking 'published' the moment ANY language
+                # went out) keeps this topic in the queue so the next
+                # publisher run retries the blocked one too, rather than
+                # silently losing it the moment it drops out of 'approved'.
+                if set(topic['published']) >= set(LANGUAGES):
+                    topic['status'] = 'published'
+                    print(f'  → marked published ({", ".join(langs)})')
+                else:
+                    still_missing = [l for l in LANGUAGES if l not in topic['published']]
+                    print(f'  → partially published ({", ".join(langs)}); staying in queue, missing: {", ".join(still_missing)}')
                 published_ids.append(topic['id'])
-                print(f'  → marked published ({", ".join(langs)})')
             else:
                 print(f'  → no files updated, skipping backlog update', file=sys.stderr)
 

@@ -34,6 +34,7 @@ import yaml
 from slugify import slugify
 
 import pipeline_status
+from link_validator import validate_links
 
 # -- paths --------------------------------------------------------------------
 
@@ -1259,6 +1260,22 @@ def write_article(
             f'write_article response for [{lang}] is only {len(body.split())} words, '
             f'far short of the {WORD_COUNT_MIN}-{WORD_COUNT_MAX} target, treating as a '
             'failed generation rather than passing a broken draft on to the audit step'
+        )
+
+    # Structural link gate (2026-08-04): the model has now invented a wrong
+    # domain (niquit.netlify.app) and dropped the (url) off a [text] link
+    # entirely, in different articles, on different days, despite an explicit
+    # URL being handed to it in the prompt above. Retrying the write call
+    # catches the one-off cases; anything that survives every retry fails the
+    # topic cleanly here rather than reaching the audit step or, worse, ever
+    # getting committed. This is the draft-time half of a two-gate check -
+    # publisher.py runs the same validator again right before going live, to
+    # also catch a link broken by a manual edit after this point.
+    link_problems = validate_links(body, lang, BLOG_DIR, require_published=False)
+    if link_problems:
+        raise RuntimeError(
+            f'write_article response for [{lang}] has {len(link_problems)} bad link(s): '
+            + '; '.join(link_problems)
         )
 
     return title, description, body
