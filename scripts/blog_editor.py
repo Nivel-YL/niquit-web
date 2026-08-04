@@ -1288,7 +1288,14 @@ def build_frontmatter(
         f'cluster: {cluster}',
     ]
     if style_violations:
-        issues = '; '.join(style_violations)
+        # style_check() messages embed the offending phrase in literal quotes
+        # (e.g. 'banned phrase: "d'un côté"'), which breaks this line's own
+        # YAML double-quoted string if left unescaped, exactly like title/
+        # description above. Unescaped, this doesn't fail loudly at draft
+        # time, it silently produces invalid YAML that only breaks later, at
+        # build time, for every article, not just this one (2026-08-03,
+        # fr/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do).
+        issues = '; '.join(style_violations).replace('"', '\\"')
         lines.append(f'style_check: "failed, {issues}"')
     lines.append('---')
     return '\n'.join(lines)

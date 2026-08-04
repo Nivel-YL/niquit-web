@@ -6,7 +6,7 @@ lang: fr
 draft: true
 heroImage: /images/blog/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.svg
 cluster: E
-style_check: "failed, banned phrase: "d'un côté""
+style_check: "failed, banned phrase: \"d'un côté\""
 ---
 
 > L'anxiété après l'arrêt de la nicotine est fréquente et souvent temporaire. Voici ce qui est normal, combien de temps ça dure, et comment tenir le coup.
