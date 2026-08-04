@@ -36,9 +36,9 @@ Auch das Alter spielt eine Rolle. Eine in JAMA Network Open (2023) veröffentlic
 
 ## Warum bin ich immer noch süchtig, obwohl ich auf ein "sichereres" Produkt umgestiegen bin?
 
-Genau das ist die Falle. Wer von Zigaretten auf Vapes wechselt, denkt oft, er hätte einen großen Schritt gemacht. In unserem Artikel [I quit cigarettes but started vaping am I still addicted?] gehen wir genauer darauf ein, warum dieser Wechsel die Sucht selbst nicht auflöst, sondern nur ihr Erscheinungsbild ändert. Das Molekül bleibt dasselbe, der Rezeptor bleibt derselbe, und das Verlangen kommt zuverlässig zurück.
+Genau das ist die Falle. Wer von Zigaretten auf Vapes wechselt, denkt oft, er hätte einen großen Schritt gemacht. In unserem Artikel [Ich habe mit dem Rauchen aufgehört, aber vape jetzt, bin ich noch süchtig?](/de/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted) gehen wir genauer darauf ein, warum dieser Wechsel die Sucht selbst nicht auflöst, sondern nur ihr Erscheinungsbild ändert. Das Molekül bleibt dasselbe, der Rezeptor bleibt derselbe, und das Verlangen kommt zuverlässig zurück.
 
-Dasselbe gilt für den Umstieg auf Nikotinbeutel. Wer wissen will, wie sich das Aufhören bei Produkten wie ZYN, On! oder Velo konkret gestaltet, findet dazu einen praktischen Leitfaden unter [Wie man Nikotinbeutel abgewöhnt (ZYN, On!, Velo)]. Und wer sich fragt, ob Vapen oder Rauchen schwerer aufzugeben ist, bekommt in [Vaping vs smoking, was ist schwerer aufzugeben?] eine ehrliche Antwort, die genau bei diesem Punkt ansetzt: Die Substanz entscheidet, nicht die Verpackung.
+Dasselbe gilt für den Umstieg auf Nikotinbeutel. Wer wissen will, wie sich das Aufhören bei Produkten wie ZYN, On! oder Velo konkret gestaltet, findet dazu einen praktischen Leitfaden unter [Wie man Nikotinbeutel abgewöhnt (ZYN, On!, Velo)](/de/blog/how-to-quit-nicotine-pouches-zyn-on-velo). Und wer sich fragt, ob Vapen oder Rauchen schwerer aufzugeben ist, bekommt in [Vaping vs smoking, was ist schwerer aufzugeben?](/de/blog/vaping-vs-smoking-which-is-harder-to-quit) eine ehrliche Antwort, die genau bei diesem Punkt ansetzt: Die Substanz entscheidet, nicht die Verpackung.
 
 ## Was bedeutet das für dein Aufhören?
 

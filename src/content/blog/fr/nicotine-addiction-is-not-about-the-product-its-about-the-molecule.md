@@ -18,7 +18,7 @@ Une fois dans ton organisme, la nicotine va se fixer sur des récepteurs précis
 
 Ce mécanisme ne demande pas d'où vient la nicotine. Une cigarette, une vape, un patch : le récepteur α4β2 ne fait pas le tri. Il réagit à la molécule, point final.
 
-C'est exactement pour ça que passer d'un produit à un autre ne règle rien. Si tu es dans cette situation, tu as peut-être déjà lu notre article [j'ai arrêté la cigarette mais j'ai commencé à vapoter, suis-je toujours dépendant ?]. La réponse courte : oui, parce que le circuit neurologique qui te tient est identique.
+C'est exactement pour ça que passer d'un produit à un autre ne règle rien. Si tu es dans cette situation, tu as peut-être déjà lu notre article [j'ai arrêté la cigarette mais j'ai commencé à vapoter, suis-je toujours dépendant ?](/fr/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted). La réponse courte : oui, parce que le circuit neurologique qui te tient est identique.
 
 ## Les sachets de nicotine rendent-ils moins dépendant que les cigarettes ?
 
@@ -26,7 +26,7 @@ C'est une question qu'on nous pose souvent, et la réponse tient en un chiffre q
 
 Trois chiffres quasiment identiques, pour trois modes de consommation différents. Si le produit changeait vraiment la donne, on verrait un écart net. Ce n'est pas le cas. Ce que ces chiffres montrent, c'est que la dépendance suit la molécule, pas le packaging.
 
-Ce qui change en revanche, c'est la vitesse à laquelle la nicotine atteint ton cerveau.  Un sachet sous la lèvre agit plus lentement, mais il active exactement les mêmes récepteurs. La vitesse influence à quelle vitesse tu deviens accro, pas si tu le deviens. Tu peux creuser ce sujet dans notre article sur [les sachets de nicotine, sont-ils vraiment plus sûrs que les cigarettes ?]
+Ce qui change en revanche, c'est la vitesse à laquelle la nicotine atteint ton cerveau.  Un sachet sous la lèvre agit plus lentement, mais il active exactement les mêmes récepteurs. La vitesse influence à quelle vitesse tu deviens accro, pas si tu le deviens. Tu peux creuser ce sujet dans notre article sur [les sachets de nicotine, sont-ils vraiment plus sûrs que les cigarettes ?](/fr/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes)
 
 ## Pourquoi mon cerveau a besoin de toujours plus de nicotine ?
 
@@ -46,6 +46,6 @@ Non, et là encore, ça se joue au niveau génétique plutôt qu'au niveau du pr
 
 Comprendre que la dépendance vient de la molécule, et non du produit, change la façon d'aborder l'arrêt. Passer du tabac à la vape, ou de la vape aux sachets, n'est pas une stratégie de sevrage. C'est un transfert de la même dépendance vers un autre support. À l'échelle mondiale, le tabac tue plus de 7 millions de personnes chaque année selon l'OMS (source : SingleCare, citant l'OMS, 2025), et ce chiffre concerne des gens qui, souvent, ont enchaîné plusieurs formes de consommation en pensant progresser.
 
-Si tu veux vraiment sortir de la dépendance, la question à te poser n'est pas "quel produit est le moins nocif", mais "comment je détache mon cerveau de cette molécule, complètement". Si tu vapotes, notre guide [comment arrêter de vapoter, étapes concrètes et réalistes] peut t'aider à structurer cette sortie. Si tu es plutôt côté sachets, va voir [comment arrêter les sachets de nicotine (ZYN, On!, Velo)].
+Si tu veux vraiment sortir de la dépendance, la question à te poser n'est pas "quel produit est le moins nocif", mais "comment je détache mon cerveau de cette molécule, complètement". Si tu vapotes, notre guide [comment arrêter de vapoter, étapes concrètes et réalistes](/fr/blog/how-to-quit-vaping-a-realistic-step-by-step-guide) peut t'aider à structurer cette sortie. Si tu es plutôt côté sachets, va voir [comment arrêter les sachets de nicotine (ZYN, On!, Velo)](/fr/blog/how-to-quit-nicotine-pouches-zyn-on-velo).
 
 Ton cerveau ne connaît qu'une chose : la nicotine. Peu importe l'emballage qu'elle porte.
