@@ -143,8 +143,13 @@ topics:
 - id: D-03
   title_en: How to quit all nicotine at once multi-product addiction guide
   cluster: D
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-07'
+    ru: '2026-08-07'
+    de: '2026-08-07'
+    es: '2026-08-07'
+    fr: '2026-08-07'
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E

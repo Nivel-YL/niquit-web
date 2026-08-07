@@ -1,9 +1,9 @@
 ---
 title: "Как бросить всю никотиновую зависимость сразу: гайд для тех, кто сидит на нескольких продуктах одновременно"
 description: "Утром сигарета с кофе, днём вейп между встречами, а вечером снюс под губой, потому что курить в машине лень, а вейп разрядился. Знакомо? Если ты пытаешь..."
-publishDate: 2026-07-20
+publishDate: 2026-08-07
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg
 cluster: D
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Alle Nicotinprodukte gleichzeitig aufgeben: Guide für Mehrfachkonsum"
 description: "Zigarette, Vape und Pouch parallel? So gehst du das Aufhören mit allen Nicotinprodukten auf einmal an, mit echten Zahlen statt leeren Versprechen."
-publishDate: 2026-07-20
+publishDate: 2026-08-07
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg
 cluster: D
 ---
