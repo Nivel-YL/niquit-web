@@ -39,6 +39,40 @@ PREFIXED_LANGUAGES = ['ru', 'de', 'es', 'fr']
 # site's own domain is itself a defect, not just the stale ones.
 STALE_OR_SELF_DOMAINS = ('netlify.app', 'niquit-web.pages.dev', 'niquit.app')
 
+# Bare "[Source Name, 2024]"-style source citations, with no (url), are an
+# accepted, deliberate style (confirmed 2026-08-05) - the pipeline's own
+# fact-audit step is what's responsible for whether the *claim* attributed
+# to that source is actually true, not this validator. This module's job is
+# narrower: tell a real dropped article-link (which reads as a sentence
+# fragment or a title, e.g. "[how to quit vaping, a realistic guide]") apart
+# from a citation (a short, Title-Case-throughout name, e.g. "[Cleveland
+# Clinic, 2021]"), so only the former gets flagged.
+_CITATION_CONNECTORS = {
+    'of', 'in', 'and', 'the', 'on', 'for', '&',
+    'de', 'la', 'le', 'du', 'et', 'des',
+    'und', 'für', 'von', 'der', 'die', 'das',
+    'y', 'e', 'del',
+}
+
+
+def _looks_like_source_citation(text: str) -> bool:
+    if '?' in text or ':' in text:
+        return False
+    words = text.replace(',', ' ').split()
+    if not words:
+        return False
+    for w in words:
+        if w.isdigit():  # a bare year, e.g. "2024"
+            continue
+        if w.lower() in _CITATION_CONNECTORS:
+            continue
+        core = w.strip('()')
+        if not core:
+            continue
+        if not core[0].isupper():
+            return False
+    return True
+
 
 def _existing_slugs(blog_dir: Path) -> dict[str, dict[str, bool]]:
     """lang -> {slug: is_draft} for every article file currently on disk."""
@@ -70,13 +104,20 @@ def validate_links(body: str, lang: str, blog_dir: Path, require_published: bool
     language, an absolute URL to the site's own domain (stale niquit.
     netlify.app or otherwise) instead of a relative path, and a
     [text] with the (url) dropped entirely, which renders as literal
-    square brackets on the live page instead of a link.
+    square brackets on the live page instead of a link - except when that
+    bracket reads as a bare source citation ("[Cleveland Clinic, 2021]"),
+    which is a deliberate style, not a defect; see
+    _looks_like_source_citation. Whether the claim attributed to that
+    source is actually true is the fact-audit step's job, not this one.
     """
     problems: list[str] = []
     slugs = _existing_slugs(blog_dir)
 
     for m in re.finditer(r'\[([^\]]+)\](?!\()', body):
-        problems.append(f'"[{m.group(1)}]" has no (url) after it - dropped link')
+        text = m.group(1)
+        if _looks_like_source_citation(text):
+            continue
+        problems.append(f'"[{text}]" has no (url) after it - dropped link')
 
     for m in re.finditer(r'\]\((https?://[^)]+)\)', body):
         url = m.group(1)
