@@ -1,6 +1,6 @@
 ---
 title: "Ich habe mit dem Rauchen aufgehört, aber jetzt vape ich, bin ich immer noch süchtig?"
-description: "Du hast die Zigaretten weggeworfen und greifst jetzt zur E-Zigarette. Die ehrliche Antwort: Deine Nikotinsucht ist geblieben, nur die Verpackung hat sich geändert."
+description: "Du hast die Zigaretten weggeworfen und greifst jetzt zur E-Zigarette. Ehrliche Antwort: Deine Sucht ist geblieben, nur die Verpackung hat sich geändert."
 publishDate: 2026-07-31
 lang: de
 draft: false

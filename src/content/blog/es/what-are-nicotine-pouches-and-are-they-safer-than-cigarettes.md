@@ -1,6 +1,6 @@
 ---
 title: "¿Qué son las bolsas de nicotina y son realmente más seguras que el cigarrillo?"
-description: "Las bolsas de nicotina se venden como alternativa \"segura\" al tabaco, pero algunas contienen más nicotina que un cigarrillo entero. Te contamos qué dice la evidencia."
+description: "Las bolsas de nicotina se venden como alternativa \"segura\" al tabaco, pero algunas llevan más nicotina que un cigarrillo entero. Qué dice la evidencia."
 publishDate: 2026-07-06
 lang: es
 draft: false
