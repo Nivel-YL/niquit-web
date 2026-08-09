@@ -38,7 +38,13 @@ const localeStrippedPath = stripLocalePrefix(normalizedPath);
         document.documentElement.classList.add('embedded');
       }
     </script>
-    <style>
+    <style is:global>
+      /* is:global on purpose — data-embed-hide is also used in BlogPost.astro
+      (a different component), and Astro's default scoped styles only tag
+      elements rendered by the component the <style> block lives in. Without
+      this, the rule silently never matches the ArticleCTA wrapper — this
+      broke that exact way on the first pass, caught by fetching a live
+      preview article page and diffing the two wrappers' actual attributes. */
       html.embedded [data-embed-hide] { display: none !important; }
     </style>
 
