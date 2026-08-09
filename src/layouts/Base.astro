@@ -24,6 +24,24 @@ const localeStrippedPath = stripLocalePrefix(normalizedPath);
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- In-app WebView mode (app/blog.tsx): the site is fully static, prerendered
+    at build time, so ?embedded=1 can't be read server-side via Astro.url — it
+    only exists once a real browser requests the page. Detected here instead,
+    as early as possible in <head>, before body paints, to avoid a flash of
+    chrome that then disappears. Hides anything marked data-embed-hide: nav,
+    store badges, footer, cookie/analytics consent banner (already answered at
+    the app level), and the in-article "Install NiQuit" CTA (BlogPost.astro) —
+    none of that makes sense inside the app that's already open. -->
+    <script>
+      if (new URLSearchParams(location.search).get('embedded') === '1') {
+        document.documentElement.classList.add('embedded');
+      }
+    </script>
+    <style>
+      html.embedded [data-embed-hide] { display: none !important; }
+    </style>
+
     <title>{title} | NiQuit</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
@@ -82,12 +100,18 @@ const localeStrippedPath = stripLocalePrefix(normalizedPath);
     />
   </head>
   <body class="min-h-screen flex flex-col" style="background-color:#0C1424; color:#F5F7FA;">
-    <Header lang={lang} />
+    <div data-embed-hide>
+      <Header lang={lang} />
+    </div>
     <main class="flex-1">
       <slot />
     </main>
-    <Footer lang={lang} />
-    <CookieBanner lang={lang} />
+    <div data-embed-hide>
+      <Footer lang={lang} />
+    </div>
+    <div data-embed-hide>
+      <CookieBanner lang={lang} />
+    </div>
 
     <!-- Route single-target "download" links to the App Store on iOS/iPadOS, Google Play otherwise -->
     <script>
