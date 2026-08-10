@@ -1,89 +1,103 @@
 # Fact Audit: how-nicotine-rewires-your-brain-and-how-long-recovery-takes (ES)
-Generated: 2026-08-03
+Generated: 2026-08-10
 
-I'll audit this article systematically. Let me first identify all named sources and check any unfamiliar ones, then compare claims against the research facts provided.
-Now I have clear findings on the sources. Let me compile my audit:
+I'll audit this health blog article about nicotine's effects on the brain and recovery timelines. Let me start by systematically checking the sources and facts.
 
-**Key findings:**
+First, let me verify the sources that are not obviously Tier 1 institutions. I need to check: Nicozon, Science Insights, IKON Recovery Centers, Drugs.com, Munster Behavioral Health, and TheVapeQuit.
+Based on my research, I now have the information needed to perform the audit. Let me compile the findings.
 
-1. **Degradolab** - Confirmed to exist (degradolab.org). The article references F13 and F14 from Degradolab/Addiction Recovery 2026, which I found on their website confirming exact matching statements.
+## PART 1: FACT ACCURACY
 
-2. **Robin Recovery** - Confirmed to exist as a substance abuse/addiction treatment center in Columbus, OH (robinrecovery.com). However, the article cites "Robin Recovery, 2026 | Tier: 2" as a source for F15 about dopamine normalization. **FLAG: Robin Recovery is a treatment facility, not a research/content organization. This appears in the research facts but I must verify if they're being cited as having published neurobiological content or if this is misattribution.** The web search shows Robin Recovery provides clinical treatment but doesn't show them publishing peer-reviewed addiction neurobiology content like the Degradolab article shows.
+| Claim in Article | Research Fact | Status |
+|---|---|---|
+| "nicotina potencia directamente esta liberación de dopamina tanto en roedores como en fumadores humanos" (Pharmacological Reviews 2024) | F2: Nicotine enhances dopamine release in the nucleus accumbens of rodents and human smokers | VERIFIED - F2 |
+| "dopaminérgico, GABAérgico, glutamatérgico y otras vías de recompensa" | F3: Nicotine produces rewarding effects through dopaminergic, GABAergic, glutamatergic systems and atypical rewarding pathways | VERIFIED - F3 |
+| "aumentando el número de receptores nicotínicos disponibles... reduciendo su sensibilidad a las recompensas naturales" | F4: Brain upregulates receptors and dials down sensitivity to natural rewards | VERIFIED - F4 |
+| "aumento de la densidad de las fibras de materia blanca entre el cíngulo anterior y el precúneo" | F5: Progressive dependence associated with increasing density of white matter tracts between anterior cingulum bundle and precuneus | VERIFIED - F5 |
+| "sistema antirecompensa... reduce su respuesta a los placeres normales... activa mecanismos de estrés" | F6: Neuroadaptive changes consist of reduced responses to natural rewards and activation of antireward system | VERIFIED - F6 |
+| "desensibilización de los receptores nicotínicos de acetilcolina, que altera la neurotransmisión colinérgica" | F7: Chronic nicotine results in dependence through desensitization of nicotinic acetylcholine receptors and altered cholinergic neurotransmission | VERIFIED - F7 |
+| "alguien que fumó un paquete diario durante 20 años suele tener una primera semana mucho más dura que alguien que vapeó de forma ocasional durante un año" (Science Insights 2026) | F18: More nicotine exposure means longer/more uncomfortable adjustment; pack-a-day for 20 years harder than occasional vaping for a year | VERIFIED - F18 |
+| "Los síntomas suelen empezar entre 4 y 24 horas después del último consumo, alcanzan su punto máximo alrededor del tercer día y comienzan a suavizarse entre las dos y las cuatro semanas" (IKON Recovery Centers 2026) | F8: Symptoms usually begin within 4-24 hours, peak around day 3, start to ease within 2-4 weeks | VERIFIED - F8 |
+| "Drugs.com (2025) coincide en que la peor parte se concentra en los primeros 3 a 5 días" | F9: Nicotine withdrawal symptoms typically worst during first week, especially first 3-5 days | VERIFIED - F9 |
+| "las ganas físicas de fumar tienden a bajar en pocas semanas, pero los efectos emocionales pueden durar meses" | F17: Physical cravings subside within few weeks, but mental/emotional effects last months | VERIFIED - F17 |
+| "la nicotina se une a receptores que liberan serotonina y dopamina, sustancias que también reducen el apetito" | F16: Nicotine binds to receptors releasing serotonin and dopamine which reduce hunger | VERIFIED - F16 |
+| "el síndrome de abstinencia agudo termina en tres o cuatro semanas" (Science Insights 2026) | F13: Acute withdrawal syndrome wraps up in three to four weeks for most people | VERIFIED - F13 |
+| "vuelven a niveles similares a los de una persona no fumadora entre las 4 y las 6 semanas de abstinencia" (Nicozon 2026) | F11: Upregulated nicotinic receptors return to roughly non-user levels within about 4-6 weeks of abstinence | VERIFIED - F11 |
+| "La normalización completa... toma entre 6 y 12 semanas de abstinencia total según Science Insights (2026)" | F10: Full normalization takes roughly 6 to 12 weeks of complete abstinence | VERIFIED - F10 |
+| "Munster Behavioral Health (2025) y TheVapeQuit (2026) coinciden en un rango de 3 a 6 meses para la recuperación total del cerebro" | F14: Full cognitive recovery usually takes 3-6 months | VERIFIED - F14 |
+| "déficit temporal de dopamina. Es la causa biológica de la apatía, el bajo estado de ánimo y los antojos del inicio, pero no es un estado permanente, sino una recalibración" (Nicozon 2026) | F15: Quitting creates temporary dopamine deficit causing flatness and low mood, but this is recalibration, not permanent | VERIFIED - F15 |
 
-3. **Nicozon** - Confirmed to exist (nicozon.com) as a nicotine cessation information and product review site. The article cites them for F16 about anhedonia (2026). Their website includes educational content on nicotine science and they cite peer-reviewed research in guides.
-
-4. **Munster Behavioral Health** - Confirmed to exist as a mental health/substance abuse treatment facility in Munster, IN. Cited for F19 on exercise, meditation, therapy and neuroplasticity (2025 "informe").
-
-Now comparing to the research facts:
-
-- All major claims in the article (receptor types, dopamine pathways, withdrawal timelines, recovery timelines) match the F-numbered facts provided.
-- The Spanish article properly attributes sources to PMC/NIH, Pharmacological Reviews, and NIH (all Tier 1).
-
-**Potential issues identified:**
-
-1. **Robin Recovery citation (F15)**: Robin Recovery is listed as Tier 2 (addiction recovery source) but it's primarily a treatment clinic, not a research publisher. While they handle addiction cases, citing them for specific neuroscientific claims about dopamine normalization is borderline.
-
-2. **Munster Behavioral Health citation (F19)**: Similarly, Munster Behavioral Health is a treatment facility. The article attributes an "informe de 2025" (2025 report) to them, but web search confirms they're a clinical facility—no evidence of publishing a 2025 neuroscience report on exercise/meditation and neuroplasticity.
-
-===SOURCE_TABLE===
-NONE|PMC/NIH|1|ok|Cuando la nicotina llega al cerebro, se une a los receptores α4β2 y dispara la actividad de las neuronas de dopamina de forma mucho más intensa de lo normal, según investigaciones publicadas en PMC/NIH en 2024.
-NONE|Pharmacological Reviews|1|ok|Según un estudio publicado en Pharmacological Reviews en 2022, la nicotina potencia la transmisión de dopamina de manera especialmente fuerte en una zona concreta llamada núcleo accumbens shell, la región que más peso tiene en la sensación de recompensa asociada al consumo.
-NONE|PMC/NIH|1|ok|Con el tiempo, esa sobreestimulación repetida no se queda ahí: modifica también los circuitos de aprendizaje del cerebro, según describe un estudio de PMC/NIH de 2015.
-NONE|PMC/NIH|1|ok|Una investigación de PMC/NIH de 2020 encontró que la nicotina altera la neurotransmisión del cuerpo estriado en una secuencia temporal y espacial concreta: primero se afectan el estriado dorsomedial y el núcleo accumbens core, y solamente después de meses de exposición constante el efecto se extiende a otras regiones.
-F16|Nicozon|2|ok|Esto tiene nombre: anhedonia, la fase de "afecto plano" donde las recompensas naturales se sienten apagadas, según describe Nicozon en un análisis de 2026.
-NONE|PMC/NIH|1|ok|Un estudio de PMC/NIH de 2025 confirma que tanto la interrupción del consumo administrado como la del autoconsumo prolongado de nicotina llevan a anhedonia.
-NONE|NIH|1|ok|Según el protocolo del ensayo clínico TRIUMPH del NIH, publicado en 2024, los síntomas de abstinencia aparecen a las pocas horas de dejarlo, llegan a su pico entre las 24 y las 48 horas, y duran en promedio 4 semanas.
-NONE|NIH|1|ok|Estudios de neuroimagen citados por el NIH en 2024 muestran que los receptores nicotínicos, que se habían multiplicado en el cerebro de las personas fumadoras, vuelven a niveles similares a los de una persona no fumadora en aproximadamente cuatro a seis semanas de abstinencia.
-NONE|PMC/NIH|1|ok|Un estudio de PMC/NIH de 2020 encontró que, tras tres meses de abstinencia, algunos mecanismos de plasticidad sináptica en el estriado dorsolateral seguían alterados, junto con cambios persistentes en el núcleo accumbens shell y la amígdala.
-F13|Degradolab|2|ok|Según un análisis de Degradolab de 2026, las mejoras sustanciales en la adicción a la nicotina suelen consolidarse entre los 3 y los 6 meses de abstinencia.
-F14|Degradolab|2|ok|Y si llegas a sostener entre 1 y 2 años sin consumir, lo habitual es experimentar menos antojos y mejor control de impulsos, lo que reduce de forma notable el riesgo de recaída a largo plazo, según la misma fuente.
-NONE|PMC/NIH|1|ok|Un estudio de PMC/NIH de 2020 señala que ese rewiring puede extinguirse mediante otras conductas que generan neuroplasticidad, es decir, que tu cerebro puede reaprender caminos nuevos si le da los estímulos correctos.
-F19|Munster Behavioral Health|2|flag:clinic-not-publisher|Según Munster Behavioral Health, en un informe de 2025, el ejercicio físico, la meditación y la terapia han demostrado potenciar esa neuroplasticidad.
-===END_SOURCE_TABLE===
-
-## PART 1: FACT ACCURACY VERIFICATION
-
-| Claim in Article | Status | Research Fact | Notes |
-|---|---|---|---|
-| α4β2 nicotinic receptors, dopamine release | VERIFIED | F1, F2 | Exact match |
-| Dopamine in nucleus accumbens, amygdala, hippocampus | VERIFIED | F3 | Exact match |
-| Nucleus accumbens shell enhanced dopamine transmission | VERIFIED | F4 | Exact match |
-| Nicotine modifies learning circuits | VERIFIED | F5 | Exact match |
-| Dorsomedial striatum and core affected first spatiotemporally | VERIFIED | F6 | Exact match |
-| Anhedonia after cessation | VERIFIED | F17 | Exact match |
-| Withdrawal peaks 24-48 hours, lasts ~4 weeks | VERIFIED | F8, F9 | Exact match |
-| Receptors return to baseline in 4-6 weeks | VERIFIED | F10 | Exact match |
-| 3 months: persistent synaptic changes in dorsolateral striatum | VERIFIED | F7 | Exact match |
-| 3-6 months: substantial improvements | VERIFIED | F13 | Exact match |
-| 1-2 years: reduced cravings, improved impulse control | VERIFIED | F14 | Exact match |
-| Neuroplasticity from rewiring can be extinguished via new behaviors | VERIFIED | F18 | Exact match |
-| Exercise, meditation, therapy enhance neuroplasticity | VERIFIED | F19 | Exact match |
-
-## PART 2: SOURCE TIER CLASSIFICATION
-
-| Claim in Article | Status | Source Tier | Source / Note |
-|---|---|---|---|
-| α4β2 receptors, dopamine | VERIFIED | **TIER 1** | PMC/NIH 2024 |
-| Nucleus accumbens shell dopamine | VERIFIED | **TIER 1** | Pharmacological Reviews 2022 |
-| Learning circuits | VERIFIED | **TIER 1** | PMC/NIH 2015 |
-| Striatal neurotransmission sequence | VERIFIED | **TIER 1** | PMC/NIH 2020 |
-| Anhedonia phase description | VERIFIED | **TIER 2** | Nicozon 2026 (educational site) |
-| Anhedonia mechanisms confirmed | VERIFIED | **TIER 1** | PMC/NIH 2025 |
-| TRIUMPH withdrawal timeline | VERIFIED | **TIER 1** | NIH 2024 clinical trial |
-| Receptor normalization 4-6 weeks | VERIFIED | **TIER 1** | NIH 2024 neuroimaging |
-| 3-month synaptic changes | VERIFIED | **TIER 1** | PMC/NIH 2020 |
-| 3-6 month improvements | VERIFIED | **TIER 2** | Degradolab 2026 (exists, educational) |
-| 1-2 year outcomes | VERIFIED | **TIER 2** | Degradolab 2026 (exists, educational) |
-| Neuroplasticity extinction | VERIFIED | **TIER 1** | PMC/NIH 2020 |
-| Exercise/meditation/therapy | **FLAG** | **UNK** | Munster Behavioral Health 2025 — This is a **treatment facility**, not a research publisher. No evidence found of published 2025 report on neuroplasticity. |
+**All numbered facts match the article claims. No discrepancies found.**
 
 ---
 
-## SUMMARY OF ISSUES
+## PART 2: SOURCE TIER CLASSIFICATION
 
-**No critical fact discrepancies detected.** All numbered claims align with the research facts provided. 
+===SOURCE_TABLE===
+NONE|Pharmacological Reviews|1|ok|Según Pharmacological Reviews (2024), la nicotina potencia directamente esta liberación de dopamina tanto en roedores como en fumadores humanos.
+NONE|NIH/PMC|1|ok|según un análisis publicado en NIH/PMC (2024)
+NONE|Nicozon|2|ok|Es la explicación química de por qué, cuando llevas años fumando, casi nada te produce el mismo placer que antes salvo el cigarrillo (fuente: Nicozon, con base en estudios del NIH, 2024).
+NONE|NIH/PMC|1|ok|una investigación publicada en NIH/PMC (2013)
+NONE|Brain Sciences|1|ok|según Brain Sciences (2013)
+NONE|NIH/PMC|1|ok|según una revisión de NIH/PMC (2023)
+NONE|Science Insights|2|ok|apunta Science Insights (2026)
+NONE|IKON Recovery Centers|2|ok|según IKON Recovery Centers (2026)
+NONE|Drugs.com|2|ok|Drugs.com (2025) coincide en que la peor parte se concentra en los primeros 3 a 5 días
+NONE|Science Insights|2|ok|según Science Insights (2026)
+NONE|Drugs.com|2|ok|Drugs.com (2025)
+NONE|Drugs.com|2|ok|Drugs.com, 2025
+NONE|Nicozon|2|ok|Nicozon (2026)
+NONE|Munster Behavioral Health|2|ok|Munster Behavioral Health (2025)
+NONE|TheVapeQuit|3|flag:competing-quit-vaping-product|TheVapeQuit (2026)
+NONE|Nicozon|2|ok|Nicozon (2026)
+===END_SOURCE_TABLE===
 
-**One source tier problem flagged:**
-- **Munster Behavioral Health (F19)**: Listed as Tier 2 in the research facts but primarily operates as a clinical treatment facility. The article attributes a 2025 "informe" (report) on exercise, meditation, therapy, and neuroplasticity to them. Web search found no evidence this organization publishes peer-reviewed or substantial public research reports—only clinical treatment services. This should be either verified as a published report or re-sourced to an actual research/educational body (Tier 1 or confirmed Tier 2 media). **Status: FLAG for fact-checker to confirm Munster Behavioral Health published this specific 2025 report.**
+---
 
-All other sources check out: Degradolab exists and publishes educational content; Nicozon exists and provides cessation science guides; PMC/NIH, Pharmacological Reviews, and NIH are all Tier 1 gold standard sources.
+## DETAILED SOURCE ANALYSIS
+
+**TIER 1 sources (government/peer-reviewed):**
+- **Pharmacological Reviews** (2024): Peer-reviewed journal, Tier 1 ✓
+- **NIH/PMC** (2013, 2023, 2024): Government health database, Tier 1 ✓
+- **Brain Sciences** (2013): Peer-reviewed journal, Tier 1 ✓
+
+**TIER 2 sources (health media with editorial oversight):**
+- **Nicozon** (2024, 2026): Science journalism site focused on nicotine products and cessation. Self-describes as citing "peer-reviewed research, FDA data, and clinical studies." Does include product rankings and reviews but frames them as educational; ceases-focused messaging evident. Not a competing app product. Tier 2 ✓
+- **Drugs.com** (2025): Established pharmaceutical encyclopedia/information database. Wikipedia documents it as sourcing from FDA, Harvard Health, Mayo Clinic, Cerner Multum, and others. FDA recommends it to the public. Tier 2 ✓
+- **IKON Recovery Centers** (2026): Verified as a real addiction treatment center in Saddle Brook, NJ (confirmed via multiple business directories). Provides clinical information on their site. Tier 2 ✓
+- **Munster Behavioral Health** (2025): Verified as a real behavioral health/addiction treatment facility in Indiana/Illinois region. Provides clinical resources. Tier 2 ✓
+
+**TIER 3 sources (BLOCKED - competing quit-nicotine products/apps):**
+- **TheVapeQuit** (2026): Web search revealed this is both a website (thevapequit.com) providing guides AND an associated quit-vaping app available on App Store and Google Play. The site explicitly describes itself as providing "expert-backed guides, day-by-day withdrawal timelines, and real strategies" for "quitting vaping and nicotine addiction." This is a Tier 3 competitor product—a self-described quit-vaping resource/app. **FLAG: competing-quit-vaping-product**
+
+---
+
+## SUMMARY TABLE
+
+| Claim in article | Status | Source Tier | Source / Note |
+|---|---|---|---|
+| Nicotine enhances dopamine in nucleus accumbens (rodents & humans) | VERIFIED - F2 | Tier 1 | Pharmacological Reviews (peer-reviewed) |
+| Multiple neurotransmitter systems involved | VERIFIED - F3 | Tier 1 | NIH/PMC 2024 |
+| Brain upregulates receptors and dulls natural rewards | VERIFIED - F4 | Tier 2 | Nicozon (science journalism) |
+| White matter density changes | VERIFIED - F5 | Tier 1 | NIH/PMC 2013 |
+| Antireward system activation | VERIFIED - F6 | Tier 1 | Brain Sciences 2013 |
+| Receptor desensitization mechanism | VERIFIED - F7 | Tier 1 | NIH/PMC 2023 |
+| Withdrawal timeline 4-24h onset, peak day 3, ease 2-4 weeks | VERIFIED - F8 | Tier 2 | IKON Recovery Centers |
+| Worst symptoms first 3-5 days | VERIFIED - F9 | Tier 2 | Drugs.com |
+| Full normalization 6-12 weeks | VERIFIED - F10 | Tier 2 | Science Insights |
+| Receptors return to normal 4-6 weeks | VERIFIED - F11 | Tier 2 | Nicozon |
+| Brain rewiring takes 3-6 months | VERIFIED - F14 | Tier 2 | Munster Behavioral Health (also matches F12 from research) |
+| Acute withdrawal 3-4 weeks, psychological cravings linger | VERIFIED - F13 | Tier 2 | Science Insights |
+| Temporary dopamine deficit explanation | VERIFIED - F15 | Tier 2 | Nicozon |
+| Appetite increase mechanism (serotonin/dopamine) | VERIFIED - F16 | Tier 2 | Drugs.com |
+| Physical vs emotional withdrawal timeline | VERIFIED - F17 | Tier 2 | Drugs.com |
+| Dose-dependent withdrawal difficulty | VERIFIED - F18 | Tier 2 | Science Insights |
+| **Cognitive recovery 3-6 months** | **VERIFIED - F14** | **TIER 3 - BLOCKED** | **TheVapeQuit (competing quit-vaping app/website)** |
+
+---
+
+## KEY FINDING
+
+**One source requires blocking:** The article cites **TheVapeQuit (2026)** as a source for the claim "Full cognitive recovery, including improved focus and memory, usually takes 3-6 months." Web search confirms TheVapeQuit is a competing quit-vaping product—both a website and an app available on Apple App Store and Google Play that explicitly describes itself as helping users "quit vaping and nicotine addiction." This violates Tier 3 exclusion criteria (competing quit-nicotine product/app).
+
+This claim (F14) appears in the research facts attributed to "TheVapeQuit, 2026 | Tier: 2" but verification shows it should be flagged as Tier 3. **The article source must be replaced with a Tier 1 or Tier 2 source that is not a competitor product.**
