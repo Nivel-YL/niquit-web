@@ -153,8 +153,13 @@ topics:
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-11'
+    ru: '2026-08-11'
+    de: '2026-08-11'
+    es: '2026-08-11'
+    fr: '2026-08-11'
 - id: E-02
   title_en: Does smoking actually reduce stress the real science
   cluster: E

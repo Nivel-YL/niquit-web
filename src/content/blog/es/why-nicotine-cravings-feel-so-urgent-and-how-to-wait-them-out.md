@@ -1,9 +1,9 @@
 ---
 title: "Por qué los antojos de nicotina se sienten tan urgentes y cómo esperar a que pasen"
 description: "Un antojo de nicotina parece durar una eternidad, pero rara vez pasa de unos minutos. Te explicamos qué ocurre en tu cerebro y cómo aguantarlo sin ceder."
-publishDate: 2026-07-20
+publishDate: 2026-08-11
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg
 cluster: E
 ---

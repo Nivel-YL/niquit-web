@@ -1,9 +1,9 @@
 ---
 title: "Почему тяга к никотину такая сильная и как её пересидеть"
 description: "Тяга к никотину длится всего 3-5 минут, но в моменте кажется, что она никогда не закончится. Разбираемся, что происходит в мозге и как продержаться."
-publishDate: 2026-07-20
+publishDate: 2026-08-11
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg
 cluster: E
 ---

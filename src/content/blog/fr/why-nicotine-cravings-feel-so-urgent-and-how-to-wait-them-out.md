@@ -1,9 +1,9 @@
 ---
 title: "Pourquoi les envies de nicotine sont si urgentes (et comment les laisser passer)"
 description: "Une envie de nicotine dure 3 à 5 minutes en moyenne. Voici pourquoi elle semble insupportable, et comment tenir bon jusqu'à ce qu'elle passe."
-publishDate: 2026-07-20
+publishDate: 2026-08-11
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg
 cluster: E
 ---
