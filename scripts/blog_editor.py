@@ -1199,7 +1199,16 @@ def write_article(
 
     resp = client.messages.create(
         model=WRITE_MODEL,
-        max_tokens=4096,
+        # 800-1200 words plus title/description/citations fits in 4096 tokens
+        # for English, but not reliably for de/ru: both tokenize noticeably
+        # less efficiently per word (German compounding, Cyrillic BPE splits),
+        # and both hit real, repeated truncation on 2026-08-10 (topic F-03,
+        # failed twice, de and ru truncating on every attempt including after
+        # the existing retry-on-truncation logic used up its retries). Doubled
+        # for headroom; still a small fraction of what Sonnet 5 supports, and
+        # a ceiling, not a target, so it does not change cost for articles
+        # that were already finishing under the old limit.
+        max_tokens=8192,
         system=[{
             'type': 'text',
             'text': voice_guide_text,
