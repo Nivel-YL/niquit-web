@@ -1,9 +1,9 @@
 ---
 title: "¿Fumar realmente reduce el estrés? Esto dice la ciencia"
 description: "¿Fumar calma los nervios o solamente alivia el síndrome de abstinencia que el propio cigarro provoca? Te explicamos qué dice la evidencia científica."
-publishDate: 2026-07-22
+publishDate: 2026-08-14
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg
 cluster: E
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Does smoking actually reduce stress? The real science"
 description: "Smokers say cigarettes calm them down. The science says the opposite: smoking creates the stress it appears to relieve. Here's what's really happening."
-publishDate: 2026-07-22
+publishDate: 2026-08-14
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg
 cluster: E
 ---

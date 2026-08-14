@@ -1,9 +1,9 @@
 ---
 title: "Reduziert Rauchen wirklich Stress? Was die Wissenschaft wirklich sagt"
 description: "Du stehst vor einer wichtigen Präsentation, die Hände zittern leicht, und die erste Zigarette der Pause fühlt sich an wie eine Rettung. Genau dieses Gef..."
-publishDate: 2026-07-22
+publishDate: 2026-08-14
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg
 cluster: E
 ---

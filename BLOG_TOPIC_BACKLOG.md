@@ -163,8 +163,13 @@ topics:
 - id: E-02
   title_en: Does smoking actually reduce stress the real science
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-14'
+    ru: '2026-08-14'
+    de: '2026-08-14'
+    es: '2026-08-14'
+    fr: '2026-08-14'
 - id: E-03
   title_en: Smoking triggers how to identify yours and break the loop
   cluster: E
