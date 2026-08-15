@@ -22,9 +22,41 @@ const s = t(lang);
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
+
+const siteOrigin = 'https://niquit.app';
+const pageUrl = `${siteOrigin}${localePath(lang, `blog/${slug}`)}`;
+const isoDate = publishDate.toISOString().slice(0, 10);
+
+// BlogPosting structured data: no rich-result eligibility depends on this
+// alone, but it gives Google an unambiguous machine-readable read on
+// headline/author/publisher/date instead of inferring it from the HTML,
+// and is a prerequisite for article rich results (sitelinks, carousel)
+// down the line. Placed in the body (inside Base's slot) rather than
+// Base's <head> - Google explicitly supports JSON-LD anywhere in the
+// document, and adding a per-page prop to Base for this one layout
+// wasn't worth the extra surface.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  image: heroImage ? `${siteOrigin}${heroImage}` : undefined,
+  datePublished: isoDate,
+  dateModified: isoDate,
+  inLanguage: lang,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  url: pageUrl,
+  author: { '@type': 'Organization', name: 'NiQuit', url: siteOrigin },
+  publisher: {
+    '@type': 'Organization',
+    name: 'NiQuit',
+    logo: { '@type': 'ImageObject', url: `${siteOrigin}/logo.svg` },
+  },
+};
 ---
 
 <Base title={title} description={description} lang={lang}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article class="max-w-2xl mx-auto px-5 py-16">
     {heroImage && (
       <img
