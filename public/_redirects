@@ -1,5 +1,11 @@
-https://niquit-web.pages.dev/* https://niquit.app/:splat 301
-https://www.niquit.app/* https://niquit.app/:splat 301
+# Absolute-URL host rules (pages.dev, www) used to live here but never
+# actually redirected anything - Cloudflare Pages doesn't apply _redirects
+# host-matching rules to its own project subdomains or to a project's
+# attached custom domains. www -> apex is a Cloudflare zone-level Redirect
+# Rule instead (dashboard, not in this repo). pages.dev -> apex is
+# functions/_middleware.ts, since _redirects can't do it. Confirmed both
+# lines here were silently inert (2026-08-15 investigation) before removing
+# them - don't re-add without testing.
 
 # @astrojs/sitemap generates sitemap-index.xml, not sitemap.xml. Rewrite
 # (200, not a redirect) so the conventional URL still serves valid XML.

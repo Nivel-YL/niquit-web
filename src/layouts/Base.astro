@@ -10,9 +10,16 @@ interface Props {
   description?: string;
   lang?: Lang;
   ogImage?: string;
+  // For pages that are not real, indexable content (currently only 404) -
+  // suppresses canonical/hreflang (there is no correct target to point them
+  // at) and emits a noindex directive instead. Astro.url.pathname for this
+  // route is "/404" at build time regardless of the actual URL the visitor
+  // requested, so a normal canonical tag here would be actively misleading,
+  // not just absent.
+  noindex?: boolean;
 }
 
-const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage } = Astro.props;
+const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage, noindex = false } = Astro.props;
 const normalizedPath = canonicalPath(Astro.url);
 const canonicalUrl = new URL(normalizedPath, Astro.site ?? 'https://niquit.app');
 const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
@@ -26,13 +33,18 @@ const localeStrippedPath = stripLocalePrefix(normalizedPath);
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title} | NiQuit</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonicalUrl} />
-
-    <!-- hreflang: tell search engines these are language variants of the same page -->
-    {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, localeStrippedPath)}`} />
-    ))}
-    <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', localeStrippedPath)}`} />
+    {noindex ? (
+      <meta name="robots" content="noindex, follow" />
+    ) : (
+      <>
+        <link rel="canonical" href={canonicalUrl} />
+        <!-- hreflang: tell search engines these are language variants of the same page -->
+        {LANGS.map((l) => (
+          <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, localeStrippedPath)}`} />
+        ))}
+        <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', localeStrippedPath)}`} />
+      </>
+    )}
 
     <!-- Open Graph -->
     <meta property="og:title" content={`${title} | NiQuit`} />
