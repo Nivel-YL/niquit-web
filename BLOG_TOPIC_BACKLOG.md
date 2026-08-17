@@ -203,7 +203,7 @@ topics:
 - id: G-02
   title_en: How long does a nicotine craving actually last?
   cluster: G
-  status: pending
+  status: drafted
   published: {}
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
