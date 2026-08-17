@@ -193,7 +193,7 @@ topics:
 - id: F-03
   title_en: How much money do smokers actually spend in a lifetime?
   cluster: F
-  status: pending
+  status: drafted
   published: {}
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
