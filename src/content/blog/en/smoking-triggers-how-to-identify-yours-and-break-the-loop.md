@@ -1,9 +1,9 @@
 ---
 title: "Smoking Triggers: How to Identify Yours and Break the Loop"
 description: "Coffee, stress, driving, that one friend who lights up first. Learn how smoking triggers work in your brain and how to actually break the cycle."
-publishDate: 2026-08-03
+publishDate: 2026-08-18
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop.svg
 cluster: E
 ---

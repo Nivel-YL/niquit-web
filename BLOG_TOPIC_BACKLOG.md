@@ -173,8 +173,13 @@ topics:
 - id: E-03
   title_en: Smoking triggers how to identify yours and break the loop
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-18'
+    ru: '2026-08-18'
+    de: '2026-08-18'
+    es: '2026-08-18'
+    fr: '2026-08-18'
 - id: E-04
   title_en: Quitting nicotine and anxiety what is normal and what to do
   cluster: E

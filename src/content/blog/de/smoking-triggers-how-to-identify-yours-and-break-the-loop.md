@@ -1,9 +1,9 @@
 ---
 title: "Rauchtrigger erkennen und den Kreislauf durchbrechen"
 description: "Warum du immer wieder zur Zigarette greifst und wie du deine persönlichen Rauchtrigger erkennst und Schritt für Schritt auflöst."
-publishDate: 2026-08-03
+publishDate: 2026-08-18
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop.svg
 cluster: E
 ---

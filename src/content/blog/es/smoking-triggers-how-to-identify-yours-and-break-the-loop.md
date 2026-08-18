@@ -1,9 +1,9 @@
 ---
 title: "Detonantes para fumar: cómo identificar los tuyos y romper el ciclo"
 description: "Descubre cómo identificar tus detonantes para fumar, por qué se activan y qué estrategias reales ayudan a romper el ciclo del cigarro."
-publishDate: 2026-08-03
+publishDate: 2026-08-18
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop.svg
 cluster: E
 ---

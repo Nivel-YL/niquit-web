@@ -1,9 +1,9 @@
 ---
 title: "Триггеры курения: как найти свои и разорвать цепочку привычки"
 description: "Триггеры курения запускают тягу к сигарете раньше, чем ты успеваешь об этом подумать. Разбираем, как их найти и что делать вместо привычного жеста."
-publishDate: 2026-08-03
+publishDate: 2026-08-18
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop.svg
 cluster: E
 ---
