@@ -203,17 +203,17 @@ topics:
 - id: F-03
   title_en: How much money do smokers actually spend in a lifetime?
   cluster: F
-  status: drafted
+  status: approved
   published: {}
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
   cluster: G
-  status: drafted
+  status: approved
   published: {}
 - id: G-02
   title_en: How long does a nicotine craving actually last?
   cluster: G
-  status: drafted
+  status: approved
   published: {}
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
