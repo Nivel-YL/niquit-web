@@ -183,8 +183,13 @@ topics:
 - id: E-04
   title_en: Quitting nicotine and anxiety what is normal and what to do
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-21'
+    ru: '2026-08-21'
+    de: '2026-08-21'
+    es: '2026-08-21'
+    fr: '2026-08-21'
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
   cluster: F

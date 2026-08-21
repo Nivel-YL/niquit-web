@@ -1,9 +1,9 @@
 ---
 title: "Dejar la nicotina y la ansiedad: qué es normal y qué puedes hacer"
 description: "Dejaste de fumar o vapear y ahora sientes el pecho apretado. Te explicamos qué es normal en la ansiedad al dejar la nicotina y qué hacer al respecto."
-publishDate: 2026-08-03
+publishDate: 2026-08-21
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.svg
 cluster: E
 ---

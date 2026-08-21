@@ -1,9 +1,9 @@
 ---
 title: "Arrêter la nicotine et l'anxiété : ce qui est normal et ce qu'il faut faire"
 description: "L'anxiété après l'arrêt de la nicotine est fréquente et souvent temporaire. Voici ce qui est normal, combien de temps ça dure, et comment tenir le coup."
-publishDate: 2026-08-03
+publishDate: 2026-08-21
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.svg
 cluster: E
 style_check: "failed, banned phrase: \"d'un côté\""

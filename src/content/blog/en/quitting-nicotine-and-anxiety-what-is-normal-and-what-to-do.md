@@ -1,9 +1,9 @@
 ---
 title: "Quitting nicotine and anxiety: what's normal and what to do"
 description: "Quitting nicotine and anxiety often show up together. Here's what's normal, what's not, and how to get through the worst days without giving in."
-publishDate: 2026-08-03
+publishDate: 2026-08-21
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.svg
 cluster: E
 ---
