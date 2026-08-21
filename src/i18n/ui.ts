@@ -45,7 +45,7 @@ export const ui = {
     calc: {
       entry: "See what you'll save",
       phoneCta: 'Calculate your savings',
-      tapHere: 'Tap here',
+      tapHere: 'Tap the phone',
       cardTitle: "Curious what you'd save?",
       cardBody: 'Run your numbers in 15 seconds.',
       cardCta: 'Open calculator',
@@ -167,7 +167,7 @@ export const ui = {
     calc: {
       entry: 'Посчитай свою экономию',
       phoneCta: 'Посчитать экономию',
-      tapHere: 'Нажми сюда',
+      tapHere: 'Нажми на телефон',
       cardTitle: 'Интересно, сколько сэкономишь?',
       cardBody: 'Прикинь свои цифры за 15 секунд.',
       cardCta: 'Открыть калькулятор',
@@ -285,7 +285,7 @@ export const ui = {
     calc: {
       entry: 'Sieh, was du sparst',
       phoneCta: 'Ersparnis berechnen',
-      tapHere: 'Hier tippen',
+      tapHere: 'Tippe aufs Handy',
       cardTitle: 'Neugierig, was du sparst?',
       cardBody: 'Rechne deine Zahlen in 15 Sekunden aus.',
       cardCta: 'Rechner öffnen',
@@ -403,7 +403,7 @@ export const ui = {
     calc: {
       entry: 'Mira cuánto ahorrarás',
       phoneCta: 'Calcular tu ahorro',
-      tapHere: 'Toca aquí',
+      tapHere: 'Toca el teléfono',
       cardTitle: '¿Curiosidad por cuánto ahorrarías?',
       cardBody: 'Calcula tus números en 15 segundos.',
       cardCta: 'Abrir calculadora',
@@ -521,7 +521,7 @@ export const ui = {
     calc: {
       entry: 'Vois ce que tu économises',
       phoneCta: 'Calcule tes économies',
-      tapHere: 'Appuie ici',
+      tapHere: 'Appuie sur le téléphone',
       cardTitle: 'Curieux de savoir ce que tu économiserais ?',
       cardBody: 'Calcule tes chiffres en 15 secondes.',
       cardCta: 'Ouvrir le calculateur',

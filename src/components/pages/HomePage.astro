@@ -77,8 +77,8 @@ const pageBg =
           <button
             type="button"
             data-open-calc
-            class="inline-flex items-center justify-center rounded-xl px-6 py-4 font-semibold transition-colors"
-            style="border:1px solid #22314F; color:#EAF1FF; background:rgba(19,30,51,.6); min-height:52px;"
+            class="nq-ghost inline-flex items-center justify-center rounded-xl px-6 py-4 font-semibold"
+            style="min-height:52px;"
           >
             {s.calc.entry} &rarr;
           </button>
@@ -87,11 +87,11 @@ const pageBg =
 
       <!-- Right: phone = calculator entry point #1 -->
       <div class="phone-stage">
-        <span class="calc-hint" aria-hidden="true">
-          <span class="calc-hint__txt">{s.calc.tapHere}</span>
-          <svg viewBox="0 0 96 56"><path d="M6,6 C 26,10 52,20 82,46 M82,46 L70,44 M82,46 L78,34"/></svg>
-        </span>
         <button class="phone-launch" type="button" data-open-calc aria-label={s.calc.phoneCta}>
+          <span class="calc-hint" aria-hidden="true">
+            <span class="calc-hint__txt">{s.calc.tapHere}</span>
+            <svg viewBox="0 0 96 56"><path d="M6,6 C 26,10 52,20 82,46 M82,46 L70,44 M82,46 L78,34"/></svg>
+          </span>
           <div class="phone">
             <img src={heroScreenshot[lang]} alt="NiQuit" loading="eager" />
             <span class="phone-cta"><span aria-hidden="true">💰</span> {s.calc.phoneCta}</span>
@@ -159,8 +159,8 @@ const pageBg =
         </p>
         <a
           href={localePath(lang, 'method')}
-          class="inline-flex items-center justify-center mt-7 rounded-xl px-6 py-3 font-semibold transition-colors"
-          style="border:1px solid #22314F; color:#EAF1FF; background:rgba(19,30,51,.6); min-height:44px;"
+          class="nq-ghost inline-flex items-center justify-center mt-7 rounded-xl px-6 py-3 font-semibold"
+          style="min-height:44px;"
         >
           {s.nav.method} &rarr;
         </a>
