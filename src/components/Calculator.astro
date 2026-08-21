@@ -1,0 +1,265 @@
+---
+import { type Lang, t } from '../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+
+// BCP47 tag for number grouping separators per locale.
+const localeTag: Record<Lang, string> = {
+  en: 'en-US', ru: 'ru-RU', de: 'de-DE', es: 'es-ES', fr: 'fr-FR',
+};
+---
+
+<!--
+  Savings calculator modal. Single instance per page. Opened by any element
+  with [data-open-calc] (or by calling window.openCalc()). All maths ported
+  verbatim from the design prototype: 4%/yr escalation, packsPerYear =
+  (perDay/perPack)*365.25, past spend discounts today's price backwards,
+  future saving escalates it forward.
+-->
+<div class="nq-ov" id="nqCalcOverlay" hidden data-locale={localeTag[lang]} data-year={s.calc.year} data-years-few={s.calc.yearsFew} data-years={s.calc.years}>
+  <div
+    class="nq-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="nqCalcTitle"
+    tabindex="-1"
+  >
+    <div class="nq-modal-head">
+      <span class="nq-pill">{s.calc.pill}</span>
+      <button type="button" class="nq-close" data-close-calc aria-label={s.calc.close}>✕</button>
+    </div>
+    <h2 id="nqCalcTitle" class="nq-title">{s.calc.title}</h2>
+    <p class="nq-sub">{s.calc.sub}</p>
+
+    <div class="nq-grid">
+      <div class="nq-field">
+        <label for="nqPerDay">{s.calc.perDay}</label>
+        <input id="nqPerDay" type="number" min="0" step="1" value="20" inputmode="numeric" />
+        <span class="nq-hint">{s.calc.perDayHint}</span>
+      </div>
+      <div class="nq-field">
+        <label for="nqPerPack">{s.calc.perPack}</label>
+        <input id="nqPerPack" type="number" min="1" step="1" value="20" inputmode="numeric" />
+        <span class="nq-hint">{s.calc.perPackHint}</span>
+      </div>
+      <div class="nq-field">
+        <label for="nqPackPrice">{s.calc.packPrice} (EUR)</label>
+        <input id="nqPackPrice" type="number" min="0" step="0.1" value="6" inputmode="decimal" />
+        <span class="nq-hint">{s.calc.packPriceHint}</span>
+      </div>
+      <div class="nq-field">
+        <label for="nqStartYear">{s.calc.startYear}</label>
+        <input id="nqStartYear" type="number" min="1970" step="1" value="2014" inputmode="numeric" />
+        <span class="nq-hint">{s.calc.startYearHint}</span>
+      </div>
+    </div>
+
+    <div class="nq-results">
+      <div class="nq-spent">
+        <span class="nq-spent-lab">{s.calc.spentLabel} <span id="nqSinceYear">2014</span>:</span>
+        <span class="nq-spent-val"><span class="nq-cur">€</span><span id="nqSpentVal">0</span></span>
+      </div>
+      <p class="nq-proj-title">{s.calc.projTitle}</p>
+      <div class="nq-proj" id="nqProj"></div>
+      <p class="nq-foot">{s.calc.footnote}</p>
+    </div>
+  </div>
+</div>
+
+<style is:global>
+  .nq-ov{
+    position:fixed; inset:0; background:rgba(5,9,16,.74);
+    -webkit-backdrop-filter:blur(4px); backdrop-filter:blur(4px);
+    display:none; align-items:center; justify-content:center; z-index:80; padding:20px;
+  }
+  .nq-ov.nq-open{ display:flex; animation:nqFade .18s ease; }
+  @keyframes nqFade{ from{opacity:0} to{opacity:1} }
+  .nq-modal{
+    width:100%; max-width:800px; max-height:92vh; overflow-y:auto;
+    background:#0E1728; border:1px solid #22314F; border-radius:20px;
+    box-shadow:0 40px 90px -30px rgba(0,0,0,.9); padding:30px 32px 26px;
+  }
+  .nq-modal-head{ display:flex; justify-content:space-between; align-items:flex-start; }
+  .nq-pill{
+    display:inline-block; font-family:'JetBrains Mono',monospace; font-size:12.5px;
+    color:#35C6D8; border:1px solid rgba(53,198,216,.3); background:rgba(53,198,216,.06);
+    padding:7px 14px; border-radius:20px;
+  }
+  .nq-close{
+    width:44px; height:44px; border-radius:10px; border:1px solid #22314F; background:#131E33;
+    font-size:17px; color:#93A6C6; display:flex; align-items:center; justify-content:center;
+    flex-shrink:0; cursor:pointer;
+  }
+  .nq-close:hover{ color:#EAF1FF; border-color:#35C6D8; }
+  .nq-title{
+    font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:26px;
+    margin:14px 0 6px; letter-spacing:-.01em; color:#EAF1FF; text-align:left;
+  }
+  .nq-sub{ color:#93A6C6; font-size:15px; margin:0 0 24px; max-width:56ch; line-height:1.5; }
+  .nq-grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px 20px; margin-bottom:24px; }
+  .nq-field{ display:flex; flex-direction:column; gap:6px; }
+  .nq-field label{ font-size:13px; font-weight:500; color:#93A6C6; }
+  .nq-hint{ font-size:11.5px; color:#6E80A0; }
+  .nq-field input{
+    background:#131E33; border:1px solid #22314F; border-radius:10px; color:#EAF1FF;
+    font-family:inherit; font-size:15px; padding:12px 14px; min-height:46px; width:100%;
+    transition:border-color .15s;
+  }
+  .nq-field input:focus{ border-color:#35C6D8; outline:none; }
+  .nq-results{ border-top:1px solid #22314F; padding-top:22px; }
+  .nq-spent{
+    display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:20px;
+    padding:18px 20px; background:#131E33; border:1px solid #22314F; border-radius:14px;
+  }
+  .nq-spent-lab{ font-size:14px; color:#93A6C6; }
+  .nq-spent-val{ font-family:'Space Grotesk',sans-serif; font-size:32px; font-weight:700; color:#FF6B5C; }
+  .nq-cur{ font-size:20px; opacity:.7; margin-right:2px; }
+  .nq-proj-title{
+    font-size:12px; color:#93A6C6; margin:0 0 12px; font-family:'JetBrains Mono',monospace;
+    letter-spacing:.06em; text-transform:uppercase;
+  }
+  .nq-proj{ display:grid; grid-template-columns:repeat(6,1fr); gap:10px; }
+  .nq-cell{
+    background:linear-gradient(180deg,#1e2d4d,#131E33); border:1px solid #22314F;
+    border-radius:12px; padding:15px 6px; text-align:center;
+  }
+  .nq-cell .nq-yr{ font-family:'JetBrains Mono',monospace; font-size:12px; color:#35C6D8; margin-bottom:7px; }
+  .nq-cell .nq-amt{ font-family:'Space Grotesk',sans-serif; font-weight:600; font-size:18px; color:#EAF1FF; }
+  .nq-cell .nq-amt .nq-cur{ font-size:11px; }
+  .nq-cell.nq-hero{ border-color:rgba(74,222,155,.4); background:linear-gradient(180deg,rgba(74,222,155,.12),#131E33); }
+  .nq-cell.nq-hero .nq-amt{ color:#4ADE9B; }
+  .nq-foot{ font-size:12px; color:#6E80A0; margin-top:20px; line-height:1.55; border-top:1px solid #22314F; padding-top:16px; }
+
+  @media(max-width:640px){
+    .nq-modal{ padding:24px 20px; }
+    .nq-grid{ grid-template-columns:1fr; }
+    .nq-proj{ grid-template-columns:repeat(3,1fr); }
+    .nq-title{ font-size:22px; }
+    .nq-spent-val{ font-size:26px; }
+  }
+  @media(prefers-reduced-motion:reduce){
+    .nq-ov.nq-open{ animation:none; }
+  }
+</style>
+
+<script>
+  (function () {
+    const overlay = document.getElementById('nqCalcOverlay');
+    if (!overlay) return;
+    const modal = overlay.querySelector('.nq-modal') as HTMLElement;
+    const perDayEl = document.getElementById('nqPerDay') as HTMLInputElement;
+    const perPackEl = document.getElementById('nqPerPack') as HTMLInputElement;
+    const priceEl = document.getElementById('nqPackPrice') as HTMLInputElement;
+    const startEl = document.getElementById('nqStartYear') as HTMLInputElement;
+    const sinceYearEl = document.getElementById('nqSinceYear') as HTMLElement;
+    const spentValEl = document.getElementById('nqSpentVal') as HTMLElement;
+    const projEl = document.getElementById('nqProj') as HTMLElement;
+
+    const ESC = 0.04;
+    const CY = new Date().getFullYear();
+    const H = [1, 2, 3, 5, 10, 20];
+    const locale = overlay.dataset.locale || 'en-US';
+    const yearWord = overlay.dataset.year || 'year';
+    const yearsFewWord = overlay.dataset.yearsFew || 'years';
+    const yearsWord = overlay.dataset.years || 'years';
+    const nf = new Intl.NumberFormat(locale, { maximumFractionDigits: 0 });
+    const fmt = (n: number) => nf.format(Math.round(n));
+    // Pluralize the year label per locale (Russian needs one/few/many:
+    // 1 год, 2 года, 5 лет). Falls back gracefully for one/other locales.
+    const pr = new Intl.PluralRules(locale);
+    const yearLabel = (n: number) => {
+      const c = pr.select(n);
+      if (c === 'one') return yearWord;
+      if (c === 'few') return yearsFewWord;
+      return yearsWord;
+    };
+
+    // Clamp startYear's max to the current year (can't have started in the future).
+    startEl.max = String(CY);
+
+    function recalc() {
+      const perDay = Math.max(0, +perDayEl.value || 0);
+      const perPack = Math.max(1, +perPackEl.value || 1);
+      const price = Math.max(0, +priceEl.value || 0);
+      let sy = +startEl.value || CY;
+      if (sy > CY) sy = CY;
+      sinceYearEl.textContent = String(sy);
+
+      const ppy = (perDay / perPack) * 365.25;
+
+      // Past spend: today's price discounted backwards at the escalation rate.
+      let spent = 0;
+      const yrs = CY - sy;
+      for (let k = 0; k < yrs; k++) spent += (ppy * price) / Math.pow(1 + ESC, k + 1);
+      spentValEl.textContent = fmt(spent);
+
+      // Future saving over each horizon: today's price escalated forward.
+      projEl.innerHTML = '';
+      H.forEach((h) => {
+        let sum = 0;
+        for (let y = 0; y < h; y++) sum += ppy * price * Math.pow(1 + ESC, y);
+        const hero = h === 20;
+        const cell = document.createElement('div');
+        cell.className = 'nq-cell' + (hero ? ' nq-hero' : '');
+        cell.innerHTML =
+          '<div class="nq-yr">' + h + ' ' + yearLabel(h) + '</div>' +
+          '<div class="nq-amt"><span class="nq-cur">€</span>' + fmt(sum) + '</div>';
+        projEl.appendChild(cell);
+      });
+    }
+
+    [perDayEl, perPackEl, priceEl, startEl].forEach((el) =>
+      el.addEventListener('input', recalc)
+    );
+
+    let lastFocus: HTMLElement | null = null;
+    function onKey(e: KeyboardEvent) {
+      if (e.key === 'Escape') { close(); return; }
+      if (e.key !== 'Tab') return;
+      // Simple focus trap within the modal.
+      const focusables = modal.querySelectorAll<HTMLElement>(
+        'a[href],button:not([disabled]),input,select,textarea,[tabindex]:not([tabindex="-1"])'
+      );
+      if (!focusables.length) return;
+      const first = focusables[0];
+      const last = focusables[focusables.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+
+    function open() {
+      lastFocus = document.activeElement as HTMLElement;
+      overlay!.hidden = false;
+      overlay!.classList.add('nq-open');
+      document.body.style.overflow = 'hidden';
+      recalc();
+      perDayEl.focus();
+      document.addEventListener('keydown', onKey);
+      (window as any).posthog?.capture('calculator_opened', { platform: 'website' });
+    }
+    function close() {
+      overlay!.classList.remove('nq-open');
+      overlay!.hidden = true;
+      document.body.style.overflow = '';
+      document.removeEventListener('keydown', onKey);
+      if (lastFocus && typeof lastFocus.focus === 'function') lastFocus.focus();
+    }
+
+    // Close on backdrop click (but not when clicking inside the modal).
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+    overlay.querySelectorAll('[data-close-calc]').forEach((el) =>
+      el.addEventListener('click', close)
+    );
+
+    // Any element on the page with [data-open-calc] opens the calculator.
+    document.querySelectorAll('[data-open-calc]').forEach((el) =>
+      el.addEventListener('click', (e) => { e.preventDefault(); open(); })
+    );
+
+    // Expose globally so inline handlers / other scripts can trigger it.
+    (window as any).openCalc = open;
+    (window as any).closeCalc = close;
+  })();
+</script>

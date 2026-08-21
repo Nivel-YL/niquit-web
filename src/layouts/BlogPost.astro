@@ -1,6 +1,7 @@
 ---
 import Base from './Base.astro';
 import ArticleCTA from '../components/ArticleCTA.astro';
+import Calculator from '../components/Calculator.astro';
 import { type Lang, t, localePath } from '../i18n/ui';
 
 type RelatedPost = { title: string; description: string; slug: string };
@@ -140,10 +141,25 @@ const jsonLd = {
       </div>
     )}
 
+    <!-- Calculator entry point (ТЗ §4, #5) -->
+    <div class="mt-8 text-center">
+      <p class="mb-4 text-sm" style="color:#93A6C6;">{s.calc.postPrompt}</p>
+      <button
+        type="button"
+        data-open-calc
+        class="inline-flex items-center justify-center rounded-xl px-6 py-3.5 font-semibold transition-transform hover:-translate-y-0.5"
+        style="background:#35C6D8; color:#06232A; min-height:46px;"
+      >
+        💰 {s.calc.postCta} &rarr;
+      </button>
+    </div>
+
     <div class="mt-10 pt-10" style="border-top:1px solid #18243F;">
       <ArticleCTA lang={lang} />
     </div>
   </article>
+
+  <Calculator lang={lang} />
 </Base>
 
 <script define:vars={{ slug, cluster, lang }}>

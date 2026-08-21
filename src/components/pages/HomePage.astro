@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import BlogCard from '../BlogCard.astro';
 import DonateSection from '../DonateSection.astro';
+import Calculator from '../Calculator.astro';
 import { type Lang, t, localePath } from '../../i18n/ui';
 import { GOOGLE_URL, APPLE_URL } from '../../config/stores';
 import { getCollection } from 'astro:content';
@@ -24,73 +25,92 @@ const allPosts = await getCollection('blog', (entry) =>
 const posts = allPosts
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
   .slice(0, 3);
+
+// One shared atmospheric gradient across the whole page, no hard section
+// bands (ТЗ §2.2).
+const pageBg =
+  'background:' +
+  'radial-gradient(900px 520px at 82% 4%, rgba(53,120,216,.20), transparent 60%),' +
+  'radial-gradient(760px 520px at 10% 92%, rgba(53,198,216,.07), transparent 55%),' +
+  'linear-gradient(175deg,#0C1424 0%,#0B1220 48%,#0A1A2A 100%);';
 ---
 
 <Base title={s.hero.headline} lang={lang} description={s.hero.sub}>
+<div style={pageBg}>
 
-  <!-- Hero: 2-col on desktop (text left, phone right), single col on mobile -->
-  <section
-    class="min-h-[75vh] py-20 px-6 md:px-12"
-    style="background:radial-gradient(120% 100% at 80% 0%, #12275A 0%, #0A1A33 55%);"
-  >
-  <div class="max-w-5xl mx-auto grid gap-8 items-center md:grid-cols-[1.05fr_0.95fr]">
-    <!-- Left: text -->
-    <div>
-      <span
-        class="inline-block mb-6 text-xs px-3 py-1.5 rounded-full border"
-        style="font-family:'JetBrains Mono',monospace; color:#67E8F9; border-color:rgba(53,198,216,0.3);"
-      >
-        {s.hero.label}
-      </span>
+  <!-- Hero -->
+  <section class="py-16 sm:py-20 px-5 sm:px-8">
+    <div class="max-w-5xl mx-auto grid gap-10 md:gap-12 items-center md:grid-cols-[1.05fr_0.95fr]">
+      <!-- Left: text -->
+      <div>
+        <span
+          class="inline-block mb-6 text-xs px-3 py-1.5 rounded-full border"
+          style="font-family:'JetBrains Mono',monospace; color:#67E8F9; border-color:rgba(53,198,216,0.3); background:rgba(53,198,216,0.06);"
+        >
+          {s.hero.label}
+        </span>
 
-      <h1
-        class="font-extrabold leading-[1.02] text-[40px] md:text-6xl"
-        style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
-      >
-        {s.hero.prefix} <span class="nicotine">{s.hero.nicotine}</span><br />{s.hero.suffix}
-      </h1>
+        <h1
+          class="font-extrabold leading-[1.03] text-[40px] md:text-6xl"
+          style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
+        >
+          {s.hero.prefix} <span class="nicotine">{s.hero.nicotine}</span><br />{s.hero.suffix}
+        </h1>
 
-      <p class="mt-6 max-w-[460px] text-lg leading-relaxed" style="color:#CBD5E1;">
-        {s.hero.sub}
-      </p>
+        <p class="mt-6 max-w-[460px] text-lg leading-relaxed" style="color:#9DB0CC;">
+          {s.hero.sub}
+        </p>
 
-      <a
-        href={GOOGLE_URL}
-        target="_blank"
-        rel="noopener"
-        data-ph-install="hero"
-        data-store-link
-        data-apple-href={APPLE_URL}
-        class="inline-block mt-8 rounded-xl px-7 py-4 font-bold transition-opacity hover:opacity-90"
-        style="background:#FF6B5C; color:#0A1A33; font-family:'Space Grotesk',sans-serif;"
-      >
-        {s.hero.cta}
-      </a>
-    </div>
+        <div class="mt-8 flex flex-col sm:flex-row gap-3.5">
+          <a
+            href={GOOGLE_URL}
+            target="_blank"
+            rel="noopener"
+            data-ph-install="hero"
+            data-store-link
+            data-apple-href={APPLE_URL}
+            class="inline-flex items-center justify-center rounded-xl px-7 py-4 font-bold transition-transform hover:-translate-y-0.5"
+            style="background:#FF6B5C; color:#1a0d08; font-family:'Space Grotesk',sans-serif; min-height:52px;"
+          >
+            {s.hero.cta}
+          </a>
+          <button
+            type="button"
+            data-open-calc
+            class="inline-flex items-center justify-center rounded-xl px-6 py-4 font-semibold transition-colors"
+            style="border:1px solid #22314F; color:#EAF1FF; background:rgba(19,30,51,.6); min-height:52px;"
+          >
+            {s.calc.entry} &rarr;
+          </button>
+        </div>
+      </div>
 
-    <!-- Right: phone mockup -->
-    <div class="flex justify-center">
-      <div class="phone">
-        <img
-          src={heroScreenshot[lang]}
-          alt="NiQuit"
-          loading="eager"
-        />
+      <!-- Right: phone = calculator entry point #1 -->
+      <div class="phone-stage">
+        <span class="calc-hint" aria-hidden="true">
+          <span class="calc-hint__txt">{s.calc.tapHere}</span>
+          <svg viewBox="0 0 96 56"><path d="M6,6 C 26,10 52,20 82,46 M82,46 L70,44 M82,46 L78,34"/></svg>
+        </span>
+        <button class="phone-launch" type="button" data-open-calc aria-label={s.calc.phoneCta}>
+          <div class="phone">
+            <img src={heroScreenshot[lang]} alt="NiQuit" loading="eager" />
+            <span class="phone-cta"><span aria-hidden="true">💰</span> {s.calc.phoneCta}</span>
+          </div>
+        </button>
       </div>
     </div>
-  </div>
   </section>
 
   <!-- Features -->
-  <section class="py-20 px-5 sm:px-8" style="background:#18243F;">
+  <section class="py-16 sm:py-20 px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
       <h2
         class="text-2xl sm:text-3xl font-extrabold mb-10 text-center"
-        style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+        style="font-family:'Space Grotesk',sans-serif; color:#F5F7FA; letter-spacing:-0.01em;"
       >
         {s.features.title}
       </h2>
-      <div class="grid sm:grid-cols-2 gap-6">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {[
           { icon: '📖', ...s.features.course },
           { icon: '🌱', ...s.features.health },
@@ -98,38 +118,73 @@ const posts = allPosts
           { icon: '💰', ...s.features.savings },
           { icon: '🎯', ...s.features.multiSource },
         ].map(({ icon, title, desc }) => (
-          <div class="rounded-2xl p-7" style="background:#0C1424;">
-            <div class="text-3xl mb-4">{icon}</div>
-            <h3
-              class="text-lg font-bold mb-2"
-              style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
-            >
-              {title}
-            </h3>
-            <p class="text-sm leading-relaxed" style="color:#B0B8C8;">{desc}</p>
+          <div class="rounded-2xl p-6 sm:p-7" style="background:rgba(19,30,51,.55); border:1px solid #22314F;">
+            <div class="text-2xl mb-4">{icon}</div>
+            <h3 class="text-lg font-bold mb-2" style="font-family:'Space Grotesk',sans-serif; color:#F5F7FA;">{title}</h3>
+            <p class="text-sm leading-relaxed" style="color:#9DB0CC;">{desc}</p>
           </div>
         ))}
+        <!-- Calculator CTA card (entry point #3) -->
+        <div
+          class="rounded-2xl p-6 sm:p-7 flex flex-col justify-center"
+          style="background:rgba(53,198,216,.06); border:1px solid rgba(53,198,216,.3);"
+        >
+          <h3 class="text-lg font-bold mb-2" style="font-family:'Space Grotesk',sans-serif; color:#35C6D8;">{s.calc.cardTitle}</h3>
+          <p class="text-sm mb-4" style="color:#9DB0CC;">{s.calc.cardBody}</p>
+          <button
+            type="button"
+            data-open-calc
+            class="self-start rounded-xl px-5 py-3 font-semibold transition-transform hover:-translate-y-0.5"
+            style="background:#35C6D8; color:#06232A; min-height:44px;"
+          >
+            {s.calc.cardCta} &rarr;
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Central idea / quote -->
+  <section class="py-8 sm:py-12 px-5 sm:px-8">
+    <div class="max-w-4xl mx-auto">
+      <div
+        class="rounded-3xl px-8 py-12 sm:px-10 sm:py-14 text-center"
+        style="background:linear-gradient(160deg,rgba(53,120,216,.10),rgba(19,30,51,.5)); border:1px solid #22314F;"
+      >
+        <p
+          class="mx-auto max-w-[34ch] font-semibold leading-snug"
+          style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; font-size:clamp(21px,3vw,29px);"
+        >
+          {s.method.understanding.body}
+        </p>
+        <a
+          href={localePath(lang, 'method')}
+          class="inline-flex items-center justify-center mt-7 rounded-xl px-6 py-3 font-semibold transition-colors"
+          style="border:1px solid #22314F; color:#EAF1FF; background:rgba(19,30,51,.6); min-height:44px;"
+        >
+          {s.nav.method} &rarr;
+        </a>
       </div>
     </div>
   </section>
 
   <!-- Blog preview -->
-  <section class="py-20 px-5 sm:px-8">
+  <section class="py-16 sm:py-20 px-5 sm:px-8">
     <div class="max-w-5xl mx-auto">
       <div class="flex items-center justify-between mb-8">
         <h2
           class="text-2xl sm:text-3xl font-extrabold"
-          style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
+          style="font-family:'Space Grotesk',sans-serif; color:#F5F7FA; letter-spacing:-0.01em;"
         >
           {s.blog.title}
         </h2>
-        <a href={localePath(lang, 'blog')} class="text-sm font-semibold" style="color:#22D3EE;">
+        <a href={localePath(lang, 'blog')} class="text-sm font-semibold" style="color:#35C6D8;">
           {s.blog.readMore} &rarr;
         </a>
       </div>
 
       {posts.length === 0 ? (
-        <p style="color:#B0B8C8;">{s.blog.empty}</p>
+        <p style="color:#9DB0CC;">{s.blog.empty}</p>
       ) : (
         <div class="grid sm:grid-cols-3 gap-6">
           {posts.map((post) => (
@@ -150,4 +205,7 @@ const posts = allPosts
   <!-- Donate -->
   <DonateSection lang={lang} />
 
+</div>
+
+<Calculator lang={lang} />
 </Base>

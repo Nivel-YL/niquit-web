@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import InstallButton from '../InstallButton.astro';
+import Calculator from '../Calculator.astro';
 import { type Lang, t } from '../../i18n/ui';
 
 interface Props { lang: Lang; }
@@ -34,8 +35,22 @@ const sections = ['trap', 'why', 'understanding', 'what'] as const;
       ))}
     </div>
 
+    <!-- Calculator entry point (ТЗ §4, #4) -->
+    <div class="mt-14 rounded-2xl px-6 py-7 sm:px-8 text-center" style="background:rgba(53,198,216,.06); border:1px solid rgba(53,198,216,.3);">
+      <button
+        type="button"
+        data-open-calc
+        class="inline-flex items-center justify-center rounded-xl px-6 py-4 font-semibold transition-transform hover:-translate-y-0.5"
+        style="background:#35C6D8; color:#06232A; min-height:48px;"
+      >
+        💰 {s.calc.methodCta} &rarr;
+      </button>
+    </div>
+
     <div class="mt-16">
       <InstallButton lang={lang} size="lg" />
     </div>
   </div>
+
+  <Calculator lang={lang} />
 </Base>
