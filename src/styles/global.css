@@ -218,30 +218,36 @@ textarea:focus-visible,
   background: #4ad3e3;
 }
 
-/* "Tap the phone" arrow, desktop only (ТЗ §2.3). Decorative. Anchored to
-   the phone (child of .phone-launch) so it rides with the float and points
-   at the pinned CTA. */
+/* "Tap the phone" arrow, desktop only (ТЗ §2.3). Decorative. Bobs in sync
+   with the phone's float (same 5s translateY) so it reads as attached to
+   the phone, and points at the pinned CTA. */
 .calc-hint {
   position: absolute;
-  left: -96px;
-  bottom: 40px;
+  left: -84px;
+  bottom: 46px;
   width: max-content;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 6px;
+  gap: 4px;
   pointer-events: none;
   z-index: 2;
+  animation: float-hint 5s ease-in-out infinite;
+}
+@keyframes float-hint {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-14px); }
 }
 .calc-hint__txt {
-  font-family: var(--font-mono);
-  font-size: 13px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 14px;
   color: #35C6D8;
   white-space: nowrap;
-  transform: rotate(-4deg);
-  margin-right: 4px;
+  transform: rotate(-3deg);
+  margin-right: 2px;
 }
-.calc-hint svg { width: 92px; height: 54px; overflow: visible; }
+.calc-hint svg { width: 84px; height: 50px; overflow: visible; }
 .calc-hint path {
   fill: none;
   stroke: #35C6D8;
@@ -265,6 +271,7 @@ textarea:focus-visible,
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .calc-hint { animation: none; }
   .calc-hint path { animation: none; stroke-dashoffset: 0; }
   .phone-cta { animation: none !important; }
 }
