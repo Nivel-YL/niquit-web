@@ -422,9 +422,13 @@ def research_shared(client: anthropic.Anthropic, topic_title: str) -> tuple[str,
                 '"F1. [the fact]. [Source: Name, Year | Tier: 1/2]". '
                 'Each fact must include source name, year, and tier.\n\n'
                 'On the final line, write exactly:\n'
-                'NEEDS_LOCAL_RESEARCH: [comma-separated list of language codes from en/ru/de/es/fr '
-                'that need country-specific research, legal status, local stats, cultural context. '
-                'Write "none" if no language needs it.]'
+                'NEEDS_LOCAL_RESEARCH: [comma-separated language codes from en/ru/de/es/fr that '
+                'GENUINELY need a separate country-specific search because this topic has a real '
+                'local dimension the universal facts above do not already cover, such as local '
+                'prices, local prevalence figures, or local legal/regulatory status. Do NOT list a '
+                'language for universal physiology, psychology, withdrawal, or general how-to '
+                'topics where the facts are the same everywhere, that just spends a search for '
+                'nothing. Default to "none" unless a language clearly needs country-specific data.]'
             ),
         }],
     )
@@ -1227,9 +1231,19 @@ def write_article(
                 '2. Line 2: > [SEO meta description, 120-155 chars, in target language]\n'
                 '3. Blank line, then full article body (800-1200 words)\n\n'
                 f'Write natively in {LANG_NAMES[lang]}. Not a translation. '
-                'Apply all rules from the system prompt. '
-                'CRITICAL: Only use statistics from the research facts above. '
-                'Every number you include must come from those facts with its source.'
+                'Apply all rules from the system prompt.\n\n'
+                'SOURCES, CRITICAL: an automated fact audit runs on what you write, and '
+                'every invented or misattributed source it catches is expensive to search '
+                'for and fix afterwards. So get it right the first time:\n'
+                '- Every statistic, number, and named source must come from the research '
+                'facts above. Attribute each claim to the EXACT source named in the fact it '
+                'came from, copied as written (if the fact says "[Source: Cleveland Clinic, '
+                '2026]", cite Cleveland Clinic, not a paraphrase and not a different name).\n'
+                '- NEVER invent, guess, or half-remember a source. If a source name does not '
+                'appear verbatim in the research facts above, do not write it at all.\n'
+                '- If you want to state something the research facts do not cover, either '
+                'leave it out or write it as general knowledge with no named source. A '
+                'sentence with no source is fine, a sentence with a made-up source is not.'
             ),
         }],
     )
