@@ -418,3 +418,81 @@ textarea:focus-visible,
   color: #EAF1FF;
   font-weight: 600;
 }
+
+/* Savings calculator. Used by both the modal (Calculator.astro) and the
+   standalone page (CalculatorPage.astro), so the styles live here rather than
+   inside either component. Overlay/modal-chrome selectors (.nq-ov, .nq-modal*)
+   only match in the modal; the page reuses everything else. */
+.nq-ov{
+  position:fixed; inset:0; background:rgba(5,9,16,.74);
+  -webkit-backdrop-filter:blur(4px); backdrop-filter:blur(4px);
+  display:none; align-items:center; justify-content:center; z-index:80; padding:20px;
+}
+.nq-ov.nq-open{ display:flex; animation:nqFade .18s ease; }
+@keyframes nqFade{ from{opacity:0} to{opacity:1} }
+.nq-modal{
+  width:100%; max-width:800px; max-height:92vh; overflow-y:auto;
+  background:#0E1728; border:1px solid #22314F; border-radius:20px;
+  box-shadow:0 40px 90px -30px rgba(0,0,0,.9); padding:30px 32px 26px;
+}
+.nq-modal-head{ display:flex; justify-content:space-between; align-items:flex-start; }
+.nq-pill{
+  display:inline-block; font-family:'JetBrains Mono',monospace; font-size:12.5px;
+  color:#35C6D8; border:1px solid rgba(53,198,216,.3); background:rgba(53,198,216,.06);
+  padding:7px 14px; border-radius:20px;
+}
+.nq-close{
+  width:44px; height:44px; border-radius:10px; border:1px solid #22314F; background:#131E33;
+  font-size:17px; color:#93A6C6; display:flex; align-items:center; justify-content:center;
+  flex-shrink:0; cursor:pointer;
+}
+.nq-close:hover{ color:#EAF1FF; border-color:#35C6D8; }
+.nq-title{
+  font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:26px;
+  margin:14px 0 6px; letter-spacing:-.01em; color:#EAF1FF; text-align:left;
+}
+.nq-sub{ color:#93A6C6; font-size:15px; margin:0 0 24px; max-width:56ch; line-height:1.5; }
+.nq-grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px 20px; margin-bottom:24px; }
+.nq-field{ display:flex; flex-direction:column; gap:6px; }
+.nq-field label{ font-size:13px; font-weight:500; color:#93A6C6; }
+.nq-hint{ font-size:11.5px; color:#6E80A0; }
+.nq-field input{
+  background:#131E33; border:1px solid #22314F; border-radius:10px; color:#EAF1FF;
+  font-family:inherit; font-size:15px; padding:12px 14px; min-height:46px; width:100%;
+  transition:border-color .15s;
+}
+.nq-field input:focus{ border-color:#35C6D8; outline:none; }
+.nq-results{ border-top:1px solid #22314F; padding-top:22px; }
+.nq-spent{
+  display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:20px;
+  padding:18px 20px; background:#131E33; border:1px solid #22314F; border-radius:14px;
+}
+.nq-spent-lab{ font-size:14px; color:#93A6C6; }
+.nq-spent-val{ font-family:'Space Grotesk',sans-serif; font-size:32px; font-weight:700; color:#FF6B5C; }
+.nq-cur{ font-size:20px; opacity:.7; margin-right:2px; }
+.nq-proj-title{
+  font-size:12px; color:#93A6C6; margin:0 0 12px; font-family:'JetBrains Mono',monospace;
+  letter-spacing:.06em; text-transform:uppercase;
+}
+.nq-proj{ display:grid; grid-template-columns:repeat(6,1fr); gap:10px; }
+.nq-cell{
+  background:linear-gradient(180deg,#1e2d4d,#131E33); border:1px solid #22314F;
+  border-radius:12px; padding:15px 6px; text-align:center;
+}
+.nq-cell .nq-yr{ font-family:'JetBrains Mono',monospace; font-size:12px; color:#35C6D8; margin-bottom:7px; }
+.nq-cell .nq-amt{ font-family:'Space Grotesk',sans-serif; font-weight:600; font-size:18px; color:#EAF1FF; }
+.nq-cell .nq-amt .nq-cur{ font-size:11px; }
+.nq-cell.nq-hero{ border-color:rgba(74,222,155,.4); background:linear-gradient(180deg,rgba(74,222,155,.12),#131E33); }
+.nq-cell.nq-hero .nq-amt{ color:#4ADE9B; }
+.nq-foot{ font-size:12px; color:#6E80A0; margin-top:20px; line-height:1.55; border-top:1px solid #22314F; padding-top:16px; }
+
+@media(max-width:640px){
+  .nq-modal{ padding:24px 20px; }
+  .nq-grid{ grid-template-columns:1fr; }
+  .nq-proj{ grid-template-columns:repeat(3,1fr); }
+  .nq-title{ font-size:22px; }
+  .nq-spent-val{ font-size:26px; }
+}
+@media(prefers-reduced-motion:reduce){
+  .nq-ov.nq-open{ animation:none; }
+}

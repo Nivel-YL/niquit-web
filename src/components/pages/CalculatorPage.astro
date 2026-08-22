@@ -1,0 +1,171 @@
+---
+import Base from '../../layouts/Base.astro';
+import InstallButton from '../InstallButton.astro';
+import { type Lang, t } from '../../i18n/ui';
+import { spentSince, savedByHorizon, formatMoney, yearLabel } from '../../lib/savings';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const s = t(lang);
+const c = s.calc;       // field labels, footnote, year words — shared with the modal
+const cp = s.calcPage;  // page-only SEO copy
+
+const localeTag: Record<Lang, string> = {
+  en: 'en-US', ru: 'ru-RU', de: 'de-DE', es: 'es-ES', fr: 'fr-FR',
+};
+const tag = localeTag[lang];
+
+// Default inputs, mirrored from the modal so the two entry points agree.
+// Rendered server-side (not left to JS) so the page ships real numbers in its
+// HTML — the whole reason this route exists is to be crawlable and rankable,
+// which an empty JS-filled widget is not. The client script re-runs on load to
+// pick up the visitor's actual current year.
+const DEF = { perDay: 20, perPack: 20, price: 6, startYear: 2014 };
+const CY = new Date().getFullYear();
+const startYear = Math.min(CY, DEF.startYear);
+const spent = spentSince(DEF.perDay, DEF.perPack, DEF.price, startYear, CY);
+const projections = savedByHorizon(DEF.perDay, DEF.perPack, DEF.price);
+
+const fmt = (n: number) => formatMoney(n, tag);
+const yl = (n: number) => yearLabel(n, tag, { year: c.year, yearsFew: c.yearsFew, years: c.years });
+---
+
+<Base title={cp.metaTitle} lang={lang} description={cp.metaDescription}>
+  <div class="max-w-3xl mx-auto px-5 sm:px-8 py-14 sm:py-16">
+    <span class="nq-pill">{c.pill}</span>
+    <h1
+      class="mt-5 text-3xl sm:text-4xl font-extrabold leading-tight"
+      style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.02em;"
+    >
+      {cp.h1}
+    </h1>
+    <p class="mt-4 text-lg leading-relaxed" style="color:#9DB0CC; max-width:56ch;">{cp.intro}</p>
+
+    <!-- Calculator, inline (reuses the modal's .nq-* styles from global.css). -->
+    <div
+      id="nqCalcPage"
+      class="mt-10"
+      style="background:#0E1728; border:1px solid #22314F; border-radius:20px; padding:28px 26px;"
+      data-locale={tag}
+      data-year={c.year}
+      data-years-few={c.yearsFew}
+      data-years={c.years}
+    >
+      <div class="nq-grid">
+        <div class="nq-field">
+          <label for="nqPerDay">{c.perDay}</label>
+          <input id="nqPerDay" type="number" min="0" step="1" value={DEF.perDay} inputmode="numeric" />
+          <span class="nq-hint">{c.perDayHint}</span>
+        </div>
+        <div class="nq-field">
+          <label for="nqPerPack">{c.perPack}</label>
+          <input id="nqPerPack" type="number" min="1" step="1" value={DEF.perPack} inputmode="numeric" />
+          <span class="nq-hint">{c.perPackHint}</span>
+        </div>
+        <div class="nq-field">
+          <label for="nqPackPrice">{c.packPrice} (EUR)</label>
+          <input id="nqPackPrice" type="number" min="0" step="0.1" value={DEF.price} inputmode="decimal" />
+          <span class="nq-hint">{c.packPriceHint}</span>
+        </div>
+        <div class="nq-field">
+          <label for="nqStartYear">{c.startYear}</label>
+          <input id="nqStartYear" type="number" min="1970" max={CY} step="1" value={startYear} inputmode="numeric" />
+          <span class="nq-hint">{c.startYearHint}</span>
+        </div>
+      </div>
+
+      <div class="nq-results">
+        <div class="nq-spent">
+          <span class="nq-spent-lab">{c.spentLabel} <span id="nqSinceYear">{startYear}</span>:</span>
+          <span class="nq-spent-val"><span class="nq-cur">€</span><span id="nqSpentVal">{fmt(spent)}</span></span>
+        </div>
+        <p class="nq-proj-title">{c.projTitle}</p>
+        <div class="nq-proj" id="nqProj">
+          {projections.map(({ horizon, amount }) => (
+            <div class={horizon === 20 ? 'nq-cell nq-hero' : 'nq-cell'}>
+              <div class="nq-yr">{horizon} {yl(horizon)}</div>
+              <div class="nq-amt"><span class="nq-cur">€</span>{fmt(amount)}</div>
+            </div>
+          ))}
+        </div>
+        <p class="nq-foot">{c.footnote}</p>
+      </div>
+    </div>
+
+    <!-- Indexable supporting content: gives the page something to rank on
+         beyond the widget, and states the method credibly (E-E-A-T). -->
+    <section class="prose max-w-none mt-14">
+      <h2>{cp.howTitle}</h2>
+      <p>{cp.howBody}</p>
+    </section>
+
+    <!-- App CTA -->
+    <div
+      class="mt-14 rounded-2xl px-6 py-8 sm:px-8 text-center"
+      style="background:rgba(53,198,216,.06); border:1px solid rgba(53,198,216,.3);"
+    >
+      <h2 class="text-xl sm:text-2xl font-bold mb-6" style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF;">
+        {cp.ctaTitle}
+      </h2>
+      <div class="flex justify-center">
+        <InstallButton lang={lang} size="lg" location="article" />
+      </div>
+    </div>
+  </div>
+</Base>
+
+<script>
+  import { HORIZONS, spentSince, savedOver, formatMoney, yearLabel } from '../../lib/savings';
+
+  (function () {
+    const root = document.getElementById('nqCalcPage');
+    if (!root) return;
+    const perDayEl = document.getElementById('nqPerDay') as HTMLInputElement;
+    const perPackEl = document.getElementById('nqPerPack') as HTMLInputElement;
+    const priceEl = document.getElementById('nqPackPrice') as HTMLInputElement;
+    const startEl = document.getElementById('nqStartYear') as HTMLInputElement;
+    const sinceYearEl = document.getElementById('nqSinceYear') as HTMLElement;
+    const spentValEl = document.getElementById('nqSpentVal') as HTMLElement;
+    const projEl = document.getElementById('nqProj') as HTMLElement;
+
+    const locale = root.dataset.locale || 'en-US';
+    const words = {
+      year: root.dataset.year || 'year',
+      yearsFew: root.dataset.yearsFew || 'years',
+      years: root.dataset.years || 'years',
+    };
+    const CY = new Date().getFullYear();
+    startEl.max = String(CY);
+    const fmt = (n: number) => formatMoney(n, locale);
+    const yl = (n: number) => yearLabel(n, locale, words);
+
+    function recalc() {
+      const perDay = Math.max(0, +perDayEl.value || 0);
+      const perPack = Math.max(1, +perPackEl.value || 1);
+      const price = Math.max(0, +priceEl.value || 0);
+      let sy = +startEl.value || CY;
+      if (sy > CY) sy = CY;
+      sinceYearEl.textContent = String(sy);
+
+      spentValEl.textContent = fmt(spentSince(perDay, perPack, price, sy, CY));
+
+      projEl.innerHTML = '';
+      HORIZONS.forEach((h) => {
+        const sum = savedOver(perDay, perPack, price, h);
+        const cell = document.createElement('div');
+        cell.className = 'nq-cell' + (h === 20 ? ' nq-hero' : '');
+        cell.innerHTML =
+          '<div class="nq-yr">' + h + ' ' + yl(h) + '</div>' +
+          '<div class="nq-amt"><span class="nq-cur">€</span>' + fmt(sum) + '</div>';
+        projEl.appendChild(cell);
+      });
+    }
+
+    [perDayEl, perPackEl, priceEl, startEl].forEach((el) =>
+      el.addEventListener('input', recalc)
+    );
+    // Re-run once so the numbers reflect the visitor's actual current year
+    // (the server rendered them at build time).
+    recalc();
+  })();
+</script>
