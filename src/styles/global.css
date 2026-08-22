@@ -26,6 +26,27 @@ html, body {
   overflow-x: hidden;
 }
 
+/* On-brand scrollbar so the default light-grey bar doesn't read as an
+   out-of-place artifact on the dark theme. Kept visible (not hidden) so
+   the scroll affordance and a11y remain intact. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #22314F transparent;
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: #22314F;
+  border-radius: 20px;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #35C6D8;
+  background-clip: padding-box;
+  border: 3px solid transparent;
+}
+
 /* Accessibility: visible keyboard focus everywhere (ТЗ §6). */
 a:focus-visible,
 button:focus-visible,

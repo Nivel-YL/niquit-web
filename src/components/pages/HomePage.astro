@@ -27,12 +27,16 @@ const posts = allPosts
   .slice(0, 3);
 
 // One shared atmospheric gradient across the whole page, no hard section
-// bands (ТЗ §2.2).
+// bands (ТЗ §2.2). Large, soft, partly-offscreen radials whose falloff
+// happens beyond the viewport edges so there is no visible boundary and
+// the whole width reads as one filled background (not a right-side glow on
+// a flat-dark left). Ends use a 0-alpha of the glow colour, not the
+// `transparent` keyword, to avoid the grey midpoint some engines render.
 const pageBg =
   'background:' +
-  'radial-gradient(900px 520px at 82% 4%, rgba(53,120,216,.20), transparent 60%),' +
-  'radial-gradient(760px 520px at 10% 92%, rgba(53,198,216,.07), transparent 55%),' +
-  'linear-gradient(175deg,#0C1424 0%,#0B1220 48%,#0A1A2A 100%);';
+  'radial-gradient(1500px 1000px at 72% -12%, rgba(53,120,216,.20), rgba(53,120,216,0) 72%),' +
+  'radial-gradient(1200px 900px at -8% 108%, rgba(53,198,216,.10), rgba(53,198,216,0) 66%),' +
+  'linear-gradient(180deg,#0C1424 0%,#0A1729 58%,#0A1A2A 100%);';
 ---
 
 <Base title={s.hero.headline} lang={lang} description={s.hero.sub}>
