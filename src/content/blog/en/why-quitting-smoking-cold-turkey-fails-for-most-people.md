@@ -48,7 +48,7 @@ So abrupt quitting actually outperformed gradual reduction, but only when both g
 
 This lines up with Truth Initiative's broader finding: combining medication with counseling more than triples a person's chances of quitting successfully. The FDA has approved several options for this, including nicotine patches, gum, lozenges, inhalers, and nasal spray, plus the medications varenicline and bupropion. None of these require you to grit your teeth through the acetylcholine and dopamine chaos your brain puts up on its own.
 
-If your struggle isn't cigarettes but nicotine pouches like ZYN or Velo, the same underlying withdrawal mechanics apply, and it's worth reading about [how to quit nicotine pouches](how-to-quit-nicotine-pouches-zyn-on-velo) specifically, since the delivery method changes some of the practical details even if the brain chemistry doesn't.
+If your struggle isn't cigarettes but nicotine pouches like ZYN or Velo, the same underlying withdrawal mechanics apply, and it's worth reading about [how to quit nicotine pouches](/blog/how-to-quit-nicotine-pouches-zyn-on-velo) specifically, since the delivery method changes some of the practical details even if the brain chemistry doesn't.
 
 ## What actually addresses the psychological side
 

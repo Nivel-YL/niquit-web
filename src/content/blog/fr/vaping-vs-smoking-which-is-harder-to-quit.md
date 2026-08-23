@@ -30,7 +30,7 @@ Une étude de cohorte de l'université de Californie à San Diego, publiée dans
 
 En France, le Haut Conseil de la santé publique a d'ailleurs révisé sa position de 2016 sur le sujet. Il estime aujourd'hui qu'il n'existe pas suffisamment de preuves pour recommander la vape comme outil d'arrêt du tabac (ECigIntelligence, 2024). C'est une position plus prudente que dans certains autres pays, et elle explique en partie pourquoi la publicité pour la vape reste totalement interdite ici, alors même que FIVAPE la présente comme l'aide à l'arrêt la plus populaire (juin 2025).
 
-Ce flou réglementaire n'est pas propre à la vape. Si tu es passé aux sachets de nicotine en pensant limiter les risques, tu retrouveras la même mécanique de dépendance masquée dans notre article sur [les effets secondaires des sachets de nicotine que personne ne mentionne](nicotine-pouch-side-effects-what-no-one-tells-you).
+Ce flou réglementaire n'est pas propre à la vape. Si tu es passé aux sachets de nicotine en pensant limiter les risques, tu retrouveras la même mécanique de dépendance masquée dans notre article sur [les effets secondaires des sachets de nicotine que personne ne mentionne](/fr/blog/nicotine-pouch-side-effects-what-no-one-tells-you).
 
 ## Le sevrage est-il différent entre vape et cigarette ?
 
@@ -38,7 +38,7 @@ Sur le papier, les symptômes de manque se ressemblent : irritabilité, difficul
 
 Une enquête britannique relayée par le National Elf Service (2023) montre que 17 % des vapoteurs interrogés se sentent très dépendants à la cigarette électronique, et 35 % la considèrent aussi addictive que le tabac classique. Les facteurs les plus liés à cette dépendance forte : vapoter dès le réveil, ressentir des envies intenses, et utiliser des liquides à plus de 15 mg/ml de nicotine, un seuil proche du plafond légal français fixé à 20 mg/ml.
 
-Ce plafond va d'ailleurs bientôt changer. La France prévoit de nouvelles restrictions d'ici mi-2026, avec des limites renforcées sur le taux de nicotine et le nombre d'arômes disponibles, dans le cadre du Plan national de lutte contre le tabac 2023-2027. Les puffs jetables sont déjà interdites à la vente depuis février 2025, et les sachets de nicotine le seront à leur tour dès avril 2026. Si tu veux comprendre pourquoi ces petits objets jetables créent une dépendance si tenace, notre article [pourquoi les puffs jetables sont si difficiles à arrêter](why-disposable-vapes-are-so-hard-to-quit) détaille le mécanisme.
+Ce plafond va d'ailleurs bientôt changer. La France prévoit de nouvelles restrictions d'ici mi-2026, avec des limites renforcées sur le taux de nicotine et le nombre d'arômes disponibles, dans le cadre du Plan national de lutte contre le tabac 2023-2027. Les puffs jetables sont déjà interdites à la vente depuis février 2025, et les sachets de nicotine le seront à leur tour dès avril 2026. Si tu veux comprendre pourquoi ces petits objets jetables créent une dépendance si tenace, notre article [pourquoi les puffs jetables sont si difficiles à arrêter](/fr/blog/why-disposable-vapes-are-so-hard-to-quit) détaille le mécanisme.
 
 ## Ce que ça change pour toi
 

@@ -124,6 +124,24 @@ def validate_links(body: str, lang: str, blog_dir: Path, require_published: bool
         if any(d in url for d in STALE_OR_SELF_DOMAINS):
             problems.append(f'"{url}" is an absolute URL to the site itself - internal links must be a relative /lang/blog/slug path')
 
+    # Relative internal links (no leading slash), e.g. "](how-to-quit-vaping)"
+    # or an invented translated slug "](warum-kaltentzug-...)". These match
+    # none of the checks above (they have a (url), so not a dropped link; they
+    # aren't http(s), so not the stale-domain check; they don't start with /,
+    # so not the absolute-path check below). On a live page a bare slug resolves
+    # against the CURRENT article's URL, producing /lang/blog/current-slug/target
+    # (a 404), and an invented localized slug is a 404 outright. This whole class
+    # slipped through until 17 of them surfaced in GSC on 2026-08-23; every real
+    # internal link on this site is an absolute /lang/blog/slug path.
+    for m in re.finditer(r'\]\(([^)]+)\)', body):
+        target = m.group(1).strip()
+        if target.startswith(('/', 'http://', 'https://', '#', 'mailto:')):
+            continue
+        problems.append(
+            f'"{target}" is a relative internal link - internal links must be an '
+            f'absolute /{lang}/blog/slug path, a bare or translated slug 404s'
+        )
+
     for m in re.finditer(r'\]\((/[^)]+)\)', body):
         link = m.group(1)
         if link.startswith('/images/'):

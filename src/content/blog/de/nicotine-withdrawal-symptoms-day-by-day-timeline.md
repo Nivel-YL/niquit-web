@@ -36,7 +36,7 @@ Die offiziellen diagnostischen Kriterien für akuten Nikotinentzug listen genau 
 
 Ab Woche 2 bis 4 verändert sich das Bild. Laut Cleveland Clinic klingen die Symptome insgesamt über drei bis vier Wochen ab: Die Beschwerden werden deutlich weniger akut, aber Erschöpfung und veränderte Essgewohnheiten bleiben noch eine Weile. Das heißt nicht, dass an Tag 29 alles vorbei ist. Manche Auslöser wie ein Bier mit Freunden, Stress im Job oder eine Pause auf der Arbeit können laut einer Analyse in PMC (2010) noch Jahre später Rückfallgefühle triggern, weil sie mit alten Gewohnheiten verknüpft sind.
 
-Genau hier liegt die größte Gefahr. WebMD (2024) hält fest, dass die meisten Rückfälle innerhalb der ersten zwei Wochen passieren. Wer diese Phase übersteht, hat die körperlichen Symptome größtenteils hinter sich, muss sich aber weiterhin mit Angst, Niedergeschlagenheit und Reizbarkeit auf mentaler Ebene auseinandersetzen. Wer sich fragt, warum der harte Cut von heute auf morgen so oft scheitert, findet dazu mehr in unserem Artikel [Warum Kaltentzug beim Rauchstopp für die meisten scheitert](warum-kaltentzug-beim-rauchstopp-fuer-die-meisten-scheitert).
+Genau hier liegt die größte Gefahr. WebMD (2024) hält fest, dass die meisten Rückfälle innerhalb der ersten zwei Wochen passieren. Wer diese Phase übersteht, hat die körperlichen Symptome größtenteils hinter sich, muss sich aber weiterhin mit Angst, Niedergeschlagenheit und Reizbarkeit auf mentaler Ebene auseinandersetzen. Wer sich fragt, warum der harte Cut von heute auf morgen so oft scheitert, findet dazu mehr in unserem Artikel [Warum Kaltentzug beim Rauchstopp für die meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
 ## Wie realistisch ist es, ganz ohne Hilfe durchzuhalten?
 
@@ -44,4 +44,4 @@ Nüchtern betrachtet: schwierig. Laut den US-amerikanischen Centers for Disease 
 
 Zum globalen Ausmaß des Problems: Laut der Weltgesundheitsorganisation (WHO) rauchen aktuell über 22 Prozent der Weltbevölkerung, mit mehr als 9 Millionen tabakbedingten Todesfällen pro Jahr. Das macht deutlich, wie groß das Feld ist, in dem sich jeder einzelne Entzug abspielt, auch wenn er sich im Moment sehr einsam anfühlt.
 
-Wer statt Zigaretten Nikotinbeutel wie ZYN, On! oder Velo nutzt, durchläuft übrigens einen sehr ähnlichen Prozess, auch wenn der Konsum unauffälliger wirkt. Mehr dazu in unserem Artikel [Wie man mit Nikotinbeuteln aufhört](how-to-quit-nicotine-pouches-zyn-on-velo).
+Wer statt Zigaretten Nikotinbeutel wie ZYN, On! oder Velo nutzt, durchläuft übrigens einen sehr ähnlichen Prozess, auch wenn der Konsum unauffälliger wirkt. Mehr dazu in unserem Artikel [Wie man mit Nikotinbeuteln aufhört](/de/blog/how-to-quit-nicotine-pouches-zyn-on-velo).
