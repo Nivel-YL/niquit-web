@@ -223,7 +223,7 @@ topics:
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
   cluster: H
-  status: pending
+  status: drafted
   published: {}
 - id: H-02
   title_en: There is no such thing as a casual smoker the evidence
