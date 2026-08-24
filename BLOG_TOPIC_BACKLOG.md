@@ -218,7 +218,7 @@ topics:
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
   cluster: G
-  status: pending
+  status: drafted
   published: {}
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
