@@ -228,7 +228,7 @@ topics:
 - id: H-02
   title_en: There is no such thing as a casual smoker the evidence
   cluster: H
-  status: pending
+  status: drafted
   published: {}
 - id: H-03
   title_en: Are light cigarettes actually safer what the research says
