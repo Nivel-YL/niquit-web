@@ -218,17 +218,17 @@ topics:
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
   cluster: G
-  status: drafted
+  status: approved
   published: {}
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
   cluster: H
-  status: drafted
+  status: approved
   published: {}
 - id: H-02
   title_en: There is no such thing as a casual smoker the evidence
   cluster: H
-  status: drafted
+  status: approved
   published: {}
 - id: H-03
   title_en: Are light cigarettes actually safer what the research says
