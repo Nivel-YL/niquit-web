@@ -1,0 +1,31 @@
+name: Syntax check
+
+# The pipeline scripts only ever execute inside paid, scheduled jobs (Mon editor,
+# Tue/Fri publisher). A plain SyntaxError would otherwise not surface until one of
+# those runs, wasting a scheduled slot (and, worse, the editor's per-run API spend
+# on a crash at import). This job byte-compiles every script on the same Python the
+# real jobs use, on every push that touches them, so a parse error is caught in
+# seconds for free instead. compileall only parses/compiles, it never imports or
+# runs anything, so it needs no dependencies and no API key.
+
+on:
+  push:
+    paths:
+      - 'scripts/**.py'
+      - '.github/workflows/syntax-check.yml'
+  pull_request:
+    paths:
+      - 'scripts/**.py'
+
+jobs:
+  py-compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Byte-compile all pipeline scripts
+        run: python -m compileall -q scripts

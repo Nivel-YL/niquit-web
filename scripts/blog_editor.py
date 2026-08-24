@@ -500,15 +500,19 @@ AUDIT_SYSTEM = (
     'Known examples: Juicefly, Quit With Jones, QuitNic app, Tobacco Stops With Me, Smoke Free app, '
     'Kwit app, The EX Program, Villa Treatment Center, ETHRA, Charlie Health, Quit Smoking Advisor, '
     'Quit Smoking Community, Allen Carr\'s Easyway.\n\n'
-    'If a cited source is not obviously one of the well-known Tier 1 examples above, a government '
-    'agency, a named peer-reviewed journal, or a named major academic medical center, you MUST use '
-    'web_search to check it before classifying: does this domain or organization actually exist, is '
-    'it genuinely related to nicotine, health, or addiction rather than an unrelated business, and '
-    'does it show retailer or competing-product signals as described above. Do not classify an '
-    'unfamiliar source from memory alone. If a source cannot be confirmed to exist, or turns out to '
-    'be unrelated to the topic, mark its tier as UNK and flag it. This is a distinct problem from '
-    'Tier 3, it is not necessarily a competitor, it may simply not be real or not relevant, but it '
-    'must be flagged the same way.\n\n'
+    'You have NO web access, do not attempt to look anything up. Classify each source only from '
+    'what is in front of you: the article, the research facts above, and the well-known names '
+    'listed here. A cited source counts as verifiable ONLY if it is one of these: named in the '
+    'research facts above (those were already vetted with real searches at research time), or an '
+    'obvious well-known Tier 1 name (a government health agency, a named peer-reviewed journal, or '
+    'a named major academic medical center from the lists above), or a well-known Tier 2 mass '
+    'health media outlet from the list above. Any cited source that is NONE of these, an '
+    'unfamiliar name that does not appear in the research facts and that you cannot place with '
+    'confidence among the well-known names, you MUST NOT guess is fine: mark its tier UNK and flag '
+    'it with a short reason such as flag:unverified-source. A separate verification step downstream '
+    'will do the actual web search on it, once. This is distinct from Tier 3, an unfamiliar source '
+    'is not necessarily a competitor, it may simply be one that cannot be confirmed here, but it is '
+    'flagged the same way. When in doubt, flag rather than pass.\n\n'
     'Output BOTH of the following, in this order. The machine-readable block comes FIRST, before '
     'any prose or reasoning about individual sources, and the human-readable table comes second. '
     'This order matters: if your response is ever cut short, the machine-readable block is the '
@@ -574,9 +578,13 @@ def audit_article(
     article_text: str,
     research_facts: str,
 ) -> tuple[str, list[dict]]:
-    """Independent fact + source audit, with real web search access. Unlike a purely
-    memory-based self-check, this can actually verify whether an unfamiliar source
-    exists and what kind of site it is.
+    """Independent fact + source audit, classification only, NO web search.
+    Checks every number against the provided research facts, and classifies every
+    cited source by membership: is it named in the research facts, or a well-known
+    tier-listed name? Anything it cannot place there is flagged UNK for the single
+    deduplicated verification step (run_source_verification_pipeline) to actually
+    search, once per run instead of once per language. Moving the per-language audit
+    search out of here is the bulk of this pipeline's web-search cost reduction.
     Returns (human_readable_report, parsed_source_table).
 
     Raises RuntimeError if the response was cut off by the token limit, or if it
@@ -589,12 +597,11 @@ def audit_article(
     resp = client.messages.create(
         model=RESEARCH_MODEL,
         max_tokens=4096,
-        tools=[{
-            'type': 'web_search_20260209',
-            'name': 'web_search',
-            'max_uses': 6,
-            'allowed_callers': ['direct'],
-        }],
+        # No web_search tool on purpose: the audit now classifies sources purely by
+        # membership in the research facts and the well-known tier lists in
+        # AUDIT_SYSTEM, and flags anything it cannot place as UNK. The one place a
+        # source is actually searched is the deduplicated verification step below,
+        # once per run rather than once per language. This is the main cost cut.
         system=AUDIT_SYSTEM,
         messages=[{
             'role': 'user',
@@ -784,6 +791,68 @@ def find_replacement_source_with_attempts(
         )
         last = 'REMOVE'
     return last, malformed_seen
+
+
+REWORD_SYSTEM = (
+    'You are correcting the SOURCE ATTRIBUTION of one sentence in a nicotine-cessation blog '
+    'article written in {lang_name}. The same factual claim in a parallel-language version of this '
+    'article has already been verified and corrected to credit a specific legitimate source. Your '
+    'job is narrow: rewrite the flagged {lang_name} sentence so it credits that SAME verified '
+    'source, in natural {lang_name}. Keep the sentence native, it is not a translation, and keep '
+    'the fact and any numbers exactly as they already are in the flagged sentence, change ONLY '
+    'which source the sentence credits. Do NOT introduce a different source, and do NOT rely on '
+    'web search or outside knowledge, use only the verified correction shown to you.\n\n'
+    'Output EXACTLY this, as the very last thing in your response, nothing after it:\n\n'
+    '===FIX_ANSWER===\n'
+    '<single {lang_name} sentence, or REMOVE>\n'
+    '===END_FIX_ANSWER===\n\n'
+    'If the verified correction removed the source entirely or is itself REMOVE, output REMOVE. '
+    'Anything between the markers that is not one complete clean sentence (or REMOVE) is discarded '
+    'automatically and treated as REMOVE, so keep any reasoning outside the block.'
+)
+
+
+def reword_source_without_search(
+    client: anthropic.Anthropic,
+    lang: str,
+    flagged_quote: str,
+    flagged_source: str,
+    reference_fix: str,
+) -> str:
+    """No-search reword of a single flagged sentence in `lang`, given the already
+    verified correction (`reference_fix`, the corrected sentence produced for another
+    language of the SAME fact). This is how one search-backed verdict is applied
+    across every language that shares a fact, instead of paying for an independent web
+    search per language. Returns a corrected sentence or the literal string 'REMOVE'.
+
+    Deliberately has NO web_search tool and is not handed the full article: it only
+    transfers an already-decided source onto this language's sentence, so it is a
+    cheap, token-only call. A malformed answer is caught by the same
+    _looks_like_clean_sentence gate the searched fix uses; the caller falls back to a
+    real per-language searched fix whenever this does not return a clean sentence, so
+    it can only ever save cost, never degrade a fix.
+    """
+    if reference_fix.strip().upper() == 'REMOVE':
+        return 'REMOVE'
+    resp = client.messages.create(
+        model=RESEARCH_MODEL,
+        max_tokens=1024,
+        system=REWORD_SYSTEM.format(lang_name=LANG_NAMES[lang]),
+        messages=[{
+            'role': 'user',
+            'content': (
+                f'Flagged {LANG_NAMES[lang]} sentence (exact quote): "{flagged_quote}"\n'
+                f'Its currently credited source, flagged as not verifiable here: {flagged_source}\n\n'
+                f'The verified correction for this same claim, which shows the source to credit:\n'
+                f'"{reference_fix}"'
+            ),
+        }],
+    )
+    full_text = '\n'.join(b.text for b in resp.content if hasattr(b, 'text') and b.text)
+    m = FIX_ANSWER_RE.search(full_text)
+    if not m:
+        return full_text.strip() or 'REMOVE'
+    return m.group(1).strip() or 'REMOVE'
 
 
 def split_frontmatter(article_text: str) -> tuple[str, str]:
@@ -1020,9 +1089,13 @@ def run_source_verification_pipeline(
     lang_results: dict[str, dict],
     today: datetime.date,
 ) -> dict:
-    """Steps 4-6: cross-language consistency check, then up to 2 search-backed fix
-    attempts per flagged citation, then GitHub Issue escalation for any Tier-3 or UNK
-    finding still unresolved. Returns a summary dict used to build the report file.
+    """Steps 4-6: cross-language consistency check, then source repair, then GitHub
+    Issue escalation for any Tier-3 or UNK finding still unresolved. Repair is
+    deduplicated across languages: each (fact_id, source) shared by 2+ languages is
+    searched once on a representative language and the verdict transferred to the
+    rest (a REMOVE broadcast, or a no-search reword of the replacement), with a
+    single search-backed per-language attempt as the fallback for everything else.
+    Returns a summary dict used to build the report file.
     """
     lang_tables = {lang: r['source_table'] for lang, r in lang_results.items()}
     cross_findings = cross_language_consistency(lang_tables)
@@ -1054,37 +1127,112 @@ def run_source_verification_pipeline(
     fixed: list[dict] = []
     unresolved: list[dict] = []
 
-    for lang, row in worklist:
-        out_path = lang_results[lang]['out_path']
-        article_text = out_path.read_text(encoding='utf-8')
-
-        result, malformed = find_replacement_source_with_attempts(
-            client, lang, row['quote'], row['source_name'], article_text,
-            max_attempts=2,
-        )
-        applied = _reload_and_fix(out_path, row['quote'], result)
-
-        record = {
+    def _record_for(lang: str, row: dict) -> dict:
+        return {
             'lang': lang,
             'fact_id': row.get('fact_id'),
             'source_name': row['source_name'],
             'tier': row.get('tier'),
             'quote': row['quote'],
         }
-        if applied:
-            if result.strip().upper() == 'REMOVE':
-                record['resolution'] = (
-                    'removed (model response failed validation, treated as no source found)'
-                    if malformed else 'removed'
-                )
-            else:
-                record['resolution'] = f'reattributed: {result.strip()}'
-            fixed.append(record)
-            print(f'[{lang}] fixed flagged source "{row["source_name"]}": {record["resolution"]}', flush=True)
+
+    def _apply_and_record(lang: str, row: dict, result: str, malformed: bool) -> bool:
+        """Apply one fix result to a language's saved file and, if it landed, append a
+        record to `fixed`. Returns whether it was applied, so the caller can decide to
+        mark the row handled or leave it to a later attempt."""
+        if not _reload_and_fix(lang_results[lang]['out_path'], row['quote'], result):
+            return False
+        record = _record_for(lang, row)
+        if result.strip().upper() == 'REMOVE':
+            record['resolution'] = (
+                'removed (model response failed validation, treated as no source found)'
+                if malformed else 'removed'
+            )
         else:
-            record['error'] = 'could not locate the flagged sentence in the saved file'
-            unresolved.append(record)
-            print(f'[{lang}] COULD NOT FIX flagged source "{row["source_name"]}": {record["error"]}', flush=True)
+            record['resolution'] = f'reattributed: {result.strip()}'
+        fixed.append(record)
+        print(f'[{lang}] fixed flagged source "{row["source_name"]}": {record["resolution"]}', flush=True)
+        return True
+
+    # -- deduplicated cross-language pre-pass --------------------------------------
+    # The same fabricated or unverifiable source, on the same fact, shows up in
+    # several languages of one topic at once (e.g. "Science Insights" flagged for the
+    # same claim in en/de/ru/fr in a single run). Fixing each independently pays for
+    # the same web search 3-5 times over. Instead: for each (fact_id, source) group
+    # with 2+ languages, search ONCE on a representative language, then broadcast a
+    # REMOVE verdict to the rest for free, or transfer a found replacement onto them
+    # with a cheap no-search reword. Everything here is guarded: a group that errors,
+    # or a member the reword cannot cleanly fix, is left unhandled and picked up by
+    # the proven per-language loop below, so this can only cost less, never produce a
+    # worse fix than before.
+    handled: set[tuple[str, str]] = set()
+    try:
+        groups: dict[tuple[str, str], list[tuple[str, dict]]] = {}
+        for lang, row in worklist:
+            fid = (row.get('fact_id') or 'NONE').strip()
+            if not fid or fid.upper() == 'NONE':
+                continue
+            groups.setdefault((fid, _normalize_source_name(row['source_name'])), []).append((lang, row))
+
+        for key, members in groups.items():
+            if len(members) < 2:
+                continue
+            try:
+                rep_lang, rep_row = next((m for m in members if m[0] == 'en'), members[0])
+                rep_text = lang_results[rep_lang]['out_path'].read_text(encoding='utf-8')
+                result, malformed = find_replacement_source_with_attempts(
+                    client, rep_lang, rep_row['quote'], rep_row['source_name'], rep_text,
+                    max_attempts=1,
+                )
+                if not _apply_and_record(rep_lang, rep_row, result, malformed):
+                    # Representative could not even be located in its own file; do not
+                    # guess for the rest, leave the whole group to the loop below.
+                    continue
+                handled.add((rep_lang, rep_row['quote']))
+
+                is_remove = result.strip().upper() == 'REMOVE'
+                for lang, row in members:
+                    if lang == rep_lang and row['quote'] == rep_row['quote']:
+                        continue
+                    if is_remove:
+                        # "No legitimate source exists" is language-independent; apply
+                        # it to this language's own sentence with no extra search.
+                        if _apply_and_record(lang, row, 'REMOVE', malformed):
+                            handled.add((lang, row['quote']))
+                        continue
+                    reworded = reword_source_without_search(
+                        client, lang, row['quote'], row['source_name'], result,
+                    ).strip()
+                    if reworded.upper() == 'REMOVE':
+                        if _apply_and_record(lang, row, 'REMOVE', True):
+                            handled.add((lang, row['quote']))
+                    elif _looks_like_clean_sentence(reworded):
+                        if _apply_and_record(lang, row, reworded, False):
+                            handled.add((lang, row['quote']))
+                    # else: leave unhandled -> real per-language searched fix below
+            except Exception as exc:
+                print(f'  [dedup group {key}] failed, leaving to per-language fix: {exc}', flush=True)
+    except Exception as exc:
+        print(f'  [dedup pre-pass] disabled this run, per-language fix for all: {exc}', flush=True)
+        handled = set()
+
+    # -- per-language fix (and the fallback for anything the pre-pass left) ---------
+    for lang, row in worklist:
+        if (lang, row['quote']) in handled:
+            continue
+        out_path = lang_results[lang]['out_path']
+        article_text = out_path.read_text(encoding='utf-8')
+
+        result, malformed = find_replacement_source_with_attempts(
+            client, lang, row['quote'], row['source_name'], article_text,
+            max_attempts=1,
+        )
+        if _apply_and_record(lang, row, result, malformed):
+            continue
+        record = _record_for(lang, row)
+        record['error'] = 'could not locate the flagged sentence in the saved file'
+        unresolved.append(record)
+        print(f'[{lang}] COULD NOT FIX flagged source "{row["source_name"]}": {record["error"]}', flush=True)
 
     # Escalate unresolved Tier-3 (hard block) and UNK (could not confirm the source
     # exists or is relevant) findings alike. Both are "no legitimate source, and the
