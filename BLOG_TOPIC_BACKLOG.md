@@ -193,8 +193,13 @@ topics:
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-25'
+    ru: '2026-08-25'
+    de: '2026-08-25'
+    es: '2026-08-25'
+    fr: '2026-08-25'
 - id: F-02
   title_en: How nicotine rewires your brain and how long recovery takes
   cluster: F
