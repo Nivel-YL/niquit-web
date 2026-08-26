@@ -8,7 +8,11 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
   <text x="604" y="299" font-size="420" text-anchor="middle"
         dominant-baseline="middle" opacity="0.10"
-        transform="rotate(-5,604,299)">💨</text>
+        transform="rotate(-5,604,299)">🔗</text>
+  <rect x="80" y="72" width="94" height="34" rx="17"
+        fill="#35C6D822" stroke="#35C6D84d"/>
+  <text x="94" y="94" font-family="monospace" font-size="13" font-weight="600"
+        letter-spacing="1.5" fill="#35C6D8">VAPING</text>
   <rect x="80" y="120" width="5" height="390" fill="#FF6B5C" rx="2.5"/>
   <rect x="0" y="600" width="1200" height="30" fill="#FF6B5C" opacity="0.18"/>
 </svg>

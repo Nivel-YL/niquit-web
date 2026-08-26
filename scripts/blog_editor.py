@@ -81,9 +81,41 @@ CLUSTER_ICONS = {
     'H': '\U0001f52e',
 }
 
+# Short category kicker shown on each cover (ТЗ: cards were reading as
+# duplicated/generic - every topic in a cluster shared the exact same emoji
+# with no other visual distinction). Cluster is a real topical grouping
+# (see BLOG_TOPIC_BACKLOG.md), not just a batch id, so it doubles as a label.
+CLUSTER_LABELS = {
+    'A': 'NICOTINE POUCHES',
+    'B': 'VAPING',
+    'C': 'QUITTING SMOKING',
+    'D': 'MULTI-PRODUCT',
+    'E': 'TRIGGERS & MIND',
+    'F': 'BODY & COST',
+    'G': 'SURVIVAL GUIDE',
+    'H': 'MYTHS',
+}
+
+# Per-topic icon, keyed by the stable topic id from BLOG_TOPIC_BACKLOG.md.
+# CLUSTER_ICONS above is now only the fallback for a topic id not yet listed
+# here (e.g. a brand-new topic before this map is updated) - every topic
+# actually in the backlog gets its own icon so 4 covers in the same cluster
+# no longer look identical.
+TOPIC_ICONS = {
+    'A-01': '\U0001f50d', 'A-02': '\U0001f5fa', 'A-03': '⚖️', 'A-04': '⚠️',
+    'B-01': '\U0001f9ed', 'B-02': '\U0001f52c', 'B-03': '\U0001f517', 'B-04': '\U0001f94a',
+    'C-01': '❄️', 'C-02': '\U0001f4c5', 'C-03': '\U0001f32a️', 'C-04': '\U0001f504',
+    'D-01': '\U0001f500', 'D-02': '\U0001f9ec', 'D-03': '\U0001f9e9',
+    'E-01': '⏱️', 'E-02': '\U0001f30a', 'E-03': '\U0001f525', 'E-04': '\U0001f300',
+    'F-01': '\U0001fac1', 'F-02': '\U0001f9e0', 'F-03': '\U0001f4b8',
+    'G-01': '⏳', 'G-02': '⏰', 'G-03': '\U0001f9d8',
+    'H-01': '\U0001f4ad', 'H-02': '\U0001f6ab', 'H-03': '❓',
+}
+
 NAVY  = '#0A1A33'
 PANEL = '#0F2244'
 CORAL = '#FF6B5C'
+CYAN  = '#35C6D8'
 
 # -- blocked sources (Tier 3, hard block, never cite regardless of convenience) --
 # Rule: never cite a site that sells nicotine products OR is a competing quit app.
@@ -324,8 +356,19 @@ def generate_svg(topic_id: str, cluster: str) -> str:
     ox     = (seed % 41) - 20
     oy     = ((seed >> 8) % 41) - 20
     rot    = ((seed >> 16) % 31) - 15
-    icon   = CLUSTER_ICONS.get(cluster, '\U0001f4dd')
+    icon   = TOPIC_ICONS.get(topic_id) or CLUSTER_ICONS.get(cluster, '\U0001f4dd')
+    # XML-escape: two of the eight labels contain a literal "&" ("TRIGGERS &
+    # MIND", "BODY & COST"), which is invalid unescaped inside SVG/XML text
+    # and silently breaks the whole file (browsers just show a broken image,
+    # no console error) - caught by rendering the covers, not by the build.
+    label  = CLUSTER_LABELS.get(cluster, '').replace('&', '&amp;')
     cx, cy = 600 + ox, 315 + oy
+    label_svg = (
+        f'  <rect x="80" y="72" width="{len(label) * 11 + 28}" height="34" rx="17"\n'
+        f'        fill="{CYAN}22" stroke="{CYAN}4d"/>\n'
+        f'  <text x="94" y="94" font-family="monospace" font-size="13" font-weight="600"\n'
+        f'        letter-spacing="1.5" fill="{CYAN}">{label}</text>\n'
+    ) if label else ''
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">\n'
         f'  <defs>\n'
@@ -338,6 +381,7 @@ def generate_svg(topic_id: str, cluster: str) -> str:
         f'  <text x="{cx}" y="{cy}" font-size="420" text-anchor="middle"\n'
         f'        dominant-baseline="middle" opacity="0.10"\n'
         f'        transform="rotate({rot},{cx},{cy})">{icon}</text>\n'
+        f'{label_svg}'
         f'  <rect x="80" y="120" width="5" height="390" fill="{CORAL}" rx="2.5"/>\n'
         f'  <rect x="0" y="600" width="1200" height="30" fill="{CORAL}" opacity="0.18"/>\n'
         f'</svg>'
