@@ -1,6 +1,6 @@
 ---
 title: "¿Cuánto dura realmente un antojo de nicotina?"
-description: "Son las 11 de la noche, llevas dos días sin fumar y de repente el antojo llega como una ola que parece que te va a tragar entero. Piensas: \"esto no se v..."
+description: "Son las 11 de la noche, dos días sin fumar, y el antojo llega como una ola imposible de resistir. Pero un antojo real dura solo entre 3 y 5 minutos."
 publishDate: 2026-08-17
 lang: es
 draft: true

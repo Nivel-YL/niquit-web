@@ -1,6 +1,6 @@
 ---
 title: "Cómo dejar de fumar cuando nada ha funcionado antes"
-description: "Has probado parches, la fuerza de voluntad, el día de Año Nuevo. Y volviste a fumar. Esto es lo que realmente pasa en tu cerebro y qué hacer distinto ahora."
+description: "Has probado parches, fuerza de voluntad, el día de Año Nuevo. Y volviste a fumar. Esto es lo que pasa en tu cerebro y qué hacer distinto ahora."
 publishDate: 2026-07-28
 lang: es
 draft: false

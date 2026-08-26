@@ -1,6 +1,6 @@
 ---
 title: "Cómo dejar toda la nicotina de golpe: guía para la adicción a varios productos"
-description: "Fumas, vapeas y a veces te metes una bolsita de nicotina cuando no puedes hacer ninguna de las dos cosas. Aquí tienes una guía real para dejarlo todo a la vez."
+description: "Fumas, vapeas y a veces usas una bolsita de nicotina cuando no puedes con las otras dos. Aquí tienes una guía real para dejarlo todo a la vez."
 publishDate: 2026-08-07
 lang: es
 draft: false

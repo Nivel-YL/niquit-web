@@ -1,6 +1,6 @@
 ---
 title: "Déclencheurs de la cigarette : comment les identifier et casser la boucle"
-description: "Café du matin, pause au travail, verre entre amis : tes déclencheurs de cigarette suivent un schéma précis. Voici comment les repérer et sortir de la boucle."
+description: "Café du matin, pause au travail, verre entre amis : tes déclencheurs de cigarette suivent un schéma précis. Voici comment les repérer."
 publishDate: 2026-08-18
 lang: fr
 draft: false

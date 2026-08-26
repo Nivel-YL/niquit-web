@@ -1,6 +1,6 @@
 ---
 title: "Nikotinbeutel: Was steckt drin und sind sie wirklich sicherer als Zigaretten?"
-description: "Nikotinbeutel gelten als Alternative zur Zigarette. Was wirklich drinsteckt, was die Forschung sagt, und warum \"weniger schädlich\" nicht \"harmlos\" heißt."
+description: "Nikotinbeutel gelten als Alternative zur Zigarette. Was wirklich drinsteckt, und warum \"weniger schädlich\" nicht \"harmlos\" heißt."
 publishDate: 2026-07-06
 lang: de
 draft: false

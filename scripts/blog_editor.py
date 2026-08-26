@@ -1413,8 +1413,19 @@ def write_article(
     desc_m      = re.search(r'^>\s+(.+)$', text, re.MULTILINE)
     description = desc_m.group(1).strip() if desc_m else ''
     if not description:
+        # Fallback when the model omits the '> description' line: use the
+        # opening paragraph, cut at the last whole word under the SERP-safe
+        # budget rather than a raw character slice, which cut mid-word
+        # ('...beca...', from 'because') in 3 articles that hit this path.
         paras = [p.strip() for p in text.split('\n\n') if p.strip() and not p.startswith('#')]
-        description = (paras[0][:152] + '...') if paras else ''
+        if paras:
+            raw = paras[0]
+            if len(raw) <= 155:
+                description = raw
+            else:
+                description = raw[:155].rsplit(' ', 1)[0].rstrip('.,;:') + '...'
+        else:
+            description = ''
 
     body = re.sub(r'^#\s+.+\n?', '', text, count=1)
     body = re.sub(r'^>\s+.+\n?', '', body, count=1)

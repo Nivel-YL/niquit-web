@@ -1,6 +1,6 @@
 ---
 title: "Was tun statt Rauchen? 6 Ersatzstrategien, die wirklich funktionieren"
-description: "Du willst mit dem Rauchen aufhören, aber deine Hand greift automatisch zur Packung? Diese 6 Ersatzstrategien sind wissenschaftlich belegt und helfen wirklich."
+description: "Du willst mit dem Rauchen aufhören, aber deine Hand greift automatisch zur Packung? Diese 6 Ersatzstrategien sind wissenschaftlich belegt."
 publishDate: 2026-08-24
 lang: de
 draft: true

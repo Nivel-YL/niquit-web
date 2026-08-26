@@ -1,6 +1,6 @@
 ---
 title: "How to Quit All Nicotine at Once: A Multi-Product Addiction Guide"
-description: "You vape during the day, smoke a cigarette when you're drinking, and tuck a pouch under your lip before bed. None of it feels like \"real\" addiction beca..."
+description: "You vape by day, smoke when drinking, and use a pouch before bed. None of it feels like real addiction, because no single product does all the damage."
 publishDate: 2026-08-07
 lang: en
 draft: false

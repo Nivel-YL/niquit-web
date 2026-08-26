@@ -1,6 +1,6 @@
 ---
 title: "Nikotinentzug und Angst: was normal ist und was du jetzt tun kannst"
-description: "Herzrasen, innere Unruhe, das Gefühl, dass etwas nicht stimmt: Angst beim Nikotinentzug ist häufig und meist kein Grund zur Panik. Hier erfährst du, was normal ist."
+description: "Herzrasen, innere Unruhe, das Gefühl, dass etwas nicht stimmt: Angst beim Nikotinentzug ist häufig und meist kein Grund zur Panik."
 publishDate: 2026-08-21
 lang: de
 draft: false

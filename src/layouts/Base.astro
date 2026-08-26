@@ -29,6 +29,13 @@ const ogImageUrl = new URL(ogImage, siteOrigin).toString();
 const ogLocale: Record<Lang, string> = {
   en: 'en_US', ru: 'ru_RU', de: 'de_DE', es: 'es_ES', fr: 'fr_FR',
 };
+// The ' | NiQuit' suffix costs 9 chars against the ~60-char budget SERPs
+// render before truncating. Most article titles (esp. German compounds)
+// already sit near that budget on their own, so the suffix is only added
+// when it still fits - a truncated brand suffix looks worse than none.
+const TITLE_SUFFIX = ' | NiQuit';
+const TITLE_BUDGET = 60;
+const fullTitle = title.length + TITLE_SUFFIX.length <= TITLE_BUDGET ? `${title}${TITLE_SUFFIX}` : title;
 ---
 
 <!doctype html>
@@ -36,7 +43,7 @@ const ogLocale: Record<Lang, string> = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title} | NiQuit</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={description} />
     {noindex ? (
       <meta name="robots" content="noindex, follow" />
@@ -52,7 +59,7 @@ const ogLocale: Record<Lang, string> = {
     )}
 
     <!-- Open Graph -->
-    <meta property="og:title" content={`${title} | NiQuit`} />
+    <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalUrl} />
@@ -65,7 +72,7 @@ const ogLocale: Record<Lang, string> = {
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={`${title} | NiQuit`} />
+    <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
 

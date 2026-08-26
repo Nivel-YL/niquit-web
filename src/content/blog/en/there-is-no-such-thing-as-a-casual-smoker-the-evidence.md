@@ -1,6 +1,6 @@
 ---
 title: "There's no such thing as a casual smoker: what the evidence actually shows"
-description: "You know that guy who \"only smokes when he drinks.\" Or the friend who has one cigarette a day, always at the same time, and swears that's proof she's no..."
+description: "You know the guy who \"only smokes when he drinks,\" or the friend who swears one cigarette a day proves she's not really a smoker. The evidence disagrees."
 publishDate: 2026-08-24
 lang: en
 draft: true
