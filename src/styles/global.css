@@ -297,6 +297,17 @@ textarea:focus-visible,
   .phone-cta { animation: none !important; }
 }
 
+/* Expands a text link's tap/click target toward ~44px without changing its
+   visual size or the surrounding flex gap: padding grows the hit area,
+   the equal-and-opposite negative margin cancels it back out of layout
+   (net footprint in the flex row is unchanged, only the invisible hit
+   area grows into the existing gap). Used on nav/footer links. */
+.tap-pad {
+  display: inline-block;
+  padding: 12px 6px;
+  margin: -12px -6px;
+}
+
 /* Language dropdown */
 @keyframes dd {
   from { opacity: 0; transform: translateY(-6px) }

@@ -18,6 +18,17 @@ const heroScreenshot: Record<Lang, string> = {
   es: '/img/ES/4.jpg',
   fr: '/img/FR/4.jpg',
 };
+// 480w variants for the phone mockup, which never renders wider than 288px
+// CSS (desktop) / 220px (mobile, see .phone in global.css) - the source
+// JPGs are 791px wide, so without this every visitor downloads a ~2-3x
+// oversized image. Generated via sharp, same directory as the originals.
+const heroScreenshotSmall: Record<Lang, string> = {
+  en: '/img/EN/1-480w.jpg',
+  ru: '/img/RU/3-480w.jpg',
+  de: '/img/DE/4-480w.jpg',
+  es: '/img/ES/4-480w.jpg',
+  fr: '/img/FR/4-480w.jpg',
+};
 
 const allPosts = await getCollection('blog', (entry) =>
   entry.data.lang === lang && !entry.data.draft
@@ -97,7 +108,13 @@ const pageBg =
             <svg viewBox="0 0 96 56"><path d="M6,6 C 26,10 52,20 82,46 M82,46 L70,44 M82,46 L78,34"/></svg>
           </span>
           <div class="phone">
-            <img src={heroScreenshot[lang]} alt="NiQuit" loading="eager" />
+            <img
+              src={heroScreenshot[lang]}
+              srcset={`${heroScreenshotSmall[lang]} 480w, ${heroScreenshot[lang]} 791w`}
+              sizes="(max-width: 767px) 220px, 288px"
+              alt="NiQuit"
+              loading="eager"
+            />
             <span class="phone-cta"><span aria-hidden="true">💰</span> {s.calc.phoneCta}</span>
           </div>
         </button>
