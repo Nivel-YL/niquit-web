@@ -43,6 +43,18 @@ const ogLocale: Record<Lang, string> = {
 const TITLE_SUFFIX = ' | NiQuit';
 const TITLE_BUDGET = 60;
 const fullTitle = title.length + TITLE_SUFFIX.length <= TITLE_BUDGET ? `${title}${TITLE_SUFFIX}` : title;
+
+// One shared atmospheric gradient site-wide (design decision 26.08:
+// consistency over a single "showcase" homepage - internal pages were
+// reading as visually flat by comparison). Large, soft, partly-offscreen
+// radials whose falloff happens beyond the viewport edges so there is no
+// visible boundary and the whole width reads as one filled background. Ends
+// use a 0-alpha of the glow colour, not the `transparent` keyword, to avoid
+// the grey midpoint some engines render.
+const pageBg =
+  'radial-gradient(1500px 1000px at 72% -12%, rgba(53,120,216,.20), rgba(53,120,216,0) 72%),' +
+  'radial-gradient(1200px 900px at -8% 108%, rgba(53,198,216,.10), rgba(53,198,216,0) 66%),' +
+  'linear-gradient(180deg,#0C1424 0%,#0A1729 58%,#0A1A2A 100%)';
 ---
 
 <!doctype html>
@@ -123,7 +135,7 @@ const fullTitle = title.length + TITLE_SUFFIX.length <= TITLE_BUDGET ? `${title}
       rel="stylesheet"
     />
   </head>
-  <body class="min-h-screen flex flex-col" style="background-color:#0C1424; color:#F5F7FA;">
+  <body class="min-h-screen flex flex-col" style={`background:${pageBg}; color:#F5F7FA;`}>
     <a href="#main" class="skip-link">Skip to content</a>
     <Header lang={lang} />
     <main id="main" class="flex-1">
