@@ -25,6 +25,21 @@ function clusterOf(e: CollectionEntry<'blog'>): string {
 }
 const cluster = clusterOf(entry);
 
+// hreflang needs the real per-language slug, not this entry's own slug
+// reused everywhere - almost every article uses the same slug in all 5
+// languages so the identity is just the slug itself, but a handful of
+// legacy articles were translated with a different slug per language
+// before that convention existed and set an explicit topicId to opt into
+// this lookup instead.
+const topicId = entry.data.topicId ?? slug;
+const siblingEntries = await getCollection('blog', (e) =>
+  !e.data.draft && (e.data.topicId ?? e.id.split('/').pop()) === topicId
+);
+const translations: Partial<Record<Lang, string>> = {};
+for (const e of siblingEntries) {
+  translations[e.data.lang] = `blog/${e.id.split('/').pop()}`;
+}
+
 // Related-articles pool: same cluster first (true topical closeness, not a
 // slug-substring guess), topped up with the most recent other-cluster posts
 // so smaller clusters still get a decent-sized pool. Wider than 3 on purpose,
@@ -60,6 +75,7 @@ const related = [...sameCluster, ...otherCluster]
   slug={slug}
   cluster={cluster}
   related={related}
+  translations={translations}
 >
   <Content />
 </BlogPost>

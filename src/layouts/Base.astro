@@ -17,9 +17,16 @@ interface Props {
   // requested, so a normal canonical tag here would be actively misleading,
   // not just absent.
   noindex?: boolean;
+  // Per-language path override for hreflang, when a page's path isn't the
+  // same string in every language (e.g. a blog article with a legacy,
+  // non-uniform slug per language). Values are bare paths, same shape
+  // localePath() expects: no leading slash, no locale prefix. A language
+  // missing from this map falls back to the default (reusing the current
+  // page's own path), which is correct for every page that doesn't need it.
+  translations?: Partial<Record<Lang, string>>;
 }
 
-const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage = '/og.png', noindex = false } = Astro.props;
+const { title, description = 'NiQuit: free nicotine cessation app', lang = 'en', ogImage = '/og.png', noindex = false, translations = {} } = Astro.props;
 const normalizedPath = canonicalPath(Astro.url);
 const canonicalUrl = new URL(normalizedPath, Astro.site ?? 'https://niquit.app');
 const siteOrigin = (Astro.site ?? new URL('https://niquit.app')).origin;
@@ -52,9 +59,9 @@ const fullTitle = title.length + TITLE_SUFFIX.length <= TITLE_BUDGET ? `${title}
         <link rel="canonical" href={canonicalUrl} />
         <!-- hreflang: tell search engines these are language variants of the same page -->
         {LANGS.map((l) => (
-          <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, localeStrippedPath)}`} />
+          <link rel="alternate" hreflang={l} href={`${siteOrigin}${localePath(l, translations[l] ?? localeStrippedPath)}`} />
         ))}
-        <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', localeStrippedPath)}`} />
+        <link rel="alternate" hreflang="x-default" href={`${siteOrigin}${localePath('en', translations.en ?? localeStrippedPath)}`} />
       </>
     )}
 

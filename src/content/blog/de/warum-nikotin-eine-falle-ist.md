@@ -3,6 +3,7 @@ title: "Warum Nikotin schwerer aufzugeben ist, als die meisten denken"
 description: "Die meisten versuchen aufzuhoeren, indem sie sich einfach zusammenreissen. Warum das fast nie funktioniert, und was wirklich hilft."
 publishDate: 2026-07-05
 lang: de
+topicId: why-nicotine-is-different
 draft: true
 ---
 

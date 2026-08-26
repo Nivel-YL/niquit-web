@@ -3,6 +3,7 @@ title: "Por qué la nicotina es más difícil de dejar de lo que parece"
 description: "La mayoría lo intenta a base de fuerza de voluntad. Por qué casi nunca funciona, y qué es lo que realmente da resultado."
 publishDate: 2026-07-05
 lang: es
+topicId: why-nicotine-is-different
 draft: true
 ---
 

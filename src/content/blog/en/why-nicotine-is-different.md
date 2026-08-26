@@ -3,6 +3,7 @@ title: "Why nicotine is harder to quit than people think"
 description: "Most people try to quit using willpower alone. Here is why that almost never works, and what actually does."
 publishDate: 2026-07-05
 lang: en
+topicId: why-nicotine-is-different
 draft: true
 ---
 

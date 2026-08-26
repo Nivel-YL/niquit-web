@@ -3,6 +3,7 @@ title: "Pourquoi la nicotine est plus difficile à arrêter qu'on ne croit"
 description: "La plupart des gens essaient d'arrêter par la seule force de volonté. Voici pourquoi ça ne marche presque jamais, et ce qui fonctionne vraiment."
 publishDate: 2026-07-05
 lang: fr
+topicId: why-nicotine-is-different
 draft: true
 ---
 
