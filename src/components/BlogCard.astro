@@ -1,48 +1,50 @@
 ---
 import { type Lang, t, localePath } from '../i18n/ui';
 
+type Cluster = 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G' | 'H';
+
 interface Props {
   lang: Lang;
   title: string;
-  description: string;
   slug: string;
   publishDate: Date;
-  heroImage?: string;
+  cluster?: Cluster;
 }
 
-const { lang, title, description, slug, publishDate, heroImage } = Astro.props;
+const { lang, title, slug, publishDate, cluster } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(
   lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US',
   { year: 'numeric', month: 'short', day: 'numeric' }
 );
+const catLabel = cluster ? s.blog.categories[cluster] : '';
 
 const href = localePath(lang, `blog/${slug}`);
 ---
 
 <a
   href={href}
-  class="group block rounded-2xl overflow-hidden transition-transform hover:-translate-y-1"
-  style="background:#18243F; text-decoration:none;"
+  class="card group flex flex-col justify-center rounded-2xl transition-transform hover:-translate-y-1"
+  style="padding:24px; height:184px; background:#18243F; border:1px solid #22314F; text-decoration:none; overflow:hidden;"
+  data-cluster={cluster ?? ''}
+  data-ts={publishDate.valueOf()}
 >
-  {heroImage && (
-    <img
-      src={heroImage}
-      alt={title}
-      class="w-full object-cover"
-      style="height:180px;"
-    />
-  )}
-  <div class="p-6">
-    <p class="text-xs mb-2" style="color:#B0B8C8;">{dateStr}</p>
-    <h3
-      class="text-lg font-bold mb-2 leading-snug group-hover:text-cyan-300 transition-colors"
-      style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
-    >
-      {title}
-    </h3>
-    <p class="text-sm line-clamp-2 mb-4" style="color:#B0B8C8;">{description}</p>
-    <span class="text-sm font-semibold" style="color:#35C6D8;">{s.blog.readMore} &rarr;</span>
+  <div class="flex items-center justify-between gap-2.5">
+    {catLabel && (
+      <span
+        class="text-[10.5px] font-semibold whitespace-nowrap rounded-full"
+        style="font-family:'JetBrains Mono',monospace; letter-spacing:0.8px; padding:4px 10px; color:#67E8F9; background:rgba(53,198,216,.06); border:1px solid rgba(53,198,216,.3);"
+      >
+        {catLabel}
+      </span>
+    )}
+    <span class="text-[11px] whitespace-nowrap" style="font-family:'JetBrains Mono',monospace; color:#5a6b8a;">{dateStr}</span>
   </div>
+  <h3
+    class="font-bold group-hover:text-cyan-300 transition-colors"
+    style="font-family:'Montserrat',sans-serif; font-size:20px; line-height:1.34; color:#F5F7FA; margin-top:14px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;"
+  >
+    {title}
+  </h3>
 </a>
