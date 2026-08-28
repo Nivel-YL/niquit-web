@@ -1,9 +1,9 @@
 ---
 title: "Wie Nikotin dein Gehirn verändert und wie lange die Erholung dauert"
 description: "Nikotin verändert dein Gehirn messbar. Wir erklären, was dabei passiert und wie lange es dauert, bis sich dein Gehirn davon erholt."
-publishDate: 2026-08-10
+publishDate: 2026-08-28
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/how-nicotine-rewires-your-brain-and-how-long-recovery-takes.svg
 cluster: F
 ---

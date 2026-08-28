@@ -1,9 +1,9 @@
 ---
 title: "Как никотин перестраивает мозг и сколько времени нужно, чтобы восстановиться"
 description: "Никотин меняет работу мозга уже через несколько минут после первой затяжки. Разбираем, что происходит и когда мозг возвращается в норму."
-publishDate: 2026-08-10
+publishDate: 2026-08-28
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-nicotine-rewires-your-brain-and-how-long-recovery-takes.svg
 cluster: F
 ---

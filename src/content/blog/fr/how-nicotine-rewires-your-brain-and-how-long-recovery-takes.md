@@ -1,9 +1,9 @@
 ---
 title: "Comment la nicotine reprogramme ton cerveau, et combien de temps il faut pour s'en remettre"
 description: "La nicotine modifie la structure de ton cerveau en quelques semaines. Voici ce qui se passe vraiment, et combien de temps prend la guérison."
-publishDate: 2026-08-10
+publishDate: 2026-08-28
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/how-nicotine-rewires-your-brain-and-how-long-recovery-takes.svg
 cluster: F
 ---

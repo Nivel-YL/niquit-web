@@ -203,8 +203,13 @@ topics:
 - id: F-02
   title_en: How nicotine rewires your brain and how long recovery takes
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-08-28'
+    ru: '2026-08-28'
+    de: '2026-08-28'
+    es: '2026-08-28'
+    fr: '2026-08-28'
 - id: F-03
   title_en: How much money do smokers actually spend in a lifetime?
   cluster: F
