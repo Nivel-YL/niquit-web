@@ -1,6 +1,6 @@
 ---
 title: "What to Do Instead of Smoking: 6 Replacements That Actually Work"
-description: "Your hand drifts to your pocket before you even realize it. That's the real problem with quitting: it's not just the nicotine, it's the hundred tiny hab..."
+description: "Your hand drifts to your pocket before you even realize it. Quitting isn't just about nicotine, it's about the hundred tiny habits built around it."
 publishDate: 2026-08-24
 lang: en
 draft: true

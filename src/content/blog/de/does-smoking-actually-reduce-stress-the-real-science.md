@@ -1,6 +1,6 @@
 ---
 title: "Reduziert Rauchen wirklich Stress? Was die Wissenschaft wirklich sagt"
-description: "Du stehst vor einer wichtigen Präsentation, die Hände zittern leicht, und die erste Zigarette der Pause fühlt sich an wie eine Rettung. Genau dieses Gef..."
+description: "Du stehst vor einer wichtigen Präsentation, Hände zittern leicht, die Zigarette fühlt sich an wie Rettung. Reduziert Rauchen wirklich Stress?"
 publishDate: 2026-08-14
 lang: de
 draft: false
