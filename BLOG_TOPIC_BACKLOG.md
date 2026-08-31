@@ -70,7 +70,7 @@ topics:
   title_en: Pouch brands compared, what actually differs between ZYN, Velo, Pablo
     and the rest
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: A-11
   title_en: Benefits of nicotine pouches, what people claim versus what holds up
