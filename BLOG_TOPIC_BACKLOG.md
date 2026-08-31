@@ -43,7 +43,7 @@ topics:
 - id: A-05
   title_en: ZYN and Velo withdrawal timeline, what actually happens day by day
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: A-06
   title_en: Tapering off nicotine pouches, does cutting down actually work?
@@ -56,7 +56,8 @@ topics:
   status: pending
   published: {}
 - id: A-08
-  title_en: What is actually inside a nicotine pouch, and why tobacco-free is not nicotine-free
+  title_en: What is actually inside a nicotine pouch, and why tobacco-free is not
+    nicotine-free
   cluster: A
   status: pending
   published: {}
@@ -66,7 +67,8 @@ topics:
   status: pending
   published: {}
 - id: A-10
-  title_en: Pouch brands compared, what actually differs between ZYN, Velo, Pablo and the rest
+  title_en: Pouch brands compared, what actually differs between ZYN, Velo, Pablo
+    and the rest
   cluster: A
   status: pending
   published: {}
