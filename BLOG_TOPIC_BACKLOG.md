@@ -59,7 +59,7 @@ topics:
   title_en: What is actually inside a nicotine pouch, and why tobacco-free is not
     nicotine-free
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: A-09
   title_en: Why nicotine pouches hurt your gums, and what that tells you
