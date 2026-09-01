@@ -327,6 +327,11 @@ topics:
   cluster: G
   status: pending
   published: {}
+- id: G-05
+  title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
+  cluster: G
+  status: drafted
+  published: {}
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
   cluster: H
@@ -346,7 +351,7 @@ BACKLOG-->
 
 # Blog Topic Backlog
 
-47 topics in 8 clusters. Script picks the first `pending` topic alphabetically by id.
+48 topics in 8 clusters. Script picks the first `pending` topic alphabetically by id.
 To skip a topic: change its status to `skipped`.
 To re-queue: change back to `pending`.
 
@@ -395,3 +400,21 @@ vape-article terminology audit). This file's schema and `blog_editor.py` only
 know how to draft a brand-new topic once, there is no "deepen an existing
 published article in one language" pipeline step yet - Part A needs a decision on
 how that should actually run before it can be scheduled anywhere.
+
+## G-05, 2026-09-01: written directly, not through blog_editor.py
+
+The "how to choose an app" comparison (backlink/citability bait, see the
+"Бэклинки на niquit.app" and "Своя сравнительная статья" cards in the NiQuit
+Backlog Notion database) was written by hand, not drafted by the automated
+pipeline. Reason: `research_shared`/`audit_article`/`AUDIT_SYSTEM` are built for
+health-fact articles (verify a claim against Tier 1/2 medical sources), not for
+a piece that names and neutrally describes real competing apps by their public
+feature set. Running it through the medical-content audit would either flag
+every competitor app name as an unverifiable source or just not fit the prompt.
+Facts about each competitor (nicotine-source coverage, structure, pricing) were
+checked directly against their own store listings/sites in September 2026, not
+invented and not copied from any single "best app" list (most of which turned
+out to be written by one of the competing apps itself). All 5 languages already
+pass em-dash/description/word-count/link validation. Left as `draft: true` for
+review before Publisher picks it up, same as any other topic - competitor
+mentions specifically deserve a human read before going live.
