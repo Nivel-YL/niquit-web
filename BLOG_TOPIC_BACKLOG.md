@@ -335,7 +335,7 @@ topics:
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
   cluster: G
-  status: drafted
+  status: approved
   published: {}
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
