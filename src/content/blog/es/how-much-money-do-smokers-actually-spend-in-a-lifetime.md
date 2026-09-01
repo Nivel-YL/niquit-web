@@ -1,9 +1,9 @@
 ---
 title: "¿Cuánto dinero gasta realmente un fumador a lo largo de su vida?"
 description: "Fumar un paquete al día durante 40 años en España puede superar los 87.000 euros solamente en tabaco, sin contar la salud ni la esperanza de vida perdida."
-publishDate: 2026-08-17
+publishDate: 2026-09-01
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/how-much-money-do-smokers-actually-spend-in-a-lifetime.svg
 cluster: F
 ---

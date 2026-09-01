@@ -290,8 +290,13 @@ topics:
 - id: F-03
   title_en: How much money do smokers actually spend in a lifetime?
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-01'
+    ru: '2026-09-01'
+    de: '2026-09-01'
+    es: '2026-09-01'
+    fr: '2026-09-01'
 - id: F-04
   title_en: Nicotine and sleep, night sweats, insomnia, vivid dreams
   cluster: F

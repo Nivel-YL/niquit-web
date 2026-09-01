@@ -1,9 +1,9 @@
 ---
 title: "Сколько денег на самом деле тратит курильщик за всю жизнь"
 description: "Пачка в день кажется мелочью. Но если сложить траты за 48 лет курения, получится сумма, на которую можно купить квартиру. Считаем честно."
-publishDate: 2026-08-17
+publishDate: 2026-09-01
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-much-money-do-smokers-actually-spend-in-a-lifetime.svg
 cluster: F
 ---

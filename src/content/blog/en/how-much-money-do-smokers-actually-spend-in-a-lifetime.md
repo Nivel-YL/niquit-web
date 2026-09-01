@@ -1,9 +1,9 @@
 ---
 title: "How much money do smokers actually spend in a lifetime?"
 description: "A pack a day for 48 years costs more than most people's retirement savings. Here's the real math behind lifetime smoking costs."
-publishDate: 2026-08-17
+publishDate: 2026-09-01
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/how-much-money-do-smokers-actually-spend-in-a-lifetime.svg
 cluster: F
 ---
