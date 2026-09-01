@@ -36,8 +36,6 @@ Der Grund, mehrere Produkte gemeinsam zu erfassen, ist nicht nur Komfort. [Nikot
 
 **NiQuit** - Zigaretten, Vaping, Pouches und andere Nikotinquellen gemeinsam, als Kurs plus KI-Coach, kostenlos mit freiwilligen Spenden, ohne Abo.
 
-Noch ein Punkt fürs Hinterkopf: Der Text auf der Store-Seite einer App zeigt ihre beste Version, keine Garantie dafür, wie sie im eigenen Alltag funktioniert. Bei Store-Bewertungen lohnt sich dieselbe Vorsicht, unzufriedene Nutzerinnen und Nutzer schreiben im Schnitt schneller eine Bewertung als zufriedene. Das gilt für jede App in dieser Liste, NiQuit eingeschlossen.
-
 Keine dieser Tatsachen macht eine App objektiv zur "besten". Sie machen manche Apps für manche Menschen passender.
 
 ## Wie man wirklich auswählt
@@ -48,6 +46,4 @@ Wer zwischen Produkten gewechselt hat, von der Zigarette zum Vaping, vom Vaping 
 
 Wer auf Spielmechaniken anspringt, schaut sich Kwit an. Wer rohe Daten wichtiger findet als Zuspruch, schaut sich Smoke Free an. Wer ein strukturiertes Programm Lektion für Lektion sucht statt eines Trackers, den man öffnet, wenn man daran denkt, findet genau das bei NiQuit.
 
-Am besten die kostenlose Version von zwei oder drei Apps ausprobieren, bevor man sich festlegt. Und bevor irgendwo ein Konto angelegt wird, falls überhaupt nötig, lohnt sich ein eigener Blick auf die aktuelle Preisseite, Bedingungen ändern sich bei jeder dieser Apps schneller, als ein Vergleichsartikel aktuell gehalten werden kann, dieser hier eingeschlossen.
-
-Was tatsächlich entscheidet, ob eine Nikotin-Entwöhnungs-App hilft, ist nicht die Funktionsliste. Es ist die Frage, ob man sie nächste Woche noch öffnet.
+Am besten die kostenlose Version von zwei oder drei Apps ausprobieren, bevor man sich festlegt. Was tatsächlich entscheidet, ob eine Nikotin-Entwöhnungs-App hilft, ist nicht die Funktionsliste. Es ist die Frage, ob man sie nächste Woche noch öffnet.
