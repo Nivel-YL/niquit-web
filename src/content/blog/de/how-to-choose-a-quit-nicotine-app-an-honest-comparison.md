@@ -8,42 +8,68 @@ heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.s
 cluster: G
 ---
 
-Wer "beste App um mit Nikotin aufzuhören" sucht, findet Dutzende Ranglisten. Fast alle stammen von einer der gelisteten Apps selbst. Das macht die Liste nicht automatisch unehrlich, aber die App, die die Liste schreibt, landet selten unter Platz eins. Dieser Text macht es anders: NiQuit steht weiter unten, genauso beschrieben wie alle anderen, ohne den Versuch, als Sieger dazustehen.
+Wer "beste App um mit Nikotin aufzuhören" sucht, findet Dutzende Listen.
 
-Zur Methodik: Abdeckung nach Nikotinart und Bezahlmodell wurden im September 2026 direkt anhand der jeweiligen Store-Seite und Website geprüft. Was hier fehlt, ist jede Einschätzung dazu, wie sich eine Konkurrenz-App im Alltag anfühlt, denn das lässt sich für eine App, die man nicht selbst täglich nutzt, nicht fair beurteilen. Store-Einträge ändern sich oft, vor einer Entscheidung lohnt sich also ein Blick auf die aktuelle Seite der jeweiligen App.
+Fast alle stammen von einer der gelisteten Apps selbst. Das macht die Liste nicht automatisch unehrlich. Aber diese App landet selten unter Platz eins.
 
-## Was zwischen diesen Apps wirklich unterschiedlich ist
+Hier ist es anders. NiQuit steht weiter unten, genauso beschrieben wie alle anderen. Kein Versuch, als Sieger dazustehen.
 
-Die meisten Vergleiche starten mit einer Funktionsliste, was eine schlechte Entscheidungsgrundlage ist: Fast jede App in dieser Kategorie hat inzwischen einen Craving-Tracker, einen Ersparnisrechner und irgendeine Form von Gesundheits-Timeline. Das ist Standard, kein Unterscheidungsmerkmal. Drei Dinge unterscheiden sich tatsächlich.
+So wurde geprüft: die Store-Seite und Website jeder App, im September 2026. Was sie wirklich abdeckt, was sie kostet. Wie sich eine App im Alltag anfühlt, steht hier nicht, das lässt sich für eine App, die man selbst nicht nutzt, nicht fair beurteilen. Store-Seiten ändern sich, also vor der Entscheidung selbst nachschauen.
 
-**Welches Nikotinprodukt sie abdeckt.** Manche Apps sind auf ein einzelnes Produkt ausgelegt: Velm und Quit Pouches konzentrieren sich gezielt auf Nikotinbeutel und Snus, This is Quitting auf Vaping bei Jugendlichen und jungen Erwachsenen. Andere, darunter QuitNic, Puff Pacer, Quitty und NiQuit, führen Zigaretten, Vaping und Pouches gemeinsam, mit der Begründung, dass ein Produktwechsel mitten im Entzug häufig vorkommt und besser als eine einzige Gewohnheit erfasst wird statt als drei getrennte.
+## Was wirklich unterschiedlich ist
 
-Der Grund, mehrere Produkte gemeinsam zu erfassen, ist nicht nur Komfort. [Nikotinabhängigkeit läuft unabhängig vom Trägerprodukt über dieselben Rezeptoren](/de/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule): Zigarette, Vape und Pouch liefern dieselbe Substanz an dieselbe Stelle im Gehirn. Wer von der Zigarette auf Vaping umsteigt, hat die Abhängigkeit damit nicht zwangsläufig durchbrochen, sondern nur die Verpackung gewechselt. Apps, die nur ein Produkt erfassen, sehen diesen Wechsel nicht: Ein Craving, das in der einen App unter "Vaping" und in einer anderen unter "Zigaretten" landet, wirkt wie zwei kleinere Probleme statt eines durchgehenden.
+Funktionslisten sind eine schlechte Entscheidungsgrundlage. Craving-Tracker, Ersparnisrechner, Gesundheits-Timeline, das hat inzwischen fast jede App in dieser Kategorie. Kein Unterschied. Ein Standard.
 
-**Wie sie den Entzug selbst strukturiert.** Kwit setzt stark auf Gamification: Levels, freischaltbare Inhalte, Erfolgs-Badges. Smoke Free setzt auf Daten: detaillierte Statistiken zu Craving-Mustern bei vergleichsweise wenig Coaching. QuitNic legt KI-Coaching über das Tracking. NiQuit ist um einen festen Kurs herum aufgebaut, eine Abfolge kurzer Lektionen, plus einen KI-Coach für akute Cravings im Moment, näher an einem strukturierten Programm als an einem reinen Tracker.
+Drei Dinge unterscheiden sich wirklich.
 
-**Wie bezahlt wird.** Bezahlschranken hinter Kernfunktionen sind in dieser Kategorie verbreitet. NiQuit hat keine: Kurs, Coach und Tracking sind kostenlos, finanziert über freiwillige Spenden statt Abo. Das ist keine Kritik an Abos selbst, Entwicklung und Betrieb jeder dieser Apps kostet echtes Geld, und ein Abo ist ein legitimer Weg, das zu finanzieren. Es ist einfach eine Tatsache, die man vorher kennen sollte, statt drei Wochen nach dem Start auf eine Bezahlschranke bei genau der Funktion zu stoßen, auf die man sich schon verlassen hatte.
+**Welches Nikotinprodukt sie abdeckt.**
 
-## Die Apps, nüchtern beschrieben
+Velm und Quit Pouches: nur Pouches und Snus.
 
-**Kwit** - Zigaretten und Vaping, starker Fokus auf Gamification und Community-Gruppen. Passt, wenn Erfolgssysteme und Streaks motivieren.
+This is Quitting: nur Vaping, für Jugendliche.
 
-**Smoke Free** - Zigaretten und Vaping, detaillierte Statistiken bei minimalem Coaching. Passt, wenn Daten wichtiger sind als Zuspruch.
+QuitNic, Puff Pacer, Quitty und NiQuit: Zigaretten, Vaping und Pouches zusammen.
 
-**QuitNic** - Zigaretten, Vaping und Pouches, KI-Coaching zusätzlich zum Tracking. Vom Umfang her am nächsten an NiQuit.
+Warum das wichtig ist: Ein Produktwechsel mitten im Entzug ist normal. Von der Zigarette aufs Vaping umgestiegen. [Die Abhängigkeit läuft über dieselben Rezeptoren](/de/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule), egal welches Produkt. Gleiches Molekül. Gleiche Stelle im Gehirn. Die Abhängigkeit ist nicht weg, nur die Verpackung hat sich geändert.
 
-**Velm, Quit Pouches und QuitNicPouches** - gezielt Pouches und Snus, kein Tracking für Zigaretten oder Vaping. Passt, wenn Pouches die einzige Nikotinquelle sind und ein Werkzeug genau dafür gesucht wird.
+Eine App, die nur ein Produkt erfasst, sieht diesen Wechsel nicht. Ein Craving unter Vaping in der einen App und ein Craving unter Zigaretten in einer anderen wirken wie zwei kleine, getrennte Probleme. In Wirklichkeit ist es eins, durchgehend.
 
-**NiQuit** - Zigaretten, Vaping, Pouches und andere Nikotinquellen gemeinsam, als Kurs plus KI-Coach, kostenlos mit freiwilligen Spenden, ohne Abo.
+**Wie sie den Entzug strukturiert.**
 
-Keine dieser Tatsachen macht eine App objektiv zur "besten". Sie machen manche Apps für manche Menschen passender.
+Kwit: Gamification. Levels, freischaltbare Inhalte, Badges.
+
+Smoke Free: Daten. Detaillierte Statistiken, wenig Coaching.
+
+QuitNic: KI-Coaching zusätzlich zum Tracking.
+
+NiQuit: ein Kurs aus kurzen Lektionen plus ein KI-Coach für akute Cravings. Näher an einem Programm als an einem Tracker.
+
+**Wie bezahlt wird.**
+
+Ein Abo hinter den Grundfunktionen ist in dieser Kategorie üblich. NiQuit hat keins. Kurs, Coach, Tracking, alles kostenlos. Finanziert über Spenden.
+
+Das ist keine Kritik an Abos. Entwicklung kostet echtes Geld, und ein Abo ist ein fairer Weg, das zu decken. Nur vorher wissen, am besten nicht erst drei Wochen nach dem Start, genau bei der Funktion, auf die man sich schon verlassen hatte.
+
+## Die Apps, nüchtern
+
+**Kwit.** Zigaretten und Vaping. Starker Fokus auf Gamification und Community. Passt, wenn Erfolgssysteme und Streaks motivieren.
+
+**Smoke Free.** Zigaretten und Vaping. Detaillierte Statistiken, wenig Coaching. Passt, wenn Daten wichtiger sind als Zuspruch.
+
+**QuitNic.** Zigaretten, Vaping, Pouches. KI-Coaching zusätzlich zum Tracking. Vom Umfang her am nächsten an NiQuit.
+
+**Velm, Quit Pouches und QuitNicPouches.** Nur Pouches und Snus. Passt, wenn das die einzige Nikotinquelle ist.
+
+**NiQuit.** Zigaretten, Vaping, Pouches und mehr, zusammen. Ein Kurs plus KI-Coach. Kostenlos, finanziert über Spenden, kein Abo.
+
+Nichts davon macht eine App objektiv zur besten. Es macht manche für manche Menschen passender.
 
 ## Wie man wirklich auswählt
 
-Bei nur einem Nikotinprodukt und dem Wunsch nach einem möglichst einfachen Werkzeug wirkt eine spezialisierte App für genau dieses Produkt, etwa Velm für Pouches, weniger überladen als eine allgemeine.
+Nur ein Nikotinprodukt? Die einfachste App genau dafür, etwa Velm für Pouches. Eine allgemeine App wirkt dann überladen.
 
-Wer zwischen Produkten gewechselt hat, von der Zigarette zum Vaping, vom Vaping zu Pouches und zurück, erspart sich mit einem allgemeinen Tracker, der das als eine Abhängigkeit statt drei getrennte Zähler behandelt, den ständigen Neustart der Streak bei jedem Wechsel.
+Zwischen Produkten gewechselt, von der Zigarette zum Vaping, von Vaping zu Pouches und zurück? Eine allgemeine App nehmen. Sie behandelt das als eine Abhängigkeit statt drei getrennte Zähler, kein Neustart der Streak bei jedem Wechsel.
 
-Wer auf Spielmechaniken anspringt, schaut sich Kwit an. Wer rohe Daten wichtiger findet als Zuspruch, schaut sich Smoke Free an. Wer ein strukturiertes Programm Lektion für Lektion sucht statt eines Trackers, den man öffnet, wenn man daran denkt, findet genau das bei NiQuit.
+Spielmechaniken wirken bei dir, schau dir Kwit an. Rohe Daten wichtiger als Zuspruch, schau dir Smoke Free an. Ein strukturiertes Programm, Lektion für Lektion, das ist NiQuit.
 
-Am besten die kostenlose Version von zwei oder drei Apps ausprobieren, bevor man sich festlegt. Was tatsächlich entscheidet, ob eine Nikotin-Entwöhnungs-App hilft, ist nicht die Funktionsliste. Es ist die Frage, ob man sie nächste Woche noch öffnet.
+Am besten zwei oder drei kostenlose Versionen ausprobieren, bevor man sich festlegt. Die Funktionsliste entscheidet das nicht. Ob man die App nächste Woche noch öffnet, entscheidet es.

@@ -8,42 +8,68 @@ heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.s
 cluster: G
 ---
 
-Cherche "meilleure appli pour arrêter la nicotine" et tu vas trouver des dizaines de classements. Presque tous sont écrits par l'une des applications qui y figurent. Ça ne les rend pas forcément malhonnêtes, mais ça explique pourquoi l'application qui rédige le classement se retrouve rarement en dessous de la première place. Ce texte fait autrement, sur un point précis : NiQuit apparaît plus bas, décrite exactement comme les autres, sans chercher à sortir en tête.
+Cherche "meilleure appli pour arrêter la nicotine" et tu vas trouver des dizaines de classements.
 
-Côté méthode : la couverture par type de nicotine et le modèle de paiement ont été vérifiés directement sur la fiche store et le site de chaque application, en septembre 2026. Ce que cette liste n'inclut pas, c'est un avis sur ce que ça fait d'utiliser l'application d'un concurrent au quotidien, parce que ça ne peut pas s'évaluer honnêtement pour une application qu'on n'utilise pas soi-même tous les jours. Les fiches des stores changent souvent, mieux vaut donc vérifier la page officielle de chaque application avant de considérer cette liste comme à jour.
+Presque tous écrits par l'une des applications classées. Ça ne les rend pas malhonnêtes pour autant. Mais cette application finit rarement en dessous de la première place.
 
-## Ce qui varie vraiment entre ces applications
+Ici, c'est différent. NiQuit apparaît plus bas, décrite comme les autres. Sans chercher à sortir en tête.
 
-La plupart des comparatifs commencent par une liste de fonctionnalités, et c'est une mauvaise façon de choisir : presque toutes les applications de cette catégorie ont maintenant un suivi des envies, un calculateur d'argent économisé et une frise de récupération de la santé. C'est devenu le standard, pas une différence. Trois choses varient vraiment.
+Comment on a vérifié : la fiche store et le site de chaque application, en septembre 2026. Ce qu'elle couvre vraiment, ce qu'elle coûte. Ce que ça fait de l'utiliser au quotidien n'est pas inclus, impossible à juger honnêtement pour une application qu'on n'utilise pas soi-même. Les fiches changent, donc mieux vaut vérifier par soi-même avant de choisir.
 
-**Quel type de nicotine elle couvre.** Certaines applications sont pensées pour un seul produit : Velm et Quit Pouches se concentrent spécifiquement sur les sachets de nicotine et le snus, This is Quitting cible le vapotage chez les adolescents et jeunes adultes. D'autres, dont QuitNic, Puff Pacer, Quitty et NiQuit, suivent cigarettes, vapotage et sachets ensemble, avec l'idée que changer de produit en cours de sevrage est courant, et que ça a plus de sens de traiter ça comme une seule habitude que comme trois séparées.
+## Ce qui varie vraiment
 
-La raison de suivre plusieurs produits ensemble n'est pas qu'une question de confort. [La dépendance à la nicotine passe par les mêmes récepteurs](/fr/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule) quel que soit le mode de consommation : une cigarette, un vape et un sachet livrent la même molécule à la même zone du cerveau. Quelqu'un qui arrête la cigarette en passant au vapotage n'a pas forcément rompu la dépendance, il en a juste changé l'emballage. Une application qui ne suit qu'un seul produit ne voit pas ce changement passer : une envie notée sous "vapotage" dans une application et une autre notée sous "cigarette" dans une autre ressemblent à deux petits problèmes séparés, pas à un seul problème continu.
+Une liste de fonctionnalités, c'est une mauvaise façon de choisir. Suivi des envies, calculateur d'argent économisé, frise de récupération : presque toutes les applications de cette catégorie les ont maintenant. Pas une différence. Un minimum.
 
-**Comment elle structure le sevrage lui-même.** Kwit mise fort sur la gamification : niveaux, contenu à débloquer, badges de réussite. Smoke Free mise sur la donnée : statistiques détaillées sur les schémas d'envie, avec relativement peu de coaching. QuitNic ajoute un coaching par IA par-dessus le suivi. NiQuit s'organise autour d'un parcours fixe, une suite de leçons courtes, plus un coach IA pour les envies du moment, plus proche d'un programme structuré que d'un simple compteur.
+Trois choses varient vraiment.
 
-**Comment on la paie.** Les abonnements qui verrouillent les fonctions de base de suivi sont courants dans cette catégorie. NiQuit n'en a pas : le parcours, le coach et le suivi sont gratuits, l'application vit de dons volontaires plutôt que d'un abonnement. Ce n'est pas une critique des abonnements en soi, développer et maintenir n'importe laquelle de ces applications coûte de l'argent réel, et un abonnement est une façon légitime de le financer. C'est simplement un point à connaître à l'avance, plutôt que de tomber sur un mur de paiement au bout de trois semaines de sevrage, pile sur la fonction dont on avait pris l'habitude.
+**Quel type de nicotine elle couvre.**
 
-## Les applications, décrites sans détour
+Velm et Quit Pouches : seulement sachets et snus.
 
-**Kwit** - cigarettes et vapotage, fort accent sur la gamification et les groupes communautaires. Convient si les systèmes de réussite et les séries motivent.
+This is Quitting : seulement vapotage, pensée pour les ados.
 
-**Smoke Free** - cigarettes et vapotage, statistiques détaillées avec peu de coaching. Convient si la donnée compte plus que l'encouragement.
+QuitNic, Puff Pacer, Quitty et NiQuit : cigarettes, vapotage et sachets ensemble.
 
-**QuitNic** - cigarettes, vapotage et sachets, coaching par IA en plus du suivi. La plus proche de NiQuit en termes de périmètre.
+Pourquoi ça compte : changer de produit en cours de sevrage, c'est courant. Arrêté la cigarette, passé au vapotage. [La dépendance passe par les mêmes récepteurs](/fr/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule), peu importe le produit. Même molécule. Même zone du cerveau. La dépendance n'a pas disparu, elle a juste changé d'emballage.
 
-**Velm, Quit Pouches et QuitNicPouches** - spécifiquement sachets et snus, aucun suivi cigarettes ni vapotage. Convient si les sachets sont la seule source de nicotine et qu'on cherche un outil taillé pour ça.
+Une application qui ne suit qu'un seul produit ne voit pas ce changement. Une envie notée sous vapotage dans une application et une autre notée sous cigarette dans une autre ressemblent à deux petits problèmes séparés. En réalité, c'est un seul, continu.
 
-**NiQuit** - cigarettes, vapotage, sachets et autres sources de nicotine ensemble, sous forme de parcours plus coach IA, gratuit avec dons volontaires, sans abonnement.
+**Comment elle structure le sevrage.**
 
-Aucun de ces faits ne rend une application objectivement "la meilleure". Ils rendent certaines applications plus adaptées à certaines personnes.
+Kwit : gamification. Niveaux, contenu à débloquer, badges.
+
+Smoke Free : données. Statistiques détaillées, peu de coaching.
+
+QuitNic : coaching par IA en plus du suivi.
+
+NiQuit : un parcours de leçons courtes plus un coach IA pour les envies du moment. Plus proche d'un programme que d'un simple suivi.
+
+**Comment on la paie.**
+
+Un abonnement derrière les fonctions de base, c'est courant dans cette catégorie. NiQuit n'en a pas. Parcours, coach, suivi : tout gratuit. L'application vit de dons.
+
+Ce n'est pas une critique des abonnements. Développer une de ces applications coûte de l'argent réel, et un abonnement est une façon honnête de le financer. Juste bon à savoir à l'avance, plutôt qu'au bout de trois semaines de sevrage, pile sur la fonction dont on avait pris l'habitude.
+
+## Les applications, sans détour
+
+**Kwit.** Cigarettes et vapotage. Fort accent sur la gamification et la communauté. Convient si les systèmes de réussite et les séries motivent.
+
+**Smoke Free.** Cigarettes et vapotage. Statistiques détaillées, peu de coaching. Convient si la donnée compte plus que l'encouragement.
+
+**QuitNic.** Cigarettes, vapotage, sachets. Coaching par IA en plus du suivi. La plus proche de NiQuit en périmètre.
+
+**Velm, Quit Pouches et QuitNicPouches.** Seulement sachets et snus. Convient si c'est ta seule source de nicotine.
+
+**NiQuit.** Cigarettes, vapotage, sachets et plus, ensemble. Un parcours plus un coach IA. Gratuit, financé par des dons, sans abonnement.
+
+Rien de tout ça ne rend une application objectivement la meilleure. Ça rend certaines plus adaptées à certaines personnes.
 
 ## Comment vraiment choisir
 
-En cas d'usage d'un seul produit nicotiné et d'envie d'un outil le plus simple possible, une application spécialisée sur ce produit précis, Velm pour les sachets par exemple, paraîtra moins chargée qu'une application généraliste pensée pour tout couvrir.
+Un seul produit nicotiné ? Prends l'application la plus simple pour ce produit précis, Velm pour les sachets, par exemple. Une application généraliste paraîtra surchargée.
 
-En cas de passage d'un produit à l'autre, de la cigarette au vapotage, du vapotage aux sachets et retour, un suivi généraliste qui traite ça comme une seule dépendance plutôt que trois compteurs séparés évite de relancer sa série à chaque changement.
+Passé d'un produit à l'autre, de la cigarette au vapotage, du vapotage aux sachets et retour ? Prends un suivi généraliste. Il traite ça comme une seule dépendance au lieu de trois compteurs séparés, donc pas besoin de relancer sa série à chaque changement.
 
-Pour qui réagit aux mécaniques de jeu, Kwit est à regarder en premier. Pour qui préfère la donnée brute à l'encouragement, c'est Smoke Free. Pour qui cherche un programme structuré à suivre leçon par leçon plutôt qu'un compteur qu'on ouvre quand on y pense, c'est exactement la place qu'occupe NiQuit.
+Les mécaniques de jeu te motivent, regarde Kwit. La donnée brute compte plus que l'encouragement, regarde Smoke Free. Un programme structuré, leçon par leçon, c'est NiQuit.
 
-Le mieux reste d'essayer la version gratuite de deux ou trois avant de se fixer sur une seule. Ce qui prédit vraiment si une application pour arrêter la nicotine va aider, ce n'est pas sa liste de fonctionnalités. C'est de savoir si on l'ouvre encore la semaine suivante.
+Essaie la version gratuite de deux ou trois avant de choisir. La liste de fonctionnalités ne décide pas. Ce qui décide, c'est si tu l'ouvres encore la semaine suivante.
