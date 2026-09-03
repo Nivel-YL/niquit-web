@@ -1,9 +1,9 @@
 ---
 title: "Как выбрать приложение, чтобы бросить никотин: честное сравнение"
 description: "Десятки списков лучших приложений, и почти все написаны самими приложениями из рейтинга. Вот честный список, с методологией."
-publishDate: 2026-09-01
+publishDate: 2026-09-03
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.svg
 cluster: G
 ---

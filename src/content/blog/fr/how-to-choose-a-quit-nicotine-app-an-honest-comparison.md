@@ -1,9 +1,9 @@
 ---
 title: "Comment choisir une application pour arrêter la nicotine : une comparaison honnête"
 description: "Il existe des dizaines de classements des meilleures applications, écrits pour la plupart par l'une des applications classées. En voici un honnête."
-publishDate: 2026-09-01
+publishDate: 2026-09-03
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.svg
 cluster: G
 ---

@@ -335,8 +335,13 @@ topics:
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
   cluster: G
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-03'
+    ru: '2026-09-03'
+    de: '2026-09-03'
+    es: '2026-09-03'
+    fr: '2026-09-03'
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
   cluster: H

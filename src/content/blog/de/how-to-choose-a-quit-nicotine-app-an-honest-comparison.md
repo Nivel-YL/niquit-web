@@ -1,9 +1,9 @@
 ---
 title: "Wie man die richtige Nikotin-Entwöhnungs-App wählt: ein ehrlicher Vergleich"
 description: "Es gibt Dutzende Bestenlisten, meist von einer der gelisteten Apps selbst geschrieben. Hier eine ehrliche Liste, samt Methodik."
-publishDate: 2026-09-01
+publishDate: 2026-09-03
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.svg
 cluster: G
 ---

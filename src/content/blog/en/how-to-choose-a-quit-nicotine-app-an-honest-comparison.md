@@ -1,9 +1,9 @@
 ---
 title: "How to Choose a Quit-Nicotine App: An Honest Comparison"
 description: "Dozens of 'best quit-nicotine app' lists exist, and most are written by one of the apps in the ranking. Here's an honest one, methodology included."
-publishDate: 2026-09-01
+publishDate: 2026-09-03
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.svg
 cluster: G
 ---

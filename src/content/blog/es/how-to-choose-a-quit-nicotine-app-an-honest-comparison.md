@@ -1,9 +1,9 @@
 ---
 title: "Cómo elegir una app para dejar la nicotina: una comparación honesta"
 description: "Existen decenas de listas de mejores apps, y casi todas las escribe una de las apps del ranking. Aquí una lista honesta, con metodología incluida."
-publishDate: 2026-09-01
+publishDate: 2026-09-03
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison.svg
 cluster: G
 ---
