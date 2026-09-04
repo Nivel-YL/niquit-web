@@ -1,9 +1,9 @@
 ---
 title: "Die ersten 72 Stunden ohne Nikotin: ein Überlebensguide"
 description: "Die ersten 72 Stunden ohne Nikotin sind der härteste Teil des Ausstiegs. Stunde für Stunde erfährst du, was passiert und wie du durchhältst."
-publishDate: 2026-08-17
+publishDate: 2026-09-04
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/the-first-72-hours-without-nicotine-a-survival-guide.svg
 cluster: G
 ---

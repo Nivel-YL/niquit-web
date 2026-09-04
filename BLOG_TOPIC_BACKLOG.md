@@ -315,8 +315,13 @@ topics:
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
   cluster: G
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-04'
+    ru: '2026-09-04'
+    de: '2026-09-04'
+    es: '2026-09-04'
+    fr: '2026-09-04'
 - id: G-02
   title_en: How long does a nicotine craving actually last?
   cluster: G

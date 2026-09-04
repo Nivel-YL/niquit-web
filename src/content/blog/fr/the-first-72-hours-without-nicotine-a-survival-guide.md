@@ -1,9 +1,9 @@
 ---
 title: "Les premières 72 heures sans nicotine : le guide de survie"
 description: "Les 72 premières heures sans nicotine sont les plus dures. Voici ce qui se passe heure par heure et comment tenir sans craquer."
-publishDate: 2026-08-17
+publishDate: 2026-09-04
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/the-first-72-hours-without-nicotine-a-survival-guide.svg
 cluster: G
 ---
