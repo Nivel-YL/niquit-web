@@ -75,7 +75,7 @@ topics:
 - id: A-11
   title_en: Benefits of nicotine pouches, what people claim versus what holds up
   cluster: A
-  status: pending
+  status: drafted
   published: {}
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
