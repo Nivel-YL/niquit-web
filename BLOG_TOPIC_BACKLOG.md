@@ -165,7 +165,7 @@ topics:
 - id: C-05
   title_en: The worst days of nicotine withdrawal, and why day three is different
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: C-06
   title_en: Is quitting nicotine cold turkey dangerous?
