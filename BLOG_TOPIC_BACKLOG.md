@@ -120,7 +120,7 @@ topics:
 - id: B-05
   title_en: How fast can vaping become an addiction?
   cluster: B
-  status: pending
+  status: drafted
   published: {}
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
