@@ -1,9 +1,9 @@
 ---
 title: "Wie lange dauert ein Nikotin-Craving wirklich?"
 description: "Ein Craving fühlt sich endlos an, dauert aber nur Minuten. Hier erfährst du, wie lange Nikotin-Entzug wirklich dauert und warum er wiederkommt."
-publishDate: 2026-08-17
+publishDate: 2026-09-08
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/how-long-does-a-nicotine-craving-actually-last.svg
 cluster: G
 ---

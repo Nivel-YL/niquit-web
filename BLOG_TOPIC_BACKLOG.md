@@ -325,8 +325,13 @@ topics:
 - id: G-02
   title_en: How long does a nicotine craving actually last?
   cluster: G
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-08'
+    ru: '2026-09-08'
+    de: '2026-09-08'
+    es: '2026-09-08'
+    fr: '2026-09-08'
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
   cluster: G

@@ -1,9 +1,9 @@
 ---
 title: "Сколько на самом деле длится тяга к никотину?"
 description: "Одна волна тяги проходит за 3-5 минут, но кажется, что это вечность. Разбираемся, что происходит в мозге по часам, дням и неделям без никотина."
-publishDate: 2026-08-17
+publishDate: 2026-09-08
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-long-does-a-nicotine-craving-actually-last.svg
 cluster: G
 style_check: "failed, word count 784 outside required 800-1200 range"
