@@ -1,9 +1,9 @@
 ---
 title: "Arrêter de fumer : 6 solutions qui remplacent vraiment la cigarette"
 description: "Envie de savoir quoi faire à la place de fumer ? Voici 6 remplacements qui fonctionnent vraiment, avec des chiffres concrets pour t'aider à choisir."
-publishDate: 2026-08-24
+publishDate: 2026-09-11
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/what-to-do-instead-of-smoking-6-replacements-that-work.svg
 cluster: G
 ---

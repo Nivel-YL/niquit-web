@@ -1,9 +1,9 @@
 ---
 title: "Qué hacer en lugar de fumar: 6 alternativas que sí funcionan"
 description: "Descubre 6 alternativas reales para dejar de fumar, respaldadas por evidencia científica, más allá de la fuerza de voluntad."
-publishDate: 2026-08-24
+publishDate: 2026-09-11
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/what-to-do-instead-of-smoking-6-replacements-that-work.svg
 cluster: G
 ---

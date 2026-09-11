@@ -1,9 +1,9 @@
 ---
 title: "What to Do Instead of Smoking: 6 Replacements That Actually Work"
 description: "Your hand drifts to your pocket before you even realize it. Quitting isn't just about nicotine, it's about the hundred tiny habits built around it."
-publishDate: 2026-08-24
+publishDate: 2026-09-11
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/what-to-do-instead-of-smoking-6-replacements-that-work.svg
 cluster: G
 ---

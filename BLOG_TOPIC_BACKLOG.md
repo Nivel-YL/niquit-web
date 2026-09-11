@@ -335,8 +335,13 @@ topics:
 - id: G-03
   title_en: What to do instead of smoking 6 replacements that work
   cluster: G
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-11'
+    ru: '2026-09-11'
+    de: '2026-09-11'
+    es: '2026-09-11'
+    fr: '2026-09-11'
 - id: G-04
   title_en: Do vape cravings ever actually go away?
   cluster: G

@@ -1,9 +1,9 @@
 ---
 title: "Что делать вместо курения: 6 замен, которые действительно работают"
 description: "Разбираем шесть проверенных способов заменить сигарету: от никотинового пластыря до таблеток и поведенческой поддержки, с цифрами из реальных исследований."
-publishDate: 2026-08-24
+publishDate: 2026-09-11
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/what-to-do-instead-of-smoking-6-replacements-that-work.svg
 cluster: G
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Was tun statt Rauchen? 6 Ersatzstrategien, die wirklich funktionieren"
 description: "Du willst mit dem Rauchen aufhören, aber deine Hand greift automatisch zur Packung? Diese 6 Ersatzstrategien sind wissenschaftlich belegt."
-publishDate: 2026-08-24
+publishDate: 2026-09-11
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/what-to-do-instead-of-smoking-6-replacements-that-work.svg
 cluster: G
 ---
