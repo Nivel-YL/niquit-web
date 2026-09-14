@@ -255,8 +255,10 @@ topics:
 - id: E-05
   title_en: You slipped, does that erase your progress?
   cluster: E
-  status: pending
+  status: in_progress
   published: {}
+  completed_langs:
+  - en
 - id: E-06
   title_en: Am I actually addicted to nicotine? Signs beyond the obvious
   cluster: E
