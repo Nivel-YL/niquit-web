@@ -175,7 +175,7 @@ topics:
 - id: C-07
   title_en: Can you quit with nothing but your own head, no patches, no gum, no app?
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
