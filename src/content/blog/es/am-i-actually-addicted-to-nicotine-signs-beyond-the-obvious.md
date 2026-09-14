@@ -18,7 +18,7 @@ La adicción a la nicotina no se mide en cigarrillos al día. Se mide en control
 
 El manual diagnóstico DSM-5-TR llama a esto trastorno por consumo de tabaco, y establece once criterios posibles. Basta con cumplir dos en los últimos doce meses para hablar de dependencia, según Medscape. Entre ellos: deseo persistente o intentos fallidos de reducir el consumo, y craving, es decir, un impulso fuerte y difícil de ignorar por usar tabaco.
 
-Fíjate en algo: ninguno de esos criterios habla de cantidad. Puedes fumar cinco cigarrillos a la semana y cumplir dos o tres criterios sin problema. Otros indicadores clave son seguir consumiendo pese a saber que te está causando problemas sociales o personales, según recoge Sprypt. Si alguna vez discutiste con tu pareja por el vapeo, o evitaste contarle a tu médico cuánto fumas realmente, ahí tienes una señal que no aparece en las estadísticas de "cigarrillos por día".
+Fíjate en algo: ninguno de esos criterios habla de cantidad. Puedes fumar cinco cigarrillos a la semana y cumplir dos o tres criterios sin problema. Otros indicadores clave son seguir consumiendo pese a saber que te está causando problemas sociales o personales, según Medscape. Si alguna vez discutiste con tu pareja por el vapeo, o evitaste contarle a tu médico cuánto fumas realmente, ahí tienes una señal que no aparece en las estadísticas de "cigarrillos por día".
 
 ## ¿Por qué no puedo dejarlo aunque de verdad quiera?
 
