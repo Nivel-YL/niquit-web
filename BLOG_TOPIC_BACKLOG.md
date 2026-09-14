@@ -210,14 +210,8 @@ topics:
 - id: D-04
   title_en: Can you quit smoking by switching to nicotine pouches?
   cluster: D
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
