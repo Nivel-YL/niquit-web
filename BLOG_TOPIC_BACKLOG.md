@@ -215,6 +215,7 @@ topics:
   completed_langs:
   - en
   - fr
+  - ru
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
   cluster: E
