@@ -170,7 +170,7 @@ topics:
 - id: C-06
   title_en: Is quitting nicotine cold turkey dangerous?
   cluster: C
-  status: pending
+  status: drafted
   published: {}
 - id: C-07
   title_en: Can you quit with nothing but your own head, no patches, no gum, no app?
