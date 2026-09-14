@@ -261,6 +261,7 @@ topics:
   - en
   - es
   - fr
+  - ru
 - id: E-06
   title_en: Am I actually addicted to nicotine? Signs beyond the obvious
   cluster: E
