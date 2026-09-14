@@ -264,6 +264,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - es
   - fr
 - id: E-07
   title_en: Physical dependence versus psychological habit, how long each really lasts
