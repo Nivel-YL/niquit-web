@@ -1622,20 +1622,38 @@ def draft_one(
     voice_guide_txt: str,
     today: datetime.date,
 ) -> str | None:
-    """Draft the next pending topic. Returns topic_id or None if nothing to do."""
-    topics  = load_backlog()
-    pending = next((t for t in topics if t.get('status') == 'pending'), None)
-    if not pending:
+    """Draft the next topic needing work. Returns topic_id or None if nothing to do.
+
+    Prefers resuming an 'in_progress' topic (one or more languages already
+    written, audited, and committed by an earlier, later-interrupted run) over
+    starting a new 'pending' one, so a topic left half-finished by a crash gets
+    picked back up before anything else. See the 2026-09-14 incident: D-04 had
+    en/es/de fully written and audited (paid for, real API cost) when the
+    account ran out of balance mid-[ru]-audit; the topic was reset straight to
+    'pending' and every already-finished language was thrown away with it,
+    because nothing below language granularity was ever tracked or committed.
+    completed_langs on the topic entry is that missing granularity.
+    """
+    topics = load_backlog()
+    topic  = next((t for t in topics if t.get('status') == 'in_progress'), None)
+    resuming = topic is not None
+    if not topic:
+        topic = next((t for t in topics if t.get('status') == 'pending'), None)
+    if not topic:
         return None
 
-    topic_id     = pending['id']
-    topic_title  = pending['title_en']
-    cluster      = pending['cluster']
-    article_slug = slugify(topic_title)
+    topic_id        = topic['id']
+    topic_title     = topic['title_en']
+    cluster         = topic['cluster']
+    article_slug    = slugify(topic_title)
+    completed_langs = list(topic.get('completed_langs', []))
 
     print(f'Topic  : {topic_id}, {topic_title}')
     print(f'Slug   : {article_slug}')
     print(f'Cluster: {cluster}')
+    if resuming:
+        print(f'Resuming: {completed_langs or "(none)"} already done and committed, '
+              f'finishing {[l for l in LANGUAGES if l not in completed_langs]}')
 
     # Context for internal links + cluster dedup
     published_articles     = get_published_articles(topics)
@@ -1643,13 +1661,19 @@ def draft_one(
     if cluster_prior_articles:
         print(f'Cluster prior articles: {cluster_prior_articles}')
 
-    # SVG cover, deterministic, no API call
+    # SVG cover, deterministic, no API call. Only write it once, harmless either
+    # way since generate_svg(topic_id, cluster) is pure and always regenerates
+    # the identical file, but skipping avoids a needless disk write on resume.
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     svg_path = IMAGES_DIR / f'{article_slug}.svg'
-    svg_path.write_text(generate_svg(topic_id, cluster), encoding='utf-8')
-    print(f'SVG    : {svg_path.relative_to(REPO_ROOT)}')
+    if not svg_path.exists():
+        svg_path.write_text(generate_svg(topic_id, cluster), encoding='utf-8')
+        print(f'SVG    : {svg_path.relative_to(REPO_ROOT)}')
 
-    # 1. ONE shared research call (not per-language)
+    # 1. ONE shared research call (not per-language). Redone even on resume:
+    # it is one cheap Haiku call, far less than the cost of a single write+audit,
+    # so redoing it to keep this function simple (no need to persist and reload
+    # research text across runs) is the right trade.
     print('\nResearching (shared, 1 call)...', flush=True)
     shared_facts, langs_for_local = research_shared(client, topic_title)
     print(f'Shared research done. Local research needed: {langs_for_local or ["none"]}', flush=True)
@@ -1669,22 +1693,54 @@ def draft_one(
                 s for s in sentences if pat not in s.lower()
             )
 
-    # 2. Targeted local searches, only for languages that need it
+    remaining_langs = [l for l in LANGUAGES if l not in completed_langs]
+
+    # 2. Targeted local searches, only for languages that still need writing.
+    # No point paying for local context on a language already fully done.
     lang_specific: dict[str, str] = {}
     for lang in langs_for_local:
+        if lang not in remaining_langs:
+            continue
         print(f'Researching local context [{lang}]...', flush=True)
         extra = research_lang_specific(client, topic_title, lang, shared_facts)
         if extra:
             lang_specific[lang] = extra
             print(f'Local context [{lang}] done.', flush=True)
 
-    # Mark in_progress so concurrent runs skip this topic
-    pending['status'] = 'in_progress'
-    save_backlog(topics)
+    # Mark in_progress so concurrent runs skip this topic. If we're already
+    # resuming an in_progress topic this is already set; don't touch it again.
+    if not resuming:
+        topic['status'] = 'in_progress'
+        save_backlog(topics)
 
-    # 3. Write + audit all 5 languages in parallel
+    # Reload the already-committed languages' results from disk rather than
+    # redoing them. The audit .md file already contains the machine-readable
+    # ===SOURCE_TABLE=== block written by process_language(); re-parsing it
+    # with the same parser reconstructs exactly what steps 5-6 need, no new
+    # file format required.
     lang_results: dict[str, dict] = {}
-    with ThreadPoolExecutor(max_workers=len(LANGUAGES)) as executor:
+    for lang in completed_langs:
+        out_path   = BLOG_DIR / lang / f'{article_slug}.md'
+        audit_path = AUDIT_DIR / article_slug / f'{lang}.md'
+        if out_path.exists() and audit_path.exists():
+            lang_results[lang] = {
+                'lang': lang,
+                'out_path': out_path,
+                'source_table': parse_source_table(audit_path.read_text(encoding='utf-8')),
+            }
+        else:
+            # Backlog says this language is done but its files are missing
+            # (shouldn't happen, defensive only): treat it as not done rather
+            # than silently skipping it out of the final cross-language check.
+            print(f'WARNING: [{lang}] marked completed but files missing, redoing it.', file=sys.stderr)
+            remaining_langs.append(lang)
+
+    # 3. Write + audit only the languages not already finished, in parallel.
+    # Each one is committed and pushed the moment IT finishes (not batched
+    # until every language is done): this is exactly the gap that lost D-04's
+    # already-paid-for en/es/de work on 2026-09-14 when ru/fr failed mid-audit
+    # and nothing below full-topic granularity was ever saved.
+    with ThreadPoolExecutor(max_workers=len(remaining_langs) or 1) as executor:
         futures = {
             executor.submit(
                 process_language,
@@ -1692,7 +1748,7 @@ def draft_one(
                 voice_guide_txt, article_slug, today, published_articles, cluster_prior_articles,
                 cluster,
             ): lang
-            for lang in LANGUAGES
+            for lang in remaining_langs
         }
         errors = []
         for future in as_completed(futures):
@@ -1701,16 +1757,34 @@ def draft_one(
                 lang_results[lang] = future.result()
             except Exception as exc:
                 errors.append((lang, exc))
+                continue
+
+            # Commit this one language right now, from the main thread (as_completed
+            # yields futures one at a time here, so this is never concurrent with
+            # itself), so a sibling language failing after this point cannot take
+            # this already-finished, already-paid-for one down with it.
+            topics_now = load_backlog()
+            t = next(t for t in topics_now if t['id'] == topic_id)
+            t['completed_langs'] = sorted(set(t.get('completed_langs', [])) | {lang})
+            save_backlog(topics_now)
+            commit_and_push(
+                [
+                    f'src/content/blog/{lang}/{article_slug}.md',
+                    f'docs/fact-audits/{article_slug}/{lang}.md',
+                    'BLOG_TOPIC_BACKLOG.md',
+                ],
+                message=f'blog: draft {topic_id} [{lang}]',
+            )
 
     if errors:
         for lang, exc in errors:
             print(f'ERROR [{lang}]: {exc}', file=sys.stderr)
-        topics = load_backlog()
-        t = next((t for t in topics if t['id'] == topic_id), None)
-        if t:
-            t['status'] = 'pending'
-            save_backlog(topics)
-        raise RuntimeError(f'Failed to draft {topic_id}')
+        # Deliberately NOT resetting status to 'pending' here (that line used to
+        # sit right here and is exactly what threw away D-04's en/es/de on
+        # 2026-09-14). Status stays 'in_progress' with whatever completed_langs
+        # was just committed above, so the next run resumes this same topic
+        # instead of redoing already-finished, already-paid-for languages.
+        raise RuntimeError(f'Failed to draft {topic_id}, {len(errors)} language(s) still failing')
 
     # 5-6. Cross-language consistency, self-correction, escalation.
     print('\nRunning cross-language consistency check and self-correction...', flush=True)
@@ -1722,6 +1796,7 @@ def draft_one(
     topic  = next(t for t in topics if t['id'] == topic_id)
     topic['status'] = 'drafted'
     topic.setdefault('published', {})
+    topic.pop('completed_langs', None)
     save_backlog(topics)
 
     # Commit and push this topic right now, not batched at the end of the run,
