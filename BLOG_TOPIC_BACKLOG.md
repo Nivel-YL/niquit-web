@@ -267,6 +267,7 @@ topics:
   - en
   - es
   - fr
+  - ru
 - id: E-07
   title_en: Physical dependence versus psychological habit, how long each really lasts
   cluster: E
