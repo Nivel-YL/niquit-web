@@ -1,9 +1,9 @@
 ---
 title: "5 mitos sobre dejar la nicotina que te mantienen estancado"
 description: "Descubre los 5 mitos sobre dejar la nicotina que te hacen fracasar una y otra vez, y qué dice la evidencia real sobre cada uno."
-publishDate: 2026-08-24
+publishDate: 2026-09-15
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/5-myths-about-quitting-nicotine-that-keep-people-stuck.svg
 cluster: H
 ---

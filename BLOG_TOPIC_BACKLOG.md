@@ -360,8 +360,13 @@ topics:
 - id: H-01
   title_en: 5 myths about quitting nicotine that keep people stuck
   cluster: H
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-15'
+    ru: '2026-09-15'
+    de: '2026-09-15'
+    es: '2026-09-15'
+    fr: '2026-09-15'
 - id: H-02
   title_en: There is no such thing as a casual smoker the evidence
   cluster: H

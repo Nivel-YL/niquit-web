@@ -1,5 +1,5 @@
 # NiQuit Blog Pipeline: производственная линия
-Обновлено автоматически: 2026-09-14 20:34 UTC
+Обновлено автоматически: 2026-09-15 13:04 UTC
 
 Склад сырья → Цех (research + написание, 5 языков) → ОТК (источники →
 между языками → автоисправление) → Склад готовой продукции (approved) →
@@ -29,15 +29,14 @@
 - E-05: You slipped, does that erase your progress? — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/you-slipped-does-that-erase-your-progress.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/you-slipped-does-that-erase-your-progress.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/you-slipped-does-that-erase-your-progress.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/you-slipped-does-that-erase-your-progress.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/you-slipped-does-that-erase-your-progress.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/you-slipped-does-that-erase-your-progress/_source_verification_report.md)
 - E-06: Am I actually addicted to nicotine? Signs beyond the obvious — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious/_source_verification_report.md)
 
-## Склад готовой продукции: одобрено, в очереди (approved), 2
-- H-01: 5 myths about quitting nicotine that keep people stuck — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/5-myths-about-quitting-nicotine-that-keep-people-stuck.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/5-myths-about-quitting-nicotine-that-keep-people-stuck.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/5-myths-about-quitting-nicotine-that-keep-people-stuck.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/5-myths-about-quitting-nicotine-that-keep-people-stuck.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/5-myths-about-quitting-nicotine-that-keep-people-stuck.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/5-myths-about-quitting-nicotine-that-keep-people-stuck/_source_verification_report.md)
+## Склад готовой продукции: одобрено, в очереди (approved), 1
 - H-02: There is no such thing as a casual smoker the evidence — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/there-is-no-such-thing-as-a-casual-smoker-the-evidence.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/there-is-no-such-thing-as-a-casual-smoker-the-evidence.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/there-is-no-such-thing-as-a-casual-smoker-the-evidence.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/there-is-no-such-thing-as-a-casual-smoker-the-evidence.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/there-is-no-such-thing-as-a-casual-smoker-the-evidence.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/there-is-no-such-thing-as-a-casual-smoker-the-evidence/_source_verification_report.md)
 
-## Отгружено всего: 26, последняя отгрузка 2026-09-11 (G-03)
+## Отгружено всего: 27, последняя отгрузка 2026-09-15 (H-01)
 
 ## Следующая смена по расписанию
 - Генерация (blog-editor): понедельник, 2026-09-21 09:00 UTC
-- Отгрузка (publisher): вторник, 2026-09-15 08:00 UTC
+- Отгрузка (publisher): пятница, 2026-09-18 08:00 UTC
 
 ## Приёмка новой линии (пилотный счётчик): 3 из 3 чистых прогонов
 - 2026-07-22 (does-smoking-actually-reduce-stress-the-real-science): НЕ засчитан — invalidated: real API run of steps 4-6 found a validation bug (reasoning traces spliced into the article instead of a clean sentence); code was fixed as a result, so this run does not count toward the 3 clean pilot runs

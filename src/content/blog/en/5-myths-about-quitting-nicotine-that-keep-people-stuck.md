@@ -1,9 +1,9 @@
 ---
 title: "5 myths about quitting nicotine that keep people stuck"
 description: "Bad information about quitting nicotine sends people back to smoking. Here are 5 myths, debunked with real research, plus what actually works."
-publishDate: 2026-08-24
+publishDate: 2026-09-15
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/5-myths-about-quitting-nicotine-that-keep-people-stuck.svg
 cluster: H
 ---
