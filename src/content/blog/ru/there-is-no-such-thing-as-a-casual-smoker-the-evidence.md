@@ -1,9 +1,9 @@
 ---
 title: "«Я же не завишу, курю по одной в день»: почему случайных курильщиков не существует"
 description: "Кажется, что одна сигарета в день не считается зависимостью. Но исследование Penn State и Duke 2020 года показало обратное: почти две трети уже зависимы."
-publishDate: 2026-08-24
+publishDate: 2026-09-18
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/there-is-no-such-thing-as-a-casual-smoker-the-evidence.svg
 cluster: H
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Der Gelegenheitsraucher gibt es nicht: Das zeigen die Daten"
 description: "Nur am Wochenende, nur auf Partys, nur eine pro Tag: Die Forschung zeigt, warum der Gelegenheitsraucher wissenschaftlich betrachtet ein Mythos ist."
-publishDate: 2026-08-24
+publishDate: 2026-09-18
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/there-is-no-such-thing-as-a-casual-smoker-the-evidence.svg
 cluster: H
 ---

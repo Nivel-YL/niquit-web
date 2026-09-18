@@ -1,9 +1,9 @@
 ---
 title: "Le fumeur occasionnel n'existe pas : voici ce que montre la science"
 description: "Une cigarette de temps en temps, ce n'est pas grave, tu te dis. Les chiffres racontent une tout autre histoire. Voici ce que la recherche a découvert."
-publishDate: 2026-08-24
+publishDate: 2026-09-18
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/there-is-no-such-thing-as-a-casual-smoker-the-evidence.svg
 cluster: H
 ---

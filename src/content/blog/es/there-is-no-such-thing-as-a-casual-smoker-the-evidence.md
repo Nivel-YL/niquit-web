@@ -1,9 +1,9 @@
 ---
 title: "El fumador ocasional no existe: esto dice la evidencia"
 description: "\"Solo fumo cuando salgo\" es una de las frases más repetidas y menos ciertas del tabaco. La evidencia científica muestra por qué."
-publishDate: 2026-08-24
+publishDate: 2026-09-18
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/there-is-no-such-thing-as-a-casual-smoker-the-evidence.svg
 cluster: H
 ---
