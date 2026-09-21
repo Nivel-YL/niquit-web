@@ -309,6 +309,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - fr
 - id: F-06
   title_en: What a nicotine pouch habit actually costs you in a year
   cluster: F
