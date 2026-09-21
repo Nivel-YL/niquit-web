@@ -26,7 +26,7 @@ Si tu veux comprendre pourquoi les envies reviennent sans arrêt, même la nuit,
 
 ## Pourquoi j'ai des sueurs nocturnes quand j'arrête la nicotine ?
 
-Les sueurs nocturnes font partie du sevrage nicotinique classique, au même titre que l'irritabilité, les envies ou l'anxiété (Bedfans-USA blog, 2026). Elles apparaissent généralement dans les 4 à 24 heures après la dernière prise, atteignent un pic vers le troisième jour, puis s'atténuent progressivement sur trois à quatre semaines (Medical News Today, 2024). En général, elles durent de quelques semaines à quelques mois après l'arrêt (Drug Test Panels, 2026).
+Les sueurs nocturnes font partie du sevrage nicotinique, au même titre que l'irritabilité, les envies ou l'anxiété (Drug Test Panels, 2026). Elles apparaissent généralement dans les 4 à 24 heures après la dernière prise, atteignent un pic vers le troisième jour, puis s'atténuent progressivement sur trois à quatre semaines (Medical News Today, 2024). 
 
 Ce n'est pas agréable, mais c'est un signe que ton système nerveux se réajuste après avoir fonctionné sous stimulant pendant des mois, parfois des années. Le calendrier complet du sevrage, jour par jour, est détaillé dans [nicotine withdrawal symptoms day by day timeline](/fr/blog/nicotine-withdrawal-symptoms-day-by-day-timeline), et les 72 premières heures, souvent les plus dures, sont couvertes dans [les premières 72 heures sans nicotine](/fr/blog/the-first-72-hours-without-nicotine-a-survival-guide).
 
@@ -34,9 +34,9 @@ Ce n'est pas agréable, mais c'est un signe que ton système nerveux se réajust
 
 C'est probablement la surprise la plus étrange du sevrage. La nicotine supprime le sommeil paradoxal, la phase REM associée aux rêves les plus intenses (Sleep journal review, 2009). Paradoxalement, les rêves qui surviennent malgré tout pendant qu'on fume peuvent être plus intenses que la moyenne (Biology Insights, 2025).
 
-Une étude de 2006 menée sur 15 fumeurs portant un patch de nicotine 24h a montré plus de micro-réveils et davantage de rêves rapportés avec une imagerie visuelle jugée plus vive sous patch (Physiol Behav, 2006). Une autre étude de 2016 sur plus d'un millier de participants a trouvé que plus de 16 % des utilisateurs de patchs rapportaient des rêves vifs, un taux similaire chez ceux combinant patchs et pastilles (Doctar.in citant une étude de 2016, 2026). Dans un programme de sevrage de 2017 combinant varénicline, patchs et pastilles, 72 % des participants ont signalé des rêves anormaux, au point que sept d'entre eux ont dû changer de traitement (Healthline citant une étude de 2017, 2026).
+Une étude de 2006 menée sur 15 fumeurs portant un patch de nicotine 24h a montré plus de micro-réveils et davantage de rêves rapportés avec une imagerie visuelle jugée plus vive sous patch (Physiol Behav, 2006).  Dans un programme de sevrage de 2017 combinant varénicline, patchs et pastilles, 72 % des participants ont signalé des rêves anormaux, au point que sept d'entre eux ont dû changer de traitement (Healthline citant une étude de 2017, 2026).
 
-Après l'arrêt complet, le phénomène s'intensifie encore : entre 60 et 70 % des personnes qui arrêtent de fumer rapportent des "rêves de sevrage" (Biology Insights, 2025). Le mécanisme s'appelle le rebond du sommeil paradoxal : privé de nicotine, le cerveau rattrape le sommeil REM qu'il n'a pas pu avoir pendant des mois, en l'allongeant et en l'intensifiant, ce qui donne des rêves plus vifs et parfois franchement bizarres (Biology Insights, 2025). C'est aussi documenté par l'OMS comme un symptôme de sevrage à part entière : une augmentation des rêves (EPFL GraphSearch/WHO classification, 2026).
+Après l'arrêt complet, le phénomène s'intensifie encore : entre 60 et 70 % des personnes qui arrêtent de fumer rapportent des "rêves de sevrage" (Biology Insights, 2025). Le mécanisme s'appelle le rebond du sommeil paradoxal : privé de nicotine, le cerveau rattrape le sommeil REM qu'il n'a pas pu avoir pendant des mois, en l'allongeant et en l'intensifiant, ce qui donne des rêves plus vifs et parfois franchement bizarres (Biology Insights, 2025). 
 
 Bonne nouvelle : ça ne dure pas. L'architecture du sommeil et l'intensité des rêves reviennent généralement à un niveau normal en quatre à huit semaines, même si des rêves vifs occasionnels peuvent persister un peu plus longtemps chez certaines personnes (Biology Insights, 2025).
 
@@ -44,7 +44,7 @@ Bonne nouvelle : ça ne dure pas. L'architecture du sommeil et l'intensité des 
 
 L'insomnie est reconnue cliniquement comme un symptôme de sevrage nicotinique (Nicotine & Tobacco Research, 2019). Une méta-analyse portant sur 52 études montre qu'elle peut s'aggraver après l'arrêt et devenir un facteur de rechute si elle n'est pas anticipée (Jaehne et al., 2009 via MedRxiv preprint, 2024). C'est une des raisons pour lesquelles beaucoup de gens replongent la première semaine, épuisés par le manque de sommeil plutôt que par l'envie elle-même.
 
-Selon Nectr Energy, le sommeil s'améliore généralement dans un délai de une à trois semaines après l'arrêt, même si le sevrage peut d'abord temporairement aggraver l'insomnie. Autrement dit : ça va empirer un peu avant de s'arranger, et c'est normal.
+Selon les médecins, la plupart des patients voient une amélioration de l'insomnie après deux semaines sans nicotine, même si le sevrage peut d'abord temporairement aggraver l'insomnie. Autrement dit : ça va empirer un peu avant de s'arranger, et c'est normal.
 
 ## Comment mieux dormir pendant le sevrage ?
 
