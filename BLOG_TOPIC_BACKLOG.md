@@ -270,6 +270,7 @@ topics:
   completed_langs:
   - de
   - en
+  - es
   - fr
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
