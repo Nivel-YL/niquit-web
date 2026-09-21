@@ -308,6 +308,7 @@ topics:
   status: in_progress
   published: {}
   completed_langs:
+  - de
   - en
   - es
   - fr
