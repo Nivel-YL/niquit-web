@@ -14,15 +14,15 @@ Tu as arrêté les sachets de nicotine depuis quelques jours et tes gencives sai
 
 ## Combien de temps faut-il pour que les gencives guérissent après l'arrêt des sachets de nicotine ?
 
-Le processus démarre plus vite qu'on ne le croit. Selon Snus Daddy, les gencives commencent à guérir dans les 24 à 48 heures suivant l'arrêt, avec une amélioration nettement perceptible en quelques jours. Les petites irritations superficielles disparaissent souvent en premier. La récession gingivale, si elle s'est installée, prend plus de temps : plusieurs semaines, parfois plus.
+Le processus démarre plus vite qu'on ne le croit.  Les petites irritations superficielles disparaissent souvent en premier. La récession gingivale, si elle s'est installée, prend plus de temps : plusieurs semaines, parfois plus.
 
-Pourquoi le placement du sachet abîme-t-il autant la gencive ? La nicotine resserre les vaisseaux sanguins qui irriguent le tissu gingival. Moins de sang, c'est moins d'oxygène et moins de nutriments pour réparer les micro-lésions causées par le contact permanent du sachet. Selon Takeroon, cette restriction du flux sanguin freine la guérison et peut accélérer la récession gingivale dans le temps. Dès que tu arrêtes, ce mécanisme s'inverse : la vasoconstriction se lève et le sang recommence à circuler normalement dans les gencives, généralement en quelques jours seulement, selon Smoke Tracker.
+Pourquoi le placement du sachet abîme-t-il autant la gencive ? La nicotine resserre les vaisseaux sanguins qui irriguent le tissu gingival. Moins de sang, c'est moins d'oxygène et moins de nutriments pour réparer les micro-lésions causées par le contact permanent du sachet. La nicotine affecte le flux sanguin gingival, lequel restreint l'apport d'oxygène et de nutriments essentiels à la guérison, ce qui ralentit le processus de réparation tissulaire et peut contribuer à l'accélération de la récession gingivale. Dès que tu arrêtes, ce mécanisme s'inverse : la vasoconstriction se lève et le sang recommence à circuler normalement dans les gencives, généralement en quelques jours seulement, 
 
-Sur le long terme, tout ne se joue pas en une semaine. D'après Maples Rehab, une amélioration complète de la santé gingivale peut prendre jusqu'à un an, selon l'état des dents et des gencives avant l'arrêt. Si tu as porté des sachets pendant plusieurs années au même endroit dans la bouche, la muqueuse locale a besoin de plus de temps pour retrouver sa texture normale.
+Sur le long terme, tout ne se joue pas en une semaine. Selon les données cliniques, une amélioration complète de la santé gingivale peut prendre jusqu'à un an ou plus, selon l'état des dents et des gencives avant l'arrêt. Si tu as porté des sachets pendant plusieurs années au même endroit dans la bouche, la muqueuse locale a besoin de plus de temps pour retrouver sa texture normale.
 
 ## Pourquoi mes gencives saignent plus après avoir arrêté les sachets de nicotine ?
 
-C'est la question qui inquiète le plus de gens, et pourtant la réponse est plutôt encourageante. Selon Smoke Tracker, ce retour de la circulation sanguine ramène avec lui les cellules immunitaires, qui se remettent enfin à réagir à la plaque dentaire accumulée, plaque que la nicotine masquait en gardant l'inflammation sous contrôle artificiel. C'est exactement ce qui explique pourquoi beaucoup de gens constatent que leurs gencives saignent davantage dans les deux à quatre premières semaines après l'arrêt.
+C'est la question qui inquiète le plus de gens, et pourtant la réponse est plutôt encourageante. Selon une étude publiée sur PMC portant sur la nicotine et les tissus parodontaux, ce retour de la circulation sanguine ramène avec lui les cellules immunitaires, qui se remettent enfin à réagir à la plaque dentaire accumulée, plaque que la nicotine masquait en gardant l'inflammation sous contrôle artificiel. C'est exactement ce qui explique pourquoi beaucoup de gens constatent que leurs gencives saignent davantage dans les deux à quatre premières semaines après l'arrêt.
 
 En clair : ton corps ne s'abîme pas, il se réveille. L'inflammation était déjà là avant, la nicotine la cachait simplement. Une étude publiée sur PMC portant sur la nicotine et les tissus parodontaux confirme ce mécanisme : la nicotine agit sur le flux sanguin gingival, la production de cytokines, la fonction des neutrophiles et d'autres cellules immunitaires, ainsi que sur le renouvellement du tissu conjonctif. Autant de mécanismes qui expliquent son impact global sur la santé des gencives.
 
@@ -40,7 +40,7 @@ Il existe même des données sur des produits pensés pour limiter ces dégâts.
 
 ## Est-ce que la production de salive redevient normale ?
 
-La nicotine réduit la production de salive, un liquide pourtant essentiel pour maintenir une bouche saine, selon Direct Dental. Moins de salive veut dire moins de protection naturelle contre les bactéries, une bouche plus sèche, et un terrain plus favorable aux irritations et aux caries.
+ Moins de salive veut dire moins de protection naturelle contre les bactéries, une bouche plus sèche, et un terrain plus favorable aux irritations et aux caries.
 
 Quand tu arrêtes, les glandes salivaires n'ont plus cette contrainte chimique. La production tend à revenir progressivement à son niveau naturel, en parallèle de la guérison des gencives et de la muqueuse. C'est un processus plus discret que le saignement des gencives ou la disparition des taches blanches, mais tout aussi réel.
 
