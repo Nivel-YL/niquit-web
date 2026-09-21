@@ -14,13 +14,13 @@ Du hast seit drei Wochen nicht geraucht. Der Husten ist weg, du schläfst wieder
 
 ## Was ist eigentlich der Unterschied zwischen Abhängigkeit und Gewohnheit?
 
-Nikotin dockt an Rezeptoren im Gehirn an und sorgt dafür, dass Dopamin ausgeschüttet wird, der Botenstoff, der das Belohnungssystem aktiviert (Wikipedia, Nicotine withdrawal). Weil das Gehirn diesen künstlichen Kick ständig abbekommt, baut es eine Gegenkraft auf, die den Effekt abschwächt. Diese Gegenkraft ist die Toleranz, und genau sie führt zur körperlichen Abhängigkeit: Dein Gehirn hat sich so an Nikotin gewöhnt, dass es ohne nicht mehr "normal" funktioniert (Wikipedia, Nicotine withdrawal).
+Nikotin dockt an Rezeptoren im Gehirn an und sorgt dafür, dass Dopamin ausgeschüttet wird, der Botenstoff, der das Belohnungssystem aktiviert (NIH/PMC). Weil das Gehirn diesen künstlichen Kick ständig abbekommt, baut es eine Gegenkraft auf, die den Effekt abschwächt. Diese Gegenkraft ist die Toleranz, und genau sie führt zur körperlichen Abhängigkeit: Dein Gehirn hat sich so an Nikotin gewöhnt, dass es ohne nicht mehr "normal" funktioniert (NIH/PMC).
 
 Die Cleveland Clinic (2026) beschreibt das ganz nüchtern: Körperliche Abhängigkeit bedeutet, dass dein Körper Nikotin braucht, um Entzugssymptome zu vermeiden. Psychische Abhängigkeit ist etwas anderes: das Gefühl, Nikotin zu brauchen, weil es fest in deinen Alltag eingebaut ist, ein Ritual, ein Fixpunkt im Tagesablauf. Der Körper verlangt nach einem Molekül. Der Kopf verlangt nach einer Situation.
 
 ## Wie lange dauert der körperliche Entzug von Nikotin?
 
-Der körperliche Teil ist überraschend kurz. Wenn du längere Zeit geraucht hast, beginnen Entzugssymptome schon vier bis 24 Stunden nach der letzten Zigarette (Cleveland Clinic, 2026). Sie erreichen ihren Höhepunkt nach drei bis vier Tagen und können sich über mehrere Wochen hinziehen (Patent Document, USPTO).
+Der körperliche Teil ist überraschend kurz. Wenn du längere Zeit geraucht hast, beginnen Entzugssymptome schon vier bis 24 Stunden nach der letzten Zigarette (Cleveland Clinic, 2026). Sie erreichen ihren Höhepunkt am zweiten oder dritten Tag und können sich über drei bis vier Wochen hinziehen (Cleveland Clinic, 2026).
 
 Die Gale Health Database (2026) zeichnet ein ähnliches Bild: Am intensivsten sind die Symptome in den ersten ein bis drei Tagen, danach wird es über ein bis zwei Wochen deutlich besser, und die eigentliche körperliche Phase ist meist nach einem Monat vorbei. Auch die Rezeptoren im Gehirn brauchen diese Zeit, um sich zu normalisieren: Laut NeuroLaunch (2024) dauert das zwei bis vier Wochen, während die Dopaminspiegel sich vollständig erst nach bis zu drei Monaten stabilisieren.
 
@@ -28,7 +28,7 @@ Genau in dieser ersten Woche passiert übrigens der meiste Rückfall. Ein US-Pat
 
 ## Warum will ich noch rauchen, wenn der Körper längst clean ist?
 
-Hier wird es interessant, denn genau das erleben fast alle, die aufhören. Der Körper hat sich längst erholt, aber der Kopf meldet sich trotzdem. Ein US-Patentdokument (USPTO) fasst es so zusammen: Körperliche Abhängigkeit verschwindet im Durchschnitt innerhalb von wenigen Wochen, psychische Abhängigkeit dagegen braucht deutlich länger und kann mehrere Monate anhalten.
+Hier wird es interessant, denn genau das erleben fast alle, die aufhören. Der Körper hat sich längst erholt, aber der Kopf meldet sich trotzdem. Nach einem US-Patentdokument zur Tabakabhängigkeitsbehandlung (USPTO Patent 11865156) verschwindet körperliche Abhängigkeit im Durchschnitt innerhalb weniger Wochen, während psychische Abhängigkeit länger braucht und mehrere Monate anhalten kann.
 
 Der Grund liegt im Gedächtnis. NeuroLaunch (2024) erklärt, dass akuter Entzug zwar meist innerhalb der ersten Woche seinen Höhepunkt erreicht, Verlangen, das an Gewohnheiten und Orte gekoppelt ist, aber monatelang bestehen bleiben kann, auch wenn das Gehirn chemisch längst wieder im Gleichgewicht ist. Nikotin beeinflusst nicht nur Dopamin, sondern auch Adrenalin, Serotonin und Glutamat, und spielt eine zentrale Rolle bei der Neuroplastizität, also der Fähigkeit des Gehirns, Erinnerungen und Gewohnheiten zu formen (NIH/PMC). Genau deshalb hat sich dein Gehirn Tausende von Mal gemerkt: Kaffee gleich Zigarette, Stress gleich Zigarette, Autofahrt gleich Zigarette.
 
