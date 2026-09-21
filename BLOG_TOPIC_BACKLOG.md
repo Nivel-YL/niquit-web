@@ -306,6 +306,7 @@ topics:
   - de
   - en
   - fr
+  - ru
 - id: F-05
   title_en: What recovers in your mouth and gums after you stop using nicotine pouches
   cluster: F
