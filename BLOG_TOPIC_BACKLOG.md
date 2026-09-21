@@ -303,6 +303,7 @@ topics:
   status: in_progress
   published: {}
   completed_langs:
+  - de
   - en
   - fr
 - id: F-05
