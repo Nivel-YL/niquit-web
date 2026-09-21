@@ -305,6 +305,7 @@ topics:
   completed_langs:
   - de
   - en
+  - es
   - fr
   - ru
 - id: F-05
