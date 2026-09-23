@@ -507,3 +507,15 @@ textarea:focus-visible,
 @media(prefers-reduced-motion:reduce){
   .nq-ov.nq-open{ animation:none; }
 }
+
+/* Embedded mode (NiQuit app's Blog tab, ?embedded=1 - see Base.astro): the
+   app already has its own header, back button and tab bar, and install-app
+   CTAs make no sense to someone already inside the app. [data-embed-hide]
+   marks per-page elements (install CTA, calculator prompt) that also need
+   to disappear alongside the site chrome. */
+html.is-embedded header,
+html.is-embedded footer,
+html.is-embedded #cookie-banner,
+html.is-embedded [data-embed-hide] {
+  display: none !important;
+}
