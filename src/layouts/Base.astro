@@ -174,5 +174,29 @@ const pageBg =
         });
       }
     </script>
+
+    <!-- Embedded mode: internal links (article cards, "read next", pagination)
+         are plain hrefs with no idea they're inside the app's WebView - without
+         this, clicking from the blog list into an article drops ?embedded=1
+         and the article reloads with full site chrome (header/footer/cookie
+         banner). Intercepts same-origin clicks and carries the flag forward. -->
+    <script is:inline>
+      if (window.__niquitEmbedded) {
+        document.addEventListener('click', function (e) {
+          if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+          var a = e.target && e.target.closest ? e.target.closest('a') : null;
+          if (!a) return;
+          var href = a.getAttribute('href');
+          if (!href || href.charAt(0) === '#' || a.target === '_blank') return;
+          var url;
+          try { url = new URL(href, location.href); } catch (err) { return; }
+          if (url.origin !== location.origin) return;
+          if (url.searchParams.get('embedded') === '1') return;
+          url.searchParams.set('embedded', '1');
+          e.preventDefault();
+          location.href = url.toString();
+        }, true);
+      }
+    </script>
   </body>
 </html>
