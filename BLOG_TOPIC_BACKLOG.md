@@ -349,6 +349,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - es
   - fr
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
