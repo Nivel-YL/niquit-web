@@ -387,6 +387,7 @@ topics:
   - en
   - es
   - fr
+  - ru
 BACKLOG-->
 
 # Blog Topic Backlog
