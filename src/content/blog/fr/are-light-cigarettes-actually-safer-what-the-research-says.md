@@ -14,7 +14,7 @@ Tu as peut-être déjà entendu ça dans ta famille : "je suis passé aux light,
 
 ## Pourquoi les cigarettes light donnaient-elles des chiffres plus bas ?
 
-Ce n'était pas un hasard chimique. Les cigarettes light ont été conçues avec des petits trous de ventilation dans le filtre, invisibles à l'œil nu, qui diluent la fumée avec de l'air ambiant. Résultat : quand une machine à fumer standardisée testait ces cigarettes, elle mesurait moins de goudron et moins de nicotine (Source : MassiveBio, 2026).
+Ce n'était pas un hasard chimique. Les cigarettes light ont été conçues avec des petits trous de ventilation dans le filtre, invisibles à l'œil nu, qui diluent la fumée avec de l'air ambiant. Résultat : quand une machine à fumer standardisée testait ces cigarettes, elle mesurait moins de goudron et moins de nicotine (Source : Tobacco Free Kids, 2002).
 
 Sur le papier, ça donnait des paquets "légers". Dans la réalité, les documents internes de l'industrie du tabac montrent que ces cigarettes ont été conçues précisément pour produire de faibles taux mesurés par les machines, tout en sachant que les fumeurs, eux, allaient fumer autrement (Source : Tobacco Free Kids, 2002). Autrement dit : le chiffre sur le paquet n'a jamais reflété ce qui finissait vraiment dans tes poumons.
 
@@ -24,7 +24,7 @@ Non. Et c'est net.
 
 Une étude portant sur plus de 900 000 Américains sur six ans n'a trouvé aucune différence dans le risque de mourir d'un cancer du poumon entre les fumeurs de cigarettes à taux moyen, faible ou très faible de goudron (Source : Harvard Health). Le National Cancer Institute est arrivé à la même conclusion de son côté : rien dans les changements de conception des cigarettes au cours des 50 dernières années n'a apporté de bénéfice pour la santé publique (Source : National Cancer Institute, 2001).
 
-Pire encore : plusieurs chercheurs ont établi un lien entre la généralisation des cigarettes filtrées et ventilées et l'augmentation d'un type précis de cancer du poumon, l'adénocarcinome, sur la deuxième moitié du vingtième siècle (Source : American Cancer Society). Le Roswell Park Comprehensive Cancer Center va dans le même sens : les preuves suggèrent fortement que les cigarettes "light" pourraient même augmenter le risque de développer ce cancer (Source : Roswell Park Comprehensive Cancer Center, 2017).
+Pire encore : plusieurs chercheurs ont établi un lien entre la généralisation des cigarettes filtrées et ventilées et l'augmentation d'un type précis de cancer du poumon, l'adénocarcinome, sur la deuxième moitié du vingtième siècle (Source : American Cancer Society). Les preuves suggèrent fortement que les cigarettes « light » pourraient même augmenter le risque de développer l'adénocarcinome (Source : Journal of the National Cancer Institute, 2017).
 
 Les personnes qui passent de cigarettes classiques aux light ou aux "low-tar" inhalent en réalité une quantité comparable de substances cancérigènes, et restent exposées aux mêmes risques de cancer et de maladies liées au tabac (Source : National Cancer Institute, 2001).
 
@@ -46,7 +46,7 @@ En juin 2010, la FDA (Food and Drug Administration) a interdit l'utilisation des
 
 ## Passer aux cigarettes light aide-t-il vraiment à arrêter de fumer ?
 
-C'est souvent l'intention derrière le choix. Selon des données citées dans des documents réglementaires, 30 % des fumeurs de "light" et près de la moitié des fumeurs d'"ultra light" ont déclaré avoir choisi ces marques comme une étape vers l'arrêt complet (Source : FTC). Le problème, c'est que les données ne montrent aucune preuve que passer à des cigarettes à taux réduit augmente les chances de réussir à arrêter (Source : FTC).
+C'est souvent l'intention derrière le choix.  
 
 Ce sont d'ailleurs souvent les fumeurs les plus motivés à arrêter qui se tournent vers ces marques en premier lieu, ce qui explique en partie pourquoi le lien semblait exister sur le papier. En réalité, la cigarette light ne fait que retarder une décision qu'il faudra prendre autrement.
 

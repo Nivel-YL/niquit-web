@@ -15,7 +15,7 @@ Du hast vielleicht selbst mal umgestellt. Weniger Teer auf der Packung, ein hell
 
 ## Warum haben Light-Zigaretten überhaupt weniger Teer gemessen?
 
-Der Trick steckte im Filter. Hersteller bauten winzige Ventilationslöcher ein, die beim Rauchen zusätzliche Umgebungsluft in den Rauch mischen. Eine Rauchmaschine im Labor sog gleichmäßig und schwach, wodurch der gemessene Teer- und Nikotinwert künstlich niedrig ausfiel. Laut MassiveBio, gestützt auf FDA-Daten und den wissenschaftlichen Konsens, entstand dadurch genau der Eindruck, den die Industrie wollte: weniger Schadstoffe, weniger Risiko.
+Der Trick steckte im Filter. Hersteller bauten winzige Ventilationslöcher ein, die beim Rauchen zusätzliche Umgebungsluft in den Rauch mischen. Eine Rauchmaschine im Labor sog gleichmäßig und schwach, wodurch der gemessene Teer- und Nikotinwert künstlich niedrig ausfiel. Laut des National Cancer Institute, gestützt auf FDA-Daten und den wissenschaftlichen Konsens, entstand dadurch genau der Eindruck, den die Industrie wollte: weniger Schadstoffe, weniger Risiko.
 
 Nur rauchte kein Mensch so, wie eine Maschine es tut.
 

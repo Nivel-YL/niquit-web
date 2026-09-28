@@ -380,14 +380,8 @@ topics:
 - id: H-03
   title_en: Are light cigarettes actually safer what the research says
   cluster: H
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 BACKLOG-->
 
 # Blog Topic Backlog
