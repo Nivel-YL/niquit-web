@@ -345,14 +345,8 @@ topics:
 - id: G-04
   title_en: Do vape cravings ever actually go away?
   cluster: G
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
   cluster: G

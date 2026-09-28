@@ -46,6 +46,6 @@ Ces chiffres expliquent aussi pourquoi les rechutes sont si fréquentes : selon 
 
 ## Ce qui change vraiment avec le temps
 
-La bonne nouvelle dans tout ça, c'est que la fréquence et l'intensité baissent nettement. Quitto Tobacco SD (2026) rapporte qu'environ la moitié des consommateurs de tabac ressentent au moins quatre symptômes de sevrage, généralement pendant une à trois semaines, et que les pics d'envie les plus intenses ne durent en général que trois à cinq minutes chacun. Trois à cinq minutes, ce n'est pas rien à vivre, mais c'est gérable quand on sait que ça va passer.
+La bonne nouvelle dans tout ça, c'est que la fréquence et l'intensité baissent nettement.  Trois à cinq minutes, ce n'est pas rien à vivre, mais c'est gérable quand on sait que ça va passer.
 
 Si une envie surgit après plusieurs mois d'arrêt, ce n'est pas un échec de ta part, ni le signe que tu es toujours "accro" au sens physique. C'est un vieux circuit neuronal qui s'active une dernière fois avant de s'éteindre pour de bon, à condition que tu ne le réalimentes pas. Pour t'aider à traverser ces moments sans céder, [ce guide sur les remplacements qui fonctionnent](/fr/blog/what-to-do-instead-of-smoking-6-replacements-that-work) propose des pistes concrètes à essayer sur le moment.

@@ -16,7 +16,7 @@ The short answer is that the physical craving, the one driven by your body screa
 
 ## How long do vape cravings actually last physically?
 
-Withdrawal has a fairly predictable shape. Cleveland Clinic (2026) notes that symptoms typically start 4 to 24 hours after your last vape and peak around day two or three. From there, they fade over the next three to four weeks. Quit Tobacco SD (2026) adds a detail that helps a lot in the moment: even at their worst, individual cravings usually only last three to five minutes.
+Withdrawal has a fairly predictable shape. Cleveland Clinic (2026) notes that symptoms typically start 4 to 24 hours after your last vape and peak around day two or three. From there, they fade over the next three to four weeks. According to the American Lung Association (2026), individual cravings usually only last three to five minutes.
 
 That number matters more than it seems. A craving doesn't roll in like weather and stay for the afternoon. It spikes and drops. If you've never sat through one without giving in, it can feel endless, but biologically it's closer to a wave than a flood. We go deeper into what that wave actually feels like minute by minute in [How long does a nicotine craving actually last?](/blog/how-long-does-a-nicotine-craving-actually-last)
 
@@ -28,7 +28,7 @@ By around day 21, according to ScienceInsights (2026), receptor density in the b
 
 This is the part that trips people up, because the timeline above suggests you should be in the clear by month one. Physically, you are. So why does the smell of a specific vape flavor at a party six months later still hit like a gut punch?
 
-Nicotine doesn't just create a chemical dependency, it rewires how your brain links pleasure to specific cues. ScienceDirect's research (2001) on the mesocorticolimbic dopamine system shows this pathway, running from the ventral tegmental area to the prefrontal cortex and nucleus accumbens, plays a central role in addiction. Frontiers in Molecular Neuroscience (2022) explains further: nicotine activates receptors tied to synaptic plasticity, and the dopamine release it triggers actually reshapes neural connections in ways that outlast the drug itself. Your brain didn't just get used to nicotine. It got rewired around specific moments where nicotine showed up.
+Nicotine doesn't just create a chemical dependency, it rewires how your brain links pleasure to specific cues. The mesocorticolimbic dopamine system, running from the ventral tegmental area to the prefrontal cortex and nucleus accumbens, plays a central role in addiction. Frontiers in Molecular Neuroscience (2022) explains further: nicotine activates receptors tied to synaptic plasticity, and the dopamine release it triggers actually reshapes neural connections in ways that outlast the drug itself. Your brain didn't just get used to nicotine. It got rewired around specific moments where nicotine showed up.
 
 That's why GoodRx (2024) points out that cravings can still appear months or years after quitting, especially during stress or in situations where vaping used to be automatic, like a bar, a break at work, or a fight with your partner. The good news buried in that same research: these cravings become less frequent and less intense with time, not more.
 

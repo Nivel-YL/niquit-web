@@ -14,7 +14,7 @@ Marta lleva ocho meses sin dar una sola calada a su vaper. Un viernes por la noc
 
 El malestar físico tiene fecha de caducidad, y es más corta de lo que la mayoría cree. Según Cleveland Clinic (2026), los síntomas de abstinencia empiezan entre 4 y 24 horas después de la última dosis y alcanzan su punto máximo en el segundo o tercer día sin nicotina. A partir de ahí, se van apagando durante tres o cuatro semanas.
 
-Eso no significa que cada minuto de esas semanas sea insoportable. Según Quit Tobacco SD, en colaboración con la American Lung Association (2026), la ganas más intensas suelen durar solamente entre tres y cinco minutos. El problema es que llegan una detrás de otra, y eso da la sensación de que el mono nunca se acaba. También según esta misma fuente, cerca de la mitad de las personas que dejan el tabaco experimentan al menos cuatro síntomas de abstinencia, que normalmente duran de una a tres semanas. Si quieres ver esto día por día, ya lo desglosamos en nuestra guía sobre [los síntomas de abstinencia de nicotina explicados día por día](/es/blog/nicotine-withdrawal-symptoms-day-by-day-timeline).
+Eso no significa que cada minuto de esas semanas sea insoportable. Según la American Lung Association (2026), las ganas más intensas suelen durar solamente entre tres y cinco minutos. El problema es que llegan una detrás de otra, y eso da la sensación de que el mono nunca se acaba. También según esta misma fuente, cerca de la mitad de las personas que dejan el tabaco experimentan al menos cuatro síntomas de abstinencia, que normalmente duran de una a tres semanas. Si quieres ver esto día por día, ya lo desglosamos en nuestra guía sobre [los síntomas de abstinencia de nicotina explicados día por día](/es/blog/nicotine-withdrawal-symptoms-day-by-day-timeline).
 
 ## ¿Por qué sigo sintiendo ganas de vapear meses después de dejarlo?
 
@@ -28,7 +28,7 @@ Esto tiene respaldo a nivel de plasticidad cerebral. Según Frontiers in Molecul
 
 ## ¿Por qué cuesta tanto resistir el impulso de vapear?
 
-No es que te falte carácter. Hay una explicación biológica clara. Según ScienceInsights (2026), la nicotina se engancha a receptores en neuronas que liberan dopamina, el químico detrás del placer y la motivación. El sistema mesocorticolímbico de dopamina, que conecta el área tegmental ventral con la corteza prefrontal y el núcleo accumbens, juega un papel central en la adicción a la nicotina, según un estudio publicado en Neuron (ScienceDirect, 2001).
+No es que te falte carácter. Hay una explicación biológica clara. Según ScienceInsights (2026), la nicotina se engancha a receptores en neuronas que liberan dopamina, el químico detrás del placer y la motivación. El sistema mesocorticolímbico de dopamina, que conecta el área tegmental ventral con la corteza prefrontal y el núcleo accumbens, juega un papel central en la adicción a la nicotina, según Frontiers in Molecular Neuroscience (2022).
 
 Además, según Neuroscience News (2023), las personas dependientes de la nicotina suelen tener menos materia gris, lo que afecta el control inhibitorio y dificulta resistir el impulso de vapear. Y según Penn Medicine, en un estudio publicado en JAMA Psychiatry, las personas en abstinencia tienen más dificultad para pasar del modo por defecto del cerebro a la red de control ejecutivo, que es justamente la que ayuda a ejercer autocontrol consciente frente a las ganas. Esto explica en parte por qué, según la misma fuente, hasta un 80% de quienes intentan dejarlo terminan recayendo, dependiendo del tipo de tratamiento que usen.
 
