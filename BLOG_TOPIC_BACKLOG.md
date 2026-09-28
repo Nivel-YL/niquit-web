@@ -351,6 +351,7 @@ topics:
   - en
   - es
   - fr
+  - ru
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
   cluster: G
