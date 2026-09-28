@@ -316,6 +316,7 @@ topics:
   - de
   - en
   - es
+  - fr
   - ru
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
