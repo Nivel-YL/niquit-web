@@ -385,6 +385,7 @@ topics:
   completed_langs:
   - de
   - en
+  - fr
 BACKLOG-->
 
 # Blog Topic Backlog
