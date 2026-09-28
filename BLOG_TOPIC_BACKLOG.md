@@ -314,6 +314,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - es
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
   cluster: G
