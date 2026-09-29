@@ -1,9 +1,9 @@
 ---
 title: "Отказ от ZYN и Velo: что происходит с организмом по дням"
 description: "Синдром отмены ZYN и Velo начинается уже через несколько часов после последней паучки. Разбираем по дням, что чувствует организм и почему третий день самый тяжёлый."
-publishDate: 2026-08-31
+publishDate: 2026-09-29
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/zyn-and-velo-withdrawal-timeline-what-actually-happens-day-by-day.svg
 cluster: A
 style_check: "failed, word count 785 outside required 800-1200 range"

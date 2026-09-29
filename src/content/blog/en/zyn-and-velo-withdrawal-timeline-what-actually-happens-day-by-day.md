@@ -1,9 +1,9 @@
 ---
 title: "ZYN and Velo Withdrawal Timeline: What Actually Happens Day by Day"
 description: "ZYN and Velo withdrawal timeline explained hour by hour: what happens on day 1, why day 3 is brutal, and when cravings finally fade."
-publishDate: 2026-08-31
+publishDate: 2026-09-29
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/zyn-and-velo-withdrawal-timeline-what-actually-happens-day-by-day.svg
 cluster: A
 ---

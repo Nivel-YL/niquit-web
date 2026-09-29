@@ -1,9 +1,9 @@
 ---
 title: "ZYN und Velo Entzug: Was in den ersten Wochen wirklich passiert"
 description: "ZYN und Velo Entzug Tag für Tag erklärt: Was in Körper und Gehirn passiert, wenn du Nikotinbeutel absetzt, und warum Tag 3 am schwersten ist."
-publishDate: 2026-08-31
+publishDate: 2026-09-29
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/zyn-and-velo-withdrawal-timeline-what-actually-happens-day-by-day.svg
 cluster: A
 ---

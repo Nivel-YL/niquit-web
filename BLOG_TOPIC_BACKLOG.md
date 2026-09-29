@@ -43,8 +43,13 @@ topics:
 - id: A-05
   title_en: ZYN and Velo withdrawal timeline, what actually happens day by day
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-09-29'
+    ru: '2026-09-29'
+    de: '2026-09-29'
+    es: '2026-09-29'
+    fr: '2026-09-29'
 - id: A-06
   title_en: Tapering off nicotine pouches, does cutting down actually work?
   cluster: A

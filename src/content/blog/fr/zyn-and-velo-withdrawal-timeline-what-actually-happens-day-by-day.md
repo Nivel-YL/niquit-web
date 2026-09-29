@@ -1,9 +1,9 @@
 ---
 title: "ZYN et Velo : le sevrage jour par jour, ce qui se passe vraiment"
 description: "Sevrage ZYN et Velo jour par jour : pics de manque, jour 3 critique, symptômes qui s'estompent. Ce que dit vraiment la science."
-publishDate: 2026-08-31
+publishDate: 2026-09-29
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/zyn-and-velo-withdrawal-timeline-what-actually-happens-day-by-day.svg
 cluster: A
 ---
