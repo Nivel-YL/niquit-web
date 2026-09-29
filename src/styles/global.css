@@ -512,8 +512,10 @@ textarea:focus-visible,
    app already has its own header, back button and tab bar, and install-app
    CTAs make no sense to someone already inside the app. [data-embed-hide]
    marks per-page elements (install CTA, calculator prompt) that also need
-   to disappear alongside the site chrome. */
-html.is-embedded header,
+   to disappear alongside the site chrome. Only the site's own header is
+   hidden ([data-site-header]); a bare "header" selector also hid the
+   article's <header> with its title. */
+html.is-embedded [data-site-header],
 html.is-embedded footer,
 html.is-embedded #cookie-banner,
 html.is-embedded [data-embed-hide] {

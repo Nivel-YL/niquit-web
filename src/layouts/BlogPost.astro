@@ -62,6 +62,7 @@ const jsonLd = {
   <article class="max-w-2xl mx-auto px-5 py-16">
     {heroImage && (
       <img
+        data-embed-hide
         src={heroImage}
         alt={title}
         class="w-full rounded-xl mb-10 object-cover"
@@ -70,7 +71,7 @@ const jsonLd = {
     )}
 
     <header class="mb-10">
-      <p class="text-sm mb-3" style="color:#B0B8C8;">{dateStr}</p>
+      <p class="text-sm mb-3" style="color:#B0B8C8;" data-embed-hide>{dateStr}</p>
       <h1
         class="text-3xl sm:text-4xl font-extrabold leading-tight mb-4"
         style="font-family:'Montserrat',sans-serif; color:#F5F7FA;"
