@@ -43,39 +43,39 @@ topics:
 - id: A-05
   title_en: ZYN and Velo withdrawal timeline, what actually happens day by day
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-06
   title_en: Tapering off nicotine pouches, does cutting down actually work?
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-07
   title_en: How much nicotine is actually in a pouch compared to a cigarette?
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-08
   title_en: What is actually inside a nicotine pouch, and why tobacco-free is not
     nicotine-free
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-09
   title_en: Why nicotine pouches hurt your gums, and what that tells you
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-10
   title_en: Pouch brands compared, what actually differs between ZYN, Velo, Pablo
     and the rest
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: A-11
   title_en: Benefits of nicotine pouches, what people claim versus what holds up
   cluster: A
-  status: drafted
+  status: approved
   published: {}
 - id: B-01
   title_en: How to quit vaping a realistic step-by-step guide
@@ -120,7 +120,7 @@ topics:
 - id: B-05
   title_en: How fast can vaping become an addiction?
   cluster: B
-  status: drafted
+  status: approved
   published: {}
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
@@ -165,17 +165,17 @@ topics:
 - id: C-05
   title_en: The worst days of nicotine withdrawal, and why day three is different
   cluster: C
-  status: drafted
+  status: approved
   published: {}
 - id: C-06
   title_en: Is quitting nicotine cold turkey dangerous?
   cluster: C
-  status: drafted
+  status: approved
   published: {}
 - id: C-07
   title_en: Can you quit with nothing but your own head, no patches, no gum, no app?
   cluster: C
-  status: drafted
+  status: approved
   published: {}
 - id: D-01
   title_en: I quit cigarettes but started vaping am I still addicted?
@@ -210,7 +210,7 @@ topics:
 - id: D-04
   title_en: Can you quit smoking by switching to nicotine pouches?
   cluster: D
-  status: drafted
+  status: approved
   published: {}
 - id: E-01
   title_en: Why nicotine cravings feel so urgent and how to wait them out
@@ -255,17 +255,17 @@ topics:
 - id: E-05
   title_en: You slipped, does that erase your progress?
   cluster: E
-  status: drafted
+  status: approved
   published: {}
 - id: E-06
   title_en: Am I actually addicted to nicotine? Signs beyond the obvious
   cluster: E
-  status: drafted
+  status: approved
   published: {}
 - id: E-07
   title_en: Physical dependence versus psychological habit, how long each really lasts
   cluster: E
-  status: drafted
+  status: approved
   published: {}
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
@@ -300,17 +300,17 @@ topics:
 - id: F-04
   title_en: Nicotine and sleep, night sweats, insomnia, vivid dreams
   cluster: F
-  status: drafted
+  status: approved
   published: {}
 - id: F-05
   title_en: What recovers in your mouth and gums after you stop using nicotine pouches
   cluster: F
-  status: drafted
+  status: approved
   published: {}
 - id: F-06
   title_en: What a nicotine pouch habit actually costs you in a year
   cluster: F
-  status: drafted
+  status: approved
   published: {}
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
@@ -345,7 +345,7 @@ topics:
 - id: G-04
   title_en: Do vape cravings ever actually go away?
   cluster: G
-  status: drafted
+  status: approved
   published: {}
 - id: G-05
   title_en: How to Choose a Quit-Nicotine App, An Honest Comparison
@@ -380,7 +380,7 @@ topics:
 - id: H-03
   title_en: Are light cigarettes actually safer what the research says
   cluster: H
-  status: drafted
+  status: approved
   published: {}
 BACKLOG-->
 
