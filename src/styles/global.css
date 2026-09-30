@@ -149,7 +149,7 @@ textarea:focus-visible,
   width: 100%;
   border-radius: 34px;
   object-fit: cover;
-  aspect-ratio: 791 / 1600;
+  aspect-ratio: 744 / 1616;
 }
 
 @media (max-width: 767px) {
