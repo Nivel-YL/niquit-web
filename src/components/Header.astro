@@ -1,7 +1,7 @@
 ---
 import { type Lang, LANGS, t, localePath, canonicalPath, stripLocalePrefix } from '../i18n/ui';
 import InstallButton from './InstallButton.astro';
-import { GOOGLE_URL, APPLE_URL } from '../config/stores';
+import { googleUrl, appleUrl } from '../config/stores';
 
 interface Props { lang: Lang; }
 const { lang } = Astro.props;
@@ -105,11 +105,11 @@ const navLinks = [
     >{l.label}</a>
   ))}
   <a
-    href={GOOGLE_URL}
+    href={googleUrl(lang)}
     target="_blank"
     rel="noopener"
     data-store-link
-    data-apple-href={APPLE_URL}
+    data-apple-href={appleUrl(lang)}
     data-ph-install="mobile-menu"
     data-menu-link
     style="display:inline-flex; align-items:center; justify-content:center; margin-top:22px; min-height:48px; border-radius:10px; background:#35C6D8; color:#06232A; font-weight:600; font-size:15px; text-decoration:none;"

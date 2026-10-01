@@ -4,7 +4,7 @@ import BlogCard from '../BlogCard.astro';
 import DonateSection from '../DonateSection.astro';
 import Calculator from '../Calculator.astro';
 import { type Lang, t, localePath } from '../../i18n/ui';
-import { GOOGLE_URL, APPLE_URL } from '../../config/stores';
+import { googleUrl, appleUrl } from '../../config/stores';
 import { getCollection } from 'astro:content';
 
 interface Props { lang: Lang; }
@@ -57,7 +57,7 @@ const posts = allPosts
           class="font-extrabold leading-[1.03] text-[40px] md:text-6xl"
           style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
         >
-          {s.hero.prefix} <span class="nicotine">{s.hero.nicotine}</span><br />{s.hero.suffix}
+          <span class="nicotine">{s.hero.nicotine}</span>.<br />{s.hero.suffix}
         </h1>
 
         <p class="mt-6 max-w-[460px] text-lg leading-relaxed" style="color:#9DB0CC;">
@@ -66,12 +66,12 @@ const posts = allPosts
 
         <div class="mt-8 flex flex-col sm:flex-row gap-3.5">
           <a
-            href={GOOGLE_URL}
+            href={googleUrl(lang)}
             target="_blank"
             rel="noopener"
             data-ph-install="hero"
             data-store-link
-            data-apple-href={APPLE_URL}
+            data-apple-href={appleUrl(lang)}
             class="inline-flex items-center justify-center rounded-xl px-7 py-4 font-bold transition-transform hover:-translate-y-0.5"
             style="background:#FF6B5C; color:#1a0d08; font-family:'Space Grotesk',sans-serif; min-height:52px;"
           >
