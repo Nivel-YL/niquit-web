@@ -87,6 +87,7 @@ export const ui = {
       suffix: 'Case closed.',
       sub: 'NiQuit helps you break free from cigarettes, vaping, snus and IQOS, using a method that works with your mind, not against it.',
       cta: 'Get the app, free',
+      meta: 'Quit smoking and vaping without willpower, and snus and pouches too. Free app with a short course, a 24/7 coach and a quit tracker.',
     },
     features: {
       title: 'What NiQuit does',
@@ -235,6 +236,7 @@ export const ui = {
       suffix: 'Тема закрыта.',
       sub: 'NiQuit помогает вырваться из зависимости от сигарет, вейпа, снюса и айкоса, с методом, который работает с тобой, а не против тебя.',
       cta: 'Скачать бесплатно',
+      meta: 'Бросить курить и вейп без силы воли, а заодно снюс и паучи. Бесплатное приложение: короткий курс, коуч 24/7 и счётчик дней без никотина.',
     },
     features: {
       title: 'Что умеет NiQuit',
@@ -379,6 +381,7 @@ export const ui = {
       suffix: 'Erledigt.',
       sub: 'NiQuit hilft dir, von Zigaretten, Vaping, Snus und IQOS frei zu werden, mit einer Methode, die mit deinem Kopf arbeitet, nicht gegen ihn.',
       cta: 'App laden, kostenlos',
+      meta: 'Mit dem Rauchen aufhören, ganz ohne Willenskraft. Auch bei Vape, Snus und Nikotinbeuteln. Kostenlose App mit Kurs, Coach 24/7 und Rauchfrei-Zähler.',
     },
     features: {
       title: 'Was NiQuit kann',
@@ -523,6 +526,7 @@ export const ui = {
       suffix: 'Tema cerrado.',
       sub: 'NiQuit te ayuda a liberarte de los cigarrillos, el vapeo, el snus y los IQOS, con un método que trabaja con tu mente, no en su contra.',
       cta: 'Descargar gratis',
+      meta: 'Deja de fumar y de vapear sin depender de la fuerza de voluntad, y también el snus y las bolsitas. App gratis con curso breve, coach 24/7 y contador de días.',
     },
     features: {
       title: 'Qué hace NiQuit',
@@ -667,6 +671,7 @@ export const ui = {
       suffix: 'Dossier clos.',
       sub: "NiQuit t'aide à te libérer des cigarettes, du vapotage, du snus et des IQOS, avec une méthode qui travaille avec ton esprit, pas contre lui.",
       cta: 'Télécharger gratuitement',
+      meta: "Arrêter de fumer et de vapoter sans compter sur la volonté, snus et sachets compris. Appli gratuite : programme court, coach 24 h/24 et compteur de jours.",
     },
     features: {
       title: 'Ce que fait NiQuit',

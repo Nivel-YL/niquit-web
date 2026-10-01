@@ -37,27 +37,66 @@ const posts = allPosts
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf())
   .slice(0, 3);
 
+// Structured data for Google: who we are and that NiQuit is a mobile app with
+// two store listings. Helps the brand result (and keeps us apart from the
+// NiQuitin NRT brand, which owns most "niquit" searches in the UK).
+const pageUrl = 'https://niquit.app' + localePath(lang);
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': 'https://niquit.app/#org',
+    name: 'NiQuit',
+    legalName: 'Nivexon OÜ',
+    url: 'https://niquit.app/',
+    logo: 'https://niquit.app/logo-512.png',
+    sameAs: [appleUrl('en'), googleUrl('en').replace(/&hl=en$/, '')],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'MobileApplication',
+    name: 'NiQuit',
+    alternateName: s.hero.label,
+    description: s.hero.meta,
+    url: pageUrl,
+    inLanguage: lang,
+    operatingSystem: 'iOS, Android',
+    applicationCategory: 'HealthApplication',
+    image: 'https://niquit.app/logo-512.png',
+    installUrl: [appleUrl(lang), googleUrl(lang)],
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': 'https://niquit.app/#org' },
+  },
+];
+
 ---
 
-<Base title={s.hero.headline} lang={lang} description={s.hero.sub}>
+<Base title={s.hero.headline} lang={lang} description={s.hero.meta}>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <!-- Hero -->
   <section class="py-16 sm:py-20 px-5 sm:px-8">
     <div class="max-w-5xl mx-auto grid gap-10 md:gap-12 items-center md:grid-cols-[1.05fr_0.95fr]">
       <!-- Left: text -->
       <div>
-        <span
-          class="inline-block mb-6 text-xs px-3 py-1.5 rounded-full border"
-          style="font-family:'JetBrains Mono',monospace; color:#67E8F9; border-color:rgba(53,198,216,0.3); background:rgba(53,198,216,0.06);"
-        >
-          {s.hero.label}
-        </span>
+        <!-- One H1 holds both the search phrase (the chip, same wording as the
+             store name) and the slogan, so Google reads "Quit smoking & vaping"
+             as the page heading. Visually unchanged: the chip and the slogan
+             keep their own styles. -->
+        <h1>
+          <span
+            class="inline-block mb-6 text-xs px-3 py-1.5 rounded-full border"
+            style="font-family:'JetBrains Mono',monospace; color:#67E8F9; border-color:rgba(53,198,216,0.3); background:rgba(53,198,216,0.06);"
+          >
+            {s.hero.label}
+          </span>
 
-        <h1
-          class="font-extrabold leading-[1.03] text-[40px] md:text-6xl"
-          style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
-        >
-          <span class="nicotine">{s.hero.nicotine}</span>.<br />{s.hero.suffix}
+          <span
+            class="block font-extrabold leading-[1.03] text-[40px] md:text-6xl"
+            style="font-family:'Space Grotesk',sans-serif; color:#EAF1FF; letter-spacing:-0.025em;"
+          >
+            <span class="nicotine">{s.hero.nicotine}</span>.<br />{s.hero.suffix}
+          </span>
         </h1>
 
         <p class="mt-6 max-w-[460px] text-lg leading-relaxed" style="color:#9DB0CC;">
