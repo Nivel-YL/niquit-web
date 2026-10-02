@@ -1,9 +1,9 @@
 ---
 title: "Nikotinbeutel ausschleichen: Bringt langsames Reduzieren wirklich etwas?"
 description: "Du willst Nikotinbeutel ausschleichen statt abrupt aufzuhören? Die Studienlage zeigt: Reduzieren klingt einfacher, ist es aber selten. Hier die Fakten."
-publishDate: 2026-08-31
+publishDate: 2026-10-02
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/tapering-off-nicotine-pouches-does-cutting-down-actually-work.svg
 cluster: A
 ---

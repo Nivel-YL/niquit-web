@@ -53,8 +53,13 @@ topics:
 - id: A-06
   title_en: Tapering off nicotine pouches, does cutting down actually work?
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-10-02'
+    ru: '2026-10-02'
+    de: '2026-10-02'
+    es: '2026-10-02'
+    fr: '2026-10-02'
 - id: A-07
   title_en: How much nicotine is actually in a pouch compared to a cigarette?
   cluster: A

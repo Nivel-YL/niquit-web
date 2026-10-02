@@ -1,9 +1,9 @@
 ---
 title: "Reducir las bolsitas de nicotina poco a poco: ¿funciona de verdad?"
 description: "¿Bajar la dosis de bolsitas de nicotina paso a paso ayuda a dejarlas o solamente alarga el proceso? Esto dice la evidencia científica sobre el tapering."
-publishDate: 2026-08-31
+publishDate: 2026-10-02
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/tapering-off-nicotine-pouches-does-cutting-down-actually-work.svg
 cluster: A
 ---

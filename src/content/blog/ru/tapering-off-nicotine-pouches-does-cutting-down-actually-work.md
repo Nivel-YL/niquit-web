@@ -1,9 +1,9 @@
 ---
 title: "Постепенное снижение никотиновых пачек: правда ли это работает?"
 description: "Ты кладёшь под губу уже не десятую пачку за день, а восьмую. Через неделю станет шесть, потом четыре. План звучит разумно: снижать дозу так плавно, чтобы..."
-publishDate: 2026-08-31
+publishDate: 2026-10-02
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/tapering-off-nicotine-pouches-does-cutting-down-actually-work.svg
 cluster: A
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Tapering Off Nicotine Pouches: Does Cutting Down Actually Work?"
 description: "You've gone from four ZYN pouches a day to two. Then you switched from the 6mg strength to the 3mg. The plan seems reasonable: ease your way down instead..."
-publishDate: 2026-08-31
+publishDate: 2026-10-02
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/tapering-off-nicotine-pouches-does-cutting-down-actually-work.svg
 cluster: A
 ---
