@@ -135,9 +135,14 @@ const pageBg =
         // rotating hash on PostHog's side ("Cookieless server hash mode" must
         // stay on in the project settings). Before this, visitors who ignored
         // the banner were not counted at all (2026-10-07: 26 pageviews in 30 days).
+        // The automatic $pageview fires at init, while consent is still
+        // pending, and is dropped; send it again once cookieless is on.
         loaded: function(ph) {
           if (localStorage.getItem('niquit_consent') === 'accepted') ph.opt_in_capturing();
-          else ph.opt_out_capturing();
+          else {
+            ph.opt_out_capturing();
+            ph.capture('$pageview');
+          }
         }
       });
       }
