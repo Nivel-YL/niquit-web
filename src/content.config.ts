@@ -9,7 +9,9 @@ const blog = defineCollection({
     publishDate: z.date(),
     lang: z.enum(['en', 'ru', 'de', 'es', 'fr']),
     heroImage: z.string().optional(),
-    cluster: z.enum(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']).optional(),
+    // A-H are the pipeline's topic clusters. 'S' is not a topic: it marks a
+    // hand-written personal story from the author, shown with its own label.
+    cluster: z.enum(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'S']).optional(),
     draft: z.boolean().default(false),
     // Cross-language identity for the rare legacy article whose slug is not
     // the same string in every language (pre-dates the "always translate

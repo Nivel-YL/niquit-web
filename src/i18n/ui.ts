@@ -118,6 +118,7 @@ export const ui = {
         F: 'Body & Cost',
         G: 'Survival Guide',
         H: 'Myths',
+        S: 'Personal Story',
       },
     },
     articleCta: {
@@ -157,6 +158,7 @@ export const ui = {
     article: {
       feedbackPrompt: 'Was this helpful?',
       readNext: 'Read next',
+      byFounder: 'From the author of NiQuit',
     },
     support: {
       accent: 'Freedom from nicotine. Free, for everyone.',
@@ -267,6 +269,7 @@ export const ui = {
         F: 'Тело и деньги',
         G: 'Выживание',
         H: 'Мифы',
+        S: 'Личная история',
       },
     },
     articleCta: {
@@ -302,6 +305,7 @@ export const ui = {
     article: {
       feedbackPrompt: 'Было ли это полезно?',
       readNext: 'Читать дальше',
+      byFounder: 'От автора NiQuit',
     },
     support: {
       accent: 'Свобода от никотина. Бесплатно и для каждого.',
@@ -412,6 +416,7 @@ export const ui = {
         F: 'Körper & Kosten',
         G: 'Survival-Guide',
         H: 'Mythen',
+        S: 'Persönliche Geschichte',
       },
     },
     articleCta: {
@@ -447,6 +452,7 @@ export const ui = {
     article: {
       feedbackPrompt: 'War das hilfreich?',
       readNext: 'Weiter lesen',
+      byFounder: 'Vom Autor von NiQuit',
     },
     support: {
       accent: 'Freiheit von Nikotin. Kostenlos, für alle.',
@@ -557,6 +563,7 @@ export const ui = {
         F: 'Cuerpo y coste',
         G: 'Guía de supervivencia',
         H: 'Mitos',
+        S: 'Historia personal',
       },
     },
     articleCta: {
@@ -592,6 +599,7 @@ export const ui = {
     article: {
       feedbackPrompt: '¿Fue de ayuda?',
       readNext: 'Leer más',
+      byFounder: 'Del autor de NiQuit',
     },
     support: {
       accent: 'Libertad frente a la nicotina. Gratis, para todos.',
@@ -702,6 +710,7 @@ export const ui = {
         F: 'Corps et coût',
         G: 'Guide de survie',
         H: 'Mythes',
+        S: 'Histoire personnelle',
       },
     },
     articleCta: {
@@ -737,6 +746,7 @@ export const ui = {
     article: {
       feedbackPrompt: 'Cela vous a-t-il aidé ?',
       readNext: 'Lire la suite',
+      byFounder: "De l'auteur de NiQuit",
     },
     support: {
       accent: 'La liberté face à la nicotine. Gratuite, pour tous.',

@@ -15,7 +15,7 @@ const localeTag: Record<Lang, string> = {
 const posts = (await getCollection('blog', (e) => e.data.lang === lang && !e.data.draft))
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 
-const CLUSTER_ORDER = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'] as const;
+const CLUSTER_ORDER = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'S'] as const;
 const presentClusters = CLUSTER_ORDER.filter((c) => posts.some((p) => p.data.cluster === c));
 ---
 
