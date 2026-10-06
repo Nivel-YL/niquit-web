@@ -63,8 +63,13 @@ topics:
 - id: A-07
   title_en: How much nicotine is actually in a pouch compared to a cigarette?
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-10-06'
+    ru: '2026-10-06'
+    de: '2026-10-06'
+    es: '2026-10-06'
+    fr: '2026-10-06'
 - id: A-08
   title_en: What is actually inside a nicotine pouch, and why tobacco-free is not
     nicotine-free
