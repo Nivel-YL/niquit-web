@@ -12,7 +12,7 @@ J'ai fumé ma première cigarette à 13 ans. J'en ai 32 aujourd'hui, et c'est mo
 
 Pendant 19 ans, j'étais persuadé que le problème, c'était le produit. Cigarettes, puis snus, puis vapes, IQOS, chicha, cigarillos. À chaque fois, je me disais que je laissais le problème derrière moi. Ce n'était jamais le produit, c'était la nicotine. Il m'a fallu presque vingt ans pour le comprendre.
 
-Ça a commencé après les cours, et franchement, ça ressemblait à une aventure. Je maîtrisais, évidemment. Je pouvais arrêter quand je voulais. Six mois plus tard environ, ma mère m'a surpris. Pas de cris. Elle m'a juste demandé calmement d'arrêter. Je lui ai promis, et je croyais vraiment que ce serait facile.
+Ça a commencé après les cours, et franchement, ça ressemblait à une aventure. Je gérais, évidemment. Je pouvais arrêter quand je voulais. Six mois plus tard environ, ma mère m'a surpris. Pas de cris. Elle m'a juste demandé calmement d'arrêter. Je lui ai promis, et je croyais vraiment que ce serait facile.
 
 Le lendemain matin, j'ai découvert quelle bête c'est, la nicotine.
 
@@ -20,7 +20,7 @@ J'ai tenu quelques jours. Puis un pote m'a tendu une cigarette et je l'ai prise.
 
 À 15 ans, j'avais mon propre paquet, tous les jours. Presque tout le monde autour de moi fumait. Je regardais des adultes qui fumaient depuis 20, 30 ans et je me disais : moi, ça ne m'arrivera jamais. Encore un an, deux maximum, et j'arrête. À 18 ans, on comptait les jours jusqu'à pouvoir acheter des cigarettes n'importe où et fumer sans se cacher. J'avais déjà quatre ou cinq ans de tabac derrière moi, et quelque chose en moi me gênait, alors j'ai passé un marché avec moi-même : encore deux ou trois ans et j'arrête. Après ça, fumer est devenu un bruit de fond. J'ai arrêté de compter.
 
-À 20 ans, les premières cigarettes électroniques sont arrivées, les métalliques qu'on remplit avec un petit flacon. Je suis passé dessus complètement pendant un an et j'ai cru avoir gagné. Tu vois ? Je peux arrêter quand je veux. Je n'ai pas compris que c'était la même nicotine sous une autre forme. Puis sont venus les brûlures d'estomac, le liquide dans la bouche, et je suis retourné aux cigarettes.
+À 20 ans, les premières cigarettes électroniques sont arrivées, les métalliques qu'on remplit avec un petit flacon. Je suis passé à la vape pendant un an, complètement, et j'ai cru avoir gagné. Tu vois ? Je peux arrêter quand je veux. Je n'ai pas compris que c'était la même nicotine sous une autre forme. Puis sont venus les brûlures d'estomac, le liquide dans la bouche, et je suis retourné aux cigarettes.
 
 À 23 ans, j'ai fait le calcul. Dix ans. Dix ! C'est la première fois que j'ai vraiment eu peur. Je n'avais jamais prévu ça, comment ça peut déjà faire dix ans ? Alors j'ai imaginé un plan génial : passer au snus, laisser tomber les cigarettes, puis laisser tomber le snus. Facile. Ça n'a pas tenu. Quand je parlais aux gens avec le snus sous la lèvre, j'avais l'impression que tout le monde ne regardait que ça. Retour aux cigarettes.
 
@@ -42,11 +42,11 @@ Mon anniversaire est en mai. J'allais avoir 32 ans et je me suis fait une seule 
 
 Les premiers jours, j'étais seul à la maison, ma copine au travail. Rien que moi et le monstre de la nicotine, en tête à tête. Je me souviens encore de ce combat. Physiquement, c'était vraiment dur. Impossible de me concentrer, de dormir, de me plonger dans une vidéo ou un jeu, ma tête n'arrêtait pas de m'en éjecter. Et le pire, c'était la solitude. Je voulais juste parler à quelqu'un.
 
-Dès le premier matin, j'ai essayé de télécharger une appli de suivi pour arrêter de fumer. La première était trop basique. Les deux suivantes me demandaient de m'abonner juste après l'inscription. Ça m'a paru mal : quelqu'un te tend la main et te montre dans la seconde un écran de paiement. (Il y a maintenant sur ce blog une [comparaison honnête d'applis comme celles-ci](/fr/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison).) Alors j'ai ouvert mes notes et j'ai commencé à écrire ce dont j'aurais besoin à cet instant précis. Quelque chose pour quand on se sent seul. Un moyen rapide de traverser une envie. Un moyen de voir mes victoires. C'est la première chose qui m'a vraiment sorti d'une envie.
+Dès le premier matin, j'ai essayé de télécharger une appli de suivi pour arrêter de fumer. La première était trop basique. Les deux suivantes me demandaient de m'abonner juste après l'inscription. Ça m'a paru déplacé : quelqu'un te tend la main et te montre dans la seconde un écran de paiement. (Il y a maintenant sur ce blog une [comparaison honnête d'applis comme celles-ci](/fr/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison).) Alors j'ai ouvert mes notes et j'ai commencé à écrire ce dont j'aurais besoin à cet instant précis. Quelque chose pour quand on se sent seul. Un moyen rapide de traverser une envie. Un moyen de voir mes victoires. C'est la première chose qui m'a vraiment sorti d'une envie.
 
 Le jour 3, j'ai décidé : je ne suis pas juste quelqu'un qui a arrêté. Je me bats contre la nicotine maintenant. Et cette appli, je vais la construire moi-même et la rendre gratuite pour tout le monde. C'est comme ça qu'est né NiQuit.
 
-Aujourd'hui, ça fait 150 jours et 722 euros économisés. Je suis aussi sûr pour la nicotine que pour l'alcool. C'est fini. Et je suis heureux.
+Aujourd'hui, ça fait 150 jours et 722 euros économisés. Pour la nicotine, je suis aussi sûr de moi que pour l'alcool. C'est fini. Et je suis heureux.
 
 Si je pouvais dire une chose au moi de 13 ans, ou à celui de 23 : ça n'a jamais été à cause des cigarettes, du snus ou des vapes. Chaque changement, c'était le même piège sous une nouvelle forme. (Si tu veux la science derrière, [c'est la même molécule à chaque fois](/fr/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule).)
 

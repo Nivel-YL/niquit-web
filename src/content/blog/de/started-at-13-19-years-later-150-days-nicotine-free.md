@@ -18,13 +18,13 @@ Am nächsten Morgen habe ich gemerkt, was für ein Biest Nikotin ist.
 
 Ein paar Tage habe ich durchgehalten. Dann hat mir ein Freund eine Zigarette hingehalten, und ich habe sie genommen. Ich habe ihm nicht mal gesagt, dass ich aufgehört hatte.
 
-Mit 15 hatte ich meine eigene Packung, jeden Tag. Fast alle um mich herum haben geraucht. Ich habe Erwachsene angeschaut, die seit 20, 30 Jahren rauchten, und gedacht: So werde ich nie. Noch ein, zwei Jahre, dann ist Schluss. Mit 18 haben wir die Tage bis zum Geburtstag gezählt, ab dem wir überall Zigaretten kaufen und uns nicht mehr verstecken mussten. Vier, fünf Jahre hatte ich da schon hinter mir, und irgendwo in mir hat das genagt. Also habe ich mit mir selbst einen Deal gemacht: noch ein paar Jahre, dann höre ich auf. Danach wurde Rauchen einfach Hintergrundrauschen. Ich habe aufgehört zu zählen.
+Mit 15 hatte ich meine eigene Packung, jeden Tag. Fast alle um mich herum haben geraucht. Ich habe Erwachsene angeschaut, die seit 20, 30 Jahren rauchten, und gedacht: So werde ich nie. Noch ein, zwei Jahre, dann ist Schluss. Mit 18 haben wir die Tage gezählt, bis wir endlich überall Zigaretten kaufen und uns nicht mehr verstecken mussten. Vier, fünf Jahre hatte ich da schon hinter mir, und irgendwo in mir hat das genagt. Also habe ich mit mir selbst einen Deal gemacht: noch ein paar Jahre, dann höre ich auf. Danach wurde Rauchen einfach Hintergrundrauschen. Ich habe aufgehört zu zählen.
 
-Mit 20 kamen die ersten E-Zigaretten, die aus Metall, die man aus einem Fläschchen befüllt. Ein Jahr lang bin ich komplett darauf umgestiegen und habe mich wie ein Sieger gefühlt. Siehst du, ich kann aufhören, wann ich will. Dass es dasselbe Nikotin in anderer Form war, ist mir gar nicht in den Sinn gekommen. Dann kam das Sodbrennen, Flüssigkeit im Mund, und ich war wieder bei den Zigaretten.
+Mit 20 kamen die ersten E-Zigaretten, die aus Metall, die man aus einem Fläschchen befüllt. Ein ganzes Jahr lang habe ich nur noch E-Zigaretten benutzt und mich wie ein Sieger gefühlt. Siehst du, ich kann aufhören, wann ich will. Dass es dasselbe Nikotin in anderer Form war, ist mir gar nicht in den Sinn gekommen. Dann kam das Sodbrennen, dazu Liquid im Mund, und ich war wieder bei den Zigaretten.
 
 Mit 23 habe ich nachgerechnet. Zehn Jahre. Zehn! Zum ersten Mal habe ich richtig Angst bekommen. Das hatte ich nie geplant, wie können das schon zehn Jahre sein? Also habe ich mir einen genialen Plan ausgedacht: auf Snus umsteigen, die Zigaretten sein lassen, dann den Snus sein lassen. Ganz einfach. Hat nicht geklappt. Wenn ich mit Leuten geredet habe, hatte ich das Gefühl, alle starren nur auf die Beule an meiner Lippe. Zurück zu den Zigaretten.
 
-Mit 25 fing ich an, mich zu schämen. Jung, fit, und ich ruiniere mir das selbst. Ich habe angefangen, mich zum Rauchen zu verstecken. Manche Bekannte glauben bis heute, dass ich nie in meinem Leben geraucht habe. Das ist inzwischen fast komisch.
+Mit 25 habe ich angefangen, mich zu schämen. Jung, fit, und ich ruiniere mir das selbst. Zum Rauchen habe ich mich nur noch versteckt. Manche Bekannte glauben bis heute, dass ich nie in meinem Leben geraucht habe. Das ist inzwischen fast komisch.
 
 Mit 27 dann IQOS. Ich war ehrlich überzeugt, dass es harmlos ist, und habe etwa doppelt so viel geraucht wie vorher. Zwei Jahre später fing mein Herz plötzlich an zu rasen, und mein Blutdruck stieg. Dabei mache ich Sport. Ich war wütend. Vor allem auf mich selbst, darauf, wie tief ich drinsteckte. Eines Tages ist mir mein IQOS in die Toilette gefallen. Ich habe draufgeschaut und gedacht: Okay. Das ist ein Zeichen. Angefasst habe ich das Ding nie wieder.
 
@@ -34,7 +34,7 @@ Im selben Jahr musste ich einen Monat lang Antibiotika nehmen, und dazu darf man
 
 Etwa im dritten Monat hat meine Freundin eines Abends Shisha vorgeschlagen. Es ist mir peinlich, aber ich wusste nicht, dass in einer Shisha Nikotin steckt. Aus einmal pro Woche wurde alle paar Tage, dann fast jeden Abend, dann saß ich allein nach der Arbeit mit dem Laptop davor. Als ich irgendwann nachgerechnet habe, waren es 400 Euro im Monat. Und mir wurde klar, dass ich seit dem allerersten Abend wieder Raucher war.
 
-Das war ärgerlich, komisch und peinlich zugleich. Ich war ganz freiwillig in die Falle zurückgelaufen. Also habe ich aufgehört, mir selbst etwas vorzumachen, und bin zu den Zigaretten zurück. Diesmal Zigarillos, Al Capone Flame, 8 bis 10 am Tag.
+Das war ärgerlich, komisch und peinlich zugleich. Ich war ganz freiwillig wieder in die Falle getappt. Also habe ich aufgehört, mir selbst etwas vorzumachen, und bin zu den Zigaretten zurück. Diesmal Zigarillos, Al Capone Flame, 8 bis 10 am Tag.
 
 Dann war es 2026, 19 Jahre nach der ersten Zigarette. Die Zahl hat mich ehrlich erschüttert. Ein halbes Jahr lang meldete sich fast jedes Mal, wenn ich eine rausholte, dieselbe Stimme: Hey, du weißt schon, dass du aufhören musst, oder? Wann denn? Ich habe sie gehasst. Ein erwachsener Mann, der genau weiß, was los ist, und der keinen einzigen Schritt schafft.
 

@@ -24,9 +24,9 @@ A los 20 llegaron los primeros cigarrillos electrónicos, esos metálicos que se
 
 A los 23 hice la cuenta. Diez años. ¡Diez! Fue la primera vez que me asusté de verdad. Yo nunca planeé esto, ¿cómo que ya son diez años? Así que se me ocurrió un plan genial: pasarme al snus, dejar los cigarrillos y luego dejar el snus. Fácil. No duró. Hablando con la gente, con el snus metido en el labio, sentía que todos se quedaban mirándolo. Otra vez a los cigarrillos.
 
-A los 25 empecé a sentir vergüenza. Joven, en forma, y yo mismo destrozándome. Empecé a esconderme para fumar. Hay gente que conozco que todavía cree que nunca he fumado en mi vida, lo cual ahora hasta tiene gracia.
+A los 25 empecé a sentir vergüenza. Joven, en forma, y yo mismo destrozándome. Empecé a esconderme para fumar. Hay conocidos míos que todavía creen que nunca he fumado en mi vida, lo cual ahora hasta tiene gracia.
 
-Luego, a los 27, el IQOS. De verdad creía que era inofensivo, así que fumaba el doble que antes. Dos años después el corazón me empezó a latir a mil de la nada y me subió la presión. Y yo hago deporte. Me enfadé. Sobre todo conmigo, con lo hondo que me había metido. Un día se me cayó el IQOS al váter. Lo miré y pensé: vale, esto es una señal. No volví a tocarlo.
+Luego, a los 27, el IQOS. De verdad creía que era inofensivo, así que fumaba el doble que antes. Dos años después el corazón empezó a latirme a mil de repente y me subió la presión. Y yo hago deporte. Me enfadé. Sobre todo conmigo, con lo hondo que me había metido. Un día se me cayó el IQOS al váter. Lo miré y pensé: vale, esto es una señal. No volví a tocarlo.
 
 A los 29, vapes desechables en lugar de cigarrillos. Medio año después, otra vez la acidez, la taquicardia y esa sensación de tener todo el cuerpo empapado de química.
 
@@ -46,7 +46,7 @@ La primera mañana intenté descargar una app de seguimiento para dejar de fumar
 
 El día 3 decidí: no soy solo alguien que lo dejó. Ahora estoy peleando contra la nicotina. Y esa app la voy a hacer yo y la voy a hacer gratis para todos. Así empezó NiQuit.
 
-Hoy son 150 días y 722 euros ahorrados. Estoy tan seguro con la nicotina como con el alcohol. Se acabó. Y soy feliz.
+Hoy son 150 días y 722 euros ahorrados. Con la nicotina estoy tan seguro como con el alcohol. Se acabó. Y soy feliz.
 
 Si pudiera decirle una cosa al yo de 13 años, o al de 23: nunca fue por los cigarrillos, ni por el snus, ni por los vapes. Cada cambio era la misma trampa con otra cara. (Si quieres la ciencia detrás, [es la misma molécula cada vez](/es/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule).)
 
