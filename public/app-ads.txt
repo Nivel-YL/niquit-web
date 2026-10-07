@@ -3,3 +3,4 @@ vungle.com, 6ac634d5020a978505d0064b, DIRECT, c107d686becd2d77
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 inmobi.com, e51fc7d4b9624a0989190c4a80512aa4, DIRECT, 83e75a7ae333ca9d
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+openx.com, 623046152, DIRECT, 6a698e2ec38604c6
