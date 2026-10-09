@@ -1,9 +1,9 @@
 ---
 title: "Что на самом деле внутри никотинового пробника и почему «без табака» не значит «без никотина»"
 description: "Никотиновый пробник называют «tobacco-free», и это правда: табачного листа там нет. Но никотин остаётся, и по силе он часто не уступает сигарете."
-publishDate: 2026-08-31
+publishDate: 2026-10-09
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg
 cluster: A
 ---
