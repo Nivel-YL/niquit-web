@@ -2,6 +2,7 @@
 import { type Lang } from '../../i18n/ui';
 import { getCollection, type CollectionEntry, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
+import seoTitles from '../../data/seo-titles.json';
 
 interface Props {
   lang: Lang;
@@ -12,6 +13,10 @@ const { lang, entry } = Astro.props;
 const { Content } = await render(entry);
 
 const slug = entry.id.split('/').pop() ?? entry.id;
+
+// <title> override for articles whose H1 is too long to survive a search result
+// (see src/data/seo-titles.json). The H1 itself is never changed.
+const seoTitle = (seoTitles as Record<string, Partial<Record<Lang, string>>>)[slug]?.[lang];
 
 // Fallback for the handful of legacy/orphan drafts predating the cluster
 // backlog (never published, but keep this so nothing crashes if one ever is).
@@ -68,6 +73,7 @@ const related = [...sameCluster, ...otherCluster]
 
 <BlogPost
   title={entry.data.title}
+  seoTitle={seoTitle}
   description={entry.data.description}
   publishDate={entry.data.publishDate}
   lang={lang}

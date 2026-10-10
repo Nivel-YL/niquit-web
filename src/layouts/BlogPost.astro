@@ -3,11 +3,15 @@ import Base from './Base.astro';
 import ArticleCTA from '../components/ArticleCTA.astro';
 import Calculator from '../components/Calculator.astro';
 import { type Lang, t, localePath } from '../i18n/ui';
+import blogSources from '../data/blog-sources.json';
 
 type RelatedPost = { title: string; description: string; slug: string };
+type Source = { name: string; title: string; url: string };
 
 interface Props {
   title: string;
+  // Shorter <title> / og:title for articles whose H1 would be cut off in search.
+  seoTitle?: string;
   description: string;
   publishDate: Date;
   lang: Lang;
@@ -18,7 +22,7 @@ interface Props {
   translations?: Partial<Record<Lang, string>>;
 }
 
-const { title, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [], translations = {} } = Astro.props;
+const { title, seoTitle, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [], translations = {} } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
@@ -28,6 +32,11 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
 const siteOrigin = 'https://niquit.app';
 const pageUrl = `${siteOrigin}${localePath(lang, `blog/${slug}`)}`;
 const isoDate = publishDate.toISOString().slice(0, 10);
+
+// Verified reference pages for this article, shared by all 5 languages (same slug).
+// Each entry was fetched and checked against the claims the article attributes to it,
+// see src/data/blog-sources.json. Articles without an entry simply render no block.
+const sources: Source[] = (blogSources as Record<string, Source[]>)[slug] ?? [];
 
 // BlogPosting structured data: no rich-result eligibility depends on this
 // alone, but it gives Google an unambiguous machine-readable read on
@@ -49,6 +58,14 @@ const jsonLd = {
   mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
   url: pageUrl,
   author: { '@type': 'Organization', name: 'NiQuit', url: siteOrigin },
+  citation: sources.length
+    ? sources.map((src) => ({
+        '@type': 'CreativeWork',
+        name: src.title,
+        url: src.url,
+        publisher: { '@type': 'Organization', name: src.name },
+      }))
+    : undefined,
   publisher: {
     '@type': 'Organization',
     name: 'NiQuit',
@@ -57,7 +74,7 @@ const jsonLd = {
 };
 ---
 
-<Base title={title} description={description} lang={lang} translations={translations}>
+<Base title={seoTitle ?? title} description={description} lang={lang} translations={translations} ogType="article">
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article class="max-w-2xl mx-auto px-5 py-16">
     {heroImage && (
@@ -92,6 +109,27 @@ const jsonLd = {
     <div id="article-body" class="prose max-w-none">
       <slot />
     </div>
+
+    {sources.length > 0 && (
+      <section id="article-sources" class="mt-12" style="border-top:1px solid #18243F; padding-top:2rem;" aria-labelledby="article-sources-title">
+        <h2
+          id="article-sources-title"
+          class="text-xs font-semibold uppercase tracking-widest mb-4"
+          style="color:#35C6D8; font-family:'JetBrains Mono',monospace;"
+        >
+          {s.article?.sources ?? 'Sources'}
+        </h2>
+        <ul class="flex flex-col gap-2 text-sm" style="list-style:none; padding:0; margin:0; color:#B0B8C8;">
+          {sources.map((src) => (
+            <li>
+              <span style="color:#F5F7FA;">{src.name}</span>
+              <span aria-hidden="true">: </span>
+              <a href={src.url} target="_blank" rel="noopener" style="color:#67E8F9; text-decoration:underline; text-underline-offset:3px;">{src.title}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <!-- Like / Dislike feedback -->
     <div

@@ -99,6 +99,8 @@ export const ui = {
     },
     blog: {
       title: 'From the blog',
+      metaTitle: 'Quit Nicotine: Guides, Science and Real Stories',
+      metaDescription: 'Honest guides on quitting cigarettes, vaping, snus and nicotine pouches: withdrawal timelines, cravings, triggers and what the research says.',
       readMore: 'Read',
       empty: 'Posts coming soon.',
       all: 'All',
@@ -159,6 +161,7 @@ export const ui = {
       feedbackPrompt: 'Was this helpful?',
       readNext: 'Read next',
       byFounder: 'From the author of NiQuit',
+      sources: 'Sources',
     },
     support: {
       accent: 'Freedom from nicotine. Free, for everyone.',
@@ -250,6 +253,8 @@ export const ui = {
     },
     blog: {
       title: 'Из блога',
+      metaTitle: 'Как бросить никотин: гайды, наука и личные истории',
+      metaDescription: 'Честные гайды о том, как бросить сигареты, вейп, снюс и никотиновые паучи: симптомы отмены, тяга, триггеры и что говорят исследования.',
       readMore: 'Читать',
       empty: 'Статьи скоро появятся.',
       all: 'Все',
@@ -306,6 +311,7 @@ export const ui = {
       feedbackPrompt: 'Было ли это полезно?',
       readNext: 'Читать дальше',
       byFounder: 'От автора NiQuit',
+      sources: 'Источники',
     },
     support: {
       accent: 'Свобода от никотина. Бесплатно и для каждого.',
@@ -397,6 +403,8 @@ export const ui = {
     },
     blog: {
       title: 'Aus dem Blog',
+      metaTitle: 'Nikotin aufhören: Ratgeber, Studien und echte Geschichten',
+      metaDescription: 'Ehrliche Ratgeber zum Aufhören mit Zigaretten, Vapes, Snus und Nikotinbeuteln: Entzugsverlauf, Craving, Trigger und was die Forschung sagt.',
       readMore: 'Lesen',
       empty: 'Beiträge folgen bald.',
       all: 'Alle',
@@ -453,6 +461,7 @@ export const ui = {
       feedbackPrompt: 'War das hilfreich?',
       readNext: 'Weiter lesen',
       byFounder: 'Vom Autor von NiQuit',
+      sources: 'Quellen',
     },
     support: {
       accent: 'Freiheit von Nikotin. Kostenlos, für alle.',
@@ -544,6 +553,8 @@ export const ui = {
     },
     blog: {
       title: 'Del blog',
+      metaTitle: 'Dejar la nicotina: guías, ciencia e historias reales',
+      metaDescription: 'Guías sinceras para dejar los cigarrillos, el vapeo, el snus y las bolsas de nicotina: abstinencia, antojos, detonantes y lo que dice la investigación.',
       readMore: 'Leer',
       empty: 'Artículos próximamente.',
       all: 'Todos',
@@ -600,6 +611,7 @@ export const ui = {
       feedbackPrompt: '¿Fue de ayuda?',
       readNext: 'Leer más',
       byFounder: 'Del autor de NiQuit',
+      sources: 'Fuentes',
     },
     support: {
       accent: 'Libertad frente a la nicotina. Gratis, para todos.',
@@ -691,6 +703,8 @@ export const ui = {
     },
     blog: {
       title: 'Du blog',
+      metaTitle: 'Arrêter la nicotine : guides, science et vrais témoignages',
+      metaDescription: 'Des guides honnêtes pour arrêter la cigarette, la vape, le snus et les sachets de nicotine : sevrage, envies, déclencheurs et ce que dit la recherche.',
       readMore: 'Lire',
       empty: 'Des articles arrivent bientôt.',
       all: 'Tous',
@@ -747,6 +761,7 @@ export const ui = {
       feedbackPrompt: 'Cela vous a-t-il aidé ?',
       readNext: 'Lire la suite',
       byFounder: "De l'auteur de NiQuit",
+      sources: 'Sources',
     },
     support: {
       accent: 'La liberté face à la nicotine. Gratuite, pour tous.',
