@@ -20,7 +20,7 @@ Der Grund liegt in der Wirkung von Nikotin selbst: Es verengt die Blutgefäße i
 
 ## Warum blutet mein Zahnfleisch beim Aufhören plötzlich mehr?
 
-Das wirkt paradox, ist aber ein gutes Zeichen. Solange Nikotin die Gefäße verengt, wird die Immunreaktion im Zahnfleisch gedämpft. Entzündungen, die durch Zahnbelag längst vorhanden waren, blieben quasi unsichtbar. Kehrt die Durchblutung zurück, kommen auch die Immunzellen wieder an, und die eigentliche Entzündung wird sichtbar, meist als Zahnfleischbluten in den ersten zwei bis vier Wochen nach dem Aufhören (Smoke Tracker).
+Das wirkt paradox, ist aber ein gutes Zeichen. Solange Nikotin die Gefäße verengt, wird die Immunreaktion im Zahnfleisch gedämpft. Entzündungen, die durch Zahnbelag längst vorhanden waren, blieben quasi unsichtbar. Kehrt die Durchblutung zurück, kommen auch die Immunzellen wieder an, und die eigentliche Entzündung wird sichtbar, meist als Zahnfleischbluten in den ersten Wochen nach dem Aufhören. Eine Studie im Journal of Clinical Periodontology hat das bei Menschen gemessen, die mit dem Rauchen aufhörten: Innerhalb von vier bis sechs Wochen verdoppelte sich der Anteil blutender Stellen von 16 auf 32 Prozent, obwohl sie gründlicher putzten.
 
 Das heißt nicht, dass sich dein Zahnfleisch verschlechtert. Es heißt, dass Nikotin vorher etwas maskiert hat, das jetzt endlich behandelt werden kann, etwa mit gründlicherem Zähneputzen oder einem Termin beim Zahnarzt. Wenn du wissen willst, was in dieser Phase sonst im Körper passiert, mit Schlaf, Stimmung und Kopf, findest du mehr dazu in unserem Artikel [Was passiert mit deinem Körper, wenn du mit Nikotin aufhörst, Woche für Woche](/de/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week).
 

@@ -14,11 +14,11 @@ Miras la etiqueta de tu lata de bolsas de nicotina y dice "6 mg". Antes fumabas 
 
 ## ¿Cuánta nicotina tiene un cigarrillo en realidad?
 
-Un cigarrillo sin encender contiene entre 7,5 y 13,4 mg de nicotina, según pruebas de Penn State University. Es una cantidad considerable. Pero tú no absorbes todo eso al fumarlo.
+Un cigarrillo medio contiene entre 10 y 14 mg de nicotina, según una revisión de farmacología de Neal Benowitz y colaboradores publicada en PMC. Es una cantidad considerable. Pero tú no absorbes todo eso al fumarlo.
 
-Según un estudio de 2020 de los CDC, la cantidad de nicotina que realmente absorbe el fumador (lo que se llama "yield" o rendimiento) suele estar entre 1 y 2 mg por cigarrillo. El resto se pierde en el humo que se dispersa en el aire, en la colilla, en la combustión.
+Según esa misma revisión, la cantidad de nicotina que el fumador absorbe de verdad ronda, de media, entre 1 y 1,5 mg por cigarrillo. El resto se pierde en el humo que se dispersa en el aire, en la colilla, en la combustión.
 
-Multiplícalo por un paquete entero y, según una cifra de Nicorette, terminas inhalando entre 22 y 36 mg de nicotina al día si fumas 20 cigarrillos. Ese es el número real con el que deberías comparar cualquier otro producto, no el contenido bruto del cigarrillo sin encender.
+Multiplícalo por un paquete de 20 cigarrillos y terminas absorbiendo unos 20 a 30 mg de nicotina al día. Ese es el número real con el que deberías comparar cualquier otro producto, no el contenido bruto del cigarrillo sin encender.
 
 ## ¿Y cuánta nicotina tiene una bolsa de nicotina?
 

@@ -28,11 +28,11 @@ There's also a faster mechanism at play. Frontiers in Neuroscience (2025) resear
 
 This is the question everyone actually wants answered when they're gripping their phone at 11pm resisting a gas station run: does it get better, and when?
 
-The timeline looks something like this. According to Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette. One study tracking smokers through a 6-hour abstinence window found cravings increasing steadily, with the first noticeable pull usually hitting between 60 and 180 minutes in, according to Consensus. 
+The timeline looks something like this. According to Medical News Today (2024), withdrawal symptoms typically show up somewhere between 4 and 24 hours after your last cigarette. The National Cancer Institute adds that cravings themselves can start within an hour or two of your last cigarette.
 
 The good news buried in that timeline: individual cravings don't last forever. HSE Ireland notes that a single craving usually passes within 3 to 5 minutes, while WebMD (2024) puts the window a bit longer, around 15 to 20 minutes. The honest answer is somewhere in between, and it depends on the person, the trigger, and how many days into quitting you are. Either way, the craving that feels unbearable right now is not permanent. It's a wave, not a wall.
 
-As for the bigger picture, Consensus notes that nicotine cravings can stretch anywhere from a few hours to several weeks, but the sharpest drop-off tends to happen within the first 7 to 10 weeks of quitting. So if you're in week two and still white-knuckling it, that's normal. It's also temporary in a way that matters.
+As for the bigger picture, the National Cancer Institute says cravings come often in the first days and weeks, then get farther apart, even if a mild one can still show up months later. So if you're in week two and still white-knuckling it, that's normal. It's also temporary in a way that matters.
 
 ## Why do I still crave cigarettes weeks after quitting?
 
@@ -42,7 +42,7 @@ Medical News Today (2024) draws a clear line between physical and psychological 
 
 This is why a stressful phone call in week six can still send you searching your jacket pocket for a pack that isn't there. Your body has moved on. Your brain's habit loops haven't caught up yet.
 
-Part of this comes down to why withdrawal feels the way it does chemically. Biology Insights (2025) explains that a sudden drop in dopamine in the nucleus accumbens, the brain's reward hub, is the direct cause of the irritability, anxiety, and craving intensity you feel after quitting. Your brain got used to a certain dopamine baseline propped up by nicotine, and now it's recalibrating without it. That recalibration is uncomfortable, but it's not dangerous, and it's not permanent.
+Part of this comes down to why withdrawal feels the way it does chemically. The Cleveland Clinic explains that once nicotine stops stimulating your brain's receptors, your brain releases less dopamine, and that shift in your reward system causes some of the withdrawal symptoms: the irritability, the anxiety, the pull toward a cigarette. Your brain got used to a certain dopamine baseline propped up by nicotine, and now it's recalibrating without it. That recalibration is uncomfortable, but it's not dangerous, and it's not permanent.
 
 Nicotine's grip isn't purely about pleasure either. Research in Frontiers in Neuroscience (2025) describes it as biphasic: your brain runs a constant tug-of-war between the reward (that hit of dopamine) and aversive effects like nausea or dizziness, regulated partly through a brain pathway called the medial habenula-interpeduncular nucleus circuit. Addiction isn't your brain simply "liking" nicotine. It's a messy negotiation between reward and discomfort, one your brain has been having thousands of times a year without you noticing.
 

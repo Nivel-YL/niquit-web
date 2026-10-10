@@ -22,7 +22,7 @@ Un essai randomisé publié par Harvard Health dans les Annals of Internal Medic
 
 Ces chiffres concernent la cigarette, pas les sachets de nicotine directement. Mais le mécanisme d'addiction est le même molécule, les mêmes récepteurs, et il y a de bonnes raisons de penser que la logique s'applique aussi aux pouches.
 
-Une revue Cochrane de 2024 nuance toutefois le tableau : elle ne trouve pas de vainqueur clair à long terme entre réduction progressive et arrêt brutal, et précise qu'aucun essai n'a encore validé un protocole universel de sevrage progressif spécifique aux sachets de nicotine. Autrement dit, on manque de données propres aux pouches. Ce qu'on sait vient surtout du tabac.
+Une revue Cochrane de 2019 (22 essais, sur la cigarette) nuance toutefois le tableau : elle ne trouve pas de vainqueur clair à long terme entre réduction progressive et arrêt brutal. Et aucun essai n'a encore testé de protocole de réduction propre aux sachets de nicotine. Autrement dit, on manque de données propres aux pouches. Ce qu'on sait vient surtout du tabac.
 
 ## Pourquoi la réduction progressive est si difficile avec les sachets de nicotine ?
 

@@ -20,7 +20,7 @@ Noch schneller geht es bei Jugendlichen. Laut CDC (2025) können bei jungen Mens
 
 ## Was passiert im Gehirn beim ersten Zug?
 
-Die Antwort liegt nicht in der Psychologie, sondern in der Chemie. Nikotin erreicht dein Gehirn laut Biology Insights (2026) in etwa 7 bis 10 Sekunden und löst dort eine Dopaminausschüttung aus. Zum Vergleich: Das ist schneller, als du diesen Satz zu Ende liest.
+Die Antwort liegt nicht in der Psychologie, sondern in der Chemie. Inhaliertes Nikotin erreicht laut dem US National Institute on Drug Abuse (NIDA) seinen Spitzenwert im Gehirn in etwa 10 Sekunden und löst dort eine Dopaminausschüttung aus. Zum Vergleich: Das ist schneller, als du diesen Satz zu Ende liest.
 
 Nikotin dockt an den Belohnungspfaden des Gehirns an. Diese Dopamin-Spitze fühlt sich laut Yale Medicine wie ein kurzer Kick oder Rausch an. Yale Medicine (2026) beschreibt Dopamin als Teil des Feedback-Systems im Gehirn: Es signalisiert "das hat sich gut angefühlt" und trainiert dich darauf, die Handlung zu wiederholen.
 
@@ -28,7 +28,7 @@ Das Problem: Der Effekt hält nicht lange an. Sobald die Leber das Nikotin abgeb
 
 ## Warum machen moderne Vapes schneller süchtig als früher?
 
-Alte E-Zigaretten mit klassischem freien Nikotin hatten für Hersteller einen Nachteil: Bei hohen Konzentrationen brannte der Dampf im Hals, was viele Nutzer abschreckte. Moderne Geräte setzen stattdessen auf Nikotinsalze. Laut Biology Insights (2026) erlauben diese deutlich höhere Nikotinkonzentrationen, ohne den scharfen Hustenreiz. Das Resultat: Du nimmst pro Zug mehr Nikotin auf, ohne es überhaupt unangenehm zu spüren. Genau das beschleunigt den Kreislauf aus Belohnung und Verstärkung, der letztlich in die Abhängigkeit führt.
+Alte E-Zigaretten mit klassischem freien Nikotin hatten für Hersteller einen Nachteil: Bei hohen Konzentrationen brannte der Dampf im Hals, was viele Nutzer abschreckte. Moderne Geräte setzen stattdessen auf Nikotinsalze. Laut Yale Medicine ist das Nikotin in solchen Pods schätzungsweise 2- bis 10-mal konzentrierter als freies Nikotin in anderen Liquids. Und eine klinische Studie von 2026 in Nicotine & Tobacco Research zeigte: Bei gleicher Stärke wurden Salz-Liquids als weniger kratzig bewertet und trieben den Nikotinspiegel im Blut höher. Das Resultat: Du nimmst pro Zug mehr Nikotin auf, ohne es überhaupt unangenehm zu spüren. Genau das beschleunigt den Kreislauf aus Belohnung und Verstärkung, der letztlich in die Abhängigkeit führt.
 
 Warum gerade Einweg-Vapes so schwer wieder loszuwerden sind, erklärt der Artikel [Warum Einweg-Vapes so schwer aufzugeben sind](/de/blog/why-disposable-vapes-are-so-hard-to-quit) noch genauer.
 

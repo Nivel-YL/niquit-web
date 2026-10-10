@@ -16,9 +16,9 @@ Según la Cleveland Clinic (2026), los síntomas de abstinencia empiezan entre l
 
 ## ¿Por qué las primeras 72 horas son las peores?
 
-Aquí está la clave que casi nadie te explica cuando intentas dejarlo: la nicotina no solo te da placer momentáneo, cambia físicamente tu cerebro. Cuando fumas o vapeas con regularidad, tu cerebro fabrica receptores extra para gestionar el flujo constante de nicotina, según Biology Insights (2026). Esos receptores no desaparecen quince minutos después de tu último cigarrillo. Siguen ahí, exigiendo su dosis, aunque tú ya hayas decidido parar.
+Aquí está la clave que casi nadie te explica cuando intentas dejarlo: la nicotina no solo te da placer momentáneo, cambia físicamente tu cerebro. Cuando fumas o vapeas con regularidad, tu cerebro fabrica receptores extra para gestionar el flujo constante de nicotina, según una revisión de McLaughlin y colaboradores publicada en PMC (2015). Esos receptores no desaparecen quince minutos después de tu último cigarrillo. Siguen ahí, exigiendo su dosis, aunque tú ya hayas decidido parar.
 
-Es exactamente lo que explica ScienceInsights (2026): la nicotina se engancha a receptores del cerebro y dispara dopamina; con el uso repetido, el cerebro crece receptores adicionales, y cuando dejas de consumir, esos receptores siguen ahí pidiendo lo que ya no reciben. Por eso el segundo y tercer día no son cuestión de "fuerza de voluntad". Es química pura peleando contra tu decisión.
+La Cleveland Clinic lo explica así: la nicotina se une a receptores del cerebro y dispara dopamina. Cuando dejas de consumirla, el cerebro libera menos, y ese cambio provoca parte de los síntomas de abstinencia. Por eso el segundo y tercer día no son cuestión de "fuerza de voluntad". Es química pura peleando contra tu decisión.
 
 La Cleveland Clinic (2026) confirma que los síntomas de abstinencia alcanzan su punto máximo precisamente el segundo o tercer día sin nicotina. No es casualidad que tanta gente recaiga justo entonces: es el momento en que el cuerpo grita más fuerte.
 
@@ -34,13 +34,13 @@ Pasado el tercer o cuarto día, lo peor debería quedar atrás. GoodRx (2024) se
 
 ## ¿Por qué no puedo dejar de pensar en fumar aunque quiera dejarlo?
 
-Porque el ansia es, con diferencia, el síntoma más común de la abstinencia, según la Cleveland Clinic (2026), y suele ir acompañada de irritabilidad, ansiedad y dificultad para concentrarte, según Wikipedia (2026). El insomnio y la depresión aparecen con menos frecuencia, pero cuando el ansia y la irritabilidad se juntan, cualquier cosa pequeña se siente enorme. Si quieres entender mejor por qué el cerebro genera esa urgencia tan concreta, en [este artículo](/es/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings) explicamos la mecánica detrás del antojo.
+Porque el ansia es, con diferencia, el síntoma más común de la abstinencia, según la Cleveland Clinic (2026), y suele ir acompañada de irritabilidad, ansiedad, bajón de ánimo, dificultad para concentrarte, inquietud e insomnio, según una revisión publicada en Nicotine & Tobacco Research. Cuando el ansia y la irritabilidad se juntan, cualquier cosa pequeña se siente enorme. Si quieres entender mejor por qué el cerebro genera esa urgencia tan concreta, en [este artículo](/es/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings) explicamos la mecánica detrás del antojo.
 
-Lo importante es esto: la abstinencia de nicotina en sí misma no provoca síntomas físicos graves y no pone tu vida en riesgo, aunque el ansia puede sentirse tan intensa como la de otras sustancias, según Wikipedia (2026). Duele, incomoda, desespera, pero no te va a hacer daño real. Eso ya es una ventaja frente a otras adicciones.
+Lo importante es esto: según la Cleveland Clinic, la abstinencia de nicotina no es perjudicial para tu salud, aunque el ansia pueda sentirse muy intensa. Duele, incomoda, desespera, pero no te va a hacer daño real. Eso ya es una ventaja frente a otras adicciones.
 
 ## ¿Cómo aguanto un antojo sin recaer?
 
-Según datos del CDC, solo alrededor del 7,5% de las personas que intentan dejarlo cada año lo consiguen sin ningún tipo de apoyo, y la mayoría de los que fallan lo hacen en los primeros días. Eso no es para desanimarte, es para que entiendas que intentarlo solo, a pulso, es la opción más difícil que puedes elegir.
+Según datos del CDC, cada año lo consigue menos de uno de cada diez fumadores adultos, y menos de cuatro de cada diez se apoyan en asesoramiento o medicación al intentarlo. Además, según la Cleveland Clinic, la primera semana es la de mayor riesgo de recaída. Eso no es para desanimarte, es para que entiendas que intentarlo solo, a pulso, es la opción más difícil que puedes elegir.
 
 La Cleveland Clinic (2026) es clara en que la primera semana es cuando más riesgo tienes de recaer. Si sabes que ese antojo va a durar minutos, no horas, es más fácil aguantarlo sin ceder. Puedes leer más sobre cómo esperar a que pase la ola en [este artículo sobre la urgencia de los antojos](/es/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out).
 
@@ -50,6 +50,6 @@ Si ya intentaste dejarlo de golpe antes y no funcionó, no eres la excepción: d
 
 ## ¿Qué pasa después de las 72 horas?
 
-Aquí viene la parte que compensa todo lo anterior. Después de superar el periodo inicial de abstinencia, muchas personas notan mejoras reales en ansiedad, ánimo y calidad de vida general, y suelen sentirse mejor que cuando fumaban activamente, según Wikipedia (2026). Psicológicamente, ese malestar de los primeros días también cumple una función: es lo que empuja a muchos fumadores a seguir consumiendo por evitar el malestar, más que por buscar placer, según investigación publicada en NIH PMC (2025). Entender eso te ayuda a ver el antojo por lo que es: una señal temporal, no una verdad sobre lo que necesitas.
+Aquí viene la parte que compensa todo lo anterior. Según el NHS, dejar de fumar puede mejorar el ánimo y aliviar el estrés, la ansiedad y la depresión, así que muchas personas acaban sintiéndose mejor que cuando fumaban. Psicológicamente, ese malestar de los primeros días también cumple una función: es lo que empuja a muchos fumadores a seguir consumiendo por evitar el malestar, más que por buscar placer, según investigación publicada en NIH PMC (2025). Entender eso te ayuda a ver el antojo por lo que es: una señal temporal, no una verdad sobre lo que necesitas.
 
 En España, donde alrededor del 23% de los adultos fuma con regularidad según el informe Global State of Tobacco Harm Reduction (2024), y en América Latina, donde la prevalencia bajó del 26% al 15% entre 2000 y 2020 según el informe Global State of Tobacco Harm Reduction (2024), millones de personas ya han cruzado estas mismas 72 horas. Ninguna de ellas lo hizo sin sentir el impulso de ceder. La diferencia entre quien lo consigue y quien no suele estar en aguantar esas horas concretas sabiendo que van a pasar, y en tener algo o alguien que te acompañe mientras lo hacen.

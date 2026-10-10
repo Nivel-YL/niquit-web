@@ -50,7 +50,7 @@ Si fumas un paquete al día, son 20 cigarrillos, unos 220 minutos de vida cada j
 
 ## Lo que cambia cuando dejas de fumar
 
-La buena noticia es que esta cuenta no es fija ni irreversible. Según datos recogidos por Vapor Technology Association a partir de investigación económica sobre cesación tabáquica, el gasto médico empieza a bajar de forma medible desde el primer año sin fumar, y a lo largo de toda una vida cada persona que deja el tabaco ahorra miles de euros en gastos sanitarios evitados.
+La buena noticia es que esta cuenta no es fija ni irreversible. Según el CDC, el riesgo de enfermedad coronaria baja de forma marcada entre uno y dos años después de dejarlo. Y el dinero empieza a quedarse en tu bolsillo desde el primer paquete que no compras.
 
 Si llevas tiempo intentándolo sin éxito, no eres el único al que le ha fallado la fuerza de voluntad sola: en [por qué dejar de fumar de golpe falla para la mayoría de las personas](/es/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) explicamos por qué el método cuenta tanto como la motivación. Y si además de cigarrillos usas vapeadores o bolsitas de nicotina, en [cómo dejar toda la nicotina a la vez](/es/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide) tienes una guía pensada exactamente para esa situación.
 

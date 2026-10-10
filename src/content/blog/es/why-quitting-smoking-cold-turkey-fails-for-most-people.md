@@ -12,9 +12,9 @@ cluster: C
 
 Lo intentaste un lunes por la mañana. Tiraste la cajetilla, apagaste el último cigarro y te prometiste que esa era la última vez. Tres días después, estabas comprando otra cajetilla en la misma gasolinera de siempre. Si esto te suena familiar, no eres el único: según Truth Initiative, solamente entre el 3 y el 5% de las personas que dejan de fumar de golpe siguen sin fumar pasados seis meses.
 
-El dato se repite en distintas fuentes. UCSF Health calcula que la tasa de éxito al año ronda el 5%. Otros estudios recopilados en fuentes revisadas por expertos sitúan el rango entre el 3 y el 6%, y algunos trabajos amplían el margen hasta el 4-7% en cualquier intento sin medicamentos ni apoyo profesional. El mensaje de fondo es el mismo en todos los casos: dejarlo de un día para otro, confiando solamente en la fuerza de voluntad, casi nunca funciona a largo plazo.
+El dato se repite en distintas fuentes. UCSF Health calcula que la tasa de éxito al año ronda el 5%. Truth Initiative habla de un 3 a 5% que sigue sin fumar después de seis meses cuando lo deja de golpe y sin ayuda. El mensaje de fondo es el mismo en todos los casos: dejarlo de un día para otro, confiando solamente en la fuerza de voluntad, casi nunca funciona a largo plazo.
 
-Y sin embargo, es el método que casi todo el mundo elige primero. Más del 74,7% de los fumadores intenta dejarlo sin ninguna ayuda, ya sea de golpe o con remedios caseros, según datos recogidos en Wikipedia. La pregunta no es por qué tanta gente lo intenta así. La pregunta es por qué falla tanto.
+Y sin embargo, es el método que casi todo el mundo elige primero. Según el CDC, menos de cuatro de cada diez adultos que intentan dejar de fumar recurren a asesoramiento o medicación. El resto lo intenta sin ningún apoyo, a pura fuerza de voluntad. La pregunta no es por qué tanta gente lo intenta así. La pregunta es por qué falla tanto.
 
 ## ¿Por qué es tan difícil dejar de fumar de golpe?
 
@@ -32,7 +32,7 @@ Nada de esto se soluciona con voluntad. Según datos del NIH, la mayoría de las
 
 Aquí está el dato que más sorprende a la gente: los síntomas físicos alcanzan su punto máximo alrededor del tercer día y, en la mayoría de los casos, se resuelven en dos a cuatro semanas, según la Cleveland Clinic, aunque algunas personas los experimentan durante varios meses. Es decir, la parte más dura no dura para siempre.
 
-El problema es que esas dos semanas son exactamente donde fallan la mayoría de los intentos de dejarlo de golpe. Irritabilidad, ansiedad, dificultad para concentrarse, más apetito de lo normal y una inquietud que no te deja tranquilo en ningún lado: esa combinación, según ScienceInsights, es la razón principal por la que la mayoría de los intentos de dejarlo de golpe se rompen justo en esas primeras dos semanas.
+El problema es que el arranque es justo donde más intentos se rompen. Irritabilidad, ansiedad, dificultad para concentrarse, más apetito de lo normal y una inquietud que no te deja tranquilo en ningún lado: según la Cleveland Clinic, la primera semana es la de mayor riesgo de recaída.
 
 Y aquí viene algo que muchos no esperan: la motivación no predice el éxito. Un estudio con jóvenes universitarios fumadores encontró que la motivación sí marcaba la diferencia entre quien intentaba dejarlo y quien ni siquiera lo intentaba. Pero entre quienes ya habían dado el paso, la motivación por sí sola no distinguía a quienes lo lograban de quienes recaían. Dicho de otra forma: querer dejarlo mucho no basta si el cuerpo sigue en guerra química contigo.
 
@@ -46,7 +46,7 @@ Existen varias opciones aprobadas para acompañar el proceso: parches, chicles, 
 
 ## No se trata de fuerza de voluntad, se trata de método
 
-Los exfumadores hacen, en promedio, entre 6 y 30 intentos antes de dejarlo definitivamente, según datos recopilados en Wikipedia. Ese número por sí solo debería cambiar cómo hablamos del tema: no es que alguien "no pueda" dejar de fumar, es que necesita el método adecuado, y probablemente más de un intento para encontrarlo.
+Según un estudio publicado en BMJ Open, que siguió a fumadores durante tres años, hacen falta de media entre 6 y 30 intentos antes de dejarlo definitivamente. Ese número por sí solo debería cambiar cómo hablamos del tema: no es que alguien "no pueda" dejar de fumar, es que necesita el método adecuado, y probablemente más de un intento para encontrarlo.
 
 Si ya dejaste los cigarros y ahora usas bolsitas de nicotina como ZYN o Velo, quizás te preguntes si son realmente más seguras, o cómo dejarlas también cuando llegue el momento. Y si nunca has probado ese formato, vale la pena entender primero qué diferencia hay entre el snus tradicional y las bolsitas modernas antes de cambiar un hábito por otro.
 

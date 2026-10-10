@@ -18,7 +18,7 @@ Trente. Ce chiffre mérite qu'on s'y arrête, parce qu'il change complètement l
 
 D'après une revue de littérature publiée sur PMC/NIH, entre 40 et 50% des fumeurs arrêtent au moins 24 heures chaque année, mais très peu restent sans fumer pendant six mois. Même avec un accompagnement, les taux d'abstinence dépassent rarement 35%. Autrement dit : la rechute n'est pas l'exception, c'est la norme statistique.
 
-Le moment critique se situe presque toujours au début. , et la majorité de ces rechutes survient dans les trois premiers mois. Quand un traitement médicamenteux s'arrête, le risque grimpe encore plus vite : certains essais rapportent 50% de rechute dès trois mois d'arrêt du traitement, la plupart des reprises ayant lieu dans les deux premières semaines.
+Le moment critique se situe presque toujours au début : selon des données d'essais cliniques, 50 à 80 % des personnes qui arrêtent rechutent dans l'année, et la majorité de ces rechutes survient dans les trois premiers mois. Quand un traitement médicamenteux s'arrête, le risque grimpe encore plus vite : certains essais rapportent 50% de rechute dès trois mois d'arrêt du traitement, la plupart des reprises ayant lieu dans les deux premières semaines.
 
 Ce n'est donc pas une question de caractère. C'est une fenêtre biologique précise, et elle est brutale pour tout le monde.
 

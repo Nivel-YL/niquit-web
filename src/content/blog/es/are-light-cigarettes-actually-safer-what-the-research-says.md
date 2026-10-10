@@ -16,7 +16,7 @@ El Instituto Nacional del Cáncer de Estados Unidos (National Cancer Institute) 
 
 ## ¿Por qué los cigarrillos light dan menos tar en las máquinas de laboratorio?
 
-Aquí está el truco, y es un truco de ingeniería, no de química. Los cigarrillos light se fabricaron con pequeños agujeros de ventilación en el filtro, diseñados para diluir el humo con aire ambiente. Cuando una máquina de fumar estandarizada aspiraba el humo de forma uniforme y constante, esos agujeros hacían que las lecturas de tar y nicotina salieran más bajas (Fuente: MassiveBio, citando consenso científico y de la FDA, 2026).
+Aquí está el truco, y es un truco de ingeniería, no de química. Los cigarrillos light se fabricaron con pequeños agujeros de ventilación en el filtro, diseñados para diluir el humo con aire ambiente. Cuando una máquina de fumar estandarizada aspiraba el humo de forma uniforme y constante, esos agujeros hacían que las lecturas de alquitrán y nicotina salieran más bajas (Fuente: National Cancer Institute).
 
 El problema es que las personas no fuman como una máquina. Los fumadores tapan esos agujeros con los dedos o los labios sin siquiera notarlo, inhalan más profundo, dan caladas más largas o más frecuentes, o simplemente encienden más cigarrillos al día (Fuente: Tobacco Free Kids, citando investigación del NCI, 2002). El resultado es que el cuerpo termina recibiendo prácticamente la misma dosis de sustancias cancerígenas que con un cigarrillo normal.
 

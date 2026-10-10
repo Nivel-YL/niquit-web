@@ -18,7 +18,7 @@ La réponse est dans ton cerveau, pas dans ta volonté. Quand la nicotine se fix
 
 Le problème, c'est que ton cerveau s'adapte. Avec le temps, il fabrique plus de récepteurs et modifie la façon dont il traite la récompense. Résultat : il te faut toujours plus de nicotine pour ressentir le même effet, et quand le taux baisse, l'envie surgit avec une force disproportionnée (Medindia, 2026). Ton cerveau ne demande pas gentiment sa dose, il l'exige.
 
-Il y a aussi une couche purement mentale, souvent plus difficile à gérer que le manque physique lui-même. Ce qui rend une envie si longue à vivre, ce n'est pas la molécule, c'est la boucle mentale qui l'accompagne : tu y penses, tu négocies avec toi-même, tu attends que ça passe en scrutant l'horloge (Quit Smoking Community, 2026). Plus tu résistes en y pensant activement, plus l'attente semble longue.
+Il y a aussi une couche purement mentale, souvent plus difficile à gérer que le manque physique lui-même. Ce qui rend une envie si longue à vivre, ce n'est pas la molécule, c'est la boucle mentale qui l'accompagne : tu y penses, tu négocies avec toi-même, tu attends que ça passe en scrutant l'horloge. Plus tu résistes en y pensant activement, plus l'attente semble longue.
 
 Et il y a l'ancrage. Fumer dans les mêmes situations pendant des années crée des liens très forts entre certains lieux, certaines émotions, certains moments de la journée et l'envie de nicotine. Ton cerveau associe ces contextes précis aux effets de la nicotine, et ces connexions peuvent te faire craquer bien après avoir arrêté, parfois des mois ou des années plus tard (Medical News Today, 2024). La pause café au bureau, le trajet en voiture, le verre entre amis : ce ne sont pas de simples habitudes, ce sont des déclencheurs neuronaux.
 
@@ -26,11 +26,11 @@ Et il y a l'ancrage. Fumer dans les mêmes situations pendant des années crée 
 
 Il faut distinguer une envie ponctuelle du sevrage global, ce sont deux échelles de temps différentes.
 
-Les premiers symptômes apparaissent entre 4 et 24 heures après la dernière prise, selon la Cleveland Clinic. Le pic d'intensité arrive généralement au deuxième ou troisième jour, puis les symptômes s'estompent progressivement sur trois à quatre semaines. D'autres travaux situent le pic de l'intensité des envies dans les premières 24 à 72 heures d'abstinence (Consensus Academic Search Engine).
+Les premiers symptômes apparaissent entre 4 et 24 heures après la dernière prise, selon la Cleveland Clinic. Le pic d'intensité arrive généralement au deuxième ou troisième jour, puis les symptômes s'estompent progressivement sur trois à quatre semaines. Le National Cancer Institute américain situe lui aussi le pic dans les trois premiers jours.
 
  
 
-La bonne nouvelle, c'est que le corps fait le plus gros du travail assez vite.  Après ça, ce qui reste, c'est surtout psychologique : le corps a expulsé la nicotine, mais la tête, elle, continue à réclamer (Medical News Today, 2024).
+La bonne nouvelle, c'est que le corps fait le plus gros du travail assez vite : selon la Cleveland Clinic, les symptômes s'estompent en trois à quatre semaines. Après ça, ce qui reste, c'est surtout psychologique : le corps a expulsé la nicotine, mais la tête, elle, continue à réclamer (Medical News Today, 2024).
 
 Pour certaines personnes, des envies isolées peuvent réapparaître bien après cette phase aiguë, dans ce qu'on appelle le sevrage post-aigu. 
 
@@ -38,7 +38,7 @@ Pour certaines personnes, des envies isolées peuvent réapparaître bien après
 
 Voici le point clé à retenir : une envie est intense, mais elle n'est pas permanente.  Ton seul travail, c'est de laisser ces 3 à 5 minutes s'écouler sans faire quoi que ce soit d'irréversible.
 
-Concrètement, plusieurs approches ont fait leurs preuves.  Sur les patchs justement, une comparaison entre différents protocoles a montré que les patchs 24 heures contrôlaient mieux les envies tout au long de la journée que les patchs 16 heures, surtout pendant les deux premières semaines d'arrêt, quand les symptômes sont à leur maximum (Consensus Academic Search Engine).
+Concrètement, plusieurs approches ont fait leurs preuves. Les substituts nicotiniques, d'abord : selon une revue Cochrane portant sur plus de 130 essais, ils augmentent les chances d'arrêter de 50 à 60 %.
 
 Dans l'instant, la stratégie la plus simple reste de changer de décor ou d'activité pendant ces minutes critiques. Va marcher, bois un verre d'eau, appelle quelqu'un, lave-toi les mains à l'eau froide, n'importe quoi qui occupe ton corps et détourne ton attention de la boucle mentale. Le but n'est pas de "vaincre" l'envie par la force de volonté, c'est juste de meubler le temps jusqu'à ce que la vague redescende naturellement.
 

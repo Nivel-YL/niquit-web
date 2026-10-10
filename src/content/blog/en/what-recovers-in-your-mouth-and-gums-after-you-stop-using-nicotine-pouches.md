@@ -22,9 +22,9 @@ This is also why your gums might look worse before they look better.
 
 This trips a lot of people up. You quit expecting your mouth to feel cleaner right away, and instead your gums start bleeding when you brush. It feels like a step backward. It isn't.
 
-Smoke Tracker explains that this bleeding is returning blood flow exposing inflammation that was already there, inflammation nicotine had been masking through vasoconstriction. Your gums weren't actually healthier while you were using pouches. Nicotine was just suppressing the blood flow that lets your immune system respond to plaque and irritation. When circulation comes back online, usually within days, the inflammation becomes visible again. It's a sign of healing, not new damage.
+This bleeding is mostly inflammation that was already there. A study in the Journal of Clinical Periodontology followed people quitting smoking and found that gum bleeding on probing doubled within four to six weeks, from 16% of sites to 32%, even though their brushing improved. Tobacco dampens the gums' inflammatory response, and that effect reverses once you quit. The study was on smokers, not pouch users, but nicotine narrows blood vessels in either form. Your gums weren't actually healthier while you were using pouches. Nicotine was just suppressing the blood flow that lets your immune system respond to plaque and irritation. When circulation comes back online, the inflammation becomes visible again. It's a sign of healing, not new damage.
 
- If it doesn't ease up after that, it's worth mentioning to a dentist, but the early bleeding phase on its own is expected.
+If it hasn't eased after four to six weeks, it's worth mentioning to a dentist, but the early bleeding phase on its own is expected.
 
 ## Will the white patches in my mouth go away?
 

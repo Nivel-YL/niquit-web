@@ -32,7 +32,7 @@ Pero hay algo más interesante todavía. Investigaciones recientes del NIH seña
 
 ## ¿Cuántos intentos hacen falta para dejar de fumar de verdad?
 
- Pero como mencionamos antes, otros estudios más recientes hablan de más de 30. La diferencia no es contradictoria: cada intento, aunque termine en recaída, deja información. Aprendes qué situación te hizo ceder, qué hora del día es más peligrosa, qué emoción específica te empuja a fumar.
+Las estimaciones clásicas hablaban de unos seis intentos, y un estudio publicado en BMJ Open que siguió a fumadores durante tres años situó la media entre 6 y 30. Pero como mencionamos antes, otros estudios más recientes hablan de más de 30. La diferencia no es contradictoria: cada intento, aunque termine en recaída, deja información. Aprendes qué situación te hizo ceder, qué hora del día es más peligrosa, qué emoción específica te empuja a fumar.
 
 De hecho, entre personas que ya habían recaído, un estudio de atención primaria encontró que de 894 casos, 291 (un 33%) volvieron a intentarlo por al menos 24 horas, y de esos, un 34% seguía sin fumar en el seguimiento posterior. Volver a intentarlo funciona, incluso después de recaer. Lo que no funciona es repetir exactamente lo mismo esperando un resultado distinto.
 

@@ -16,7 +16,7 @@ That distinction matters. Uncomfortable is not the same thing as dangerous.
 
 ## What actually happens to your body when you quit cold turkey?
 
-Nicotine withdrawal follows a fairly predictable arc.  Cleveland Clinic describes the same pattern: symptoms starting within a day of stopping, peaking on day two or three, and settling down over three to four weeks.
+Nicotine withdrawal follows a fairly predictable arc. The Cleveland Clinic describes it this way: symptoms starting within a day of stopping, peaking on day two or three, and settling down over three to four weeks.
 
 During that stretch, expect some combination of irritability, anxiety, trouble focusing, a bigger appetite, restlessness, low mood, and bad sleep, according to the DSM-5. According to Medical News Today, nicotine withdrawal symptoms such as sleep disruption, hunger, cravings, poor concentration, and low mood are temporary and carry no significant health risks. If you want the full breakdown of what each day feels like, the [nicotine withdrawal symptoms day by day timeline](/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) covers it in detail, and [the worst days of nicotine withdrawal, and why day three is different](/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) explains why that particular day tends to break people.
 

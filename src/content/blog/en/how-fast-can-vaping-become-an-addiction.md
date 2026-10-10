@@ -10,7 +10,7 @@ cluster: B
 
 > Nicotine hits your brain in seconds. Here's the real timeline of how vaping addiction forms, backed by research, not guesswork.
 
-Seven to ten seconds. That's how long it takes for the nicotine in a single puff to reach your brain and trigger a dopamine release, according to Biology Insights. That's faster than it takes you to read this sentence. So when people ask how fast vaping can become an addiction, the honest answer is: the process starts on your very first puff, even if the addiction itself takes longer to lock in.
+About ten seconds. That's how fast inhaled nicotine peaks in your brain, according to the National Institute on Drug Abuse, and it brings a dopamine release with it. That's faster than it takes you to read this sentence. So when people ask how fast vaping can become an addiction, the honest answer is: the process starts on your very first puff, even if the addiction itself takes longer to lock in.
 
 There isn't one clean number, like "addicted after 47 puffs." But research gives us a real range, and it's worth knowing before you tell yourself "I'll just vape on weekends."
 
@@ -30,7 +30,7 @@ Here's the catch: nicotine leaves your body fast once your liver breaks it down,
 
 Over time your brain doesn't just get used to nicotine, it physically adapts to it. With repeated exposure to nicotine, an increase in the number of nicotinic acetylcholine receptor binding sites develops in the brain in response to receptor desensitization, requiring more nicotine to produce the same effect. That's the mechanical root of tolerance.
 
-Modern vapes make this cycle worse, not better. Biology Insights points out that nicotine salts, the formula used in most disposables and pod systems, let manufacturers pack in higher nicotine concentrations without the harsh throat hit that used to make people cough and pull back. Without that natural warning sign, you can pull in more nicotine per puff, more comfortably, which speeds up the whole reward-and-reinforcement cycle. If you want the full picture on why these devices in particular are so hard to put down, we've covered it in [why disposable vapes are so hard to quit](/blog/why-disposable-vapes-are-so-hard-to-quit).
+Modern vapes make this cycle worse, not better. Most disposables and pod systems use nicotine salts. Yale Medicine notes that the nicotine in these pods is estimated to be 2 to 10 times more concentrated than the free-base nicotine in most other vape liquids. And a 2026 clinical trial in Nicotine & Tobacco Research found that, at the same strength, salt-based liquids were rated less harsh and pushed blood nicotine higher than free-base ones. Less harshness means less of the natural warning sign that used to make people cough and pull back, which speeds up the whole reward-and-reinforcement cycle. If you want the full picture on why these devices in particular are so hard to put down, we've covered it in [why disposable vapes are so hard to quit](/blog/why-disposable-vapes-are-so-hard-to-quit).
 
 ## Can you get addicted after just a few vapes?
 

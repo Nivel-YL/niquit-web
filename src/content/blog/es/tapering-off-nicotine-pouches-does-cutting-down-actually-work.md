@@ -20,7 +20,7 @@ Un estudio de Cheong et al., publicado en Nicotine & Tobacco Research en 2007, e
 
 Un ensayo aleatorizado con cerca de 700 participantes de Lindson-Hawley y colegas, publicado en Annals of Internal Medicine en 2016, encontró algo parecido: el grupo que dejó de golpe tuvo mejores resultados tanto a las cuatro semanas (49% frente a 39%) como a los seis meses (22% frente a 15%).
 
-Dicho esto, no todo apunta en la misma dirección. Una revisión de Cochrane Collaboration de 2024 concluyó que no hay un ganador claro a largo plazo entre reducir gradualmente o dejarlo de golpe, y que los ensayos actuales sobre bolsitas de nicotina todavía no han validado un protocolo de reducción universal. En otras palabras: para cigarrillos hay más datos y apuntan a favor de dejarlo de golpe; para bolsitas, la investigación específica simplemente no existe todavía.
+Dicho esto, no todo apunta en la misma dirección. Una revisión Cochrane de 2019, con 22 ensayos sobre tabaco, concluyó que no hay un ganador claro a largo plazo entre reducir gradualmente o dejarlo de golpe, y ningún ensayo ha probado todavía un plan de reducción para bolsitas de nicotina. En otras palabras: para cigarrillos hay más datos y apuntan a favor de dejarlo de golpe; para bolsitas, la investigación específica simplemente no existe todavía.
 
 ## ¿Por qué reducir la dosis poco a poco no siempre funciona?
 

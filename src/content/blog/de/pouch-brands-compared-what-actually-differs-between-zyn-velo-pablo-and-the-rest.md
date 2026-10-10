@@ -19,7 +19,7 @@ Die Wahrheit ist unbequem: Es gibt keine unabhängige, wissenschaftliche Datenba
 
 ## Woher kommt das Nikotin bei ZYN und Velo?
 
-Ein Unterschied lässt sich zumindest belegen:  Klingt nach einem großen Unterschied, ist es chemisch aber nicht. Synthetisches Nikotin ist im Labor hergestellt statt aus der Tabakpflanze extrahiert, das Molekül selbst ist identisch. Dein Körper unterscheidet nicht zwischen "natürlichem" und synthetischem Nikotin, beide docken an denselben Rezeptoren im Gehirn an und lösen dieselbe Abhängigkeit aus. Genau darum geht es auch in unserem Artikel darüber, [dass Nikotinsucht nicht am Produkt hängt, sondern am Molekül selbst](/de/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule). Die Herkunft des Nikotins ist ein Marketingargument, kein gesundheitlicher.
+Ein Unterschied lässt sich zumindest belegen: Laut CDC stammt das Nikotin in manchen Beuteln aus der Tabakpflanze, in anderen wird es im Labor hergestellt. Klingt nach einem großen Unterschied, ist es chemisch aber nicht. Synthetisches Nikotin ist im Labor hergestellt statt aus der Tabakpflanze extrahiert, das Molekül selbst ist identisch. Dein Körper unterscheidet nicht zwischen "natürlichem" und synthetischem Nikotin, beide docken an denselben Rezeptoren im Gehirn an und lösen dieselbe Abhängigkeit aus. Genau darum geht es auch in unserem Artikel darüber, [dass Nikotinsucht nicht am Produkt hängt, sondern am Molekül selbst](/de/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule). Die Herkunft des Nikotins ist ein Marketingargument, kein gesundheitlicher.
 
 ## Ist eine Pouch-Marke gesünder als die andere?
 

@@ -28,7 +28,7 @@ Hier liegt das eigentliche Problem, und es ist kontraintuitiv. Viele Nutzer beme
 
 Das bedeutet: Kein Blut beim Zähneputzen heißt bei Pouch-Nutzern nicht automatisch "alles in Ordnung". Es kann genau das Gegenteil bedeuten. Eine Erkrankung entwickelt sich im Stillen weiter, weil das übliche Warnsignal fehlt. Andere Nutzer erleben trotzdem Zahnfleischbluten, Schwellungen und Druckempfindlichkeit, alles frühe Anzeichen einer Zahnfleischerkrankung, so eine zahnmedizinische Auswertung von Outdare (2025).
 
- Das ist keine kleine Randnotiz, sondern die überwiegende Mehrheit der untersuchten Gruppe. Und diese Zahl passt zu dem, was Tierversuche und Zellstudien zeigen: Nikotin fördert nachweislich Gingivitis, Parodontitis und Knochenabbau, wie Today's RDH (2025) auf Basis mehrerer systematischer Übersichtsarbeiten berichtet.
+Eine Querschnittsstudie von Daneshian und Kollegen in Oral Diseases fand bei 79 Prozent der jungen Erwachsenen, die Nikotinbeutel nutzen, Veränderungen der Mundschleimhaut. Das ist keine kleine Randnotiz, sondern die überwiegende Mehrheit der untersuchten Gruppe. Und diese Zahl passt zu dem, was Tierversuche und Zellstudien zeigen: Nikotin fördert nachweislich Gingivitis, Parodontitis und Knochenabbau, wie Today's RDH (2025) auf Basis mehrerer systematischer Übersichtsarbeiten berichtet.
 
 Wenn du ähnliche Symptome bei dir bemerkst, lohnt sich ein Blick in unseren Artikel über [Nebenwirkungen von Nicotine Pouches, über die niemand spricht](/de/blog/nicotine-pouch-side-effects-what-no-one-tells-you).
 

@@ -38,7 +38,7 @@ Wie stark es dich trifft, ist allerdings nicht bei allen gleich. Laut dem NIH/PM
 
 Eine wichtige Sache, die an Tag drei oft vergessen wird: Das Verlangen selbst dauert nicht ewig. Laut Schulungsmaterialien der US-Behörde SAMHSA halten einzelne Cravings typischerweise nur etwa 7 bis 20 Minuten, wobei die Intensität innerhalb dieses Fensters mehrfach ansteigt und wieder abfällt. Das bedeutet: Auch wenn sich der ganze Tag wie ein einziges Verlangen anfühlt, kommt es tatsächlich in Wellen. Wenn du die stärkste Welle abwarten kannst, wird es leichter. Mehr dazu, wie du diese Wellen konkret übersteht, findest du im Artikel [Warum sich Nikotin-Cravings so dringend anfühlen und wie du sie aussitzt](/de/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out).
 
-Das erklärt auch, warum die erste Woche laut einer Analyse aus dem Craving Toolkit von 2026 das höchste Rückfallrisiko birgt. Aktuelle biomedizinische Forschung aus dem Jahr 2025 bestätigt: Die meisten Rückfälle passieren genau in dieser ersten Woche, wenn der Entzug am stärksten ist. Wer Tag drei übersteht, hat den steilsten Teil der Kurve bereits hinter sich.
+Das erklärt auch, warum die erste Woche laut Cleveland Clinic das höchste Rückfallrisiko birgt. Aktuelle biomedizinische Forschung aus dem Jahr 2025 bestätigt: Die meisten Rückfälle passieren genau in dieser ersten Woche, wenn der Entzug am stärksten ist. Wer Tag drei übersteht, hat den steilsten Teil der Kurve bereits hinter sich.
 
 ## Was hilft konkret an Tag drei?
 

@@ -26,9 +26,9 @@ Una revisión publicada en el Journal of Indian Society of Periodontology sobre 
 
 Esto asusta a mucha gente, y es al revés de lo que parece: sangrar más no significa que algo va mal, significa que algo se está arreglando.
 
-Cuando dejas la nicotina, el efecto de vasoconstricción desaparece casi al instante y la sangre vuelve a fluir con normalidad hacia el tejido de las encías, exponiendo inflamación que ya estaba presente, según Smoke Tracker. Esa sangre que regresa trae consigo células inmunitarias que despiertan la respuesta inflamatoria frente a la placa bacteriana que llevaba ahí todo este tiempo, solo que enmascarada.
+Cuando dejas la nicotina, el efecto de vasoconstricción desaparece casi al instante y la sangre vuelve a fluir con normalidad hacia el tejido de las encías, exponiendo inflamación que ya estaba presente. Esa sangre que regresa trae consigo células inmunitarias que despiertan la respuesta inflamatoria frente a la placa bacteriana que llevaba ahí todo este tiempo, solo que enmascarada.
 
-Por eso, según Smoke Tracker, es tan común que entre la segunda y la cuarta semana notes sangrado al cepillarte que antes no tenías, ya que el flujo sanguíneo regresa exponiendo la inflamación que la nicotina había estado enmascarando a través de la vasoconstricción. La nicotina estaba tapando una inflamación que ya existía, no la evitaba. Cuando esa tapa se quita, ves lo que había debajo. Es una señal de que la circulación está volviendo, no de que estás dañando más tus encías.
+Por eso es tan común notar en las primeras semanas un sangrado al cepillarte que antes no tenías. Un estudio publicado en el Journal of Clinical Periodontology lo midió en personas que dejaban de fumar: en cuatro a seis semanas, los puntos de la encía que sangraban al sondaje pasaron del 16% al 32%, aunque se cepillaban mejor que antes. La nicotina estaba tapando una inflamación que ya existía, no la evitaba. Cuando esa tapa se quita, ves lo que había debajo. Es una señal de que la circulación está volviendo, no de que estás dañando más tus encías.
 
 Si en esas primeras semanas te preguntas qué más está pasando en tu cuerpo, en [nuestro artículo sobre qué le pasa a tu cuerpo semana a semana al dejar la nicotina](/es/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week) puedes ver el panorama completo, no solo lo que ocurre en la boca.
 

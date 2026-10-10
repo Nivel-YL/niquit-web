@@ -16,7 +16,7 @@ La réponse honnête : ça peut marcher, mais les probabilités ne sont claireme
 
 ## Arrêter de fumer seulement avec la volonté, quelles sont les vraies chances ?
 
-Les chiffres varient selon les études, mais aucun n'est franchement rassurant. Selon UCSF Health, le taux de réussite à un an pour un arrêt brutal sans aucune aide tourne autour de 5 %. D'autres estimations, rapportées par UCSF Health, situent entre 3 et 5 % la proportion de personnes qui réussissent à arrêter uniquement grâce à la volonté. Nicorette, qui a évidemment intérêt à le souligner, va jusqu'à dire qu'au moins 95 % des gens n'y arrivent pas avec la méthode brutale seule.
+Les chiffres varient selon les études, mais aucun n'est franchement rassurant. Selon UCSF Health, le taux de réussite à un an pour un arrêt brutal sans aucune aide tourne autour de 5 %. D'autres estimations, rapportées par Truth Initiative, situent entre 3 et 5 % la proportion de personnes qui réussissent à arrêter uniquement grâce à la volonté.
 
 Cela dit, tout n'est pas noir. Une étude publiée dans Nicotine & Tobacco Research a suivi des fumeurs ayant arrêté du jour au lendemain : 22 % étaient encore abstinents à 4 semaines, et 27 % à 6 mois, un résultat même meilleur que celui des personnes qui avaient réduit progressivement leur consommation. Donc la méthode brutale n'est pas la moins efficace, loin de là. Elle est juste exigeante.
 
@@ -40,7 +40,7 @@ Toujours selon UCSF Health, préparer des stratégies concrètes avant le jour J
 
 ## Faut-il vraiment refuser toute aide par principe ?
 
-Il n'y a rien d'héroïque à s'interdire tout soutien. Selon Nicorette, les substituts nicotiniques doublent les chances de réussite par rapport à un placebo. Et selon UCSF Health, le taux de réussite à long terme entre 26 et 32 % quand la volonté est combinée à des conseils et des médicaments, contre 3 à 5 % pour la volonté seule. L'écart est net.
+Il n'y a rien d'héroïque à s'interdire tout soutien. Selon une revue Cochrane portant sur plus de 130 essais, les substituts nicotiniques augmentent les chances de réussite de 50 à 60 %. Et selon UCSF Health, les médicaments doublent, voire triplent, les chances d'arrêter, et un accompagnement les double aussi, alors que l'arrêt brutal sans aide ne réussit qu'environ une fois sur vingt après un an. L'écart est net.
 
 Ça ne veut pas dire que tu dois forcément passer par un patch ou une gomme. Une application, une méthode écrite, un carnet de suivi, un ami à appeler au bon moment : tout ça compte comme un "outil", même sans aucune substance chimique. Le vrai risque n'est pas de manquer de volonté, c'est d'arriver devant une envie sans rien sous la main pour l'occuper. Si tu as déjà essayé plusieurs fois et que rien n'a tenu, [ce guide sur comment arrêter de fumer quand rien n'a marché avant](/fr/blog/how-to-quit-smoking-when-nothing-has-worked-before) part justement de ce constat.
 

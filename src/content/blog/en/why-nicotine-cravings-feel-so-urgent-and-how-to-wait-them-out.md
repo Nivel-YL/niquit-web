@@ -20,27 +20,27 @@ Nicotine hijacks a very specific system in your brain. When it binds to α4β2 r
 
 Use nicotine long enough and your brain adapts to that flood. It grows more receptors and recalibrates how reward signals get processed, according to Medindia (2026). That's why the same pack, pouch, or pod stops feeling like enough. When you take nicotine away, the system that adjusted to the flood is suddenly running on empty. The urgency you feel isn't weakness. It's a brain temporarily out of balance, asking loudly for the thing it got used to.
 
-There's a second layer too, and it's the one that outlasts the physical stuff. Nicotine doesn't just chase dopamine, it builds associations. Coffee. Driving. Stress. A specific friend. Your brain links nicotine's effects to whatever was happening around you when you used it, according to the EX Program (2025). That's why a craving can ambush you months after quitting, standing in a parking lot that has nothing to do with nicotine except that you always smoked there.
+There's a second layer too, and it's the one that outlasts the physical stuff. Nicotine doesn't just chase dopamine, it builds associations. Coffee. Driving. Stress. A specific friend. Your brain links nicotine's effects to whatever was happening around you when you used it. According to the National Institute on Drug Abuse, learning processes in the brain tie those cues to nicotine's dopamine surges, and the cues alone can make craving worse. That's why a craving can ambush you months after quitting, standing in a parking lot that has nothing to do with nicotine except that you always smoked there.
 
 ## How long do nicotine cravings actually last?
 
 The full timeline looks like this. Withdrawal symptoms start 4 to 24 hours after your last dose, according to Cleveland Clinic (2021). They peak on day two or three, and by then your body has already done most of the physical work. According to Cleveland Clinic, nicotine itself clears from your bloodstream within 1 to 3 days, though its byproduct cotinine lingers for about 10 days.
 
-That peak window, roughly the first 24 to 72 hours, is the hardest stretch, according to a Consensus Academic Search Engine review. After that, symptoms fade over the following days to three or four weeks in most cases, per Cleveland Clinic. More than 70% of people quitting will deal with cravings and increased appetite during this period, according to Tobacco Free Life (2016), and about 60% experience anxiety, irritability, or poor concentration lasting up to four weeks, per the same source.
+That peak window, roughly the first three days, is the hardest stretch, according to the National Cancer Institute. After that, symptoms fade over the following days to three or four weeks in most cases, per Cleveland Clinic. More than 70% of people quitting will deal with cravings and increased appetite during this period, according to Tobacco Free Life (2016), and about 60% experience anxiety, irritability, or poor concentration lasting up to four weeks, per the same source.
 
-Here's the split worth knowing: physical withdrawal is short. Psychological withdrawal is the long game. Medical News Today (2024) notes that physical symptoms fade within days as nicotine leaves your system, but the psychological pull, the habits, the associations, the mental itch, can stick around much longer. For some people, occasional cravings resurface for months or even up to two years as part of what's sometimes called post-acute withdrawal, according to ScienceInsights (2026), though they're strongest early on and get rarer over time.
+Here's the split worth knowing: physical withdrawal is short. Psychological withdrawal is the long game. Medical News Today (2024) notes that physical symptoms fade within days as nicotine leaves your system, but the psychological pull, the habits, the associations, the mental itch, can stick around much longer. For some people, occasional mild cravings resurface months or even years later, according to the National Cancer Institute, though they're strongest early on and get rarer over time.
 
 ## What actually works while you wait a craving out?
 
-The single most useful thing to remember mid-craving: it rises, peaks, and passes, whether you use nicotine or not, according to Quit Smoking Community. You don't have to fight it into submission. You just have to survive the 3 to 20 minutes it takes to crest.
+The single most useful thing to remember mid-craving: it passes in three to five minutes whether you use nicotine or not, according to the American Lung Association. You don't have to fight it into submission. You just have to outlast those few minutes.
 
 A few things make that easier:
 
 Move your body. A short walk, some stairs, anything physical gives the urge somewhere to go. Truth Initiative (2026) lists exercise alongside distraction and community support as concrete tools that help people push through withdrawal.
 
-Interrupt the loop. Since the mental replay is what stretches a 5-minute craving into what feels like an hour, according to Quit Smoking Community, breaking your attention (call someone, do a chore, change rooms) matters more than gritting your teeth.
+Interrupt the loop. Since the mental replay is what stretches a 5-minute craving into what feels like an hour, breaking your attention (call someone, do a chore, change rooms) matters more than gritting your teeth.
 
-Consider NRT if you're quitting nicotine entirely. Nicotine replacement therapy measurably reduces craving intensity. One comparison found that 24-hour patches controlled cravings better than 16-hour patches, especially during the roughest first two weeks, according to the Consensus Academic Search Engine review.
+Consider NRT if you're quitting nicotine entirely. Nicotine replacement therapy helps manage withdrawal, according to the National Cancer Institute, and a Cochrane review of more than 130 trials found it raises the chances of quitting by 50 to 60%.
 
 Know your specific trigger. If pouches are your thing, the mechanics of craving and quitting are covered in more detail in [how to quit nicotine pouches](/blog/how-to-quit-nicotine-pouches-zyn-on-velo). If it's vaping, [this step-by-step guide](/blog/how-to-quit-vaping-a-realistic-step-by-step-guide) walks through the same peak-and-fade pattern in a vape-specific context. And if you've tried quitting outright with no plan and it hasn't stuck, it's worth reading [why cold turkey fails for most people](/blog/why-quitting-smoking-cold-turkey-fails-for-most-people): the biology above is a big part of the answer.
 

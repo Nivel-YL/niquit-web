@@ -16,9 +16,9 @@ The honest answer, based on the research we have, is: it depends on how you defi
 
 For smoking cessation, the data leans hard against gradual reduction. In a study by Cheong et al. published in Nicotine & Tobacco Research (2007), smokers who quit cold turkey had a 22% success rate at four weeks and 27% at six months. Smokers who tried to cut down gradually had only 12% and 16% success at those same points. A separate randomized trial of roughly 700 participants published in the Annals of Internal Medicine (2016) by Lindson-Hawley and colleagues found similar results: 49% of the cold turkey group were smoke-free at four weeks versus 39% of the gradual-reduction group, and 22% versus 15% at six months.
 
-That said, it's not a clean sweep. A 2024 Cochrane Collaboration review found no clear long-term winner between gradual and abrupt cessation methods, and it specifically noted that nicotine pouch trials haven't validated any universal tapering schedule. Nicotine pouches are newer than cigarettes, so we're borrowing conclusions from smoking research and applying them to pouches, which isn't a perfect fit.
+That said, it's not a clean sweep. A 2019 Cochrane review of 22 trials found no clear long-term winner between cutting down first and quitting abruptly, and that research was on cigarettes: no trial has yet tested a tapering schedule for nicotine pouches. Nicotine pouches are newer than cigarettes, so we're borrowing conclusions from smoking research and applying them to pouches, which isn't a perfect fit.
 
-There's also a nuance worth sitting with:  Tapering isn't doomed to fail. It's just not the guaranteed easier path most people assume it is.
+There's also a nuance worth sitting with: tapering isn't doomed to fail. It's just not the guaranteed easier path most people assume it is.
 
 If you've read [how to quit nicotine pouches](/blog/how-to-quit-nicotine-pouches-zyn-on-velo), you already know the core problem: pouches deliver nicotine fast and consistently, which makes "just a little less" a moving target rather than a fixed one.
 

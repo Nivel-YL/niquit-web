@@ -36,7 +36,7 @@ Si quieres entender el proceso día por día con más detalle, tenemos una guía
 
 ## ¿Por qué la mayoría de la gente recae en la primera semana?
 
-Los números son claros. La primera semana concentra el mayor riesgo de recaída, según un análisis de Craving Toolkit de 2026. Y la literatura biomédica reciente confirma que la mayoría de las personas recaen precisamente durante esa primera semana, cuando la abstinencia está en su punto más severo.
+Los números son claros. La primera semana concentra el mayor riesgo de recaída, según la Cleveland Clinic. Y la literatura biomédica reciente confirma que la mayoría de las personas recaen precisamente durante esa primera semana, cuando la abstinencia está en su punto más severo.
 
 Esto no es casualidad: es matemática pura. El pico de síntomas coincide con el pico de vulnerabilidad. Por eso el tercer día es tan peligroso, no porque sea el momento en que "más te apetece" fumar, sino porque es el momento en que tu cerebro tiene menos recursos para resistirse a esa idea.
 

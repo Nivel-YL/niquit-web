@@ -16,11 +16,11 @@ Das ist kein Zufall. Laut NIH-Forschung versuchen die meisten Raucher ungestütz
 
 ## Warum sind die ersten 72 Stunden ohne Nikotin so schwer?
 
-Dein Gehirn hat sich verändert, nicht deine Willenskraft. Bei regelmäßigem Konsum baut das Gehirn zusätzliche Rezeptoren auf, um die ständige Nikotinflut zu verarbeiten (Biology Insights, 2026). Nikotin dockt an diese Rezeptoren an und löst Dopamin aus. Hörst du auf, sind die Rezeptoren trotzdem noch da und verlangen weiter nach ihrer Dosis (Cleveland Clinic).
+Dein Gehirn hat sich verändert, nicht deine Willenskraft. Bei regelmäßigem Konsum baut das Gehirn zusätzliche Rezeptoren auf, um die ständige Nikotinflut zu verarbeiten (McLaughlin und Kollegen, Übersichtsarbeit in PMC, 2015). Nikotin dockt an diese Rezeptoren an und löst Dopamin aus. Hörst du auf, sind die Rezeptoren trotzdem noch da und verlangen weiter nach ihrer Dosis (Cleveland Clinic).
 
 Genau dieses Ungleichgewicht erzeugt den unangenehmen Zustand, den man Entzug nennt. Eine Studie in PNAS aus 2012 zeigt, dass ein bestimmtes Muster der Dopaminaktivität an D2-Rezeptoren zentral dafür ist, wie sich der Entzug motivational auswirkt, also warum das Verlangen so übermächtig wirkt. Forschende beschreiben es 2025 so: Beim Aufhörversuch aktiviert das Gehirn zusätzliche neuronale Mechanismen.
 
-Die gute Nachricht: Nikotinentzug selbst ist nicht gefährlich. Laut Wikipedia (2026) verursacht er keine lebensbedrohlichen körperlichen Symptome, auch wenn sich das Verlangen so intensiv anfühlen kann wie bei anderen Substanzen.
+Die gute Nachricht: Nikotinentzug selbst ist nicht gefährlich. Laut Cleveland Clinic schadet er deiner Gesundheit nicht, auch wenn sich das Verlangen enorm stark anfühlen kann.
 
 ## Was passiert stündlich beim Nikotinentzug?
 
@@ -30,7 +30,7 @@ Zwischen Stunde 24 und 72 verlässt das Nikotin deinen Körper vollständig. Das
 
 Manche körperlichen Begleiterscheinungen kommen dazu. Wer vorher stark geraucht hat, hustet in dieser Phase oft mehr oder spürt ein Engegefühl in der Brust, weil sich das Gewebe in der Lunge erneuert (GoodRx, 2024). Auch Heißhunger ist typisch, viele essen in den 24 bis 72 Stunden nach dem Rauchstopp deutlich mehr als sonst (GoodRx, 2024). Beides ist normal und vorübergehend.
 
-Am häufigsten unter allen Symptomen bleibt das Craving selbst, es ist laut Cleveland Clinic das mit Abstand verbreitetste Entzugssymptom. Wikipedia (2026) ergänzt: Reizbarkeit, Angst und Konzentrationsschwierigkeiten treten am häufigsten auf, Depressionen und Schlaflosigkeit dagegen seltener. Wie genau sich das bei dir über die Tage entwickelt, kannst du im [Nikotinentzug Tag für Tag](/de/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) nachlesen.
+Am häufigsten unter allen Symptomen bleibt das Craving selbst, es ist laut Cleveland Clinic das mit Abstand verbreitetste Entzugssymptom. Eine Übersichtsarbeit in Nicotine & Tobacco Research nennt dazu Reizbarkeit, Angst, gedrückte Stimmung, Konzentrationsprobleme, Unruhe und Schlafstörungen als typische Entzugssymptome, die alle in der ersten Woche ihren Höhepunkt erreichen. Wie genau sich das bei dir über die Tage entwickelt, kannst du im [Nikotinentzug Tag für Tag](/de/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) nachlesen.
 
 ## Wie lange dauert der Nikotinentzug wirklich?
 
@@ -50,6 +50,6 @@ Wer nicht nur Zigaretten, sondern gleichzeitig Vapes oder Nikotinbeutel nutzt, h
 
 ## Wann wird es leichter?
 
-Nach der akuten Phase berichten viele Menschen von einer spürbaren Verbesserung bei Angst, Stimmung und allgemeinem Wohlbefinden, oft fühlen sich Ex-Raucher deutlich besser als während der aktiven Konsumzeit (Wikipedia, 2026). Das psychologische Muster dahinter: Solange man raucht, ist Nikotin mit positiven Gefühlen verknüpft, im Entzug verschiebt sich das, negative Gefühle werden zum Antrieb, weiterzumachen mit dem Nichtrauchen, statt zurückzufallen (NIH PMC, 2025).
+Nach der akuten Phase geht es vielen spürbar besser: Laut NHS kann der Rauchstopp die Stimmung heben und Stress, Angst und depressive Verstimmungen lindern. Das psychologische Muster dahinter: Solange man raucht, ist Nikotin mit positiven Gefühlen verknüpft, im Entzug verschiebt sich das, negative Gefühle werden zum Antrieb, weiterzumachen mit dem Nichtrauchen, statt zurückzufallen (NIH PMC, 2025).
 
 Die 72 Stunden sind der Teil, der sich am wenigsten nach Fortschritt anfühlt, obwohl du in dieser Zeit die größte biologische Arbeit leistest. Dein Körper baut gerade die Rezeptoren ab, die dich Jahre oder Jahrzehnte an Nikotin gebunden haben. Das passiert nicht, weil du stark genug bist, es durchzustehen, sondern weil du es einfach durchstehst, Stunde für Stunde.

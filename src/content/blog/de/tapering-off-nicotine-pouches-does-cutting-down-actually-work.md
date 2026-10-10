@@ -14,11 +14,11 @@ Du hast noch vier Dosen im Schrank und der Plan steht: eine Packung diese Woche,
 
 ## Ist Reduzieren besser als sofort aufhören?
 
-Die Datenlage ist überraschend eindeutig, zumindest bei Zigaretten.  Nach sechs Monaten war der Unterschied ähnlich: 27 Prozent gegenüber 16 Prozent.
+Die Datenlage ist überraschend eindeutig, zumindest bei Zigaretten. In einer Studie von Cheong und Kollegen in Nicotine & Tobacco Research (2007) waren nach vier Wochen 22 Prozent derjenigen rauchfrei, die abrupt aufgehört hatten, gegenüber 12 Prozent bei schrittweiser Reduktion. Nach sechs Monaten war der Unterschied ähnlich: 27 Prozent gegenüber 16 Prozent.
 
 Eine Untersuchung aus den Annals of Internal Medicine, veröffentlicht 2016 von Lindson-Hawley und Kollegen, kommt mit rund 700 Teilnehmern zu einem vergleichbaren Ergebnis. Nach vier Wochen waren 49 Prozent der Sofort-Aufhörer rauchfrei gegenüber 39 Prozent der Reduzierer. Nach sechs Monaten: 22 Prozent gegenüber 15 Prozent. Eine Metaanalyse von Tan und Kollegen aus 2019 bestätigt das Muster: Schrittweise Reduktion mag sich für viele Raucher angenehmer anfühlen, führt aber seltener zum tatsächlichen Ausstieg.
 
-Wichtig ist die Einschränkung dabei: Diese Zahlen stammen aus der Raucherentwöhnung, nicht aus direkten Studien zu Nikotinbeuteln. Die Cochrane Collaboration hielt 2024 fest, dass es bislang keinen validierten Ausschleich-Plan speziell für Pouches gibt, und dass auch beim Rauchen kein klarer langfristiger Sieger zwischen abruptem und schrittweisem Aufhören feststeht. Die Tendenz zeigt trotzdem klar in eine Richtung.
+Wichtig ist die Einschränkung dabei: Diese Zahlen stammen aus der Raucherentwöhnung, nicht aus direkten Studien zu Nikotinbeuteln. Ein Cochrane-Review von 2019 mit 22 Studien zum Rauchen fand keinen klaren langfristigen Sieger zwischen abruptem und schrittweisem Aufhören, und einen in Studien geprüften Ausschleich-Plan speziell für Pouches gibt es bislang nicht. Die Tendenz zeigt trotzdem klar in eine Richtung.
 
 ## Warum scheitert das langsame Ausschleichen bei Nikotinbeuteln so oft?
 

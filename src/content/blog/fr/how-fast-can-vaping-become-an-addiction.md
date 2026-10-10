@@ -24,15 +24,15 @@ Si tu veux savoir où tu en es toi-même, l'article [Are you addicted to vaping 
 
 ## Pourquoi la nicotine agit-elle aussi vite sur le cerveau ?
 
-La rapidité de l'accroche s'explique par la biologie, pas par un manque de volonté. Selon Biology Insights, la nicotine inhalée atteint le cerveau en 7 à 10 secondes environ, ce qui déclenche une libération de dopamine presque immédiate. C'est plus rapide qu'une injection intraveineuse de nombreuses substances.
+La rapidité de l'accroche s'explique par la biologie, pas par un manque de volonté. Selon le NIDA américain, la nicotine inhalée atteint son pic dans le cerveau en une dizaine de secondes, ce qui déclenche une libération de dopamine presque immédiate.
 
 Cette dopamine fait partie du système de récompense du cerveau. D'après Yale Medicine, elle envoie le message "ce qui vient de se passer était agréable" et entraîne le cerveau à répéter l'action. Le problème, c'est que la nicotine est éliminée rapidement une fois traitée par le foie. Toujours selon Yale Medicine, dès qu'elle disparaît, le cerveau réclame à nouveau sa dose. C'est ce mécanisme, pic puis chute, qui pousse à reprendre la vape encore et encore.
 
-Avec le temps, le cerveau ne se contente pas de réagir : il s'adapte.  C'est exactement le mécanisme qui transforme un usage occasionnel en besoin quotidien.
+Avec le temps, le cerveau ne se contente pas de réagir : il s'adapte. Avec un usage régulier, il fabrique des récepteurs à la nicotine supplémentaires (revue de McLaughlin et ses collègues, PMC, 2015), et il en faut de plus en plus pour obtenir le même effet. C'est exactement le mécanisme qui transforme un usage occasionnel en besoin quotidien.
 
 ## Les vapes modernes accélèrent-elles la dépendance ?
 
-Oui, et c'est une différence importante avec les cigarettes traditionnelles. Les vapes actuelles utilisent des sels de nicotine qui permettent des concentrations élevées sans la sensation d'irritation dans la gorge qu'on ressent avec le tabac fumé. Selon Biology Insights, cela signifie qu'on peut inhaler davantage de nicotine par bouffée sans inconfort, ce qui accélère le cycle de récompense et de renforcement qui mène à la dépendance.
+Oui, et c'est une différence importante avec les cigarettes traditionnelles. Les vapes actuelles utilisent des sels de nicotine qui permettent des concentrations élevées sans la sensation d'irritation dans la gorge qu'on ressent avec le tabac fumé. Selon Yale Medicine, la nicotine de ces pods serait 2 à 10 fois plus concentrée que la nicotine base des autres liquides. Et un essai clinique publié en 2026 dans Nicotine & Tobacco Research a montré qu'à dosage égal, les liquides aux sels de nicotine sont jugés moins irritants et font monter plus haut la nicotine dans le sang. On inhale donc davantage de nicotine par bouffée sans inconfort, ce qui accélère le cycle de récompense et de renforcement qui mène à la dépendance.
 
 Concrètement : ton corps reçoit plus de nicotine, plus vite, sans le signal d'alarme naturel (la toux, l'irritation) qui aurait pu te faire ralentir. C'est une des raisons pour lesquelles les vapes jetables posent un problème particulier, un sujet détaillé dans [Why disposable vapes are so hard to quit](/fr/blog/why-disposable-vapes-are-so-hard-to-quit).
 

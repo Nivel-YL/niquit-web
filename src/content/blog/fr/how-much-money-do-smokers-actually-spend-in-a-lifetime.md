@@ -30,18 +30,18 @@ Fumer coûte cher avant même de tomber malade. Une personne qui fume peut payer
 
 En France, le tabac cause environ 75 000 décès chaque année, et son coût social est estimé à 47 milliards d'euros par an, alors que les recettes fiscales issues du tabac ne rapportent qu'environ 12 milliards d'euros annuels à l'État, selon la Ligue contre le cancer. Autrement dit : pour chaque euro de taxe encaissé, le tabac coûte presque quatre fois plus à la collectivité en soins, en arrêts maladie et en perte de productivité.
 
-À l'échelle mondiale, une revue systématique publiée par NCBI et Cochrane en 2024 estime le coût économique du tabac entre 1 803 et 1 899 milliards de dollars par an, soit 1,76 à 1,85% du PIB mondial. Ce chiffre inclut les dépenses de santé et les pertes de productivité liées à la maladie et aux décès prématurés.
+À l'échelle mondiale, une étude menée par l'OMS et publiée dans la revue Tobacco Control estime le coût économique du tabagisme à environ 1 850 milliards de dollars par an en parité de pouvoir d'achat, soit 1,8 % du PIB mondial. Ce chiffre inclut les dépenses de santé et les pertes de productivité liées à la maladie et aux décès prématurés.
 
 ## Le tabac coûte aussi des années de vie
 
-L'argent n'est qu'une des deux monnaies que le tabac te prend. L'autre, c'est le temps. Selon le CDC, fumer réduit l'espérance de vie d'environ 14 ans en moyenne, principalement à cause du cancer du poumon et des maladies cardiovasculaires. Une étude publiée dans le British Medical Journal en 2000 a poussé le calcul plus loin : chaque cigarette fumée réduirait l'espérance de vie d'environ 11 minutes. Un paquet par jour, ce sont donc environ 3 heures et 40 minutes de vie qui partent en fumée, chaque jour, pendant des années.
+L'argent n'est qu'une des deux monnaies que le tabac te prend. L'autre, c'est le temps. Selon le CDC, arrêter de fumer peut faire gagner jusqu'à 10 ans d'espérance de vie. Une étude publiée dans le British Medical Journal en 2000 a poussé le calcul plus loin : chaque cigarette fumée réduirait l'espérance de vie d'environ 11 minutes. Un paquet par jour, ce sont donc environ 3 heures et 40 minutes de vie qui partent en fumée, chaque jour, pendant des années.
 
 ## Qui paie le prix le plus lourd ?
 
-Ce coût n'est pas réparti équitablement.  C'est le paradoxe d'une politique de prix élevés : elle dissuade certains fumeurs, mais elle appauvrit davantage ceux qui n'arrivent pas à s'arrêter. C'est aussi pour ça que les prix élevés en France ont un effet secondaire connu : environ 29% de la consommation de tabac dans le pays provient du marché parallèle, ce qui représente entre 4 et 9,5 milliards d'euros de recettes fiscales perdues chaque année, selon les rapports des douanes françaises et de la mission MILDECA.
+Ce coût n'est pas réparti équitablement, et c'est tout le paradoxe d'une politique de prix élevés : elle dissuade certains fumeurs, mais elle appauvrit davantage ceux qui n'arrivent pas à s'arrêter. C'est aussi pour ça que les prix élevés en France ont un effet secondaire connu : environ 29% de la consommation de tabac dans le pays provient du marché parallèle, ce qui représente entre 4 et 9,5 milliards d'euros de recettes fiscales perdues chaque année, selon les rapports des douanes françaises et de la mission MILDECA.
 
 ## Ce que tu récupères en arrêtant
 
-La bonne nouvelle dans tout ça, c'est que l'inverse fonctionne aussi vite. Dès la première année sans tabac, les dépenses de santé liées au tabagisme commencent à diminuer de façon mesurable, et sur une vie entière, chaque personne qui arrête économise plusieurs milliers d'euros en frais médicaux évités, selon des données citées par la Vapor Technology Association en 2025.
+La bonne nouvelle dans tout ça, c'est que l'inverse fonctionne aussi vite. Selon le CDC, le risque de maladie coronarienne baisse nettement un à deux ans après l'arrêt. Et côté argent, chaque paquet que tu n'achètes plus reste dans ta poche dès le premier jour.
 
 Si tu es en train de calculer ce que le tabac t'a déjà coûté, ou que tu cherches enfin une méthode qui tienne dans la durée, notre guide sur [pourquoi arrêter de fumer du jour au lendemain échoue pour la plupart des gens](/fr/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) explique pourquoi la volonté seule ne suffit presque jamais. Et si tu as déjà essayé plusieurs fois sans succès, l'article [comment arrêter de fumer quand rien n'a fonctionné avant](/fr/blog/how-to-quit-smoking-when-nothing-has-worked-before) part justement de ce constat.

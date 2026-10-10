@@ -18,7 +18,7 @@ The reason it feels endless is different from the reason it exists. Nicotine bin
 
 ## When do cravings start after you quit, and when do they peak?
 
-Cravings don't wait long to show up. Cravings for nicotine can start 30 minutes after your last cigarette, according to Ireland's Health Service Executive. The symptoms of nicotine withdrawal usually appear 2–3 hours after the last intake of nicotine, according to Wikipedia's medically-cited overview (2024).
+Cravings don't wait long to show up. Cravings for nicotine can start 30 minutes after your last cigarette, according to Ireland's Health Service Executive. The National Cancer Institute puts it within an hour or two.
 
 The peak is the part most people underestimate. Cleveland Clinic (2026) places the worst of it on day two or three of being nicotine-free, with symptoms fading gradually over the following three to four weeks. Nicotine withdrawal symptoms are typically at their worst during the first week of quitting, especially the first 3 to 5 days, according to Drugs.com. That's an important distinction. The sharp, physical craving and the quieter emotional habit of reaching for nicotine are not the same thing, and they don't disappear on the same timeline. For a full breakdown of what happens each day, see [nicotine withdrawal symptoms day by day](/blog/nicotine-withdrawal-symptoms-day-by-day-timeline).
 
@@ -30,7 +30,7 @@ Functional neuroimaging studies have identified a core network of craving-relate
 
 ## When do cravings finally stop for good?
 
-The honest answer: gradually, and unevenly. Ireland's Health Service Executive states that cravings generally improve 4 to 6 weeks after quitting. Nicotine cravings can last from a few hours to several weeks, with significant reduction typically occurring within the first 7 to 10 weeks after cessation, according to Consensus Academic Search.
+The honest answer: gradually, and unevenly. Ireland's Health Service Executive states that cravings generally improve 4 to 6 weeks after quitting. The National Cancer Institute describes the same arc: cravings come often in the first days and weeks, then get farther apart, though an occasional mild one can turn up months or even years later.
 
 More than 70% of people who quit smoking experience cravings and increased appetite during this window, according to Tobacco Free Life (2016), so if you're white-knuckling through week two, you're not the exception, you're the norm.
 

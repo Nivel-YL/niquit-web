@@ -10,7 +10,7 @@ cluster: A
 
 > ZYN und Velo Entzug Tag für Tag erklärt: Was in Körper und Gehirn passiert, wenn du Nikotinbeutel absetzt, und warum Tag 3 am schwersten ist.
 
-Zwei Stunden. So lange braucht dein Körper im Schnitt, um die Hälfte des Nikotins aus einer ZYN- oder Velo-Dose wieder abzubauen, so die Halbwertszeit laut Nectr Energy (2026). Am Ende des ersten Tages ohne Pouch ist der Nikotinspiegel im Blut bereits um mehr als 90 Prozent gesunken, ebenfalls laut Nectr Energy. Trotzdem fühlt sich genau dieser Moment für die meisten Leute nicht wie ein Ende an, sondern wie der Anfang von etwas, das deutlich länger dauert als ein Tag: der ZYN und Velo Entzug.
+Zwei Stunden. So lange braucht dein Körper im Schnitt, um die Hälfte des Nikotins aus einer ZYN- oder Velo-Dose wieder abzubauen, so die Halbwertszeit laut einer pharmakologischen Übersichtsarbeit von Neal Benowitz und Kollegen. Am Ende des ersten Tages ohne Pouch ist kaum noch Nikotin im Blut. Trotzdem fühlt sich genau dieser Moment für die meisten Leute nicht wie ein Ende an, sondern wie der Anfang von etwas, das deutlich länger dauert als ein Tag: der ZYN und Velo Entzug.
 
 Wer schon mal versucht hat, Pouches wegzulassen, kennt das Muster: Die ersten Stunden gehen noch, dann wird es unruhig. Was dabei genau im Körper und im Kopf passiert, lässt sich inzwischen ziemlich genau nachzeichnen.
 
@@ -24,21 +24,21 @@ Wie sich Nikotinentzug generell über die Wochen entwickelt, unabhängig vom Pro
 
 ## Tag 1 bis 3: Warum der dritte Tag am schlimmsten ist
 
-An den ersten drei Tagen erreichen Cravings, Reizbarkeit, Kopfschmerzen und Stimmungsschwankungen ihren Höhepunkt, während das Nikotin aus dem Körper verschwindet, so Ubie Health (2026). Nach Einschätzung von Nectr Energy (2026) ist für die meisten Menschen genau der dritte Tag der schwerste, weil das Nikotin dann vollständig abgebaut ist und die Entzugssymptome ihre maximale Intensität erreichen.
+In den ersten drei Tagen erreichen Cravings, Reizbarkeit, Kopfschmerzen und Stimmungsschwankungen ihren Höhepunkt, laut Cleveland Clinic meist am zweiten oder dritten Tag: Das Nikotin ist dann aus dem Blut verschwunden, aber das Gehirn hat sich noch nicht darauf eingestellt.
 
-Konkret bedeutet das: Craving-Wellen, die 3 bis 5 Minuten anhalten, anhaltende Kopfschmerzen, Angstgefühle, Reizbarkeit, ein wattiges Gefühl im Kopf und manchmal ein Kribbeln in Händen und Füßen, das eigentlich ein gutes Zeichen ist, weil sich die Durchblutung verbessert (Nectr Energy, 2026). Die häufigsten Symptome insgesamt sind Reizbarkeit, Angst und Konzentrationsschwierigkeiten, während Depression und Schlaflosigkeit seltener auftreten, so eine Auswertung auf Wikipedia (2025).
+Konkret bedeutet das: Craving-Wellen, die laut American Lung Association jeweils nach 3 bis 5 Minuten abklingen, ob du konsumierst oder nicht, dazu Kopfschmerzen, Angstgefühle, Reizbarkeit und ein wattiges Gefühl im Kopf. Eine Übersichtsarbeit in Nicotine & Tobacco Research nennt Reizbarkeit, Angst, gedrückte Stimmung, Konzentrationsprobleme, Unruhe und Schlafstörungen als typische Entzugssymptome.
 
 Wenn du an Tag 3 das Gefühl hast, es wird schlimmer statt besser, ist das kein Rückschritt. Es ist der biologisch erwartbare Höhepunkt.
 
 ## Tag 4 bis 7: Wird es jetzt leichter?
 
-Ab dem vierten Tag beginnen sich die Symptome laut Ubie Health (2026) zu stabilisieren. Schlafprobleme und Appetitveränderungen bleiben in dieser Phase häufig, die akuten Cravings werden aber seltener und kürzer. Viele merken hier zum ersten Mal, dass ein Tag ohne Pouch machbar ist, auch wenn die Nächte noch unruhig sind.
+Ab dem dritten Tag wird es laut Cleveland Clinic jeden Tag ein bisschen besser. Schlafprobleme und Appetitveränderungen bleiben in dieser Phase häufig, die akuten Cravings werden aber seltener und kürzer. Viele merken hier zum ersten Mal, dass ein Tag ohne Pouch machbar ist, auch wenn die Nächte noch unruhig sind.
 
 ## Woche 2 bis 4: Warum die Lust nicht einfach verschwindet
 
-Zwischen Woche 2 und 4 kippt etwas Entscheidendes: Die körperlichen Symptome lassen nach, aber das psychologische Verlangen bleibt, so Ubie Health (2026). Das erklärt, warum manche Leute in dieser Phase aufgeben, obwohl der Körper schon fast durch ist. Kopfschmerzen und Unruhe sind weg, aber die automatische Hand-zum-Mund-Bewegung beim Autofahren oder die Pouch als Belohnung nach dem Essen fehlen noch spürbar.
+Zwischen Woche 2 und 4 kippt etwas Entscheidendes: Die körperlichen Symptome lassen nach, aber das psychologische Verlangen bleibt. Das erklärt, warum manche Leute in dieser Phase aufgeben, obwohl der Körper schon fast durch ist. Kopfschmerzen und Unruhe sind weg, aber die automatische Hand-zum-Mund-Bewegung beim Autofahren oder die Pouch als Belohnung nach dem Essen fehlen noch spürbar.
 
-Das Gehirn selbst braucht dafür seine eigene Zeit. Laut Nectr Energy (2026) beginnt es bereits innerhalb weniger Tage damit, überzählige Nikotinrezeptoren wieder abzubauen, und die meisten Menschen erreichen ihre neurochemische Baseline innerhalb von 1 bis 3 Monaten.
+Das Gehirn selbst braucht dafür seine eigene Zeit. Bildgebende Hirnstudien zeigen, dass die Zahl der Nikotinrezeptoren bei Menschen, die mit dem Rauchen aufgehört haben, nach drei Wochen bis drei Monaten wieder auf dem Niveau von Nichtrauchern liegt. Die Studien betrafen Zigaretten, aber Nikotin wirkt an denselben Rezeptoren, egal aus welchem Produkt es stammt.
 
 ## Was passiert dabei eigentlich im Gehirn?
 
@@ -50,7 +50,7 @@ Dopamin ist dabei nicht die ganze Geschichte. Auch Glutamat- und GABA-Signalwege
 
 Ein Grund, warum viele ihre ZYN- oder Velo-Abhängigkeit unterschätzen: Pouches erzeugen keinen Rauch, keine Asche, keinen sichtbaren Dampf. Das macht Dauerkonsum über den ganzen Tag hinweg möglich, fast unbemerkt, so eine Einschätzung von Detox to Rehab (2026). Die pH-Regulierung in den Pouches sorgt zusätzlich dafür, dass die Nikotinaufnahme beschleunigt wird, was sie zu einem besonders effizienten Zufuhrsystem macht, erklärt Forbes (2026).
 
-Mit der Zeit verschiebt sich der Grund für den Konsum: Weg von einem angenehmen Kick, hin zur reinen Vermeidung von Reizbarkeit, Unruhe, schlechter Laune, Konzentrationsproblemen und Heißhunger, so eine Beobachtung von Forbes (2026). Erschwerend kommt hinzu, dass laut Truth Initiative (2026) zwar 26 Nikotinbeutel-Produkte von der FDA für den Verkauf zugelassen sind, aber kein einziges davon als Mittel zum Aufhören zugelassen wurde. Wer mit Pouches aufhören will, kann also nicht auf ein offiziell geprüftes Ausstiegsprodukt zurückgreifen.
+Mit der Zeit verschiebt sich der Grund für den Konsum: Weg von einem angenehmen Kick, hin zur reinen Vermeidung von Reizbarkeit, Unruhe, schlechter Laune, Konzentrationsproblemen und Heißhunger, so eine Beobachtung von Forbes (2026). Erschwerend kommt hinzu, dass laut Truth Initiative (2026) die FDA zwar eine Reihe von Nikotinbeuteln für den Verkauf zugelassen hat, aber keinen einzigen als Mittel zum Aufhören. Wer mit Pouches aufhören will, kann also nicht auf ein offiziell geprüftes Ausstiegsprodukt zurückgreifen.
 
 Was das für den Alltag beim Aufhören bedeutet, einschließlich konkreter Schritte, haben wir in [Wie man mit Nikotinbeuteln aufhört (ZYN, On!, Velo)](/de/blog/how-to-quit-nicotine-pouches-zyn-on-velo) zusammengefasst. Und welche körperlichen Nebenwirkungen während der Nutzung selbst oft übersehen werden, steht in [Nikotinbeutel Nebenwirkungen: Was dir niemand sagt](/de/blog/nicotine-pouch-side-effects-what-no-one-tells-you).
 

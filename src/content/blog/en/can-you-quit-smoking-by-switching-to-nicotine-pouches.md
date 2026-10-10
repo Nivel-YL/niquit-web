@@ -16,7 +16,7 @@ You've tried the patch. You've tried the gum. Maybe you white-knuckled it for th
 
 Not in the way most people assume. A 2025 review by Heshmati and colleagues, published in Addiction, looked at seven randomized trials involving 269 adult participants and found no evidence that tobacco-free nicotine pouches increase actual smoking cessation rates compared with other products or a control group.
 
-That doesn't mean they're useless.  So they might help you cut down. Quitting entirely is a different, harder claim, and one the current evidence doesn't support yet.
+That doesn't mean they're useless. They might help some people cut down. Quitting entirely is a different, harder claim, and one the current evidence doesn't support yet.
 
 ## How do nicotine pouches compare to cigarettes when a craving hits?
 
@@ -34,7 +34,7 @@ But "no tobacco" doesn't mean "no chemicals of concern." A 2022 analysis in Toba
 
 Yes, and this is the part people underestimate most. Nicotine is addictive regardless of the delivery method. According to Ryan Marino, MD, a medical toxicologist and addiction medicine specialist at University Hospitals, nicotine pouches carry the same risk for people to develop dependence, withdrawal, and addiction. Recovery Centers of America puts it plainly: pouches eliminate combustion-related toxins, but they still deliver a nicotine dose that can create dependence comparable to cigarettes.
 
-There's also a quieter risk that doesn't get talked about enough. Research from Eternal Purpose Recovery notes that using pouches in addition to smoking, rather than instead of it, doesn't give you any harm reduction at all. It just adds a second source of nicotine throughout your day on top of the cigarettes you're still smoking. If that sounds familiar,  walks through what it actually takes to get off pouches once they've become their own habit. And if you're already juggling more than one nicotine product, [nicotine addiction is not about the product, it's about the molecule](/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule) explains why swapping formats rarely solves the underlying problem.
+There's also a quieter risk that doesn't get talked about enough. Research from Eternal Purpose Recovery notes that using pouches in addition to smoking, rather than instead of it, doesn't give you any harm reduction at all. It just adds a second source of nicotine throughout your day on top of the cigarettes you're still smoking. If that sounds familiar, [how to quit nicotine pouches (ZYN, On!, Velo)](/blog/how-to-quit-nicotine-pouches-zyn-on-velo) walks through what it actually takes to get off pouches once they've become their own habit. And if you're already juggling more than one nicotine product, [nicotine addiction is not about the product, it's about the molecule](/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule) explains why swapping formats rarely solves the underlying problem.
 
 ## So should you switch to nicotine pouches to quit smoking?
 

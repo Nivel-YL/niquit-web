@@ -20,11 +20,11 @@ Con el uso repetido, tu cerebro se adapta. Aumenta el número de receptores y ca
 
 ## ¿Cuánto dura realmente un antojo de nicotina?
 
-Aquí está la parte que casi nadie te dice: un antojo individual suele durar entre 3 y 5 minutos [Quit Smoking Community, 2026]. Algunas fuentes hablan de hasta 15 o 20 minutos [WebMD, 2024], pero los resúmenes clínicos más citados coinciden en la franja corta [HSE Ireland, 2024]. El problema no es la duración real, es lo que tu mente hace con esos minutos.
+Aquí está la parte que casi nadie te dice: según la American Lung Association, un antojo pasa en 3 a 5 minutos, fumes o no. Algunas fuentes hablan de hasta 15 o 20 minutos [WebMD, 2024], pero en cualquier caso hablamos de minutos, no de horas. El problema no es la duración real, es lo que tu mente hace con esos minutos.
 
-Lo que alarga la sensación es el bucle mental que se activa alrededor: piensas en fumar, negocias contigo mismo ("solamente uno y ya"), esperas el alivio que sabes que va a llegar si cedes [Quit Smoking Community, 2026]. Ese diálogo interno estira tres minutos hasta que se sienten como media hora.
+Lo que alarga la sensación es el bucle mental que se activa alrededor: piensas en fumar, negocias contigo mismo ("solamente uno y ya"), esperas el alivio que sabes que va a llegar si cedes. Ese diálogo interno estira tres minutos hasta que se sienten como media hora.
 
-También influye la memoria. Con el tiempo, tu cerebro asoció ciertos lugares, emociones y momentos del día con la nicotina, así que esos disparadores siguen activando el antojo aunque hayan pasado meses desde que lo dejaste [EX Program, 2025]. Si sueles fumar al salir del trabajo, tu cerebro espera nicotina a esa hora concreta, no porque tu cuerpo la necesite fisiológicamente, sino porque así aprendió a funcionar.
+También influye la memoria. Con el tiempo, tu cerebro asoció ciertos lugares, emociones y momentos del día con la nicotina, así que esos disparadores siguen activando el antojo aunque hayan pasado meses desde que lo dejaste [NIDA; National Cancer Institute]. Si sueles fumar al salir del trabajo, tu cerebro espera nicotina a esa hora concreta, no porque tu cuerpo la necesite fisiológicamente, sino porque así aprendió a funcionar.
 
 ## ¿Cuándo empiezan de verdad a bajar los antojos?
 
@@ -36,7 +36,7 @@ Los síntomas de abstinencia suelen aparecer entre 4 y 24 horas después de la �
 
 ## ¿Cómo aguanto un antojo sin ceder?
 
-La idea central que hay que grabarse es simple: un antojo es intenso, no permanente. Sube, llega a un pico y baja, fumes o no fumes [Quit Smoking Community, 2026]. Tu trabajo no es eliminar el antojo, es sobrevivir a esos 3 o 5 minutos sin actuar sobre él.
+La idea central que hay que grabarse es simple: un antojo es intenso, no permanente. Sube, llega a un pico y baja, fumes o no fumes [American Lung Association]. Tu trabajo no es eliminar el antojo, es sobrevivir a esos 3 o 5 minutos sin actuar sobre él.
 
 Algunas cosas que sí funcionan, según la evidencia disponible: hacer ejercicio, buscar una distracción concreta, apoyarte en gente que también está en el proceso, y usar terapia de reemplazo de nicotina cuando sea necesario [Truth Initiative, 2026]. 
 

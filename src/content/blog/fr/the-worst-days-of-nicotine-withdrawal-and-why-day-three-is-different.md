@@ -30,7 +30,7 @@ Ce qui reste vrai pour presque tout le monde, en revanche, c'est le format des c
 
 ## Pourquoi c'est le moment où on craque le plus souvent
 
-Une analyse du Craving Toolkit (2026) situe les sept premiers jours comme la période où le risque de rechute est le plus élevé. Et la littérature biomédicale récente (2025) confirme que la majorité des rechutes surviennent pendant cette première semaine, précisément quand le sevrage est à son maximum. Le jour 3 n'est donc pas seulement le pic physiologique, c'est aussi le moment où le plus de gens abandonnent, souvent à quelques heures près du sommet de la crise.
+Selon la Cleveland Clinic, c'est pendant la première semaine que le risque de rechute est le plus élevé. Et la littérature biomédicale récente (2025) confirme que la majorité des rechutes surviennent pendant cette première semaine, précisément quand le sevrage est à son maximum. Le jour 3 n'est donc pas seulement le pic physiologique, c'est aussi le moment où le plus de gens abandonnent, souvent à quelques heures près du sommet de la crise.
 
 C'est presque un piège de timing : tu abandonnes juste avant que ça commence à s'améliorer. Le lendemain du pic, les choses ne redeviennent pas parfaites d'un coup, mais la tendance générale s'inverse, l'intensité commence à retomber sur les semaines suivantes.
 

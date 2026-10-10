@@ -22,7 +22,7 @@ Le pic absolu arrive au jour 2 ou 3. La Cleveland Clinic le confirme : c'est à 
 
 Il y a une explication biologique derrière cette sensation de vide. D'après une étude publiée dans Clinical Trials Protocol en 2011, le sevrage aigu de la nicotine provoque une baisse de la libération de dopamine dans le noyau accumbens, une zone clé du circuit de la récompense. Des expériences de microdialyse citées par News Medical en 2025 montrent que les niveaux de dopamine dans le striatum chutent de plus de 20 % pendant cette période. Concrètement : ton cerveau réclame une récompense chimique qu'il ne reçoit plus, et il te le fait savoir.
 
-Le sommeil part en vrille aussi. Le EX Program note que les changements dans le rythme du sommeil démarrent souvent entre 24 et 36 heures après l'arrêt, avec de la somnolence ou des difficultés à s'endormir pendant toute la première semaine.
+Le sommeil peut aussi se dérégler tôt. L'insomnie fait partie des symptômes de sevrage courants cités par la Cleveland Clinic : du mal à s'endormir, des réveils en pleine nuit.
 
 ## Pourquoi j'ai encore faim tout le temps après avoir arrêté ?
 

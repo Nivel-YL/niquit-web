@@ -10,7 +10,7 @@ cluster: G
 
 > Une envie de nicotine dure en moyenne 3 à 5 minutes, mais elle donne l'impression de durer une éternité. Voici ce qui se passe vraiment dans ton cerveau, minute par minute.
 
-Tu regardes l'horloge. Ça fait deux minutes que l'envie a commencé et tu es persuadé qu'elle ne s'arrêtera jamais. Pourtant, . Le problème, ce n'est pas la durée réelle de l'envie. C'est le fait que ton cerveau te fait croire qu'elle va durer des heures.
+Tu regardes l'horloge. Ça fait deux minutes que l'envie a commencé et tu es persuadé qu'elle ne s'arrêtera jamais. Pourtant, selon l'American Lung Association, une envie passe en trois à cinq minutes, que tu fumes ou non. Le problème, ce n'est pas la durée réelle de l'envie. C'est le fait que ton cerveau te fait croire qu'elle va durer des heures.
 
 ## Pourquoi une envie de cigarette ne dure que quelques minutes ?
 
@@ -24,11 +24,11 @@ C'est exactement ce qu'on explique plus en détail dans [pourquoi les envies de 
 
 Ici, il faut distinguer deux choses : l'envie ponctuelle (celle qui dure quelques minutes) et le syndrome de sevrage global (celui qui s'étale sur des semaines).
 
-La Cleveland Clinic (2026) indique que les symptômes de sevrage commencent entre 4 et 24 heures après l'arrêt et atteignent leur pic au deuxième ou troisième jour. La Cleveland Clinic (2026) précise ce calendrier : les symptômes commencent entre 4 et 24 heures après l'arrêt, culminent au deuxième ou troisième jour, puis s'atténuent progressivement sur trois à quatre semaines.
+La Cleveland Clinic (2026) précise le calendrier : les symptômes commencent entre 4 et 24 heures après l'arrêt, culminent au deuxième ou troisième jour, puis s'atténuent progressivement sur trois à quatre semaines.
 
-En pratique, les premiers jours sont les plus durs. Le HSE indique que les envies s'améliorent généralement 4 à 6 semaines après l'arrêt du tabagisme. Une synthèse d'études académiques selon Consensus Academic Search indique que la réduction significative des envies se produit typiquement dans les 7 à 10 semaines après l'arrêt du tabagisme.
+En pratique, les premiers jours sont les plus durs. Le HSE indique que les envies s'améliorent généralement 4 à 6 semaines après l'arrêt du tabagisme. Le National Cancer Institute américain décrit la même courbe : les envies sont fréquentes les premiers jours et les premières semaines, puis s'espacent, même si une envie légère peut encore surgir des mois, voire des années plus tard.
 
-Mais attention à un piège fréquent : croire que tout disparaît en même temps. La Cleveland Clinic (2026) le formule bien : les envies physiques s'estompent en quelques semaines, mais les effets mentaux et émotionnels du sevrage, l'irritabilité, l'ennui, le vide, peuvent persister pendant des mois. C'est souvent cette partie-là qui fait replonger les gens, bien après que la partie physique soit réglée.
+Mais attention à un piège fréquent : croire que tout disparaît en même temps. Selon Medical News Today, au bout de quelques semaines le corps a éliminé l'essentiel de la nicotine et le sevrage devient surtout psychologique : l'irritabilité, l'ennui, le vide peuvent durer plus longtemps que le manque physique. C'est souvent cette partie-là qui fait replonger les gens, bien après que la partie physique soit réglée.
 
 Si tu es dans les tout premiers jours, le [timeline jour par jour des symptômes de sevrage](/fr/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) te donne une idée précise de ce qui t'attend.
 

@@ -14,7 +14,7 @@ Vier bis 24 Stunden nach der letzten Zigarette, dem letzten Zug an der Vape oder
 
 ## Wann fängt der Nikotinentzug wirklich an?
 
-Die ersten Stunden sind trügerisch ruhig. Laut Cleveland Clinic setzen die eigentlichen Entzugserscheinungen erst vier bis 24 Stunden nach der letzten Nikotinaufnahme ein, wenn du vorher über längere Zeit konsumiert hast. In dieser Phase merken viele erst mal wenig, außer vielleicht einer diffusen Unruhe. Interessant ist, dass sich der Schlaf oft schon viel früher verändert: Laut EX Program (2025) beginnen Veränderungen im Schlafrhythmus bereits 24 bis 36 Stunden nach dem Rauchstopp, mit Einschlafproblemen oder ständigem Aufwachen in der ersten Woche.
+Die ersten Stunden sind trügerisch ruhig. Laut Cleveland Clinic setzen die eigentlichen Entzugserscheinungen erst vier bis 24 Stunden nach der letzten Nikotinaufnahme ein, wenn du vorher über längere Zeit konsumiert hast. In dieser Phase merken viele erst mal wenig, außer vielleicht einer diffusen Unruhe. Auch der Schlaf kann früh durcheinandergeraten: Schlaflosigkeit gehört laut Cleveland Clinic zu den häufigen Entzugssymptomen, ob als Einschlafprobleme oder als ständiges Aufwachen.
 
 ## Wann sind die Entzugserscheinungen am schlimmsten?
 

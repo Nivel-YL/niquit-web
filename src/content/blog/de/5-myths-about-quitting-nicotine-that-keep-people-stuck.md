@@ -44,7 +44,7 @@ Ein Hilfsmittel zu nutzen bedeutet nicht, dass du schwächer bist. Es bedeutet, 
 
 ## Mythos 5: "Wenn ich nach ein paar Wochen noch Heißhunger oder schlecht schlafe, habe ich versagt"
 
-Viele werfen genau an diesem Punkt das Handtuch, weil sie erwarten, dass nach dem ersten Monat alles vorbei sein muss. Die Realität ist etwas komplizierter. Zwar kehren laut einer Untersuchung des Consensus Academic Search Engine (2024) die meisten Entzugssymptome innerhalb von 30 Tagen auf ihr ursprüngliches Niveau zurück, aber Symptome wie gesteigerter Appetit und Gewichtszunahme können bis zu sechs Monate anhalten.
+Viele werfen genau an diesem Punkt das Handtuch, weil sie erwarten, dass nach dem ersten Monat alles vorbei sein muss. Die Realität ist etwas komplizierter. Zwar erreichen laut einer Übersichtsarbeit in Nicotine & Tobacco Research die meisten Entzugssymptome in der ersten Woche ihren Höhepunkt und klingen nach zwei bis vier Wochen ab, beim Appetit dauert es aber länger: Laut einer Metaanalyse im BMJ kommt der größte Teil der Gewichtszunahme in den ersten drei Monaten, danach steigt das Gewicht langsamer weiter, etwa bis zum sechsten Monat.
 
 Das ist kein Rückschritt, sondern ein bekannter Teil des Prozesses. Und die gute Nachricht kommt gleich danach: Nach der ersten Entzugsphase erleben viele Menschen laut NIH/PubMed (2014) spürbare Verbesserungen bei Angst, Stimmung und allgemeiner Lebensqualität, oft in einem besseren Zustand als während der aktiven Nikotinnutzung.
 

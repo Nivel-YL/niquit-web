@@ -1,6 +1,6 @@
 ---
 title: "¿Qué tan rápido se vuelve el vapeo en una adicción?"
-description: "Siete segundos. Ese es el tiempo que tarda la nicotina inhalada en llegar a tu cerebro y activar una descarga de dopamina, según Biology Insights (2026)..."
+description: "Unos diez segundos. Es lo que tarda la nicotina inhalada en alcanzar su pico en el cerebro y activar una descarga de dopamina. Así de rápido empieza a formarse la adicción al vapeo."
 publishDate: 2026-09-07
 lang: es
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---
 
-Diez segundos. Ese es el tiempo que tarda la nicotina inhalada en llegar a tu cerebro y activar una descarga de dopamina, según Medical News Today. No hace falta llevar meses vapeando para que tu cerebro empiece a cambiar: el proceso arranca desde la primera calada. Y aunque mucha gente cree que la adicción es cosa de "vapear todos los días durante años", la realidad es bastante más rápida y bastante más incómoda.
+Diez segundos. Ese es el tiempo que tarda la nicotina inhalada en alcanzar su pico en el cerebro y activar una descarga de dopamina, según el NIDA de Estados Unidos. No hace falta llevar meses vapeando para que tu cerebro empiece a cambiar: el proceso arranca desde la primera calada. Y aunque mucha gente cree que la adicción es cosa de "vapear todos los días durante años", la realidad es bastante más rápida y bastante más incómoda.
 
 ## ¿Cuánto tiempo tarda el vapeo en crear adicción?
 
@@ -40,6 +40,6 @@ Incluso las señales del entorno pueden desencadenar antojos intensos: ver a la 
 
 ## Lo que esto significa si quieres dejarlo
 
-La nicotina se considera una enfermedad crónica con recaídas, lo que suele requerir varios intentos antes de lograrlo, según UT MD Anderson.  Eso no es una señal de que te falte disciplina: es simplemente cómo funciona esta adicción para casi todo el mundo.
+La adicción a la nicotina se considera una enfermedad crónica con recaídas, lo que suele requerir varios intentos antes de lograrlo, según UT MD Anderson.  Eso no es una señal de que te falte disciplina: es simplemente cómo funciona esta adicción para casi todo el mundo.
 
 Si ya estás en ese punto, tiene sentido dejar de preguntarte "¿por qué no puedo dejarlo solo?" y empezar a preguntarte "¿qué necesito para hacerlo bien esta vez?". En [cómo dejar de vapear: una guía realista paso a paso](/es/blog/how-to-quit-vaping-a-realistic-step-by-step-guide) encontrarás un plan concreto, y si vienes de fumar y luego pasaste al vapeo, quizás te interese comparar [vapeo vs. tabaco: ¿cuál es más difícil de dejar?](/es/blog/vaping-vs-smoking-which-is-harder-to-quit) para entender mejor en qué punto exacto estás parado.

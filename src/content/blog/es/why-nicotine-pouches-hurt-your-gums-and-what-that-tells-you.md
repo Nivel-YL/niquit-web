@@ -26,7 +26,7 @@ University of Utah Health reporta que sus dentistas observan con frecuencia enro
 
 Un estudio publicado en BMC Oral Health en 2025 confirma este patrón: encontró evidencia clínica de asociaciones específicas entre el lugar de colocación de la bolsa y cambios gingivales localizados, sugiriendo una agresión química y mecánica concentrada en ese punto exacto. No es difuso, es local. Es la marca que deja la bolsa, literalmente, en el mismo sitio, día tras día.
 
-Y las cifras no son marginales.  Casi ocho de cada diez.
+Y las cifras no son marginales: un estudio de Daneshian y colaboradores publicado en Oral Diseases encontró lesiones en la boca en el 79% de los adultos jóvenes que usaban bolsitas de nicotina. Casi ocho de cada diez.
 
 Los saborizantes tampoco son inocentes. 
 

@@ -139,6 +139,16 @@ BLOCKED_SOURCES: list[str] = [
     'quit smoking advisor',           # affiliate site monetizing quit-program comparisons
     'quit smoking community',         # The EX Program's own community page
     "allen carr's easyway", 'allen carr easyway', 'allen carr\'s easy way',  # paid quit-smoking program
+    # Found cited in published articles during the 2026-10-10 source audit:
+    'northerner', 'hitsnus',                        # snus / pouch retailers
+    'nectr energy', 'nicorette', 'nicozon',         # sell pouches, NRT or related products
+    'vaping360', 'vapor technology association',    # vape affiliate site, vape industry trade group
+    'smoke tracker', 'thevapequit', 'craving toolkit',  # competing quit apps / programs
+    'drug test panels',                             # sells drug tests
+    # Not sources at all (encyclopedia, AI search, AI content farms, symptom-checker app):
+    'wikipedia', 'consensus academic', 'consensus.app', 'scienceinsights', 'science insights',
+    'biology insights', 'massivebio', 'apollo health', 'ubie health', 'neurolaunch',
+    'the neuro times', 'neuroscience research institute',
 ]
 
 # Human-readable names for the same entries (matched case-insensitively in research text).

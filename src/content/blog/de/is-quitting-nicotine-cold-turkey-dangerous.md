@@ -20,7 +20,7 @@ Vier bis 24 Stunden nach der letzten Zigarette oder dem letzten Beutel beginnt l
 
 Zu diesen Symptomen zählen laut dem DSM-5 Reizbarkeit, Wut oder Frustration, Angstgefühle, Konzentrationsschwierigkeiten, gesteigerter Appetit, innere Unruhe, gedrückte Stimmung und Schlafprobleme. Unangenehm, ja. Gefährlich, laut Medical News Today nicht: Die Symptome gelten als vorübergehend und mit minimalem gesundheitlichem Risiko verbunden.
 
-Wenn du genau wissen willst, welcher Tag wofür steht, haben wir das ausführlich in unserem Nicotine withdrawal symptoms day by day timeline (/de/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) aufgeschlüsselt. Und wer sich gerade mitten in der kritischen ersten Phase befindet, findet in The first 72 hours without nicotine a survival guide (/de/blog/the-first-72-hours-without-nicotine-a-survival-guide) konkrete Hilfe für genau diese Tage.
+Wenn du genau wissen willst, welcher Tag wofür steht, haben wir das ausführlich in unserem Artikel [Nikotinentzug Tag für Tag](/de/blog/nicotine-withdrawal-symptoms-day-by-day-timeline) aufgeschlüsselt. Und wer sich gerade mitten in der kritischen ersten Phase befindet, findet in The first 72 hours without nicotine a survival guide (/de/blog/the-first-72-hours-without-nicotine-a-survival-guide) konkrete Hilfe für genau diese Tage.
 
 ## Ist kalter Entzug wirksamer als langsames Reduzieren?
 
@@ -28,7 +28,7 @@ Hier wird es interessant, denn die Daten sprechen eine klare Sprache, und sie ü
 
 Eine in den Annals of Internal Medicine veröffentlichte Studie unter Leitung von Lindson-Hawley et al. (2016) bestätigt das Bild: Wer abrupt aufhörte, war nach sechs Monaten um 25 Prozent wahrscheinlicher rauchfrei, und zwar unabhängig davon, welche Methode die Person ursprünglich bevorzugt hätte. Eine Metaanalyse von drei randomisierten kontrollierten Studien mit 1.607 Teilnehmenden, veröffentlicht in Tobacco Induced Diseases (2019), kommt zum selben Schluss: Die Abstinenzrate der Gruppe mit schrittweiser Reduktion war deutlich niedriger als die der Gruppe mit sofortigem Stopp.
 
-Und die Sicherheit?  Das deckt sich mit dem, was Addiction Center (2026) beschreibt: Abruptes Aufhören kann für dauerhafte Abstinenz sogar wirksamer sein als schrittweise Reduktion, wobei der Erfolg stark davon abhängt, wie viel Unterstützung jemand während des Entzugs hat.
+Das deckt sich mit dem, was Addiction Center (2026) beschreibt: Abruptes Aufhören kann für dauerhafte Abstinenz sogar wirksamer sein als schrittweise Reduktion, wobei der Erfolg stark davon abhängt, wie viel Unterstützung jemand während des Entzugs hat.
 
 ## Für wen kann der kalte Entzug besonders schwer sein?
 
@@ -38,7 +38,7 @@ Das bedeutet nicht, dass kalter Entzug für diese Personen unmöglich ist. Es be
 
 ## Was empfehlen Gesundheitsbehörden?
 
- Gleichzeitig erkennt NICE an, dass nicht jeder dafür bereit oder in der Lage ist, und empfiehlt für diese Fälle alternativ Ansätze zur Schadensminderung. Es geht also nicht um ein Dogma, sondern um die Methode, die für die eigene Situation realistisch umsetzbar ist.
+Das britische NICE erkennt an, dass nicht jeder dafür bereit oder in der Lage ist, und empfiehlt für diese Fälle alternativ Ansätze zur Schadensminderung. Es geht also nicht um ein Dogma, sondern um die Methode, die für die eigene Situation realistisch umsetzbar ist.
 
 ## Warum scheitern trotzdem so viele Versuche?
 

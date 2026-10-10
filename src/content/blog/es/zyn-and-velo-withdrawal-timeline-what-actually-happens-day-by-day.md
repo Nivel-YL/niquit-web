@@ -18,7 +18,7 @@ La nicotina de las bolsitas se absorbe a través de la mucosa de la boca de form
 
 La nicotina tiene una vida media de apenas dos horas en el cuerpo, según Medical News Today. Eso significa que, al terminar el primer día sin consumir, los niveles en sangre ya han caído más de un 90%. Tu cuerpo se da cuenta rápido de que algo falta.
 
-Según la Cleveland Clinic, los primeros síntomas de abstinencia aparecen entre las 4 y las 24 horas después de la última dosis si has sido consumidor habitual. No es gradual: es un cambio que notas casi de un día para otro. Durante los primeros tres días, lo típico es sentir ansia intensa, irritabilidad, dolor de cabeza y cambios de humor bruscos, mientras la nicotina termina de salir por completo del organismo, según datos de Ubie Health.
+Según la Cleveland Clinic, los primeros síntomas de abstinencia aparecen entre las 4 y las 24 horas después de la última dosis si has sido consumidor habitual. No es gradual: es un cambio que notas casi de un día para otro. Durante los primeros tres días, lo típico es sentir ansia intensa, irritabilidad, dolor de cabeza y cambios de humor bruscos, con el pico entre el segundo y el tercer día, según la misma fuente.
 
 ## ¿Por qué el día 3 es el peor?
 
@@ -28,13 +28,13 @@ Ese día suele venir acompañado de olas de ansia muy intensas que duran entre 3
 
 ## ¿Qué pasa entre el día 4 y la primera semana?
 
-A partir del cuarto día, los síntomas empiezan a estabilizarse. Lo más común en esta fase es que persistan alteraciones del sueño y cambios en el apetito, aunque ya con menos intensidad que en los primeros tres días, según Ubie Health.
+A partir del tercer día, según la Cleveland Clinic, los síntomas mejoran un poco cada día. Lo más común en esta fase es que sigan las alteraciones del sueño y el aumento del apetito, aunque ya con menos intensidad que al principio.
 
 Es un momento engañoso: te sientes mejor físicamente, pero la mente sigue pidiendo la bolsita en ciertos momentos del día, como después de comer o al sentarte frente a la pantalla. 
 
 ## ¿Cuándo desaparecen los síntomas de abstinencia de la nicotina?
 
-Entre la segunda y la cuarta semana llega el punto de inflexión real: los síntomas físicos ceden, pero las ganas psicológicas de consumir pueden seguir presentes, según Ubie Health. La Cleveland Clinic señala que, en general, los síntomas de abstinencia se van desvaneciendo entre las tres y las cuatro semanas.
+Entre la segunda y la cuarta semana llega el punto de inflexión real: los síntomas físicos ceden, pero las ganas psicológicas de consumir pueden seguir presentes. La Cleveland Clinic señala que, en general, los síntomas de abstinencia se van desvaneciendo entre las tres y las cuatro semanas.
 
 Detrás de esto hay un proceso neuroquímico concreto. La nicotina eleva los niveles de dopamina y actúa sobre los circuitos cerebrales de recompensa y placer, según el Departamento de Salud del Estado de Nueva York. Cuando dejas de consumir, los niveles de dopamina en el núcleo accumbens caen, lo que eleva el umbral de recompensa y puede generar síntomas parecidos a la depresión, de acuerdo con un estudio publicado en Journal of Neuroscience. También intervienen mecanismos de glutamato y GABA en el sistema mesolímbico, no solo la dopamina, según ScienceDirect, y el patrón de actividad dopaminérgica en los receptores D2 es clave para explicar el malestar motivacional de esos días, según un estudio publicado en PNAS.
 
@@ -42,7 +42,7 @@ Detrás de esto hay un proceso neuroquímico concreto. La nicotina eleva los niv
 
 ## Por qué cuesta tanto dejar algo que parece tan inofensivo
 
-Con el tiempo, el consumo deja de buscar placer y empieza a buscar evitar el malestar: irritabilidad, inquietud, mal humor, dificultad para concentrarte y más hambre de lo normal, según un artículo médico publicado en Forbes. Los síntomas más frecuentes de abstinencia, según Wikipedia, son irritabilidad, ansiedad y dificultad para concentrarse, mientras que la depresión y el insomnio aparecen con menos frecuencia.
+Con el tiempo, el consumo deja de buscar placer y empieza a buscar evitar el malestar: irritabilidad, inquietud, mal humor, dificultad para concentrarte y más hambre de lo normal, según un artículo médico publicado en Forbes. Los síntomas típicos de abstinencia, según una revisión publicada en Nicotine & Tobacco Research, son irritabilidad, ansiedad, bajón de ánimo, dificultad para concentrarse, inquietud e insomnio.
 
 Las bolsitas de nicotina usan ajustadores de pH que aceleran la absorción de la nicotina hacia el torrente sanguíneo, lo que las convierte en un sistema de entrega muy eficiente, según Forbes. La nicotina llega al cerebro más despacio que fumando, pero la dosis total puede ser igualmente suficiente para generar dependencia, según un meta-análisis publicado en ScienceDirect. Y aunque hay 26 productos de bolsitas orales aprobados para su venta por la FDA, ninguno está aprobado como herramienta para dejar la nicotina, según Truth Initiative.
 

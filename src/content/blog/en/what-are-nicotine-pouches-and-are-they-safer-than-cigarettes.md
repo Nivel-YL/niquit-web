@@ -42,7 +42,7 @@ This part is worth taking seriously if you have children or teenagers in your ho
 
 ## What's the regulatory status of nicotine pouches?
 
-In the US, the FDA authorized several Zyn products for marketing in 2024 through its Premarket Tobacco Product Application process. That's worth unpacking, because it gets misquoted constantly: this authorization means the FDA determined the product could be appropriate for the protection of public health relative to not being authorized at all, mainly as a potential alternative for adult smokers. It does not mean the FDA declared pouches "safe" or gave them a clean bill of health. Those are two very different things, and the distinction gets lost in a lot of marketing.
+In January 2025, the FDA authorized 20 Zyn products for marketing in the US through its Premarket Tobacco Product Application process. That's worth unpacking, because it gets misquoted constantly: this authorization means the FDA determined the product could be appropriate for the protection of public health relative to not being authorized at all, mainly as a potential alternative for adult smokers. It does not mean the FDA declared pouches "safe" or gave them a clean bill of health. Those are two very different things, and the distinction gets lost in a lot of marketing.
 
 Pouches are legal and easy to find in the US and UK. Rules vary more across the EU, where some countries restrict oral nicotine products more tightly.
 

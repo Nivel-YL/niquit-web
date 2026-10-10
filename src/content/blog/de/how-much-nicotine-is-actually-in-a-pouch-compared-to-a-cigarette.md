@@ -14,7 +14,7 @@ Du hast dir gerade einen Pouch unter die Lippe gelegt und fragst dich, ob das je
 
 ## Wie viel Nikotin hat eine Zigarette wirklich?
 
-Eine unangezündete Zigarette enthält laut Tests der Penn State University, zitiert von Vaping360 (2023), zwischen 7,5 und 13,4 Milligramm Nikotin. Klingt nach viel, aber du nimmst davon längst nicht alles auf. Nach Angaben der CDC aus dem Jahr 2020 landen tatsächlich nur etwa 1 bis 2 Milligramm Nikotin pro Zigarette im Körper, der Rest verbrennt oder verpufft im Rauch. Hochgerechnet auf eine ganze Packung kommst du laut Nicorette auf 22 bis 36 Milligramm Nikotin, die du über den Tag verteilt inhalierst.
+Eine durchschnittliche Zigarette enthält laut einer pharmakologischen Übersichtsarbeit von Neal Benowitz und Kollegen (veröffentlicht in PMC) 10 bis 14 Milligramm Nikotin. Klingt nach viel, aber du nimmst davon längst nicht alles auf. Laut derselben Arbeit landen im Schnitt nur etwa 1 bis 1,5 Milligramm pro Zigarette im Körper, der Rest verbrennt oder verpufft im Rauch. Hochgerechnet auf eine Packung mit 20 Zigaretten kommst du auf etwa 20 bis 30 Milligramm Nikotin am Tag.
 
 ## Wie viel Nikotin ist in einem Nikotinbeutel?
 

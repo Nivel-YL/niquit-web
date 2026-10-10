@@ -16,7 +16,7 @@ Du hast dich entschieden: keine Nikotinpflaster, kein Kaugummi, keine App. Nur d
 
 Die Zahlen schwanken je nach Studie, aber die Richtung ist immer dieselbe. Eine Studie von Cheong et al., veröffentlicht in Nicotine & Tobacco Research, fand heraus, dass 22 Prozent der Menschen, die abrupt aufhörten (kalter Entzug), nach vier Wochen noch rauchfrei waren, 27 Prozent nach sechs Monaten. Zum Vergleich: Wer schrittweise reduzierte, kam nur auf 12 beziehungsweise 16 Prozent. Kalter Entzug schlägt also die Reduktionsmethode.
 
-Andere Quellen zeichnen ein härteres Bild. Nach Daten von UCSF Health schaffen es nur 3 bis 5 Prozent der Menschen, allein mit Willenskraft dauerhaft aufzuhören.  Der Unterschied liegt nicht darin, wie sehr jemand will. Er liegt darin, was passiert, wenn die erste Heißhunger-Attacke kommt.
+Andere Quellen zeichnen ein härteres Bild. Nach Daten von Truth Initiative schaffen es nur 3 bis 5 Prozent der Menschen, allein mit Willenskraft dauerhaft aufzuhören.  Der Unterschied liegt nicht darin, wie sehr jemand will. Er liegt darin, was passiert, wenn die erste Heißhunger-Attacke kommt.
 
 Mehr zu diesem Thema findest du in [Warum Aufhören mit kaltem Entzug für die meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
@@ -42,7 +42,7 @@ Ja, aber nicht durch mehr Anstrengung. Menschen, die einen Aufhörversuch durchg
 
 UCSF Health formuliert es so: Praktische Bewältigungsstrategien, die du vor deinem Stichtag entwickelst, zum Beispiel deine Auslöser zu identifizieren und Alternativen im Kopf durchzuspielen, wiegen wahrscheinlich schwerer als reine Willenskraft. Das ist der entscheidende Unterschied zwischen "ich versuche es einfach" und "ich habe einen Plan". Beides läuft ohne Pflaster oder App ab, aber nur eines davon hat eine realistische Chance.
 
-Nikotinersatzprodukte verdoppeln laut Nicorette (unter Berufung auf eine klinische Studie) die Erfolgschance im Vergleich zu Placebo. Das zeigt, wie viel ein strukturierter Ansatz ausmachen kann, auch wenn du dich am Ende gegen Hilfsmittel entscheidest. Wichtiger als das Werkzeug selbst ist die Vorbereitung dahinter.
+Nikotinersatzprodukte erhöhen laut einem Cochrane-Review mit mehr als 130 Studien die Erfolgschance um 50 bis 60 Prozent. Das zeigt, wie viel ein strukturierter Ansatz ausmachen kann, auch wenn du dich am Ende gegen Hilfsmittel entscheidest. Wichtiger als das Werkzeug selbst ist die Vorbereitung dahinter.
 
 Wenn frühere Versuche schon gescheitert sind, lohnt sich ein Blick in [Wie du aufhörst, wenn nichts bisher funktioniert hat](/de/blog/how-to-quit-smoking-when-nothing-has-worked-before).
 

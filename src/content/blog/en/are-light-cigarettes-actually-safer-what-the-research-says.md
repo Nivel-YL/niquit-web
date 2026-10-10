@@ -12,7 +12,7 @@ You switched to lights because someone told you they were "easier on your lungs.
 
 ## Do light cigarettes have less tar and nicotine?
 
-On paper, yes. That's literally how they were built. Manufacturers punched tiny ventilation holes into the filter so that when a smoking machine tested the cigarette, extra air got sucked in and diluted the smoke, according to research cited by MassiveBio. The machine registered lower tar and nicotine readings. The numbers on the pack looked better. That's the whole trick.
+On paper, yes. That's literally how they were built. Manufacturers punched tiny ventilation holes into the filter so that when a smoking machine tested the cigarette, extra air got sucked in and diluted the smoke, as the National Cancer Institute describes. The machine registered lower tar and nicotine readings. The numbers on the pack looked better. That's the whole trick.
 
 But a machine doesn't smoke like a person does. A machine takes a fixed puff at a fixed interval and never covers the ventilation holes with its lips or fingers. You do. And that difference between how a machine "smokes" and how you actually smoke is where the whole light-cigarette promise falls apart.
 

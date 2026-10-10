@@ -18,7 +18,7 @@ La respuesta corta: casi nunca, pero no por falta de voluntad tuya.
 
 Los números son más duros de lo que la mayoría espera. Según UCSF Health, la tasa de éxito al año dejando de fumar en frío (sin ningún apoyo) ronda el 5%. Un estudio publicado en Nicotine & Tobacco Research encontró que, entre quienes usaron el método de dejarlo de golpe, un 22% seguía sin fumar a las cuatro semanas y un 27% a los seis meses, cifras mejores que las de quienes reducían poco a poco, pero lejos de ser una mayoría.
 
-Según datos de UCSF Health, solamente entre un 3% y un 5% de las personas consigue dejar de fumar usando únicamente fuerza de voluntad.  La diferencia no está en cuánto quieres dejarlo, está en si tienes algo preparado para el momento exacto en que el cerebro pide nicotina.
+Según datos de Truth Initiative, solamente entre un 3% y un 5% de las personas consigue dejar de fumar usando únicamente fuerza de voluntad.  La diferencia no está en cuánto quieres dejarlo, está en si tienes algo preparado para el momento exacto en que el cerebro pide nicotina.
 
 Si ya lo intentaste así antes y no funcionó, no eres la excepción, eres la norma. Puedes leer más sobre esto en [por qué dejar de fumar de golpe falla para la mayoría de la gente](/es/blog/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
@@ -48,6 +48,6 @@ Sí, y no tiene que ver con tener más disciplina, sino con prepararte antes del
 
 Eso significa que "hacerlo solo con la cabeza" no tiene que significar improvisar. Puedes usar tu cabeza para diseñar el plan con antelación: saber qué momentos del día te disparan las ganas, tener algo concreto que hacer con las manos o con la boca, decidir de antemano cómo vas a responder cuando el antojo llegue a los tres minutos de intensidad máxima.
 
-Los productos de reemplazo de nicotina duplican las probabilidades de dejarlo frente a un placebo, según datos citados por Nicorette, así que no hay nada de débil en usarlos si los necesitas. Pero si tu plan es no usar nada externo, la clave está en reemplazar la ausencia de parche o app con algo igual de concreto: un mapa mental de tus disparadores, una respuesta ensayada para cada uno. Puedes armar ese mapa con [cómo identificar tus disparadores y romper el ciclo](/es/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop) o con [qué hacer en lugar de fumar](/es/blog/what-to-do-instead-of-smoking-6-replacements-that-work).
+Según una revisión Cochrane de más de 130 ensayos, los productos de reemplazo de nicotina aumentan entre un 50 y un 60% las probabilidades de dejarlo, así que no hay nada de débil en usarlos si los necesitas. Pero si tu plan es no usar nada externo, la clave está en reemplazar la ausencia de parche o app con algo igual de concreto: un mapa mental de tus disparadores, una respuesta ensayada para cada uno. Puedes armar ese mapa con [cómo identificar tus disparadores y romper el ciclo](/es/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop) o con [qué hacer en lugar de fumar](/es/blog/what-to-do-instead-of-smoking-6-replacements-that-work).
 
 Dejarlo solamente con la cabeza es posible, los números lo confirman, aunque sean números pequeños. La diferencia entre el 5% que lo logra y el resto casi nunca es cuánto querían dejarlo, sino si sabían exactamente qué hacer en el minuto en que las ganas llegaban.

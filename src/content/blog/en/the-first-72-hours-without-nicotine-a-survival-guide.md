@@ -16,7 +16,7 @@ Here's the part nobody tells you clearly enough: this window is short. Brutal, b
 
 ## Why does quitting nicotine feel so unbearable in the first few days?
 
-Your brain didn't build a habit. It built hardware. Every time nicotine hit your system, it locked onto receptors and triggered a dopamine release, and with regular use, your brain grew extra receptors to keep up with the demand, according to Biology Insights. Those receptors don't disappear the moment you quit. They're still there, empty, and according to ScienceInsights, they keep demanding nicotine even after you've made the decision to stop.
+Your brain didn't build a habit. It built hardware. Every time nicotine hit your system, it locked onto receptors and triggered a dopamine release, and with regular use, your brain grew extra receptors, a process researchers call upregulation (McLaughlin and colleagues, review in PMC, 2015). Those receptors don't disappear the moment you quit. Once nicotine stops stimulating them, your brain releases less dopamine, and the Cleveland Clinic explains that this shift is behind much of what you feel in withdrawal.
 
 Research published in PNAS in 2012 points to something more specific: a pattern of dopamine activity at D2 receptors that drives the motivational pull you feel during withdrawal. It's not in your head. It's in your circuitry. And a 2024 paper from NIH PMC explains why quitting is so much harder than it sounds: your brain recruits additional neural mechanisms to create an aversive withdrawal state, which is part of why relapse rates among nicotine users are so high.
 
@@ -34,15 +34,15 @@ Worth knowing: not everyone's timeline looks identical. GoodRx points out that m
 
 ## Which withdrawal symptoms are actually normal?
 
-Cravings top the list. The Cleveland Clinic identifies them as the single most common withdrawal symptom, full stop. Beyond that, Wikipedia's summary of withdrawal research lists irritability, anxiety, and difficulty concentrating as the most frequently reported symptoms, with depression and insomnia showing up less often, though they still happen.
+Cravings top the list. The Cleveland Clinic identifies them as the single most common withdrawal symptom, full stop. Beyond that, a review in Nicotine & Tobacco Research names irritability, anxiety, low mood, trouble concentrating, restlessness and poor sleep as the core withdrawal symptoms, all peaking in the first week.
 
-What you probably won't get: anything dangerous. Wikipedia is clear that nicotine withdrawal doesn't cause serious physical harm and isn't life-threatening on its own, even though the cravings can feel every bit as intense as withdrawal from other substances. That distinction matters. Your body isn't in danger. Your comfort is just temporarily wrecked.
+What you probably won't get: anything dangerous. The Cleveland Clinic is clear that nicotine withdrawal isn't harmful to your health, even when the cravings feel overwhelming. That distinction matters. Your body isn't in danger. Your comfort is just temporarily wrecked.
 
 There's also a psychological shift happening underneath the surface symptoms. A 2025 paper from NIH PMC describes how the negative feelings during withdrawal push your brain from using nicotine because it felt good, toward using nicotine just to avoid feeling bad. Recognizing that shift while it's happening can help you separate the craving from any real, present threat.
 
 ## Why is the first week the point most people fail?
 
-Here's the number that matters most: the CDC reports that only about 7.5% of smokers who try to quit succeed each year without support, and most who fail do so in the first few days, not weeks later. The Cleveland Clinic confirms this pattern, calling the first week the highest-risk window for slipping back.
+Here's the number that matters most: according to the CDC, fewer than 1 in 10 adults who smoke manage to quit in a given year. And the danger zone is early: the Cleveland Clinic calls the first week after quitting the time you're most at risk of slipping back.
 
 That statistic isn't meant to scare you. It's meant to explain why "just tough it out" fails so often. If you're going in without a plan for hour 30 and hour 55, you're relying on willpower alone against a brain that's chemically rigged against you. That's a fair fight for almost nobody.
 
@@ -54,4 +54,4 @@ Distraction beats resistance. Cravings are intense but short, often peaking and 
 
 Expect the physical noise: coughing, hunger, restlessness. These aren't setbacks, they're your body doing repair work. Track how you feel each day if it helps you see progress; the day-by-day nicotine withdrawal timeline lays out what to expect beyond hour 72 as well.
 
-And know this: the other side is real. Wikipedia's research summary notes that after the initial withdrawal period, people often see genuine improvements in anxiety, depression, and overall quality of life, ending up better off than when they were using nicotine daily. Three days of discomfort for that outcome is a trade worth making.
+And know this: the other side is real. The NHS notes that quitting can improve your mood and help relieve stress, anxiety and depression, so many people end up feeling better than they did while using nicotine daily. Three days of discomfort for that outcome is a trade worth making.

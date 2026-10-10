@@ -50,10 +50,10 @@ Wer stattdessen auf E-Zigaretten oder Nikotinbeutel umsteigt, sollte übrigens w
 
 Geld ist nur die eine Seite. Eine britische Studie im British Medical Journal aus dem Jahr 2000 kam zu einem Ergebnis, das viele überrascht: Jede gerauchte Zigarette verkürzt das Leben im Schnitt um etwa 11 Minuten. Das ergibt sich daraus, dass lebenslange Raucher durchschnittlich 10 bis 11 Lebensjahre verlieren.
 
-Die CDC beziffert den Verlust an Lebenserwartung insgesamt auf durchschnittlich 14 Jahre, verursacht durch Lungenkrebs, Herzerkrankungen und andere Folgeleiden. Rechnest du das gegen die 122.000 Euro von oben, wird klar: Die eigentliche Rechnung ist nicht in Euro zu bezahlen.
+Umgekehrt gilt laut CDC: Wer mit dem Rauchen aufhört, kann bis zu zehn Jahre Lebenserwartung gewinnen. Rechnest du das gegen die 122.000 Euro von oben, wird klar: Die eigentliche Rechnung ist nicht in Euro zu bezahlen.
 
 ## Was bedeutet das für dich konkret?
 
-Wenn du gerade überlegst aufzuhören, ist der Moment, in dem sich die Zahlen bewahrheiten, immer erst später. Aber Studien zur Kostenersparnis zeigen laut Vapor Technology Association: Schon im ersten Jahr nach dem Rauchstopp sinken die medizinischen Ausgaben messbar, und über ein Leben gerechnet spart jeder, der aufhört, mehrere tausend Euro an Gesundheitskosten.
+Wenn du gerade überlegst aufzuhören, ist der Moment, in dem sich die Zahlen bewahrheiten, immer erst später. Beim Herzen geht es allerdings schneller: Laut CDC sinkt das Risiko einer koronaren Herzkrankheit schon ein bis zwei Jahre nach dem Rauchstopp deutlich.
 
 Falls du schon mal versucht hast aufzuhören und es nicht geklappt hat, bist du nicht allein damit. Unser Artikel [Warum kalter Entzug beim Rauchstopp für die meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) erklärt, warum das kein Charakterfehler ist, sondern Biologie. Und wenn du das Gefühl hast, schon alles ausprobiert zu haben, lohnt sich ein Blick in [Wie man mit dem Rauchen aufhört, wenn bisher nichts geholfen hat](/de/blog/how-to-quit-smoking-when-nothing-has-worked-before).

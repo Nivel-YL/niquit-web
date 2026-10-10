@@ -16,7 +16,7 @@ Knowing what's coming, and when, makes the whole thing less terrifying. Here's w
 
 ## What happens in the first 24 hours after you quit?
 
-Not much at first. Your body is still running on the nicotine already in your system. But somewhere in that four-to-24-hour window, the Cleveland Clinic notes, the first symptoms show up: restlessness, a low-grade irritability, maybe the first flicker of a craving you can't quite place. Sleep starts shifting fast, too. The EX Program (2025) points out that changes in sleep often begin within 24 to 36 hours of quitting, whether that's trouble falling asleep or waking up more than usual.
+Not much at first. Your body is still running on the nicotine already in your system. But somewhere in that four-to-24-hour window, the Cleveland Clinic notes, the first symptoms show up: restlessness, a low-grade irritability, maybe the first flicker of a craving you can't quite place. Sleep can start shifting early, too: trouble sleeping is one of the common withdrawal symptoms the Cleveland Clinic lists, whether that means lying awake or waking up more than usual.
 
 This is also when appetite starts moving. WebMD (2024) notes that within a day or so of your last cigarette, appetite tends to shoot up, which catches a lot of people off guard on day one.
 
@@ -48,6 +48,6 @@ This matches what's happening at the neural level. A 2023 review (NCBI/PMC) expl
 
 ## How can I actually get through the worst days?
 
-Quitting without any support is hard, and the numbers back that up starkly. According to the CDC, 68% of adult smokers want to quit, but only 7.5% succeed in a given year without help. Compare that to quit attempts using nicotine replacement therapy or medications like varenicline alongside behavioral support, where clinical trial data published in PMC shows initial abstinence rates in the range of 40–50% with varenicline plus behavioral support (PMC2879135). That gap is the entire argument for not doing this alone.
+Quitting without any support is hard, and the numbers back that up starkly. According to the CDC, about 68% of adults who smoke want to quit, yet in a given year fewer than 1 in 10 succeed, and fewer than 4 in 10 use counseling or approved medication when they try. Compare that to quit attempts using nicotine replacement therapy or medications like varenicline alongside behavioral support, where clinical trial data published in PMC shows initial abstinence rates in the range of 40-50% with varenicline plus behavioral support (PMC2879135). That gap is the entire argument for not doing this alone.
 
 If you're tempted to just white-knuckle it, it's worth reading [why quitting smoking cold turkey fails for most people](/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) before you decide how to approach day one. And if relapse does happen, longitudinal research from the ITC Four Country Survey (published in PMC, 2015) found that even with a 37% relapse rate between survey waves, 63% of people stayed abstinent. The odds are better than the worst days make them feel.

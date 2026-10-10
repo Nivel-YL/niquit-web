@@ -14,7 +14,7 @@ You pop a 4mg ZYN under your lip and check the tin: 4mg. You used to smoke a pac
 
 ## Does a cigarette actually contain less nicotine than a pouch?
 
-An unlit cigarette holds more nicotine than most people assume, somewhere between 7.5 and 13.4 milligrams, according to Penn State University testing cited by Vaping360. But you don't inhale all of that. Most of it burns off or escapes as sidestream smoke. What you actually absorb, according to a 2020 report from the CDC, is closer to 1 to 2 mg per cigarette. Multiply that across a full pack and you're looking at roughly 22 to 36mg of total nicotine inhaled per day, a figure also cited by Nicorette.
+An unlit cigarette holds more nicotine than most people assume: an average cigarette contains 10 to 14 milligrams, according to a pharmacology review by Neal Benowitz and colleagues published in PMC. But you don't inhale all of that. Most of it burns off or escapes as sidestream smoke. What you actually absorb, the same review notes, is on average about 1 to 1.5 mg per cigarette. Multiply that across a full pack of 20 and you're looking at roughly 20 to 30 mg of nicotine absorbed per day.
 
 A tobacco-free nicotine pouch, by comparison, contains an average of 6.4mg of nicotine, while tobacco-based pouches average 12.3mg, according to a 2025 study published in Nicotine & Tobacco Research. So on paper, a single pouch can already contain more nicotine than what a cigarette actually delivers to your bloodstream.
 

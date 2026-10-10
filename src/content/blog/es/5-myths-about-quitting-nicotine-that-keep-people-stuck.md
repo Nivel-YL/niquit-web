@@ -24,7 +24,7 @@ Eso no significa que reducir gradualmente esté mal para todo el mundo, ni que d
 
 Otro mito que hunde a mucha gente antes de empezar: "el mono va a durar semanas y semanas, no lo voy a soportar". La realidad es más alentadora. Según un estudio publicado en NIH/PubMed en 2014, los síntomas de abstinencia suelen ser más intensos durante los primeros días y luego se van reduciendo a lo largo de dos a cuatro semanas.
 
-Hay una excepción que conviene conocer: según Consensus Academic Search Engine, en su análisis de 2024, aunque la mayoría de los síntomas vuelven a niveles previos en unos 30 días, algunos como el aumento del apetito y del peso pueden prolongarse hasta seis meses. Saber esto de antemano cambia por completo cómo lo vives: no es que "algo salió mal", es lo esperado. Puedes ver el proceso completo, día por día, en la guía sobre los síntomas de abstinencia de nicotina.
+Hay una excepción que conviene conocer: según una revisión publicada en Nicotine & Tobacco Research, la mayoría de los síntomas alcanzan su pico en la primera semana y se apagan en dos a cuatro semanas, pero el apetito va más lento. Un metaanálisis del BMJ encontró que la mayor parte del peso se gana en los tres primeros meses y que luego sigue subiendo, más despacio, hasta cerca del sexto mes. Saber esto de antemano cambia por completo cómo lo vives: no es que "algo salió mal", es lo esperado. Puedes ver el proceso completo, día por día, en la guía sobre los síntomas de abstinencia de nicotina.
 
 ## ¿La ansiedad después de dejar de fumar significa que algo va mal?
 

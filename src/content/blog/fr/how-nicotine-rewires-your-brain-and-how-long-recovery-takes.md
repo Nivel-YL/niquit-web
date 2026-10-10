@@ -30,7 +30,7 @@ Ce mécanisme, tu le retrouves détaillé dans notre article sur [la science des
 
 ## Combien de temps dure le sevrage nicotinique ?
 
-Le pic d'inconfort arrive plus vite qu'on ne le pense. Selon IKON Recovery Centers (2026), les premiers symptômes de sevrage apparaissent entre 4 et 24 heures après la dernière prise, atteignent leur intensité maximale autour du troisième jour, puis commencent à s'atténuer entre la deuxième et la quatrième semaine.
+Le pic d'inconfort arrive plus vite qu'on ne le pense. Selon la Cleveland Clinic, les premiers symptômes de sevrage apparaissent entre 4 et 24 heures après la dernière prise, atteignent leur intensité maximale vers le deuxième ou troisième jour, puis s'estompent sur trois à quatre semaines.
 
 Drugs.com (2025) précise que les trois à cinq premiers jours sont généralement les plus difficiles, mais que certains symptômes peuvent traîner pendant plusieurs mois, en particulier sur le plan mental et émotionnel. Les envies physiques, elles, diminuent en général en quelques semaines, alors que l'irritabilité ou les baisses de moral peuvent persister bien plus longtemps.
 
@@ -38,15 +38,15 @@ Si tu veux suivre semaine par semaine ce qui t'attend, notre [chronologie détai
 
 ## Combien de temps pour que le cerveau retrouve son fonctionnement normal ?
 
-C'est la question que tout le monde se pose, et la bonne nouvelle, c'est que la réponse est plus rapide qu'on ne l'imagine souvent. Selon Nicozon (2026), les récepteurs nicotiniques qui s'étaient multipliés reviennent à un niveau proche de celui d'un non-fumeur en quatre à six semaines d'abstinence complète, et la sensibilité du système de récompense aux plaisirs naturels se rétablit dans la même fenêtre de temps.
+C'est la question que tout le monde se pose, et la bonne nouvelle, c'est que la réponse est plus rapide qu'on ne l'imagine souvent. Selon les études d'imagerie cérébrale, les récepteurs nicotiniques qui s'étaient multipliés reviennent au niveau d'un non-fumeur en trois semaines à trois mois : vers le 21e jour dans une étude du Journal of Nuclear Medicine (2007), entre 6 et 12 semaines dans une autre publiée dans Archives of General Psychiatry (2009).
 
-Selon Nicozon (2026), la disponibilité des récepteurs redevient comparable à celle d'une personne n'ayant jamais fumé après six à douze semaines sans nicotine. Le syndrome de sevrage aigu, lui, se termine généralement en trois à quatre semaines, même si les envies psychologiques peuvent persister plusieurs mois de plus.
+Le syndrome de sevrage aigu, lui, se termine généralement en trois à quatre semaines, même si les envies psychologiques peuvent persister plusieurs mois de plus.
 
-Selon Science Insights (2026), la récupération complète, incluant la concentration et la mémoire, prend une durée de trois à six mois. C'est le temps qu'il faut à ton cerveau pour vraiment recalibrer sa chimie interne, pas seulement arrêter de réclamer sa dose.
+Et la concentration ? Selon une revue publiée dans Nicotine & Tobacco Research, les troubles de concentration suivent le même rythme que les autres symptômes : un pic la première semaine, puis ils durent en général deux à quatre semaines.
 
 ## Pourquoi je me sens vide et sans énergie les premiers jours ?
 
-Ce n'est pas dans ta tête, c'est un déficit biologique bien réel. D'après Nicozon (2026), arrêter la nicotine crée un manque temporaire de dopamine, ce qui explique la fatigue, la morosité et les envies des premiers jours. Mais ce déficit correspond à une recalibration du système, pas à un nouvel état permanent.
+Ce n'est pas dans ta tête, c'est un déficit biologique bien réel. D'après la Cleveland Clinic, sans nicotine, le cerveau libère moins de dopamine, et ce changement provoque une partie des symptômes du sevrage : la fatigue, la morosité, les envies des premiers jours. Mais ce déficit correspond à une recalibration du système, pas à un nouvel état permanent.
 
 Il y a aussi un effet secondaire moins connu : Drugs.com (2025) note que la nicotine stimule la libération de sérotonine et de dopamine, deux hormones qui réduisent aussi la sensation de faim. Sans nicotine pour freiner cet appétit, il redevient normal, ce qui explique pourquoi beaucoup de personnes ressentent une envie de manger plus forte en arrêtant.
 

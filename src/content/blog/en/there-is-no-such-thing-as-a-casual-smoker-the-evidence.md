@@ -30,7 +30,7 @@ This is why the "I'll just smoke socially and stop whenever" plan rarely survive
 
 ## Why does the amount you smoke matter less than people think?
 
-It's not irrelevant, more cigarettes does mean a stronger grip. , compared to 74% of those smoking 21 or more a day. So dose matters for severity.
+It's not irrelevant, more cigarettes does mean a stronger grip. In the Penn State and Duke study, 35% of people smoking one to four cigarettes a day were moderately or severely dependent, compared to 74% of those smoking 21 or more a day. So dose matters for severity.
 
 But severity isn't the same as presence. Addiction doesn't wait for you to hit some threshold of "real smoker" before it starts. Research from the National Academies published on NCBI Bookshelf describes a progression where people often start smoking for social reasons and shift over time to smoking for pharmacological reasons. That shift can happen quietly, without a dramatic moment where you'd notice and say "okay, now I'm addicted."
 

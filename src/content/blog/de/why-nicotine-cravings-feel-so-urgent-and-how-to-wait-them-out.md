@@ -22,7 +22,7 @@ Mit der Zeit passt sich dein Gehirn an. Es bildet mehr Rezeptoren und verändert
 
 Hier widersprechen sich Quellen leicht. Manche, wie WebMD (2024), sprechen von 15 bis 20 Minuten pro Craving. Andere, darunter die HSE Ireland (2024), nennen drei bis fünf Minuten. In der Praxis heißt das: Die ersten, intensivsten Sekunden sind kurz, aber danach kann noch ein Nachhall bleiben, den du fälschlich für ein neues Craving hältst.
 
-Der gesamte Entzug folgt einem klaren Muster. Laut Cleveland Clinic (2021) beginnen Entzugssymptome vier bis 24 Stunden nach der letzten Nikotinaufnahme, erreichen ihren Höhepunkt am zweiten oder dritten rauchfreien Tag und lassen über die folgenden drei bis vier Wochen nach. Die Consensus Academic Search Engine ergänzt, dass sich die Cravings innerhalb der ersten sieben bis zehn Wochen deutlich abschwächen.
+Der gesamte Entzug folgt einem klaren Muster. Laut Cleveland Clinic (2021) beginnen Entzugssymptome vier bis 24 Stunden nach der letzten Nikotinaufnahme, erreichen ihren Höhepunkt am zweiten oder dritten rauchfreien Tag und lassen über die folgenden drei bis vier Wochen nach. Laut dem US National Cancer Institute kommen Cravings danach in immer größeren Abständen, auch wenn ein leichtes Verlangen noch Monate später auftauchen kann.
 
 Auch dein Körper räumt in dieser Zeit auf. Nikotin selbst ist laut Medical News Today (2024) nach ein bis drei Tagen fast komplett abgebaut, sein Abbauprodukt Cotinin braucht etwa zehn Tage, bis es verschwunden ist. Wenn du also am vierten Tag noch ein Craving spürst, ist das kein körperlicher Nikotinmangel mehr, sondern etwas anderes.
 
@@ -38,7 +38,7 @@ Der wichtigste Fakt zuerst: Ein Craving steigt, erreicht einen Höhepunkt und f�
 
 Konkret helfen laut Truth Initiative (2026) vier Dinge: Bewegung, Ablenkung, soziale Unterstützung und Nikotinersatztherapie. Ein kurzer Spaziergang, zehn Kniebeugen oder ein Anruf bei jemandem, der weiß, dass du gerade aufhörst, reichen oft schon aus, um die drei Minuten zu überbrücken.
 
-Wenn du Nikotinersatz nutzt, lohnt sich ein Blick auf die Form. Studien, die in der Consensus Academic Search Engine zusammengefasst sind, zeigen, dass 24-Stunden-Pflaster Cravings besser abfedern als 16-Stunden-Pflaster, besonders in den ersten zwei Wochen, wenn die Symptome am stärksten sind. Wer kalt aufhört, ohne jede Unterstützung, hat es oft schwerer als nötig, das haben wir bereits im Artikel [Warum Kaltentzug bei den meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) genauer aufgeschlüsselt.
+Wenn du Nikotinersatz nutzt, ist das keine Schwäche: Laut einem Cochrane-Review mit mehr als 130 Studien erhöht er die Chance aufzuhören um 50 bis 60 Prozent. Wer kalt aufhört, ohne jede Unterstützung, hat es oft schwerer als nötig, das haben wir bereits im Artikel [Warum Kaltentzug bei den meisten scheitert](/de/blog/why-quitting-smoking-cold-turkey-fails-for-most-people) genauer aufgeschlüsselt.
 
 ## Was danach kommt: die Wochen nach dem Rauchstopp
 

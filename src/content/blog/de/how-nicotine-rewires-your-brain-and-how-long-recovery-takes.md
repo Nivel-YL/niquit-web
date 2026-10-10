@@ -28,25 +28,25 @@ Auf zellulärer Ebene führt Nikotin laut einer Übersichtsarbeit aus dem NIH vo
 
 ## Wie lange dauert der körperliche Entzug?
 
-Die ersten Symptome setzen laut den IKON Recovery Centers (2026) meist vier bis 24 Stunden nach der letzten Nikotinzufuhr ein. Der Höhepunkt liegt üblicherweise um den dritten Tag, danach beginnt sich die akute Phase über zwei bis vier Wochen abzuschwächen. Drugs.com bestätigt 2025, dass die ersten drei bis fünf Tage körperlich am härtesten sind, auch wenn einzelne Symptome noch monatelang nachklingen können.
+Die ersten Symptome setzen laut Cleveland Clinic meist vier bis 24 Stunden nach der letzten Nikotinzufuhr ein. Der Höhepunkt liegt am zweiten oder dritten Tag, danach klingt die akute Phase über drei bis vier Wochen ab. Drugs.com bestätigt 2025, dass die ersten drei bis fünf Tage körperlich am härtesten sind, auch wenn einzelne Symptome noch monatelang nachklingen können.
 
-Wichtig zu wissen: Wie stark und wie lange der Entzug ausfällt, hängt direkt davon ab, wie stark dein Gehirn vorher umgebaut wurde. Laut Biology Insights (2026) hat jemand, der 20 Jahre lang eine Schachtel am Tag geraucht hat, in der ersten Woche typischerweise deutlich mehr zu kämpfen als jemand, der nur gelegentlich ein Jahr lang gevapt hat. Mehr Nikotinexposition bedeutet mehr Rezeptorveränderungen, und mehr Rezeptorveränderungen bedeuten eine längere Umstellungsphase.
+Wichtig zu wissen: Wie stark und wie lange der Entzug ausfällt, hängt direkt davon ab, wie stark dein Gehirn vorher umgebaut wurde. Eine Übersichtsarbeit von McLaughlin und Kollegen in PMC (2015) hält fest, dass die Schwere des Entzugs stark davon abhängt, wie Nikotin konsumiert wurde. Wer 20 Jahre lang eine Schachtel am Tag geraucht hat, hat in der ersten Woche deshalb meist deutlich mehr zu kämpfen als jemand, der nur gelegentlich ein Jahr lang gevapt hat. Mehr Nikotinexposition bedeutet mehr Rezeptorveränderungen, und mehr Rezeptorveränderungen bedeuten eine längere Umstellungsphase.
 
 Wer speziell mit Vapes oder Pouches aufhören will, findet im Artikel [Wie man mit dem Vapen aufhört, ein realistischer Schritt-für-Schritt-Guide](/de/blog/how-to-quit-vaping-a-realistic-step-by-step-guide) eine konkrete Anleitung für genau diese Phase.
 
 ## Wann fühle ich mich wieder normal? Die Gehirnerholung im Detail
 
-Hier liegt die eigentlich gute Nachricht. Laut Nicozon (2026) kehren die hochregulierten Nikotinrezeptoren binnen vier bis sechs Wochen Abstinenz auf ein normales Niveau zurück, und die Empfindlichkeit des Belohnungssystems für alltägliche Freuden erholt sich im selben Zeitraum. Nicozon (2026) grenzt das noch etwas enger ein: Die hochregulierten Nikotinrezeptoren kehren binnen vier bis sechs Wochen Abstinenz auf ein normales Niveau zurück, und die Empfindlichkeit des Belohnungssystems für alltägliche Freuden erholt sich im selben Zeitraum.
+Hier liegt die eigentlich gute Nachricht. Die hochregulierten Nikotinrezeptoren kehren auf das Niveau von Nichtrauchern zurück, je nach Studie nach drei Wochen bis drei Monaten. Eine bildgebende Hirnstudie im Journal of Nuclear Medicine (2007) fand das nach etwa 21 Tagen, eine andere in Archives of General Psychiatry (2009) sah die Rezeptoren bis zu einem Monat erhöht und nach 6 bis 12 Wochen normalisiert.
 
-Die vollständige kognitive Erholung, also klarerer Fokus und besseres Gedächtnis, braucht laut TheVapeQuit (2026) etwas länger: drei bis sechs Monate. Munster Behavioral Health kommt 2025 zu einer ähnlichen Einschätzung und spricht von drei bis sechs Monaten für die vollständige Umstrukturierung der durch die Sucht veränderten Hirnprozesse.
+Konzentrationsprobleme verhalten sich laut einer Übersichtsarbeit in Nicotine & Tobacco Research wie die übrigen Entzugssymptome: Höhepunkt in der ersten Woche, Dauer meist zwei bis vier Wochen.
 
-Diese Zahlen erklären auch, warum sich die ersten Wochen nach dem Rauchstopp oft flach und freudlos anfühlen. Nicozon (2026) beschreibt das treffend als temporäres Dopamindefizit: Dein Gehirn hat sich an künstlich hohe Dopaminspiegel gewöhnt und muss erst wieder lernen, mit den normalen, kleineren Mengen aus dem Alltag zurechtzukommen. Das ist keine dauerhafte Störung, sondern eine Rekalibrierung.
+Diese Zahlen erklären auch, warum sich die ersten Wochen nach dem Rauchstopp oft flach und freudlos anfühlen. Laut Cleveland Clinic schüttet das Gehirn ohne Nikotin weniger Dopamin aus, und genau das verursacht einen Teil der Entzugssymptome. Dein Gehirn muss erst wieder lernen, mit den normalen, kleineren Mengen aus dem Alltag zurechtzukommen. Das ist keine dauerhafte Störung, sondern eine Rekalibrierung.
 
 ## Warum halten Heißhunger und schlechte Laune länger an als die körperlichen Symptome?
 
 Nikotin bindet an Rezeptoren, die unter anderem Serotonin und Dopamin freisetzen, zwei Botenstoffe, die auch das Hungergefühl dämpfen. Fällt das Nikotin weg, fehlt laut Drugs.com (2025) dieser dämpfende Effekt, weshalb viele Menschen in der Entzugsphase deutlich mehr Appetit verspüren.
 
-Gleichzeitig zeigt sich ein klarer Unterschied zwischen körperlichen und emotionalen Symptomen. Physische Cravings klingen laut Drugs.com meist innerhalb einiger Wochen ab, während die mentalen und emotionalen Effekte des Entzugs sich über Monate hinziehen können. , aber das psychologische Verlangen kann noch deutlich länger bestehen bleiben.
+Gleichzeitig zeigt sich ein klarer Unterschied zwischen körperlichen und emotionalen Symptomen. Physische Cravings klingen laut Drugs.com meist innerhalb einiger Wochen ab, während die mentalen und emotionalen Effekte des Entzugs sich über Monate hinziehen können.
 
 Wenn du verstehen willst, warum dieses Verlangen selbst Monate später noch plötzlich auftaucht, lohnt sich ein Blick in [Warum will ich immer eine Zigarette, die Wissenschaft hinter dem Craving](/de/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings). Und wer bereits mehrfach erfolglos versucht hat aufzuhören, findet in [Wie man mit dem Rauchen aufhört, wenn bisher nichts funktioniert hat](/de/blog/how-to-quit-smoking-when-nothing-has-worked-before) einen realistischeren Ansatz als reine Willenskraft.
 

@@ -14,9 +14,9 @@ Tu tiens un sachet de nicotine dans une main et un paquet de cigarettes dans l'a
 
 ## Combien de nicotine contient réellement une cigarette ?
 
-Une cigarette non allumée contient en moyenne entre 7,5 et 13,4 mg de nicotine, selon des tests réalisés par Penn State University et cités par Vaping360 en 2023. Mais ce chiffre ne dit pas grand-chose sur ce que ton corps absorbe réellement. Une bonne partie de cette nicotine part en fumée, littéralement, sans jamais atteindre ton sang.
+Une cigarette contient en moyenne entre 10 et 14 mg de nicotine, selon une revue de pharmacologie de Neal Benowitz et ses collègues publiée dans PMC. Mais ce chiffre ne dit pas grand-chose sur ce que ton corps absorbe réellement. Une bonne partie de cette nicotine part en fumée, littéralement, sans jamais atteindre ton sang.
 
-Ce qui compte, c'est la quantité réellement absorbée, ce qu'on appelle le "yield" de nicotine. Selon une étude du CDC publiée en 2020, ce chiffre se situe plutôt entre 1 et 2 mg par cigarette fumée. Sur un paquet entier, cela représente entre 22 et 36 mg de nicotine inhalée, d'après une estimation de Nicorette. Autrement dit : le chiffre imprimé sur le paquet ne reflète jamais ce que tu absorbes vraiment. C'est une des raisons pour lesquelles il est difficile de comparer honnêtement une cigarette à un sachet de nicotine, comme on l'explique dans notre article sur ce que sont les sachets de nicotine et s'ils sont plus sûrs que les cigarettes (/fr/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes).
+Ce qui compte, c'est la quantité réellement absorbée, ce qu'on appelle le "yield" de nicotine. Selon la même revue, ce chiffre tourne en moyenne autour de 1 à 1,5 mg par cigarette fumée. Sur un paquet de 20, cela représente environ 20 à 30 mg de nicotine absorbée par jour. Autrement dit : le chiffre imprimé sur le paquet ne reflète jamais ce que tu absorbes vraiment. C'est une des raisons pour lesquelles il est difficile de comparer honnêtement une cigarette à un sachet de nicotine, comme on l'explique dans notre article sur ce que sont les sachets de nicotine et s'ils sont plus sûrs que les cigarettes (/fr/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes).
 
 ## Et un sachet de nicotine, combien en contient-il vraiment ?
 

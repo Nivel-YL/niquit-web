@@ -24,7 +24,7 @@ Selon Medical News Today (2026), les symptômes comme les troubles du sommeil, l
 
 D'après la base de données d'essais cliniques du NIH, les symptômes les plus fréquents sont l'irritabilité, la frustration ou la colère, l'anxiété, les difficultés à se concentrer, une augmentation de l'appétit, de l'agitation, une humeur dépressive et des insomnies.
 
-Le timing est bien documenté.  La Cleveland Clinic (2026) donne des chiffres très proches : début du sevrage entre 4 et 24 heures, pic au deuxième ou troisième jour, et disparition progressive sur trois à quatre semaines.
+Le timing est bien documenté.  La Cleveland Clinic (2026) donne ces repères : début du sevrage entre 4 et 24 heures, pic au deuxième ou troisième jour, et disparition progressive sur trois à quatre semaines.
 
 Ce troisième jour mérite qu'on s'y attarde, parce que c'est souvent celui où les gens craquent, en pensant que quelque chose ne va pas. En réalité, c'est simplement le sommet de la courbe. Après, ça redescend. On explore ça plus en détail dans notre [article sur les pires jours du sevrage, et pourquoi le troisième jour est différent](/fr/blog/why-quitting-smoking-cold-turkey-fails-for-most-people).
 
@@ -42,7 +42,7 @@ Un essai contrôlé randomisé publié dans Annals of Internal Medicine (Lindson
 
 Une méta-analyse publiée dans Tobacco Induced Diseases (2019), portant sur trois essais randomisés et 1 607 patients, confirme la tendance : le taux d'abstinence prolongée du groupe qui réduisait progressivement était nettement inférieur à celui du groupe qui arrêtait d'un coup, et le taux d'arrêt à 7 jours était lui aussi plus faible dans le groupe progressif.
 
- Autrement dit : la méthode qui marche le mieux n'est pas non plus la plus risquée.
+Et selon la Cleveland Clinic, le sevrage nicotinique n'est pas nocif pour la santé. Autrement dit : la méthode qui marche le mieux n'est pas non plus la plus risquée.
 
 
 

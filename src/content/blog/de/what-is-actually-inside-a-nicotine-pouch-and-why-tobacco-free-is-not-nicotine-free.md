@@ -16,9 +16,9 @@ Was genau in diesen kleinen weißen Beuteln steckt, wissen die wenigsten, die si
 
 ## Was ist eigentlich in einem Nikotinbeutel drin?
 
-Laut CDC enthalten Nikotinbeutel kein Tabakblatt, das ist der ganze Trick hinter dem Marketing-Begriff "tabakfrei" (CDC, 2025). Trotzdem sind sie keine leeren Hüllen. Nach Angaben von Northerner besteht die Füllung typischerweise aus Nikotin, pflanzlichen Fasern, Aromen, pH-Regulatoren und Feuchthaltemitteln (Northerner, 2026).
+Laut CDC enthalten Nikotinbeutel kein Tabakblatt, das ist der ganze Trick hinter dem Marketing-Begriff "tabakfrei" (CDC, 2025). Trotzdem sind sie keine leeren Hüllen. Laut CDC steckt in dem Mikrofaserbeutel ein Pulver aus Nikotin, Aromen und weiteren Zutaten.
 
-Die pflanzliche Faser ist meist Zellulose, also ein Material, das man auch aus Eukalyptus, Kiefer oder Baumwolle gewinnt (Northerner, 2026). Sie gibt dem Beutel seine Struktur und hält das Nikotin in Position, während es sich über die Mundschleimhaut löst. Für die Feuchtigkeit sorgen häufig Glycerin oder Lecithin (Northerner, 2026), und weil reines Nikotin bitter schmeckt, greifen Hersteller oft zu Süßungsmitteln wie Sucralose oder Xylit, um den Geschmack erträglicher zu machen (Northerner, 2026).
+Dazu kommen Süßstoffe. Eine Laboranalyse von ZYN, on! und Velo, veröffentlicht in Nicotine & Tobacco Research, fand deutliche Mengen der künstlichen Süßstoffe Sucralose und Acesulfam-K, und manche Marken süßen ihre stärkeren Beutel kräftiger. Die Forschenden gehen davon aus, dass die Süße die Schärfe des Nikotins abmildert. In Versuchen mit Mäusen steigerten die Süßstoffe sogar den Nikotinkonsum.
 
 Klingt erstmal nach einer überschaubaren Zutatenliste. Der eigentliche Wirkstoff, um den sich alles dreht, bleibt aber das Nikotin selbst. Und genau hier wird es interessant.
 

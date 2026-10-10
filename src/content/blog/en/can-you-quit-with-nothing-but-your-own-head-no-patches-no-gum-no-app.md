@@ -28,7 +28,7 @@ Nicotine also clears your system fast: Johns Hopkins Aramco Healthcare notes tha
 
 Somewhat, yes. A 2016 study cited by Medical News Today found that quitting abruptly led to better long-term success than gradually cutting down nicotine intake, even when the tapering group used nicotine replacement therapy along the way. That's counterintuitive if you assume a slow taper is gentler on the brain. But a slow taper stretches out the withdrawal window rather than shortening it, and it gives you more decision points where "just one more" feels reasonable.
 
-That said, nicotine replacement isn't nothing. Nicorette, citing clinical research, states that NRT products roughly double a person's chances of quitting compared to placebo. So the real comparison isn't "cold turkey vs. tapering," it's "cold turkey alone vs. cold turkey plus some form of support." Willpower alone and willpower with structure are not the same bet.
+That said, nicotine replacement isn't nothing. A Cochrane review of more than 130 trials found that every form of NRT raised the chances of quitting by 50 to 60%. So the real comparison isn't "cold turkey vs. tapering," it's "cold turkey alone vs. cold turkey plus some form of support." Willpower alone and willpower with structure are not the same bet.
 
 ## So can you actually do it with just your head?
 

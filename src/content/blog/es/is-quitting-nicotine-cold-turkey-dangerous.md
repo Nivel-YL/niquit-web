@@ -16,7 +16,7 @@ Esa distinción importa. Que algo sea incómodo no significa que sea peligroso, 
 
 ## ¿Qué pasa en el cuerpo cuando dejas la nicotina de golpe?
 
-El cuerpo lleva meses o años recibiendo nicotina de forma regular, y cuando esa dosis desaparece de golpe, el sistema nervioso tarda un tiempo en reajustarse.  La Cleveland Clinic da una cronología prácticamente idéntica: los síntomas empiezan entre las 4 y las 24 horas, alcanzan su pico en el segundo o tercer día, y se van apagando durante tres o cuatro semanas.
+El cuerpo lleva meses o años recibiendo nicotina de forma regular, y cuando esa dosis desaparece de golpe, el sistema nervioso tarda un tiempo en reajustarse.  La Cleveland Clinic da esta cronología: los síntomas empiezan entre las 4 y las 24 horas, alcanzan su pico en el segundo o tercer día, y se van apagando durante tres o cuatro semanas.
 
 Durante ese periodo es normal sentir irritabilidad, ansiedad, dificultad para concentrarte, más hambre de lo habitual, inquietud, ánimo bajo e insomnio; según la base de datos de ensayos clínicos del NIH, estos síntomas son temporales y suponen un riesgo mínimo para la salud. Si quieres ver esto con más detalle día por día, tenemos una guía completa sobre los síntomas de abstinencia de nicotina y su cronología.
 
@@ -28,7 +28,7 @@ Aquí está el dato que sorprende a mucha gente: dejarlo de golpe no solo es seg
 
 Un ensayo publicado en Annals of Internal Medicine, dirigido por Lindson-Hawley y colegas, llegó a una conclusión parecida: el grupo que dejó de fumar de forma abrupta tuvo un 25% más de probabilidades de seguir sin fumar a los seis meses que el grupo que redujo gradualmente, independientemente de cuál fuera su preferencia inicial. Y un metaanálisis publicado en Tobacco Induced Diseases, que combinó tres ensayos controlados con 1.607 pacientes, confirmó que la tasa de abstinencia prolongada del grupo que redujo gradualmente fue significativamente más baja que la del grupo que lo dejó de golpe.
 
-Lo interesante es que  Es decir: ambos métodos son seguros, pero uno tiene mejores resultados a largo plazo.
+Lo interesante es que la abstinencia de nicotina en sí no es perjudicial para la salud, según la Cleveland Clinic. Es decir: ambos métodos son seguros, pero uno tiene mejores resultados a largo plazo.
 
 En Inglaterra y Gales, el organismo National Institute for Health and Care Excellence (NICE) recomienda a los fumadores dejarlo en un solo paso, aunque reconoce que no todo el mundo está preparado para hacerlo así y ofrece alternativas de reducción de daños para esos casos. Si te interesa por qué a algunas personas les cuesta tanto mantener el "de golpe" pese a estos datos, tenemos un artículo específico sobre por qué dejar de fumar de golpe falla para la mayoría de la gente, que explica el otro lado de la moneda: la decisión es sólida, pero la ejecución sin apoyo suele fallar.
 

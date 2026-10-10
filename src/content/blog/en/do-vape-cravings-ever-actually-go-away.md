@@ -12,7 +12,7 @@ cluster: G
 
 Three weeks in, most people expect to feel free. Instead they're standing in a parking lot, watching someone hit a disposable, and suddenly it's like day one again. If that sounds familiar, you're not broken and you're not doing it wrong. You're just running into the difference between two kinds of craving that most people never learn to tell apart.
 
-The short answer is that the physical craving, the one driven by your body screaming for nicotine, absolutely fades and mostly disappears. The psychological one, the one triggered by your car, your coffee, a stressful email, can linger far longer. According to Biology Insights (2025), physical cravings go away, but psychological urges and conditioned responses can persist intermittently for much longer, and these aren't a sign that withdrawal is still happening. They're something else entirely: memory.
+The short answer is that the physical craving, the one driven by your body screaming for nicotine, absolutely fades and mostly disappears. The psychological one, the one triggered by your car, your coffee, a stressful email, can linger far longer. According to the National Cancer Institute, cravings come often in the first days and weeks and then get farther apart, though an occasional mild one can show up months or even years later. Those late ones aren't a sign that withdrawal is still happening. They're something else entirely: memory.
 
 ## How long do vape cravings actually last physically?
 
@@ -20,9 +20,9 @@ Withdrawal has a fairly predictable shape. Cleveland Clinic (2026) notes that sy
 
 That number matters more than it seems. A craving doesn't roll in like weather and stay for the afternoon. It spikes and drops. If you've never sat through one without giving in, it can feel endless, but biologically it's closer to a wave than a flood. We go deeper into what that wave actually feels like minute by minute in [How long does a nicotine craving actually last?](/blog/how-long-does-a-nicotine-craving-actually-last)
 
-There's also a lesser-known bump worth knowing about. ScienceInsights (2026) found that around 10 days after quitting, nicotine receptor levels spike temporarily, which can cause a rough patch for some people right around the end of week one or into week two. This is exactly when a lot of people relapse, not because they've failed, but because nobody warned them the second wind of cravings was coming.
+There's also a lesser-known bump worth knowing about. In a small brain-imaging study published in the Journal of Nuclear Medicine, nicotine receptor levels in people who quit smoking rose again around day 10, and the researchers suggest this stretch may be a breaking point in withdrawal. If cravings flare up again in your second week, that's not failure. It's a known bump that nobody warned you about.
 
-By around day 21, according to ScienceInsights (2026), receptor density in the brain drops back down to the level of someone who never vaped at all. That's a real, measurable reset. It's also roughly when Quit Tobacco SD (2026) says about half of tobacco users, who experience at least four withdrawal symptoms, find those symptoms tapering off, usually within one to three weeks total.
+By around day 21, receptor levels in that same study had dropped back to the level of non-smokers, though another imaging study, in Archives of General Psychiatry, found it took 6 to 12 weeks. Either way, it's a real, measurable reset. It's also roughly when Quit Tobacco SD (2026) says about half of tobacco users, who experience at least four withdrawal symptoms, find those symptoms tapering off, usually within one to three weeks total.
 
 ## Why do I still crave nicotine months after quitting?
 
@@ -32,7 +32,7 @@ Nicotine doesn't just create a chemical dependency, it rewires how your brain li
 
 That's why GoodRx (2024) points out that cravings can still appear months or years after quitting, especially during stress or in situations where vaping used to be automatic, like a bar, a break at work, or a fight with your partner. The good news buried in that same research: these cravings become less frequent and less intense with time, not more.
 
-ScienceInsights (2026) describes the actual mechanism behind why they fade. Every time you hit a trigger and don't vape, the association between that cue and nicotine weakens a little. Your brain is gradually learning the cue no longer predicts a reward. It's not willpower wearing the craving down. It's your brain updating its own prediction model, one skipped vape at a time. We talk through how to spot and interrupt these specific triggers in [Smoking triggers: how to identify yours and break the loop](/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop)
+The National Institute on Drug Abuse explains where these cravings come from: learning processes in the brain tie everyday cues to nicotine's dopamine surges. They fade the same way they were learned. Every time you hit a trigger and don't vape, the association between that cue and nicotine weakens a little. Your brain is gradually learning the cue no longer predicts a reward. It's not willpower wearing the craving down. It's your brain updating its own prediction model, one skipped vape at a time. We talk through how to spot and interrupt these specific triggers in [Smoking triggers: how to identify yours and break the loop](/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop)
 
 ## Why is it so hard to just push through a craving?
 
