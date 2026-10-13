@@ -1,9 +1,9 @@
 ---
 title: "Por qué las bolsas de nicotina dañan tus encías, y lo que eso te está diciendo"
 description: "Encías rojas, sangrado al cepillarte, mal aliento persistente. Descubre por qué las bolsas de nicotina afectan tus encías y qué señales no deberías ignorar."
-publishDate: 2026-08-31
+publishDate: 2026-10-13
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---

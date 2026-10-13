@@ -1,9 +1,9 @@
 ---
 title: "Почему никотиновые паучки повреждают дёсны, и что это на самом деле означает"
 description: "Дёсны краснеют, белеют, кровоточат: разбираем, почему никотиновые паучки вредят дёснам и что эти изменения говорят об организме в целом."
-publishDate: 2026-08-31
+publishDate: 2026-10-13
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---

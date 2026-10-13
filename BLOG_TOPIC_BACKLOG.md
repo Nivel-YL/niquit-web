@@ -84,8 +84,13 @@ topics:
 - id: A-09
   title_en: Why nicotine pouches hurt your gums, and what that tells you
   cluster: A
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-10-13'
+    ru: '2026-10-13'
+    de: '2026-10-13'
+    es: '2026-10-13'
+    fr: '2026-10-13'
 - id: A-10
   title_en: Pouch brands compared, what actually differs between ZYN, Velo, Pablo
     and the rest

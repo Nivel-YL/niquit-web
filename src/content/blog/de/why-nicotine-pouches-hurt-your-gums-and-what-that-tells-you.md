@@ -1,9 +1,9 @@
 ---
 title: "Warum Nicotine Pouches dein Zahnfleisch angreifen, und was das wirklich bedeutet"
 description: "Rotes, wundes Zahnfleisch genau dort, wo der Pouch immer liegt, ist kein Zufall. Was das Zahnfleisch dir über Nicotine Pouches erzählt, und warum du hinhören solltest."
-publishDate: 2026-08-31
+publishDate: 2026-10-13
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---

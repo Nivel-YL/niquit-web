@@ -1,9 +1,9 @@
 ---
 title: "Why nicotine pouches hurt your gums, and what that tells you"
 description: "Nicotine pouches hurt your gums in a specific, predictable way. Here's what the tissue damage actually reveals about what's happening in your mouth."
-publishDate: 2026-08-31
+publishDate: 2026-10-13
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---

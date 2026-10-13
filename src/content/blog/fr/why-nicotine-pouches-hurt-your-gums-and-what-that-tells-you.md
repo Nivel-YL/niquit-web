@@ -1,9 +1,9 @@
 ---
 title: "Pourquoi les sachets de nicotine abîment tes gencives, et ce que ça révèle"
 description: "Rougeurs, gencives qui se rétractent, plaques blanches : les sachets de nicotine laissent des traces bien visibles dans la bouche. Voici pourquoi, et ce que ça dit sur ton addiction."
-publishDate: 2026-08-31
+publishDate: 2026-10-13
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---
