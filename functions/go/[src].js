@@ -9,7 +9,7 @@ const APPLE = 'https://apps.apple.com/app/id6781069151';
 const GOOGLE = 'https://play.google.com/store/apps/details?id=com.niquit.app';
 // App Store Connect provider id (pt) of Nivexon OÜ, required for campaign links.
 const APPLE_PROVIDER = '129049845';
-const SOURCES = ['tiktok', 'instagram', 'youtube', 'facebook'];
+const SOURCES = ['tiktok', 'instagram', 'youtube', 'facebook', 'direct'];
 // The site's PostHog project (same public key as src/layouts/Base.astro).
 const POSTHOG_KEY = 'phc_pwpnKbZ6ojRVeyV7QkuQQn6RhediJQhyEAjTZHTX7pPR';
 
