@@ -13,8 +13,12 @@ const SOURCES = ['tiktok', 'instagram', 'youtube', 'facebook', 'direct'];
 // The site's PostHog project (same public key as src/layouts/Base.astro).
 const POSTHOG_KEY = 'phc_pwpnKbZ6ojRVeyV7QkuQQn6RhediJQhyEAjTZHTX7pPR';
 
-// One anonymous event per click, sent from the server: no cookie, no person
-// profile, no IP (the request comes from Cloudflare); country from Cloudflare.
+const BOT_UA = /bot|crawl|spider|preview|facebookexternalhit|embedly|slurp|headless|python|curl|wget|go-http|okhttp/i;
+const DATACENTRE = /facebook|meta platforms|google|amazon|aws|microsoft|azure|bytedance|tiktok|tencent|alibaba|huawei cloud|baidu|digitalocean|ovh|hetzner|linode|oracle|leaseweb|contabo|vultr|scaleway|choopa|m247|datacamp|zscaler/i;
+// Not listed on purpose: Apple, Akamai, Cloudflare, Fastly carry iCloud Private Relay, i.e. real iPhone users.
+
+// One anonymous event per request, sent from the server: no cookie, no person
+// profile, no IP (the request comes from Cloudflare); country and network from Cloudflare.
 // Clicks per platform are the number we read; the stores only show installs
 // in their own consoles (Apple only for users who share analytics).
 function countClick(waitUntil, props) {
@@ -44,10 +48,14 @@ export function onRequest({ request, params, waitUntil }) {
   else if (device === 'android') target = `${GOOGLE}&referrer=${encodeURIComponent(utm)}`;
   else target = `https://niquit.app/?${utm}`;
 
-  // Link previews (the platforms fetch a link once to show a card) are not clicks.
-  if (!/bot|crawl|spider|preview|facebookexternalhit|embedly|slurp/i.test(ua)) {
-    countClick(waitUntil, { source, campaign, device, country: request.cf?.country || null });
-  }
+  // Every request is counted, flagged when it is not a person: link previews, and the
+  // checks the platforms run on a new profile link. Those pose as iPhones from data
+  // centres (Meta, ByteDance, Google...), so the network says more than the user agent.
+  // The dashboard counts likely_bot = false only.
+  const cf = request.cf || {};
+  const org = String(cf.asOrganization || '');
+  const likelyBot = request.method !== 'GET' || BOT_UA.test(ua) || DATACENTRE.test(org);
+  countClick(waitUntil, { source, campaign, device, country: cf.country || null, as_org: org || null, asn: cf.asn || null, likely_bot: likelyBot, ua: ua.slice(0, 200) });
 
   return new Response(null, {
     status: 302,
