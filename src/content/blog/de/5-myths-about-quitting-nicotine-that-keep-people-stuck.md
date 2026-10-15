@@ -38,7 +38,7 @@ Das heißt aber nicht, dass kalter Entzug für jeden funktioniert oder dass es d
 
 ## Mythos 4: "Nikotinersatz ist nur eine Ausrede, um weiter süchtig zu bleiben"
 
-Dieser Mythos ist besonders hartnäckig, weil er moralisch klingt: als würdest du nur "richtig" aufhören, wenn du komplett ohne Hilfsmittel durchhältst. Die Weltgesundheitsorganisation sieht das anders. Laut einer Metaanalyse der Cochrane Collaboration können Formen der Nikotinersatztherapie die Erfolgsquoten beim Aufhören ungefähr verdoppeln, weil sie Entzugssymptome und Verlangen abmildern.
+Dieser Mythos ist besonders hartnäckig, weil er moralisch klingt: als würdest du nur "richtig" aufhören, wenn du komplett ohne Hilfsmittel durchhältst. Die Forschung sieht das anders. Laut einem Cochrane-Review mit mehr als 130 Studien erhöht Nikotinersatztherapie die Chance aufzuhören um 50 bis 60 Prozent, weil sie Entzugssymptome und Verlangen abmildert.
 
 Ein Hilfsmittel zu nutzen bedeutet nicht, dass du schwächer bist. Es bedeutet, dass du die biologische Realität deiner Sucht ernst nimmst, statt sie mit reiner Willenskraft überwinden zu wollen.
 

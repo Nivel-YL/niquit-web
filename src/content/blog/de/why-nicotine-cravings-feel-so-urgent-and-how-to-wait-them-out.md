@@ -42,4 +42,8 @@ Wenn du Nikotinersatz nutzt, ist das keine Schwäche: Laut einem Cochrane-Review
 
 ## Was danach kommt: die Wochen nach dem Rauchstopp
 
-Medical News Today (2024) unterscheidet klar zwischen körperlichem und psychischem Entzug. Die körperlichen Symptome, Zittern, Kopfschmerzen, Unruhe, halten nur wenige Tage an, solange Nikotin noch im Körper ist. Danach ist der Entzug fast ausschließlich psychisch: Gewohn
+Medical News Today (2024) unterscheidet klar zwischen körperlichem und psychischem Entzug. Die körperlichen Symptome, Zittern, Kopfschmerzen, Unruhe, halten nur wenige Tage an, solange Nikotin noch im Körper ist. Danach ist der Entzug fast ausschließlich psychisch: Gewohnheiten, Verknüpfungen, dieses gedankliche Ziehen. Dieser Teil braucht länger, und von ihm kommen die Cravings, die dich nach Wochen plötzlich beim Kaffee oder an der Ampel erwischen. Ein spätes Craving heißt also nicht, dass dein Körper noch Nikotin braucht. Dein Gehirn ruft eine alte Verknüpfung ab, mehr nicht.
+
+Wenn du von Nikotinbeuteln loskommen willst, findest du die Details in [Nikotinbeutel aufhören: So schaffst du den Ausstieg](/de/blog/how-to-quit-nicotine-pouches-zyn-on-velo). Beim Vapen hilft [der realistische Schritt-für-Schritt-Guide](/de/blog/how-to-quit-vaping-a-realistic-step-by-step-guide). Der Entzug folgt dort demselben Muster aus Anstieg und Abklingen.
+
+Der Drang ist echt. Genauso echt ist, dass er jedes Mal vorbeigeht. Ein Craving hat eine Form: Es baut sich auf, erreicht seinen Höhepunkt und ebbt wieder ab. Du musst es nicht auf Kommando verschwinden lassen. Du musst es nur überstehen.

@@ -68,6 +68,19 @@ def save_backlog(topics: list[dict]) -> None:
 
 # ── publish logic ─────────────────────────────────────────────────────────────
 
+SENTENCE_END = tuple('.!?…»"”)*')
+
+
+def truncated_ending(text: str) -> str | None:
+    """Return a reason if the article body does not end like a finished text."""
+    body = re.sub(r'\A---.*?---', '', text, count=1, flags=re.DOTALL).rstrip()
+    if not body:
+        return 'article body is empty'
+    if not body.endswith(SENTENCE_END):
+        return f'article ends mid-sentence: "...{body[-40:]}"'
+    return None
+
+
 def publish_topic(topic: dict, today: datetime.date) -> list[str]:
     """Flip draft: true → draft: false for all language files of a topic.
     Returns list of languages successfully published."""
@@ -103,6 +116,25 @@ def publish_topic(topic: dict, today: datetime.date) -> list[str]:
                     f'Publisher would not flip this to draft: false because of:\n\n'
                     + '\n'.join(f'- {p}' for p in link_problems)
                     + '\n\nFix the link(s) and re-run the publisher, or this topic stays queued.'
+                ),
+            )
+            if issue_url:
+                print(f'  [{lang}] escalated to {issue_url}', file=sys.stderr)
+            continue
+
+        # Second gate (2026-10-15): five translations went live cut off
+        # mid-word ("...psychisch: Gewohn") when a writer step hit its token
+        # limit, and nothing downstream noticed for two months. A finished
+        # article ends on sentence punctuation, so anything else stays draft.
+        ending_problem = truncated_ending(text)
+        if ending_problem:
+            print(f'  [{lang}] BLOCKED: {ending_problem}, not publishing', file=sys.stderr)
+            issue_url = create_github_issue(
+                title=f'[blog-pipeline] Publish blocked: truncated article {slug} ({lang})',
+                body=(
+                    f'Article: `{path.relative_to(REPO_ROOT)}`\n\n'
+                    f'{ending_problem}. Finish the text and re-run the publisher, '
+                    'or this topic stays queued.'
                 ),
             )
             if issue_url:

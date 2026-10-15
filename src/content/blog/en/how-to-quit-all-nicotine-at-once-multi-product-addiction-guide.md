@@ -28,13 +28,13 @@ Nicotine itself clears fast. About two hours after your last use, levels in your
 
 The physical symptoms, restlessness, appetite changes, trouble sleeping, tend to show up 4 to 24 hours after your last dose and peak around day three, according to Medical News Today and Johns Hopkins Aramco Healthcare. What's different with multi-product use is that your brain has been getting nicotine hits from several directions throughout the day, so the drop-off can feel less like one withdrawal and more like several overlapping ones.
 
-Underneath the physical symptoms, your brain's reward system is recalibrating. Nicotine triggers dopamine release, which is what creates the "hit." Remove it, and your brain's reward circuitry drops into a low-dopamine state while stress signals rise, according to research referenced by UCSF Health. This is the part that actually takes longer to resolve. The upregulated nicotinic receptors in your brain need two to four weeks to normalize, per data published in Psychopharmacology, which is why the mood and concentration issues often outlast the physical discomfort by weeks.
+Underneath the physical symptoms, your brain's reward system is recalibrating. Nicotine triggers dopamine release, which is what creates the "hit." Remove it, and your brain's reward circuitry drops into a low-dopamine state while stress signals rise, according to research referenced by UCSF Health. This is the part that actually takes longer to resolve. Brain imaging studies show the extra nicotinic receptors return to non-smoker levels somewhere between three weeks and three months after quitting (Journal of Nuclear Medicine, 2007; Archives of General Psychiatry, 2009), which is why the mood and concentration issues often outlast the physical discomfort by weeks.
 
 ## Do I need medication to quit multiple products at once?
 
 Given the odds against unaided quitting, medication isn't a crutch, it's a multiplier. Truth Initiative reports that combining FDA-approved medication with counseling can more than triple your chances of quitting successfully. The FDA has approved several options: NRT gum, lozenges, patches, inhalers, nasal spray, plus varenicline and bupropion.
 
-NRT alone, without counseling, still roughly doubles your quit chances compared to placebo, according to the Cochrane review of nicotine replacement therapy. If you're managing withdrawal from three products simultaneously, that difference matters. A patch that provides steady background nicotine, paired with gum or lozenges for acute cravings, can smooth out the multi-source withdrawal in a way that willpower alone usually can't.
+NRT on its own still raises your chances of quitting by 50 to 60%, according to a Cochrane review of more than 130 trials. If you're managing withdrawal from three products simultaneously, that difference matters. A patch that provides steady background nicotine, paired with gum or lozenges for acute cravings, can smooth out the multi-source withdrawal in a way that willpower alone usually can't.
 
 ## How do I handle cravings when I don't have a "backup" product?
 

@@ -38,4 +38,22 @@ Realistisch heißt das: Ein fester Stichtag für alle Produkte gleichzeitig ist 
 
 Die Zahlen dazu sind erstaunlich konkret.  Innerhalb von ein bis drei Tagen ist Nikotin komplett aus dem Blut verschwunden, sein Abbauprodukt Cotinin braucht laut American Cancer Society je nach Konsummuster zwischen einem und zehn Tagen.
 
-Die Entzugssymptome selbst treten typischerweise vier bis 24 Stunden nach der letzten Nutzung auf, erreichen um den dritten Tag ihren Höhepunkt und werden innerhalb von ein bis zwei Wochen spürbar schwächer, so Daten von Medical News Today und der Johns H
+Die Entzugssymptome selbst, also Unruhe, mehr Appetit und schlechter Schlaf, setzen typischerweise vier bis 24 Stunden nach der letzten Nutzung ein und erreichen um den dritten Tag ihren Höhepunkt, so Medical News Today und Johns Hopkins Aramco Healthcare. Danach klingen sie laut Cleveland Clinic meist über drei bis vier Wochen ab.
+
+Bei Mehrfachkonsum fühlt sich das oft anders an als beim Ausstieg aus einem einzigen Produkt. Dein Gehirn hat den ganzen Tag über aus mehreren Richtungen Nikotin bekommen. Wenn alles auf einmal wegfällt, wirkt das deshalb eher wie mehrere Entzüge gleichzeitig als wie einer.
+
+Darunter läuft noch etwas Langsameres ab. Durch den Dauerkonsum hat dein Gehirn zusätzliche Nikotinrezeptoren gebildet, und die brauchen Zeit, bis sie wieder auf Normalmaß sind. Bildgebende Hirnstudien zeigen, dass das nach drei Wochen bis drei Monaten der Fall ist (Journal of Nuclear Medicine 2007, Archives of General Psychiatry 2009). Deshalb halten Stimmungstiefs und Konzentrationsprobleme oft länger an als die körperlichen Beschwerden.
+
+## Brauche ich Medikamente, wenn ich mit allem gleichzeitig aufhöre?
+
+Pflicht ist das nicht, aber es verbessert deine Chancen deutlich. Ohne jede Unterstützung schaffen es laut Truth Initiative nur drei bis fünf Prozent. Nikotinersatz erhöht die Chance aufzuhören laut einem Cochrane-Review mit mehr als 130 Studien um 50 bis 60 Prozent.
+
+Gerade bei Mehrfachkonsum ist das praktisch: Ein Pflaster liefert gleichmäßig Nikotin im Hintergrund, Kaugummi oder Lutschtabletten fangen akute Cravings ab. So musst du nicht mehrere Entzüge gleichzeitig nur mit Willenskraft durchstehen. Welche Kombination zu dir passt, besprichst du am besten in der Apotheke oder mit deiner Hausärztin oder deinem Hausarzt.
+
+## Was tun bei Cravings, wenn kein Ausweichprodukt mehr da ist?
+
+Diesen Teil unterschätzen die meisten. Früher hattest du bei starkem Verlangen immer noch eine Option: Ging der Vape nicht, war noch ein Pouch da. Wenn du mit allem aufhörst, fällt dieses Sicherheitsnetz komplett weg. Deshalb können sich die ersten Tage unverhältnismäßig heftig anfühlen.
+
+Was für dich spricht: Ein einzelnes Craving ist kurz. Laut der American Lung Association ist es nach drei bis fünf Minuten vorbei, egal ob du nachgibst oder nicht. Das kann sich lang anfühlen, aber es hat ein Ende. Wenn du weißt, dass die Uhr läuft, sitzt du jede Welle leichter aus.
+
+Mach dir für jedes Produkt einen eigenen kleinen Plan statt eines allgemeinen für alles. Die Zigarette zum Kaffee, der Vape im Auto, der Pouch im Meeting: Jede dieser Situationen braucht ihre eigene Antwort. Wie das für einzelne Produkte konkret aussieht, steht in den beiden Guides oben.

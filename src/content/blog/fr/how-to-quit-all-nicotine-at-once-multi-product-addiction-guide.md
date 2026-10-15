@@ -24,9 +24,9 @@ Ce cumul n'est pas anodin sur le plan de la dépendance. Une enquête nationale 
 
 La nicotine quitte le sang assez vite : entre un et trois jours. Son métabolite, la cotinine, met plus longtemps, entre un et dix jours selon les habitudes de consommation, d'après l'American Cancer Society. Deux heures seulement après ta dernière prise, le taux de nicotine dans ton organisme a déjà chuté de moitié, selon Johns Hopkins Aramco Healthcare.
 
-Mais le plus dur ne se joue pas dans le sang. Les récepteurs nicotiniques du cerveau, qui se sont multipliés à force d'usage, mettent deux à quatre semaines à revenir à la normale, d'après des données publiées dans Psychopharmacology. C'est cette adaptation neurologique, pas le taux sanguin, qui explique pourquoi l'envie psychologique dure bien plus longtemps que les symptômes physiques.
+Mais le plus dur ne se joue pas dans le sang. Les récepteurs nicotiniques du cerveau, qui se sont multipliés à force d'usage, mettent du temps à revenir à la normale : entre trois semaines et trois mois selon les études d'imagerie cérébrale (Journal of Nuclear Medicine, 2007 ; Archives of General Psychiatry, 2009). C'est cette adaptation neurologique, pas le taux sanguin, qui explique pourquoi l'envie psychologique dure bien plus longtemps que les symptômes physiques.
 
-Les premiers signes de manque apparaissent entre 4 et 24 heures après la dernière prise, atteignent leur pic vers le troisième jour, puis s'atténuent nettement en une à deux semaines, avant de disparaître presque totalement au bout de trois à quatre semaines, selon Medical News Today et Johns Hopkins Aramco Healthcare. Le corps souffre surtout au début. L'esprit, lui, met plus de temps à lâcher prise.
+Les premiers signes de manque apparaissent entre 4 et 24 heures après la dernière prise, atteignent leur pic vers le troisième jour, selon Medical News Today et Johns Hopkins Aramco Healthcare. Ils s'estompent ensuite sur trois à quatre semaines, d'après la Cleveland Clinic. Le corps souffre surtout au début. L'esprit, lui, met plus de temps à lâcher prise.
 
 ## Faut-il tout arrêter d'un coup ou réduire progressivement ?
 
@@ -38,8 +38,12 @@ Ce qui compte, c'est plutôt la façon dont tu t'y prends une fois la décision 
 
 Oui, et les chiffres sont clairs sur ce point. Associer médicaments et accompagnement peut plus que tripler tes chances de réussir, selon des données FDA compilées par Truth Initiative. La FDA a approuvé plusieurs formes de substituts nicotiniques : gommes, inhalateurs, pastilles, spray nasal, patchs, ainsi que deux médicaments sur ordonnance, la varénicline et le bupropion.
 
-Les substituts nicotiniques classiques doublent les chances d'arrêter par rapport à un placebo, selon les essais cliniques publiés dans Psychopharmacology. Ce qui change avec une dépendance multi-produits, c'est le dosage : une personne qui fume, vape et utilise des pouches n'a pas les mêmes besoins qu'une personne qui ne fume que des cigarettes. Un patch seul risque de ne pas suffire si ton apport en nicotine venait de trois sources différentes. C'est un point à discuter avec un pharmacien ou un médecin plutôt qu'à deviner seul.
+Les substituts nicotiniques augmentent de 50 à 60 % les chances d'arrêter, selon une revue Cochrane portant sur plus de 130 essais. Ce qui change avec une dépendance multi-produits, c'est le dosage : une personne qui fume, vape et utilise des pouches n'a pas les mêmes besoins qu'une personne qui ne fume que des cigarettes. Un patch seul risque de ne pas suffire si ton apport en nicotine venait de trois sources différentes. C'est un point à discuter avec un pharmacien ou un médecin plutôt qu'à deviner seul.
 
 ## Comment tenir les premiers jours sans aucun produit ?
 
-La bonne nouvelle, c'est que les envies elles-mêmes ne durent pas éternellement : une crise de manque dure généralement entre 3 et 5 minutes, selon des données de la National Library of Medicine. Ce n'est pas rien à vivre, mais c'est court
+La bonne nouvelle, c'est que les envies elles-mêmes ne durent pas éternellement : une crise de manque dure généralement entre 3 et 5 minutes, selon des données de la National Library of Medicine. Ce n'est pas rien à vivre, mais c'est court, et savoir que chaque vague a une fin aide à la laisser passer au lieu de lutter contre.
+
+Le vrai piège des premiers jours, c'est l'absence de produit de secours. Avant, quand une envie devenait trop forte, tu avais toujours une solution : pas de vape sous la main, il restait une pouche. En arrêtant tout, ce filet de sécurité disparaît, et c'est pour ça que les premiers jours peuvent paraître d'une intensité disproportionnée.
+
+Prépare donc une réponse pour chaque situation plutôt qu'un plan général : la cigarette avec le café, la vape dans la voiture, la pouche devant la télé. Si les pouches étaient ton produit principal, [notre guide pour arrêter les sachets de nicotine](/fr/blog/how-to-quit-nicotine-pouches-zyn-on-velo) détaille ce sevrage précis. Si la vape en faisait partie, [le guide étape par étape pour arrêter la vape](/fr/blog/how-to-quit-vaping-a-realistic-step-by-step-guide) couvre les déclencheurs propres à l'appareil.
