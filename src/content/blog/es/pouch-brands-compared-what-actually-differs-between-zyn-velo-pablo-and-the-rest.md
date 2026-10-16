@@ -1,9 +1,9 @@
 ---
 title: "Bolsas de nicotina: qué diferencia realmente a ZYN, Velo, Pablo y las demás marcas"
 description: "Comparamos ZYN, Velo, Pablo y otras marcas de bolsas de nicotina: qué cambia de verdad y por qué eso casi nunca importa si quieres dejarlo."
-publishDate: 2026-08-31
+publishDate: 2026-10-16
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/pouch-brands-compared-what-actually-differs-between-zyn-velo-pablo-and-the-rest.svg
 cluster: A
 ---

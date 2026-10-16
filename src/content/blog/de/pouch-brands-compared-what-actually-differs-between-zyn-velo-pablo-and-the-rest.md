@@ -1,9 +1,9 @@
 ---
 title: "Pouch-Marken im Vergleich: Was ZYN, Velo, Pablo & Co. wirklich unterscheidet"
 description: "ZYN, Velo, Pablo: Wir zeigen, was zwischen den Pouch-Marken wirklich unterscheidet und warum die Markenwahl beim Aufhören kaum eine Rolle spielt."
-publishDate: 2026-08-31
+publishDate: 2026-10-16
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/pouch-brands-compared-what-actually-differs-between-zyn-velo-pablo-and-the-rest.svg
 cluster: A
 style_check: "failed, word count 737 outside required 800-1200 range"

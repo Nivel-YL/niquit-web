@@ -1,9 +1,9 @@
 ---
 title: "Паучи ZYN, Velo, Pablo и другие: чем они правда отличаются друг от друга"
 description: "Сравниваем паучи ZYN, Velo, Pablo: что доказано наукой, а что просто упаковка. Разбираемся, помогает ли смена бренда бросить никотин."
-publishDate: 2026-08-31
+publishDate: 2026-10-16
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/pouch-brands-compared-what-actually-differs-between-zyn-velo-pablo-and-the-rest.svg
 cluster: A
 ---

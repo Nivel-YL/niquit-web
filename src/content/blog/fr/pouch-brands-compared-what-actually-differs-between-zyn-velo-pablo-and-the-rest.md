@@ -1,9 +1,9 @@
 ---
 title: "ZYN, Velo, Pablo : que différencie vraiment les marques de sachets de nicotine ?"
 description: "ZYN, Velo, Pablo... les sachets de nicotine se ressemblent tous en rayon. Voici ce qui change réellement entre les marques, et ce qui ne change pas."
-publishDate: 2026-08-31
+publishDate: 2026-10-16
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/pouch-brands-compared-what-actually-differs-between-zyn-velo-pablo-and-the-rest.svg
 cluster: A
 ---

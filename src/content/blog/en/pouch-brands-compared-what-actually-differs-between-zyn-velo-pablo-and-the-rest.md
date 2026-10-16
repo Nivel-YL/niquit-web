@@ -1,9 +1,9 @@
 ---
 title: "Pouch brands compared: what actually differs between ZYN, Velo, Pablo and the rest"
 description: "ZYN, Velo, Pablo: what really differs between nicotine pouch brands, and why the differences matter less than you think when you're trying to quit."
-publishDate: 2026-08-31
+publishDate: 2026-10-16
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/pouch-brands-compared-what-actually-differs-between-zyn-velo-pablo-and-the-rest.svg
 cluster: A
 ---
