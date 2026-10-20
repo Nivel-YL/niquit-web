@@ -1,9 +1,9 @@
 ---
 title: "Beneficios de las bolsitas de nicotina: qué es real y qué es marketing"
 description: "Bolsitas de nicotina: los beneficios que promete la publicidad frente a lo que realmente respalda la ciencia, con datos y estudios reales."
-publishDate: 2026-09-07
+publishDate: 2026-10-20
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg
 cluster: A
 ---

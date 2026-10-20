@@ -1,9 +1,9 @@
 ---
 title: "Benefits of nicotine pouches: what people claim versus what actually holds up"
 description: "Scroll through any pouch subreddit and you'll see the same pitch: no smoke, no tar, no tobacco leaf, just nicotine and flavor. The benefits of nicotine..."
-publishDate: 2026-09-07
+publishDate: 2026-10-20
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg
 cluster: A
 ---

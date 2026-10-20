@@ -1,9 +1,9 @@
 ---
 title: "Польза никотиновых паучей: что говорят и что доказано на самом деле"
 description: "\"Без табака\", \"не пахнет\", \"поможет бросить курить\" - паучи продают именно так, и звучит это заманчиво. Но польза никотиновых паучей на упаковке и польза..."
-publishDate: 2026-09-07
+publishDate: 2026-10-20
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg
 cluster: A
 style_check: "failed, banned phrase: \"с одной стороны\""

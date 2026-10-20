@@ -1,9 +1,9 @@
 ---
 title: "Sachets de nicotine : ce qu'on te promet, ce que prouve la science"
 description: "Sans fumée, sans odeur, sans goudron : les sachets de nicotine promettent beaucoup. Voici ce que les études montrent vraiment, preuves à l'appui."
-publishDate: 2026-09-07
+publishDate: 2026-10-20
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg
 cluster: A
 ---

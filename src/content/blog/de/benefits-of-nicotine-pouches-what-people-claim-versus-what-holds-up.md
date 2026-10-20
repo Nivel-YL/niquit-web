@@ -1,9 +1,9 @@
 ---
 title: "Nicotine Pouches: Diese Vorteile stimmen, diese nicht"
 description: "Auf TikTok und in der Werbung klingt es fast zu einfach: kein Rauch, kein Teer, kein Aschenbecher, dafür der gleiche Kick. Die Vorteile von Nicotine..."
-publishDate: 2026-09-07
+publishDate: 2026-10-20
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg
 cluster: A
 ---
