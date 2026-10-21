@@ -1,7 +1,7 @@
 ---
 title: "Benefits of nicotine pouches: what people claim versus what actually holds up"
 description: "Fewer toxins than cigarettes holds up. What the research says about quitting, gums, the heart and teens is far less reassuring."
-publishDate: 2026-10-20
+publishDate: 2026-10-20
 updatedDate: 2026-10-21
 lang: en
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Warum Nicotine Pouches dein Zahnfleisch angreifen, und was das wirklich bedeutet"
 description: "Warum Nicotine Pouches das Zahnfleisch genau dort reizen, wo sie liegen, was das Bluten bedeutet und ob sich das Zahnfleisch nach dem Aufhören erholt."
-publishDate: 2026-10-13
+publishDate: 2026-10-13
 updatedDate: 2026-10-21
 lang: de
 draft: false

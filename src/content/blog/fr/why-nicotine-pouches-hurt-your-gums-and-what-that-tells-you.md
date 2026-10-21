@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi les sachets de nicotine abîment tes gencives, et ce que ça révèle"
 description: "Pourquoi ta gencive s'irrite à l'endroit où tu places le sachet, ce que ça dit de la santé de tes gencives et si les sachets sans tabac sont plus sûrs."
-publishDate: 2026-10-13
+publishDate: 2026-10-13
 updatedDate: 2026-10-21
 lang: fr
 draft: false
