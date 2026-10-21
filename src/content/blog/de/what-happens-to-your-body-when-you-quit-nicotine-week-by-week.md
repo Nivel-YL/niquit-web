@@ -2,6 +2,7 @@
 title: "Was mit deinem Körper passiert, wenn du mit Nikotin aufhörst: Woche für Woche"
 description: "Nicotinentzug Woche für Woche: Was in deinem Körper passiert, von den ersten 20 Minuten bis zum ersten Jahr rauchfrei."
 publishDate: 2026-08-25
+updatedDate: 2026-10-10
 lang: de
 draft: false
 heroImage: /images/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.svg

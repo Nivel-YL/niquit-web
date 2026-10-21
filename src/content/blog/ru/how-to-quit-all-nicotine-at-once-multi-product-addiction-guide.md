@@ -2,6 +2,7 @@
 title: "Как бросить всю никотиновую зависимость сразу: гайд для тех, кто сидит на нескольких продуктах одновременно"
 description: "Утром сигарета с кофе, днём вейп между встречами, вечером снюс под губой. Бросить всю никотиновую зависимость сразу требует другого подхода."
 publishDate: 2026-08-07
+updatedDate: 2026-10-15
 lang: ru
 draft: false
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg

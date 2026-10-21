@@ -2,6 +2,7 @@
 title: "Vaping aufhören: Der realistische Schritt-für-Schritt-Guide"
 description: "Vaping aufhören ist schwerer als gedacht: Eine E-Zigarette liefert so viel Nikotin wie 20 Packungen Zigaretten. Hier der ehrliche Weg raus aus der Sucht."
 publishDate: 2026-07-13
+updatedDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg

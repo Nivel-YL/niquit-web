@@ -2,6 +2,7 @@
 title: "Бросил сигареты, перешёл на вейп: я всё ещё зависим от никотина?"
 description: "Бросил сигареты, но вейп из рук не выпускаешь? Разбираемся, почему зависимость никуда не делась и что с этим делать дальше."
 publishDate: 2026-07-31
+updatedDate: 2026-10-15
 lang: ru
 draft: false
 heroImage: /images/blog/i-quit-cigarettes-but-started-vaping-am-i-still-addicted.svg

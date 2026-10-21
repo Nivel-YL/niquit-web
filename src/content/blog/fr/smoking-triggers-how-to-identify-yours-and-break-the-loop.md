@@ -2,6 +2,7 @@
 title: "Déclencheurs de la cigarette : comment les identifier et casser la boucle"
 description: "Café du matin, pause au travail, verre entre amis : tes déclencheurs de cigarette suivent un schéma précis. Voici comment les repérer."
 publishDate: 2026-08-18
+updatedDate: 2026-08-26
 lang: fr
 draft: false
 heroImage: /images/blog/smoking-triggers-how-to-identify-yours-and-break-the-loop.svg

@@ -2,6 +2,7 @@
 title: "La cigarette réduit-elle vraiment le stress ? Ce que dit la science"
 description: "La cigarette calme-t-elle vraiment le stress ou fait-elle croire à un soulagement qui n'existe pas ? Voici ce que montrent les études sur la question."
 publishDate: 2026-08-14
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/does-smoking-actually-reduce-stress-the-real-science.svg

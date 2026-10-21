@@ -2,6 +2,7 @@
 title: "Pourquoi j'ai toujours envie d'une cigarette : la science des envies"
 description: "Découvre pourquoi les envies de nicotine reviennent sans cesse, ce qui se passe dans ton cerveau et combien de temps ça dure réellement."
 publishDate: 2026-07-25
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/why-do-i-always-want-a-cigarette-the-science-of-cravings.svg

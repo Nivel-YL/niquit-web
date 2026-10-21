@@ -2,6 +2,7 @@
 title: "How to Quit Vaping: A Realistic Step-by-Step Guide"
 description: "Quitting vaping is harder than most people admit. Here's a realistic, step-by-step guide based on what actually works, not wishful thinking."
 publishDate: 2026-07-13
+updatedDate: 2026-07-31
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg

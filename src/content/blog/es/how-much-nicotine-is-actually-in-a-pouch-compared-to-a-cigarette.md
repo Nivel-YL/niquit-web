@@ -2,6 +2,7 @@
 title: "¿Cuánta nicotina tiene realmente una bolsa comparada con un cigarrillo?"
 description: "Comparamos cuánta nicotina tiene una bolsa de nicotina frente a un cigarrillo: dosis, absorción y por qué el número del paquete no cuenta toda la historia."
 publishDate: 2026-10-06
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette.svg

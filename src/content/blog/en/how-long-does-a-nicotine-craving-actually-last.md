@@ -2,6 +2,7 @@
 title: "How Long Does a Nicotine Craving Actually Last?"
 description: "You're three days into quitting and it hits: a wave of wanting so strong you'd trade your car for a cigarette. Here's what actually happens in your head."
 publishDate: 2026-09-08
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/how-long-does-a-nicotine-craving-actually-last.svg

@@ -2,6 +2,7 @@
 title: "Las primeras 72 horas sin nicotina: guía de supervivencia"
 description: "Qué sentirás hora por hora al dejar la nicotina y cómo aguantar los momentos más duros sin recaer, con datos reales, no promesas vacías."
 publishDate: 2026-09-04
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/the-first-72-hours-without-nicotine-a-survival-guide.svg

@@ -2,6 +2,7 @@
 title: "What Happens to Your Body When You Quit Nicotine Week by Week"
 description: "Quitting nicotine week by week: what really happens to your heart, lungs, and brain from hour one to year one, backed by research."
 publishDate: 2026-08-25
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.svg

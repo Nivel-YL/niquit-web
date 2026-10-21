@@ -2,6 +2,7 @@
 title: "Wie viel Nikotin steckt wirklich in einem Pouch im Vergleich zu einer Zigarette?"
 description: "Ein 4-mg-Pouch liefert fast so viel Nikotin wie eine Zigarette, nur viel langsamer. Die genauen Zahlen und was sie für dich bedeuten."
 publishDate: 2026-10-06
+updatedDate: 2026-10-10
 lang: de
 draft: false
 heroImage: /images/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette.svg

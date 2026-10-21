@@ -2,6 +2,7 @@
 title: "ZYN y Velo: la línea de tiempo real de la abstinencia día a día"
 description: "Qué pasa exactamente cuando dejas ZYN o Velo: hora por hora los primeros días, y semana por semana hasta que tu cerebro vuelve a la normalidad."
 publishDate: 2026-09-29
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/zyn-and-velo-withdrawal-timeline-what-actually-happens-day-by-day.svg

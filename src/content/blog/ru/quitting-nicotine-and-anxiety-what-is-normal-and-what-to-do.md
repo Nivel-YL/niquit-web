@@ -2,6 +2,7 @@
 title: "Тревога после отказа от никотина: что нормально, а что нет"
 description: "Тревога после отказа от никотина - частый и предсказуемый симптом, а не признак того, что что-то пошло не так. Разбираем, сколько это длится."
 publishDate: 2026-08-21
+updatedDate: 2026-08-26
 lang: ru
 draft: false
 heroImage: /images/blog/quitting-nicotine-and-anxiety-what-is-normal-and-what-to-do.svg

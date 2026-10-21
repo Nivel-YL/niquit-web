@@ -3,6 +3,35 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
 import sitemap from '@astrojs/sitemap';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// <lastmod> for blog URLs: updatedDate if the article was edited after
+// publication, else publishDate. Read straight from the markdown frontmatter
+// because the sitemap integration runs outside the content collection API.
+// Blog index pages get the date of their newest article.
+function blogLastmod() {
+  const map = new Map();
+  const root = path.resolve('src/content/blog');
+  for (const lang of fs.readdirSync(root)) {
+    const prefix = lang === 'en' ? '' : '/' + lang;
+    let newest = '';
+    for (const file of fs.readdirSync(path.join(root, lang))) {
+      if (!file.endsWith('.md')) continue;
+      const fm = fs.readFileSync(path.join(root, lang, file), 'utf8').split(/^---\s*$/m)[1] || '';
+      if (/^draft:\s*true/m.test(fm)) continue;
+      const pub = (fm.match(/^publishDate:\s*(\d{4}-\d{2}-\d{2})/m) || [])[1];
+      if (!pub) continue;
+      const upd = (fm.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m) || [])[1];
+      const date = upd && upd > pub ? upd : pub;
+      map.set(`https://niquit.app${prefix}/blog/${file.slice(0, -3)}`, date);
+      if (pub > newest) newest = pub;
+    }
+    if (newest) map.set(`https://niquit.app${prefix}/blog`, newest);
+  }
+  return map;
+}
+const lastmodByUrl = blogLastmod();
 
 export default defineConfig({
   site: 'https://niquit.app',
@@ -53,6 +82,8 @@ export default defineConfig({
           item.url = url.toString();
           if (seen.has(item.url)) return undefined;
           seen.add(item.url);
+          const lastmod = lastmodByUrl.get(item.url);
+          if (lastmod) item.lastmod = lastmod;
           return item;
         };
       })(),

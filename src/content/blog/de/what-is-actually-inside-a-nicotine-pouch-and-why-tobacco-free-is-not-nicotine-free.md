@@ -2,6 +2,7 @@
 title: "Was steckt wirklich in einem Nikotinbeutel, und warum tabakfrei nicht nikotinfrei bedeutet"
 description: "Nikotinbeutel werben mit \"tabakfrei\". Doch was wirklich drinsteckt, hat mit Sicherheit oft wenig zu tun. Die Inhaltsstoffe im Überblick."
 publishDate: 2026-10-09
+updatedDate: 2026-10-10
 lang: de
 draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg

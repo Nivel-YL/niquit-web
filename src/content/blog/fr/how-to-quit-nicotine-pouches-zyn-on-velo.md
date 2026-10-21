@@ -2,6 +2,7 @@
 title: "Comment arrêter les sachets de nicotine (ZYN, On!, Velo) sans craquer"
 description: "Tu veux arrêter les sachets de nicotine mais les envies reviennent sans cesse ? Voici pourquoi c'est si difficile et comment s'en sortir vraiment."
 publishDate: 2026-07-08
+updatedDate: 2026-07-31
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg

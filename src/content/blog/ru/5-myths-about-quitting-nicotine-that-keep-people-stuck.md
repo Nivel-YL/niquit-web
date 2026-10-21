@@ -2,6 +2,7 @@
 title: "5 мифов о том, как бросить никотин, которые держат тебя в ловушке"
 description: "Разбираем 5 главных мифов об отказе от никотина: почему они мешают бросить и что говорит наука на самом деле."
 publishDate: 2026-09-15
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/5-myths-about-quitting-nicotine-that-keep-people-stuck.svg

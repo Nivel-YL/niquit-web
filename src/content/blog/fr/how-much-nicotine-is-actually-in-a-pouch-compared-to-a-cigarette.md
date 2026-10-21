@@ -2,6 +2,7 @@
 title: "Combien de nicotine y a-t-il vraiment dans un sachet de nicotine comparé à une cigarette ?"
 description: "Sachet de nicotine ou cigarette : lequel contient le plus de nicotine ? La réponse dépend du dosage, et elle surprend beaucoup de gens."
 publishDate: 2026-10-06
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette.svg

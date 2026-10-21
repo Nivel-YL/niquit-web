@@ -2,6 +2,7 @@
 title: "Что на самом деле внутри никотинового пауча и почему «без табака» не значит «без никотина»"
 description: "Никотиновый пауч называют «tobacco-free», и это правда: табачного листа там нет. Но никотин остаётся, и по силе он часто не уступает сигарете."
 publishDate: 2026-10-09
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg

@@ -2,6 +2,7 @@
 title: "How to Quit All Nicotine at Once: A Multi-Product Addiction Guide"
 description: "You vape by day, smoke when drinking, and use a pouch before bed. None of it feels like real addiction, because no single product does all the damage."
 publishDate: 2026-08-07
+updatedDate: 2026-10-15
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg

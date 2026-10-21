@@ -2,6 +2,7 @@
 title: "Nicotine Pouch Side Effects No One Tells You About"
 description: "Nicotine pouches feel \"cleaner\" than smoking, but the side effects are real. Here's what the research actually shows before you try one."
 publishDate: 2026-07-10
+updatedDate: 2026-07-31
 lang: en
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg

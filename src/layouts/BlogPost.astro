@@ -14,6 +14,7 @@ interface Props {
   seoTitle?: string;
   description: string;
   publishDate: Date;
+  updatedDate?: Date;
   lang: Lang;
   heroImage?: string;
   slug?: string;
@@ -22,7 +23,7 @@ interface Props {
   translations?: Partial<Record<Lang, string>>;
 }
 
-const { title, seoTitle, description, publishDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [], translations = {} } = Astro.props;
+const { title, seoTitle, description, publishDate, updatedDate, lang, heroImage, slug = '', cluster = 'nicotine-science', related = [], translations = {} } = Astro.props;
 const s = t(lang);
 
 const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang === 'de' ? 'de-DE' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-US', {
@@ -32,6 +33,8 @@ const dateStr = publishDate.toLocaleDateString(lang === 'ru' ? 'ru-RU' : lang ==
 const siteOrigin = 'https://niquit.app';
 const pageUrl = `${siteOrigin}${localePath(lang, `blog/${slug}`)}`;
 const isoDate = publishDate.toISOString().slice(0, 10);
+// An edit made before the publisher set the final publishDate is not a later update.
+const isoModified = updatedDate && updatedDate > publishDate ? updatedDate.toISOString().slice(0, 10) : isoDate;
 
 // Verified reference pages for this article, shared by all 5 languages (same slug).
 // Each entry was fetched and checked against the claims the article attributes to it,
@@ -53,7 +56,7 @@ const jsonLd = {
   description,
   image: heroImage ? `${siteOrigin}${heroImage}` : undefined,
   datePublished: isoDate,
-  dateModified: isoDate,
+  dateModified: isoModified,
   inLanguage: lang,
   mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
   url: pageUrl,

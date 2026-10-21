@@ -2,6 +2,7 @@
 title: "Bist du süchtig nach Vapen? Anzeichen, die du nicht ignorieren solltest"
 description: "Zittrige Hände, wenn die Vape leer ist? So erkennst du, ob du süchtig nach Vapen bist, und was die Wissenschaft dazu sagt."
 publishDate: 2026-07-14
+updatedDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg

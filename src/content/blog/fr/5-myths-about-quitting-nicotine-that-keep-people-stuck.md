@@ -2,6 +2,7 @@
 title: "5 mythes sur l'arrêt de la nicotine qui te gardent coincé"
 description: "Certaines idées reçues sur l'arrêt de la nicotine font plus de mal que de bien. Voici ce que dit vraiment la science, sans blabla moralisateur."
 publishDate: 2026-09-15
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/5-myths-about-quitting-nicotine-that-keep-people-stuck.svg

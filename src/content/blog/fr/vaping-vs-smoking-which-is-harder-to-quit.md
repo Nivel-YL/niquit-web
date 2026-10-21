@@ -2,6 +2,7 @@
 title: "Vapoter ou fumer : qu'est-ce qui est le plus dur à arrêter ?"
 description: "Vape ou clope, laquelle est la plus difficile à quitter ? Les chiffres, les mécanismes et ce que révèle la recherche récente sur la dépendance."
 publishDate: 2026-07-17
+updatedDate: 2026-08-23
 lang: fr
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg

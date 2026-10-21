@@ -2,6 +2,7 @@
 title: "Первые 72 часа без никотина: инструкция по выживанию"
 description: "Первые 72 часа без никотина самые тяжёлые физически и психологически. Разбираем по часам, что происходит с телом и мозгом, и как продержаться."
 publishDate: 2026-09-04
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/the-first-72-hours-without-nicotine-a-survival-guide.svg

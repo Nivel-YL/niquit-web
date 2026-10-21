@@ -2,6 +2,7 @@
 title: "Sachets de nicotine : une alternative plus saine que la cigarette ?"
 description: "Les sachets de nicotine séduisent de plus en plus de fumeurs français. Mais sont-ils vraiment sans danger ? On fait le point, sans langue de bois."
 publishDate: 2026-07-06
+updatedDate: 2026-07-31
 lang: fr
 draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg

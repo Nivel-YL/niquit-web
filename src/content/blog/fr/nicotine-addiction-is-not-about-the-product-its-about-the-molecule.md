@@ -2,6 +2,7 @@
 title: "Dépendance à la nicotine : ce n'est pas le produit, c'est la molécule"
 description: "Tu penses que le vapotage est différent de la cigarette ? Ton cerveau, lui, ne fait aucune distinction. Tout se joue au niveau moléculaire."
 publishDate: 2026-08-04
+updatedDate: 2026-08-26
 lang: fr
 draft: false
 heroImage: /images/blog/nicotine-addiction-is-not-about-the-product-its-about-the-molecule.svg

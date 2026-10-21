@@ -2,6 +2,7 @@
 title: "How to Quit Smoking When Nothing Has Worked Before"
 description: "You've tried patches, cold turkey, apps, maybe hypnosis. Here's what the research says about quitting smoking when nothing has worked before."
 publishDate: 2026-07-28
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg

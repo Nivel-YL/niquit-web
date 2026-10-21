@@ -2,6 +2,7 @@
 title: "Побочные эффекты никотиновых паучков: то, о чём молчат на банке"
 description: "Ты кладёшь паучок под губу и думаешь: дыма нет, значит безопаснее сигарет. Но побочные эффекты никотиновых паучков начинаются раньше, чем кажется."
 publishDate: 2026-07-10
+updatedDate: 2026-08-29
 lang: ru
 draft: false
 heroImage: /images/blog/nicotine-pouch-side-effects-what-no-one-tells-you.svg

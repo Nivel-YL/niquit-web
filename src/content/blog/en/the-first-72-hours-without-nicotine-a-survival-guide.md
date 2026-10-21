@@ -2,6 +2,7 @@
 title: "The first 72 hours without nicotine: a survival guide"
 description: "Hour by hour, what actually happens when you quit nicotine, why it feels this intense, and how to get through the worst of it without giving in."
 publishDate: 2026-09-04
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/the-first-72-hours-without-nicotine-a-survival-guide.svg

@@ -2,6 +2,7 @@
 title: "Why Nicotine Cravings Feel So Urgent (And How to Actually Wait Them Out)"
 description: "Nicotine cravings feel unbearable but rarely last long. Here's why they hit so hard and how to ride them out without giving in."
 publishDate: 2026-08-11
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/why-nicotine-cravings-feel-so-urgent-and-how-to-wait-them-out.svg

@@ -2,6 +2,7 @@
 title: "Que se passe-t-il dans ton corps quand tu arrêtes la nicotine, semaine après semaine"
 description: "Découvre ce qui se passe réellement dans ton corps quand tu arrêtes la nicotine, semaine après semaine, des premières 20 minutes jusqu'à un an sans fumer."
 publishDate: 2026-08-25
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.svg

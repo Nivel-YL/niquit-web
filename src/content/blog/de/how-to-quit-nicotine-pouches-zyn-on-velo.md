@@ -2,6 +2,7 @@
 title: "Nikotinbeutel aufhören: So schaffst du den Ausstieg von ZYN, On! und Velo"
 description: "Nikotinbeutel aufhören: Warum ZYN, On! und Velo so schwer loszulassen sind und was beim Entzug wirklich hilft. Fakten, Timeline, Strategie."
 publishDate: 2026-07-08
+updatedDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg

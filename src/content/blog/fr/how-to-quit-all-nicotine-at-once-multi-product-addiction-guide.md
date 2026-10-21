@@ -2,6 +2,7 @@
 title: "Comment arrêter toute la nicotine d'un coup : guide pour une addiction multi-produits"
 description: "Cigarette, vape et pouches en même temps ? Voici comment arrêter toute la nicotine d'un coup, sans juste déplacer la dépendance ailleurs."
 publishDate: 2026-08-07
+updatedDate: 2026-10-15
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-all-nicotine-at-once-multi-product-addiction-guide.svg

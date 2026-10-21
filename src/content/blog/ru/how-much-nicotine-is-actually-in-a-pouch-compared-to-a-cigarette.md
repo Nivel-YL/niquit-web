@@ -2,6 +2,7 @@
 title: "Сколько никотина в паучке по сравнению с сигаретой?"
 description: "Паучка на 4 мг может дать почти столько же никотина, сколько сигарета. Разбираем цифры: сколько никотина реально в паучке и в сигарете, и почему скорость важнее количества."
 publishDate: 2026-10-06
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette.svg

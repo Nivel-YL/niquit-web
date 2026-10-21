@@ -2,6 +2,7 @@
 title: "Qué le pasa a tu cuerpo cuando dejas la nicotina, semana a semana"
 description: "Hora por hora, semana por semana: así reacciona tu cuerpo cuando dejas la nicotina, con datos reales de estudios y agencias de salud."
 publishDate: 2026-08-25
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.svg

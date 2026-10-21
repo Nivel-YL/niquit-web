@@ -2,6 +2,7 @@
 title: "Никотиновые пакетики: что это такое и правда ли они безопаснее сигарет"
 description: "Никотиновые пакетики продают как \"чистую\" альтернативу сигаретам. Разбираемся, что внутри, какой риск они несут и правда ли это безопаснее курения."
 publishDate: 2026-07-06
+updatedDate: 2026-07-31
 lang: ru
 draft: false
 heroImage: /images/blog/what-are-nicotine-pouches-and-are-they-safer-than-cigarettes.svg

@@ -2,6 +2,7 @@
 title: "Why Disposable Vapes Are So Hard to Quit"
 description: "Disposable vapes pack more nicotine, lower prices, and sweeter flavors than ever. Here's why quitting them feels so much harder than quitting cigarettes."
 publishDate: 2026-07-14
+updatedDate: 2026-08-08
 lang: en
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg

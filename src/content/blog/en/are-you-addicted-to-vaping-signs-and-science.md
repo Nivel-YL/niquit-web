@@ -2,6 +2,7 @@
 title: "Are You Addicted to Vaping? The Signs and the Science Behind Them"
 description: "Wondering if you're addicted to vaping? Here are the real signs, backed by science, plus what's actually happening in your brain."
 publishDate: 2026-07-14
+updatedDate: 2026-07-31
 lang: en
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg

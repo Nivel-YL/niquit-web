@@ -2,6 +2,7 @@
 title: "Cómo la nicotina reprograma tu cerebro y cuánto tarda en recuperarse"
 description: "Descubre cómo la nicotina altera tu cerebro a nivel químico y cuánto tiempo necesita realmente para volver a la normalidad tras dejarla."
 publishDate: 2026-08-28
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/how-nicotine-rewires-your-brain-and-how-long-recovery-takes.svg

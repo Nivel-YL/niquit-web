@@ -2,6 +2,7 @@
 title: "Wie viel Geld geben Raucher im Leben wirklich aus?"
 description: "Eine Packung am Tag, 48 Jahre lang: Wir rechnen vor, wie viel Geld Raucher im Leben wirklich ausgeben, in Euro, Gesundheitskosten und Lebenszeit."
 publishDate: 2026-09-01
+updatedDate: 2026-10-10
 lang: de
 draft: false
 heroImage: /images/blog/how-much-money-do-smokers-actually-spend-in-a-lifetime.svg

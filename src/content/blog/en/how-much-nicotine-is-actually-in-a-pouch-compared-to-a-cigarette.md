@@ -2,6 +2,7 @@
 title: "How Much Nicotine Is Actually in a Pouch Compared to a Cigarette?"
 description: "A pouch label lists more nicotine than a cigarette pack ever will. Here's what actually reaches your bloodstream, backed by real research."
 publishDate: 2026-10-06
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette.svg

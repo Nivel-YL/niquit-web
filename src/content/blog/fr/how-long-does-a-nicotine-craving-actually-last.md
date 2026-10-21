@@ -2,6 +2,7 @@
 title: "Combien de temps dure vraiment une envie de nicotine ?"
 description: "Une envie de nicotine dure en moyenne 3 à 5 minutes, mais elle donne l'impression de durer une éternité. Voici ce qui se passe dans ton cerveau."
 publishDate: 2026-09-08
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/how-long-does-a-nicotine-craving-actually-last.svg

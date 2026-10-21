@@ -2,6 +2,7 @@
 title: "Warum Einweg-Vapes so schwer aufzugeben sind"
 description: "Einweg-Vapes enthalten mehr Nikotin als je zuvor und machen schneller süchtig als klassische Zigaretten. Die Gründe dafür, klar erklärt."
 publishDate: 2026-07-14
+updatedDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg

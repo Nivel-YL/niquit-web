@@ -2,6 +2,7 @@
 title: "Вейп или сигареты: что бросить сложнее?"
 description: "Вейп или сигареты: что тяжелее бросить? Разбираем реальные цифры о зависимости, срывах и шансах на успех без прикрас."
 publishDate: 2026-07-17
+updatedDate: 2026-07-31
 lang: ru
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg

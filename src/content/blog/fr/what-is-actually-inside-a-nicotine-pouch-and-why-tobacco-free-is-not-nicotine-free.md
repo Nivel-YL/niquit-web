@@ -2,6 +2,7 @@
 title: "Ce qu'il y a vraiment dans un sachet de nicotine, et pourquoi « sans tabac » ne veut pas dire sans nicotine"
 description: "Sachet de nicotine sans tabac : ce que contient vraiment le produit, d'où vient la nicotine, et pourquoi cette étiquette ne dit pas tout sur les risques."
 publishDate: 2026-10-09
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg

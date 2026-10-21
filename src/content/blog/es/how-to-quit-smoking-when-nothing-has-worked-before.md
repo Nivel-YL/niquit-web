@@ -2,6 +2,7 @@
 title: "Cómo dejar de fumar cuando nada ha funcionado antes"
 description: "Has probado parches, fuerza de voluntad, el día de Año Nuevo. Y volviste a fumar. Esto es lo que pasa en tu cerebro y qué hacer distinto ahora."
 publishDate: 2026-07-28
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg

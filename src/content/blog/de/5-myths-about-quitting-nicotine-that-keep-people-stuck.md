@@ -2,6 +2,7 @@
 title: "5 Mythen übers Aufhören mit Nikotin, die dich im Kreis laufen lassen"
 description: "Diese 5 Mythen übers Aufhören mit Nikotin halten viele im Kreislauf der Sucht gefangen. Was die Forschung wirklich sagt und warum du es trotzdem schaffst."
 publishDate: 2026-09-15
+updatedDate: 2026-10-15
 lang: de
 draft: false
 heroImage: /images/blog/5-myths-about-quitting-nicotine-that-keep-people-stuck.svg

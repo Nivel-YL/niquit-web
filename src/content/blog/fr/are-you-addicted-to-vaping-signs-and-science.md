@@ -2,6 +2,7 @@
 title: "Es-tu accro à la vape ? Les signes qui ne trompent pas"
 description: "Tu vapotes dès le réveil et tu culpabilises ? Voici les vrais signes de l'addiction à la vape, selon la science, et comment agir maintenant."
 publishDate: 2026-07-14
+updatedDate: 2026-07-31
 lang: fr
 draft: false
 heroImage: /images/blog/are-you-addicted-to-vaping-signs-and-science.svg

@@ -2,6 +2,7 @@
 title: "Comment arrêter de fumer quand rien n'a marché avant"
 description: "Patchs, gomme, volonté pure : rien n'a tenu plus de trois semaines ? Voici pourquoi, et ce qui change vraiment la donne pour arrêter de fumer."
 publishDate: 2026-07-28
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg

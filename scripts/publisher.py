@@ -30,6 +30,7 @@ BACKLOG_PATH = REPO_ROOT / 'BLOG_TOPIC_BACKLOG.md'
 # ── config ───────────────────────────────────────────────────────────────────
 
 LANGUAGES     = ['en', 'ru', 'de', 'es', 'fr']
+SITE_ORIGIN   = 'https://niquit.app'
 PUBLISH_COUNT = int(os.environ.get('PUBLISH_COUNT', '1'))
 BACKLOG_RE    = re.compile(r'<!--BACKLOG\n(.*?)BACKLOG-->', re.DOTALL)
 
@@ -162,6 +163,7 @@ def main() -> None:
         today        = datetime.date.today()
         to_publish   = approved[:PUBLISH_COUNT]
         published_ids: list[str] = []
+        published_urls: list[str] = []
 
         for topic in to_publish:
             print(f'\nPublishing: {topic["id"]} — {topic["title_en"]}')
@@ -185,6 +187,11 @@ def main() -> None:
                     still_missing = [l for l in LANGUAGES if l not in topic['published']]
                     print(f'  → partially published ({", ".join(langs)}); staying in queue, missing: {", ".join(still_missing)}')
                 published_ids.append(topic['id'])
+                slug = slugify(topic['title_en'])
+                for lang in langs:
+                    prefix = '' if lang == 'en' else f'/{lang}'
+                    published_urls.append(f'{SITE_ORIGIN}{prefix}/blog/{slug}')
+                    published_urls.append(f'{SITE_ORIGIN}{prefix}/blog')
             else:
                 print(f'  → no files updated, skipping backlog update', file=sys.stderr)
 
@@ -199,6 +206,9 @@ def main() -> None:
         if gh_env:
             with open(gh_env, 'a', encoding='utf-8') as f:
                 f.write(f'PUBLISHED_IDS={",".join(published_ids)}\n')
+                # For the IndexNow step in publisher.yml (Bing, Yandex and the
+                # other IndexNow engines): only ever set when something went live.
+                f.write(f'PUBLISHED_URLS={" ".join(dict.fromkeys(published_urls))}\n')
 
         if not published_ids:
             sys.exit(1)

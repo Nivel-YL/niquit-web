@@ -7,6 +7,11 @@ const blog = defineCollection({
     title: z.string(),
     description: z.string(),
     publishDate: z.date(),
+    // Last real content edit after publication (fact fixes, finished text).
+    // Feeds BlogPosting dateModified and the sitemap <lastmod>, so Google
+    // knows to recrawl a corrected article. Set it whenever published text
+    // changes; the publisher's draft flip does not count as an edit.
+    updatedDate: z.date().optional(),
     lang: z.enum(['en', 'ru', 'de', 'es', 'fr']),
     heroImage: z.string().optional(),
     // A-H are the pipeline's topic clusters. 'S' is not a topic: it marks a

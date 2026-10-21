@@ -2,6 +2,7 @@
 title: "Vapear vs fumar: ¿qué cuesta más dejar?"
 description: "¿Dejar el vape es más difícil que dejar el tabaco? La ciencia dice que sí, y aquí te explicamos por qué con datos reales."
 publishDate: 2026-07-17
+updatedDate: 2026-07-31
 lang: es
 draft: false
 heroImage: /images/blog/vaping-vs-smoking-which-is-harder-to-quit.svg

@@ -2,6 +2,7 @@
 title: "Как бросить курить, если ничего не помогало раньше"
 description: "Пластыри, никотиновая жвачка, книга Аллена Карра, сила воли на морозе, и снова сигарета в руке. Разбираемся, почему так происходит и что реально работает."
 publishDate: 2026-07-28
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg

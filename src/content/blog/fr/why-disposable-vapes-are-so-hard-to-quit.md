@@ -2,6 +2,7 @@
 title: "Pourquoi les vapes jetables sont si difficiles à arrêter"
 description: "Puffs, Elf Bar, Geek Bar : ces vapes jetables sont devenues un piège sournois. Voici pourquoi elles sont si dures à lâcher, et ce qui a changé si vite."
 publishDate: 2026-07-14
+updatedDate: 2026-08-08
 lang: fr
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg

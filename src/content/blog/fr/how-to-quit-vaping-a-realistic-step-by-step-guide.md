@@ -2,6 +2,7 @@
 title: "Comment arrêter la vape : le guide étape par étape (sans se mentir)"
 description: "Arrêter la vape sans y laisser sa santé mentale : timeline réaliste, symptômes attendus et méthode concrète pour tenir sur la durée."
 publishDate: 2026-07-13
+updatedDate: 2026-07-31
 lang: fr
 draft: false
 heroImage: /images/blog/how-to-quit-vaping-a-realistic-step-by-step-guide.svg

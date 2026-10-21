@@ -2,6 +2,7 @@
 title: "How nicotine rewires your brain, and how long it takes to recover"
 description: "Nicotine changes your brain's wiring within days. Here's what actually happens, and how long full recovery really takes after you quit."
 publishDate: 2026-08-28
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/how-nicotine-rewires-your-brain-and-how-long-recovery-takes.svg

@@ -2,6 +2,7 @@
 title: "Что происходит с телом, когда бросаешь никотин: неделя за неделей"
 description: "Что происходит с телом после отказа от никотина по неделям: от первых 20 минут до года без сигарет. Реальные цифры и то, чего ждать на каждом этапе."
 publishDate: 2026-08-25
+updatedDate: 2026-10-10
 lang: ru
 draft: false
 heroImage: /images/blog/what-happens-to-your-body-when-you-quit-nicotine-week-by-week.svg

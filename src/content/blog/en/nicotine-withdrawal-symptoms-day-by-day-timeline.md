@@ -2,6 +2,7 @@
 title: "Nicotine Withdrawal Symptoms Day by Day: What Actually Happens"
 description: "A day-by-day timeline of nicotine withdrawal symptoms, from the first headache to the moment cravings finally fade, backed by real research."
 publishDate: 2026-07-21
+updatedDate: 2026-10-10
 lang: en
 draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg

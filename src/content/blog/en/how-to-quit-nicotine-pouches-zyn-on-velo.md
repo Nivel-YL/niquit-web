@@ -2,6 +2,7 @@
 title: "How to Quit Nicotine Pouches (ZYN, On!, Velo)"
 description: "Struggling to quit ZYN, On! or Velo? Here's a real timeline, what withdrawal actually feels like, and a plan that works."
 publishDate: 2026-07-08
+updatedDate: 2026-07-31
 lang: en
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg

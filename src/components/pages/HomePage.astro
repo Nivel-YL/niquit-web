@@ -50,7 +50,26 @@ const structuredData = [
     legalName: 'Nivexon OÜ',
     url: 'https://niquit.app/',
     logo: 'https://niquit.app/logo-512.png',
-    sameAs: [appleUrl('en'), googleUrl('en').replace(/&hl=en$/, '')],
+    sameAs: [
+      appleUrl('en'),
+      googleUrl('en').replace(/&hl=en$/, ''),
+      'https://www.facebook.com/niquitapp',
+      'https://www.instagram.com/niquit.app/',
+      'https://www.youtube.com/@niquitapp',
+      'https://www.tiktok.com/@niquit.app',
+      'https://www.producthunt.com/products/niquit',
+    ],
+  },
+  {
+    // Site name for the search result header. 'NiQuit' alone collides with
+    // the NiQuitin brand, so the alternate names spell out that this is the app.
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': 'https://niquit.app/#website',
+    name: 'NiQuit',
+    alternateName: ['NiQuit app', 'niquit.app'],
+    url: 'https://niquit.app/',
+    publisher: { '@id': 'https://niquit.app/#org' },
   },
   {
     '@context': 'https://schema.org',

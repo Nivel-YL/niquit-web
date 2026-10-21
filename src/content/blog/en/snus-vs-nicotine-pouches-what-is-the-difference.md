@@ -2,6 +2,7 @@
 title: "Snus vs Nicotine Pouches: What's the Difference?"
 description: "Snus contains tobacco, nicotine pouches don't. Learn the real differences in strength, flavor, and health impact before you pick one over the other."
 publishDate: 2026-07-10
+updatedDate: 2026-07-31
 lang: en
 draft: false
 heroImage: /images/blog/snus-vs-nicotine-pouches-what-is-the-difference.svg

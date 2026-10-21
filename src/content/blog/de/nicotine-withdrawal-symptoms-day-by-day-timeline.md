@@ -2,6 +2,7 @@
 title: "Nikotinentzug: Symptome Tag für Tag im Überblick"
 description: "Kopfschmerzen an Tag 3, Heißhunger an Tag 5, miese Laune bis Woche 2: So verläuft der Nikotinentzug Tag für Tag laut aktueller Forschung."
 publishDate: 2026-07-21
+updatedDate: 2026-10-10
 lang: de
 draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg

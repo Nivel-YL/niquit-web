@@ -2,6 +2,7 @@
 title: "Почему одноразовые вейпы так сложно бросить"
 description: "Одноразовые вейпы содержат больше никотина, чем сигареты, и это меняет мозг быстрее. Разбираемся, почему бросить их труднее, чем кажется."
 publishDate: 2026-07-14
+updatedDate: 2026-07-31
 lang: ru
 draft: false
 heroImage: /images/blog/why-disposable-vapes-are-so-hard-to-quit.svg

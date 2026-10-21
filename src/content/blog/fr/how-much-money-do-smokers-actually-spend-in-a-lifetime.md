@@ -2,6 +2,7 @@
 title: "Combien d'argent un fumeur dépense-t-il vraiment dans sa vie ?"
 description: "Entre le prix du paquet, les frais de santé et les années de vie perdues, le vrai coût du tabac dépasse largement ce que la plupart des fumeurs imaginent."
 publishDate: 2026-09-01
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/how-much-money-do-smokers-actually-spend-in-a-lifetime.svg

@@ -2,6 +2,7 @@
 title: "Síntomas de abstinencia de nicotina día a día: la línea de tiempo completa"
 description: "¿Sabes qué esperar al dejar la nicotina? Aquí tienes la línea de tiempo real, día a día, con lo que sucede en tu cuerpo y por qué."
 publishDate: 2026-07-21
+updatedDate: 2026-10-10
 lang: es
 draft: false
 heroImage: /images/blog/nicotine-withdrawal-symptoms-day-by-day-timeline.svg

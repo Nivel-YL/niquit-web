@@ -2,6 +2,7 @@
 title: "Как бросить никотиновые паучи: ZYN, On!, Velo и другие"
 description: "Как бросить никотиновые паучи ZYN, On! или Velo: почему ломка от них жёстче, чем от сигарет, и что реально помогает справиться с тягой."
 publishDate: 2026-07-08
+updatedDate: 2026-07-31
 lang: ru
 draft: false
 heroImage: /images/blog/how-to-quit-nicotine-pouches-zyn-on-velo.svg

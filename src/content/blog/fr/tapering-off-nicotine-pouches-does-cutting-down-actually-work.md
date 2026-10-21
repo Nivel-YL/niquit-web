@@ -2,6 +2,7 @@
 title: "Diminuer progressivement les sachets de nicotine : est-ce que ça marche vraiment ?"
 description: "Passer de 15mg à 10mg puis à 6mg avant d'arrêter les sachets de nicotine : bonne idée ou fausse bonne idée ? Ce que dit vraiment la science."
 publishDate: 2026-10-02
+updatedDate: 2026-10-10
 lang: fr
 draft: false
 heroImage: /images/blog/tapering-off-nicotine-pouches-does-cutting-down-actually-work.svg

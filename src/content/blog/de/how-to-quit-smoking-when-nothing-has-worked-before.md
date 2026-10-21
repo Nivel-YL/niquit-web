@@ -2,6 +2,7 @@
 title: "Rauchen aufhören, wenn bisher nichts funktioniert hat"
 description: "Schon dreimal versucht aufzuhören und jedes Mal zurück zur Zigarette? Das ist normal. Hier erfährst du, warum, und was diesmal wirklich helfen kann."
 publishDate: 2026-07-28
+updatedDate: 2026-07-31
 lang: de
 draft: false
 heroImage: /images/blog/how-to-quit-smoking-when-nothing-has-worked-before.svg
