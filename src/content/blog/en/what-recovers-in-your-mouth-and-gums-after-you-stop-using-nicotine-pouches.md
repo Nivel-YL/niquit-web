@@ -1,6 +1,6 @@
 ---
 title: "What Recovers in Your Mouth and Gums After You Stop Using Nicotine Pouches"
-description: "If you've been using ZYN, On!, or Velo daily, there's a good chance your gums already look different than they did a year ago. A 2025 study published on..."
+description: "Gums often bleed more in the first weeks after you quit pouches, and that is expected. What recovers in your mouth, from gums to saliva, and how long it takes."
 publishDate: 2026-09-21
 lang: en
 draft: true

@@ -1,7 +1,8 @@
 ---
 title: "Nicotine Pouches: Diese Vorteile stimmen, diese nicht"
-description: "Auf TikTok und in der Werbung klingt es fast zu einfach: kein Rauch, kein Teer, kein Aschenbecher, dafür der gleiche Kick. Die Vorteile von Nicotine..."
-publishDate: 2026-10-20
+description: "Weniger Schadstoffe als Zigaretten: Das stimmt. Was die Forschung zum Rauchstopp, zum Zahnfleisch und zu Jugendlichen sagt, klingt weniger beruhigend."
+publishDate: 2026-10-20
+updatedDate: 2026-10-21
 lang: de
 draft: false
 heroImage: /images/blog/benefits-of-nicotine-pouches-what-people-claim-versus-what-holds-up.svg

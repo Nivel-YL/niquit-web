@@ -1,6 +1,6 @@
 ---
 title: "¿Las ganas de vapear desaparecen alguna vez de verdad?"
-description: "Marta lleva ocho meses sin dar una sola calada a su vaper. Un viernes por la noche, en una terraza con amigos que sí fuman, siente ese tirón conocido en..."
+description: "El mono físico de la nicotina dura poco, pero las ganas de vapear pueden volver meses después. Por qué pasa y si llegan a desaparecer del todo."
 publishDate: 2026-09-28
 lang: es
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: "Nikotin und Schlaf: Warum du nachts schwitzt, schlecht schläfst und plötzlich wild träumst"
-description: "Nikotin und Schlaf sind enger verknüpft, als viele denken: Es unterdrückt den Traumschlaf, treibt den Puls nachts hoch und sorgt beim Aufhören für Schweißausbrüche und bizarre Träume."
+description: "Warum du mit Nikotin schlecht schläfst, nach dem Rauchstopp nachts schwitzt und intensiv träumst, und wie lange diese Schlafprobleme meist anhalten."
 publishDate: 2026-09-21
 lang: de
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.sv
 cluster: F
 ---
 
-> Nikotin und Schlaf sind enger verknüpft, als viele denken: Es unterdrückt den Traumschlaf, treibt den Puls nachts hoch und sorgt beim Aufhören für Schweißausbrüche und bizarre Träume.
+> Warum du mit Nikotin schlecht schläfst, nach dem Rauchstopp nachts schwitzt und intensiv träumst, und wie lange diese Schlafprobleme meist anhalten.
 
 Du liegst um drei Uhr nachts wach, das Kissen ist durchgeschwitzt, und im Kopf laufen Bilder ab, die du dir nicht ausgesucht hast. Nikotin und Schlaf hängen enger zusammen, als die meisten Raucher und Vaper ahnen. Egal ob du gerade rauchst, dampfst oder erst vor ein paar Tagen aufgehört hast: Dein Schlaf verändert sich dadurch messbar, und zwar in beide Richtungen.
 

@@ -1,6 +1,6 @@
 ---
 title: "Te fumaste un cigarrillo después de semanas sin hacerlo: ¿eso borra todo tu progreso?"
-description: "Un cigarrillo después de días o semanas sin fumar no borra tu progreso. Descubre qué dice la evidencia sobre los deslices y cómo evitar que se conviertan en recaída."
+description: "Un cigarrillo después de semanas sin fumar no te devuelve al día uno. Qué separa un desliz de una recaída y qué hacer justo después de haber fumado."
 publishDate: 2026-09-14
 lang: es
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---
 
-> Un cigarrillo después de días o semanas sin fumar no borra tu progreso. Descubre qué dice la evidencia sobre los deslices y cómo evitar que se conviertan en recaída.
+> Un cigarrillo después de semanas sin fumar no te devuelve al día uno. Qué separa un desliz de una recaída y qué hacer justo después de haber fumado.
 
 Son las once de la noche, llevas veintitrés días sin fumar y de repente aceptas un cigarrillo en una fiesta. A la mañana siguiente te despiertas con una sensación conocida: la de haber fallado. La pregunta que probablemente te estás haciendo ahora mismo es si ese cigarrillo borra todo lo que habías conseguido. La respuesta corta es no, y entender por qué puede ser justo lo que necesitas para no tirar la toalla.
 

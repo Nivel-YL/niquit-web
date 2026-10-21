@@ -1,8 +1,8 @@
 ---
 title: "What's Actually Inside a Nicotine Pouch (And Why \"Tobacco-Free\" Doesn't Mean Nicotine-Free)"
-description: "You pop a pouch under your lip, and the label says \"tobacco-free.\" So it feels like the safer choice, right? Not quite. What's inside a nicotine pouch is..."
+description: "Nicotine, fillers, flavors and sweeteners, but no tobacco leaf. What a pouch contains, how the nicotine gets into you, and why tobacco-free isn't harmless."
 publishDate: 2026-10-09
-updatedDate: 2026-10-10
+updatedDate: 2026-10-21
 lang: en
 draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg

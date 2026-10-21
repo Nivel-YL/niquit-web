@@ -1,6 +1,6 @@
 ---
 title: "Suis-je vraiment accro à la nicotine ? Les signes que tu ne soupçonnes pas"
-description: "Pas de toux, pas de manque évident, et pourtant tu n'arrives jamais à t'arrêter longtemps. Voici les vrais signes de l'addiction à la nicotine, au-delà des clichés."
+description: "Pas besoin de fumer beaucoup pour être dépendant à la nicotine. Les signes discrets qui passent inaperçus et pourquoi tu n'arrives pas à arrêter."
 publishDate: 2026-09-14
 lang: fr
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvi
 cluster: E
 ---
 
-> Pas de toux, pas de manque évident, et pourtant tu n'arrives jamais à t'arrêter longtemps. Voici les vrais signes de l'addiction à la nicotine, au-delà des clichés.
+> Pas besoin de fumer beaucoup pour être dépendant à la nicotine. Les signes discrets qui passent inaperçus et pourquoi tu n'arrives pas à arrêter.
 
 Tu ne fumes que "quand tu sors". Tu n'as jamais eu de crise de manque violente. Tu peux tenir une matinée sans problème. Alors tu te dis que ce n'est pas vraiment de l'addiction, juste une habitude que tu pourrais arrêter n'importe quand. Le problème, c'est que l'addiction à la nicotine ne ressemble presque jamais à ce qu'on voit dans les films. Elle se cache dans des détails beaucoup plus discrets que la cigarette allumée entre les lèvres au réveil.
 

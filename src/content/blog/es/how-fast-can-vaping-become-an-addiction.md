@@ -1,6 +1,6 @@
 ---
 title: "¿Qué tan rápido se vuelve el vapeo en una adicción?"
-description: "Unos diez segundos. Es lo que tarda la nicotina inhalada en alcanzar su pico en el cerebro y activar una descarga de dopamina. Así de rápido empieza a formarse la adicción al vapeo."
+description: "Cuánto tarda el vapeo en crear adicción, por qué engancha tan rápido, por qué los adolescentes son más vulnerables y cómo saber si ya eres adicto."
 publishDate: 2026-09-07
 lang: es
 draft: true

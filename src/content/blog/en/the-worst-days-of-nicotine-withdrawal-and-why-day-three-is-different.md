@@ -1,6 +1,6 @@
 ---
 title: "The Worst Days of Nicotine Withdrawal, and Why Day Three Is Different"
-description: "If you've quit before, you probably remember the exact moment it got bad. Not day one, when adrenaline and willpower are still doing the heavy lifting..."
+description: "Withdrawal starts within a day of your last dose and peaks around day three. Why day three hits hardest and how to get through it without giving in."
 publishDate: 2026-09-07
 lang: en
 draft: true

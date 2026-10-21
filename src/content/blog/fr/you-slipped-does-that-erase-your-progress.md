@@ -1,6 +1,6 @@
 ---
 title: "Tu as craqué une fois : est-ce que ça efface tous tes progrès ?"
-description: "Une cigarette après trois semaines sans fumer ne veut pas dire que tout est perdu. Voici ce que dit la science sur les slips et pourquoi ils ne signent pas la fin de ton arrêt."
+description: "Une cigarette après trois semaines d'arrêt n'efface pas tes progrès. Quand un écart devient une rechute et ce qu'il faut faire dans les jours qui suivent."
 publishDate: 2026-09-14
 lang: fr
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---
 
-> Une cigarette après trois semaines sans fumer ne veut pas dire que tout est perdu. Voici ce que dit la science sur les slips et pourquoi ils ne signent pas la fin de ton arrêt.
+> Une cigarette après trois semaines d'arrêt n'efface pas tes progrès. Quand un écart devient une rechute et ce qu'il faut faire dans les jours qui suivent.
 
 Tu avais arrêté depuis dix-sept jours. Une soirée arrosée, une engueulade, une pause cigarette avec un collègue, et te voilà avec une clope entre les doigts. La première pensée qui arrive, c'est souvent celle-ci : "j'ai tout gâché". Selon Oar Health, ce moment précis, la première fois où tu refumes après avoir arrêté, porte un nom : un slip, ou faux pas. Et non, ça n'efface pas tes progrès.
 

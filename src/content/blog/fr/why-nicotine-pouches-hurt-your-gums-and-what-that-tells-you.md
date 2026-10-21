@@ -1,14 +1,15 @@
 ---
 title: "Pourquoi les sachets de nicotine abîment tes gencives, et ce que ça révèle"
-description: "Rougeurs, gencives qui se rétractent, plaques blanches : les sachets de nicotine laissent des traces bien visibles dans la bouche. Voici pourquoi, et ce que ça dit sur ton addiction."
-publishDate: 2026-10-13
+description: "Pourquoi ta gencive s'irrite à l'endroit où tu places le sachet, ce que ça dit de la santé de tes gencives et si les sachets sans tabac sont plus sûrs."
+publishDate: 2026-10-13
+updatedDate: 2026-10-21
 lang: fr
 draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---
 
-> Rougeurs, gencives qui se rétractent, plaques blanches : les sachets de nicotine laissent des traces bien visibles dans la bouche. Voici pourquoi, et ce que ça dit sur ton addiction.
+> Pourquoi ta gencive s'irrite à l'endroit où tu places le sachet, ce que ça dit de la santé de tes gencives et si les sachets sans tabac sont plus sûrs.
 
 Tu places ton sachet toujours au même endroit, entre la lèvre et la gencive, côté droit parce que c'est plus confortable. Après quelques mois, tu remarques une zone rouge, presque irritée en permanence, à cet endroit précis. Ce n'est pas un hasard. Les dentistes qui examinent des utilisateurs réguliers de sachets de nicotine observent ce même schéma : une irritation localisée, exactement là où le produit reste coincé pendant des heures, parfois accompagnée de plaques blanches épaisses qui ressemblent aux premiers signes d'une lésion précancéreuse, selon University of Utah Health.
 

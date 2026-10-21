@@ -1,6 +1,6 @@
 ---
 title: "Can You Quit Nicotine With Willpower Alone, No Patches, No Gum, No App?"
-description: "You've decided: no gum, no patches, no vape-to-cigarette taper, no app pinging you with reminders. Just you, deciding to stop, and sticking to it. Can you..."
+description: "Most unaided quit attempts fail, and weak will isn't the reason. Why willpower alone gives out during a craving, and what to pair it with so it holds."
 publishDate: 2026-09-14
 lang: en
 draft: true

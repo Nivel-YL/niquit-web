@@ -1,6 +1,6 @@
 ---
 title: "Nicotine et sommeil : pourquoi tu fais des sueurs nocturnes, de l'insomnie et des rêves bizarres"
-description: "Nicotine et sommeil sont plus liés qu'on ne le pense : insomnie, sueurs nocturnes, rêves vifs. Voici ce qui se passe vraiment dans ton corps, et comment ça évolue."
+description: "Insomnie, sueurs nocturnes, rêves étranges : pourquoi la nicotine et son arrêt perturbent le sommeil, combien de temps ça dure et comment mieux dormir."
 publishDate: 2026-09-21
 lang: fr
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.sv
 cluster: F
 ---
 
-> Nicotine et sommeil sont plus liés qu'on ne le pense : insomnie, sueurs nocturnes, rêves vifs. Voici ce qui se passe vraiment dans ton corps, et comment ça évolue.
+> Insomnie, sueurs nocturnes, rêves étranges : pourquoi la nicotine et son arrêt perturbent le sommeil, combien de temps ça dure et comment mieux dormir.
 
 Tu te réveilles à 3h du matin, le tee-shirt trempé, sans savoir pourquoi. Ou tu tournes dans ton lit pendant une heure avant de t'endormir, alors qu'avant tu n'avais jamais ce problème. Le lien entre nicotine et sommeil n'est pas une impression : c'est un mécanisme biologique documenté, que tu fumes encore ou que tu viennes d'arrêter.
 

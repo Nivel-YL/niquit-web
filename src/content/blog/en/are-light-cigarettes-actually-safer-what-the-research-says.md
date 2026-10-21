@@ -1,6 +1,6 @@
 ---
 title: "Are light cigarettes actually safer? What the research says"
-description: "You switched to lights because someone told you they were \"easier on your lungs.\" Maybe a doctor even mentioned it back in the 90s. Here's the problem..."
+description: "Light cigarettes only measure lower in tar on a machine, not in your lungs. What research found about their cancer risk and why the label was dropped."
 publishDate: 2026-09-28
 lang: en
 draft: true

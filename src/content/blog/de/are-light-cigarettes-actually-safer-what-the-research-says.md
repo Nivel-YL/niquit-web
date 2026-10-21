@@ -1,6 +1,6 @@
 ---
 title: "Sind Light-Zigaretten wirklich sicherer? Das sagt die Forschung"
-description: "Light-Zigaretten galten jahrzehntelang als die vernünftigere Wahl für Raucher, die nicht ganz aufhören wollten. Die Forschung zeigt: Das war ein Irrtum mit System."
+description: "Light-Zigaretten zeigen nur im Messgerät weniger Teer. Warum sie nicht sicherer sind, warum Raucher sie anders rauchen und warum die Bezeichnung verboten wurde."
 publishDate: 2026-09-28
 lang: de
 draft: true
@@ -9,7 +9,7 @@ cluster: H
 style_check: "failed, word count 795 outside required 800-1200 range"
 ---
 
-> Light-Zigaretten galten jahrzehntelang als die vernünftigere Wahl für Raucher, die nicht ganz aufhören wollten. Die Forschung zeigt: Das war ein Irrtum mit System.
+> Light-Zigaretten zeigen nur im Messgerät weniger Teer. Warum sie nicht sicherer sind, warum Raucher sie anders rauchen und warum die Bezeichnung verboten wurde.
 
 Du hast vielleicht selbst mal umgestellt. Weniger Teer auf der Packung, ein helleres Design, das Gefühl, etwas für dich zu tun, ohne ganz aufzuhören. Millionen Raucher haben genau das gedacht. Die Frage, ob Light-Zigaretten wirklich sicherer sind, wurde inzwischen ausführlich untersucht, und das Ergebnis fällt eindeutig aus: Das US-amerikanische National Cancer Institute (NCI) kam 2001 zu dem Schluss, dass die Veränderungen im Zigarettendesign der letzten 50 Jahre keinen Nutzen für die öffentliche Gesundheit gebracht haben.
 

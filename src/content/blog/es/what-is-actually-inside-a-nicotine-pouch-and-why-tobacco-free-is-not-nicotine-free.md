@@ -1,8 +1,8 @@
 ---
 title: "Qué lleva realmente una bolsa de nicotina, y por qué \"sin tabaco\" no significa sin nicotina"
-description: "Abres una lata de bolsas de nicotina y en la tapa dice, en letras grandes, \"tobacco-free\". Suena a alivio: sin tabaco, sin los males del tabaco. Pero esa..."
+description: "Nicotina, rellenos, aromas y edulcorantes, sin hoja de tabaco. Qué lleva de verdad una bolsa de nicotina y por qué sin tabaco no significa sin riesgos."
 publishDate: 2026-10-09
-updatedDate: 2026-10-10
+updatedDate: 2026-10-21
 lang: es
 draft: false
 heroImage: /images/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free.svg

@@ -1,14 +1,15 @@
 ---
 title: "Warum Nicotine Pouches dein Zahnfleisch angreifen, und was das wirklich bedeutet"
-description: "Rotes, wundes Zahnfleisch genau dort, wo der Pouch immer liegt, ist kein Zufall. Was das Zahnfleisch dir über Nicotine Pouches erzählt, und warum du hinhören solltest."
-publishDate: 2026-10-13
+description: "Warum Nicotine Pouches das Zahnfleisch genau dort reizen, wo sie liegen, was das Bluten bedeutet und ob sich das Zahnfleisch nach dem Aufhören erholt."
+publishDate: 2026-10-13
+updatedDate: 2026-10-21
 lang: de
 draft: false
 heroImage: /images/blog/why-nicotine-pouches-hurt-your-gums-and-what-that-tells-you.svg
 cluster: A
 ---
 
-> Rotes, wundes Zahnfleisch genau dort, wo der Pouch immer liegt, ist kein Zufall. Was das Zahnfleisch dir über Nicotine Pouches erzählt, und warum du hinhören solltest.
+> Warum Nicotine Pouches das Zahnfleisch genau dort reizen, wo sie liegen, was das Bluten bedeutet und ob sich das Zahnfleisch nach dem Aufhören erholt.
 
 Du legst den Pouch seit Wochen immer an dieselbe Stelle, oben links zwischen Lippe und Zahnfleisch. Und genau dort ist die Haut inzwischen wund, auch wenn gerade keiner drinsteckt. Das ist kein Einzelfall. Zahnärzte sehen diese rote, gereizte Stelle ständig bei Nicotine-Pouch-Nutzern, an genau der Position, an der das Kissen im Mund liegt, so beschreibt es die University of Utah Health (2026). Manche Patienten entwickeln dort sogar dicke, weiße Beläge, die auf den ersten Blick wie ein frühes Warnzeichen für Mundkrebs aussehen.
 

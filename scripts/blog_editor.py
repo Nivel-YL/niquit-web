@@ -1368,6 +1368,42 @@ def write_source_verification_report(article_slug: str, report: dict, today: dat
     print(f'Source verification report saved: {out.relative_to(REPO_ROOT)}', flush=True)
 
 
+def write_meta_description(client: anthropic.Anthropic, title: str, body: str, lang: str) -> str:
+    """One short, cheap call for a meta description when the writer skipped it.
+
+    Falls back to whole opening sentences under the budget (never a cut
+    sentence with '...') if the call fails or returns something unusable.
+    """
+    try:
+        resp = client.messages.create(
+            model=RESEARCH_MODEL,
+            max_tokens=200,
+            messages=[{
+                'role': 'user',
+                'content': (
+                    f'Write the search-result meta description for this article, in {LANG_NAMES[lang]}, '
+                    'written natively, 120-155 characters. State what the reader learns (the answer, '
+                    'not a teaser). No quotes, no ellipsis, no em or en dashes. Output only the '
+                    f'description.\n\nTitle: {title}\n\nArticle:\n{body[:6000]}'
+                ),
+            }],
+        )
+        blocks = [b for b in resp.content if b.type == 'text']
+        desc = blocks[0].text.strip().strip('"').strip() if blocks else ''
+        if 70 <= len(desc) <= 160 and not desc.endswith(('...', '…')) and not re.search('[—–]', desc):
+            return desc
+    except Exception as e:  # noqa: BLE001, a missing description must never fail the article
+        print(f'  [{lang}] meta description call failed, using opening sentences: {e}')
+
+    paras = [p.strip() for p in body.split('\n\n') if p.strip() and not p.startswith(('#', '>'))]
+    desc = ''
+    for sentence in re.split(r'(?<=[.!?])\s+', paras[0] if paras else ''):
+        if len(desc) + len(sentence) + 1 > 155:
+            break
+        desc = f'{desc} {sentence}'.strip()
+    return desc
+
+
 def write_article(
     client: anthropic.Anthropic,
     topic_title: str,
@@ -1466,24 +1502,16 @@ def write_article(
 
     desc_m      = re.search(r'^>\s+(.+)$', text, re.MULTILINE)
     description = desc_m.group(1).strip() if desc_m else ''
-    if not description:
-        # Fallback when the model omits the '> description' line: use the
-        # opening paragraph, cut at the last whole word under the SERP-safe
-        # budget rather than a raw character slice, which cut mid-word
-        # ('...beca...', from 'because') in 3 articles that hit this path.
-        paras = [p.strip() for p in text.split('\n\n') if p.strip() and not p.startswith('#')]
-        if paras:
-            raw = paras[0]
-            if len(raw) <= 155:
-                description = raw
-            else:
-                description = raw[:155].rsplit(' ', 1)[0].rstrip('.,;:') + '...'
-        else:
-            description = ''
-
     body = re.sub(r'^#\s+.+\n?', '', text, count=1)
     body = re.sub(r'^>\s+.+\n?', '', body, count=1)
     body = body.strip()
+
+    if not description:
+        # The model sometimes omits the '> description' line. The old fallback
+        # cut the opening paragraph and appended '...', which shipped as the
+        # search snippet on 7 published pages (found 2026-10-21): a story
+        # opener cut mid-thought gets no clicks. Ask for a real one instead.
+        description = write_meta_description(client, title, body, lang)
 
     # A near-miss on the 800-1200 target is a style_check finding, not fatal (the
     # article is still usable and gets flagged for review). But a fraction of that,

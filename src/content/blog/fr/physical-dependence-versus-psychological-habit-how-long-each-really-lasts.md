@@ -1,6 +1,6 @@
 ---
 title: "Dépendance physique et habitude psychologique : combien de temps chacune dure vraiment ?"
-description: "La dépendance physique à la nicotine s'efface en quelques semaines. L'habitude psychologique, elle, peut durer des mois. On t'explique pourquoi les deux ne suivent pas le même calendrier."
+description: "La dépendance physique à la nicotine passe en quelques semaines, l'habitude psychologique dure plus longtemps. Comment savoir lequel des deux te parle."
 publishDate: 2026-09-21
 lang: fr
 draft: true
@@ -8,7 +8,7 @@ heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-
 cluster: E
 ---
 
-> La dépendance physique à la nicotine s'efface en quelques semaines. L'habitude psychologique, elle, peut durer des mois. On t'explique pourquoi les deux ne suivent pas le même calendrier.
+> La dépendance physique à la nicotine passe en quelques semaines, l'habitude psychologique dure plus longtemps. Comment savoir lequel des deux te parle.
 
 Trois semaines sans cigarette, plus aucun symptôme de manque physique, et pourtant tu as encore une envie irrépressible d'en allumer une quand tu bois ton café du matin. Ce décalage n'a rien d'anormal. Il s'explique par la différence entre dépendance physique et habitude psychologique, deux mécanismes qui touchent ton cerveau de manières complètement différentes et qui ne guérissent pas au même rythme.
 
