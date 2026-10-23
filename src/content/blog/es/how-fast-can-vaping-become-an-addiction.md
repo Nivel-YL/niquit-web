@@ -1,9 +1,9 @@
 ---
 title: "¿Qué tan rápido se vuelve el vapeo en una adicción?"
 description: "Cuánto tarda el vapeo en crear adicción, por qué engancha tan rápido, por qué los adolescentes son más vulnerables y cómo saber si ya eres adicto."
-publishDate: 2026-09-07
+publishDate: 2026-10-23
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---

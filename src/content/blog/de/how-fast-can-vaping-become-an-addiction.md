@@ -1,9 +1,9 @@
 ---
 title: "Wie schnell macht Vapen süchtig?"
 description: "Nikotin erreicht dein Gehirn in Sekunden. Wie schnell aus dem ersten Zug eine echte Abhängigkeit wird, zeigt die Forschung, nicht das Bauchgefühl."
-publishDate: 2026-09-07
+publishDate: 2026-10-23
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---

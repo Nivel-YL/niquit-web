@@ -1,9 +1,9 @@
 ---
 title: "How fast can vaping become an addiction?"
 description: "Nicotine hits your brain in seconds. Here's the real timeline of how vaping addiction forms, backed by research, not guesswork."
-publishDate: 2026-09-07
+publishDate: 2026-10-23
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---

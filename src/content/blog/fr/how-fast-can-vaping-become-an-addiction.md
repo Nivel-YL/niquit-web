@@ -1,9 +1,9 @@
 ---
 title: "En combien de temps le vapotage devient-il une addiction ?"
 description: "La dépendance à la vape peut s'installer en quelques semaines. Voici ce que dit la science sur la vitesse à laquelle la nicotine accroche le cerveau."
-publishDate: 2026-09-07
+publishDate: 2026-10-23
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---

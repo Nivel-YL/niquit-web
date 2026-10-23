@@ -155,8 +155,13 @@ topics:
 - id: B-05
   title_en: How fast can vaping become an addiction?
   cluster: B
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-10-23'
+    ru: '2026-10-23'
+    de: '2026-10-23'
+    es: '2026-10-23'
+    fr: '2026-10-23'
 - id: C-01
   title_en: Why quitting smoking cold turkey fails for most people
   cluster: C

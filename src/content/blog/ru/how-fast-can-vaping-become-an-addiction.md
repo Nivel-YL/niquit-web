@@ -1,9 +1,9 @@
 ---
 title: "Как быстро вейп вызывает привыкание?"
 description: "Через сколько дней вейпинга появляется зависимость, почему никотин из вейпа затягивает так быстро и как заметить привыкание, даже если паришь редко."
-publishDate: 2026-09-07
+publishDate: 2026-10-23
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/how-fast-can-vaping-become-an-addiction.svg
 cluster: B
 ---
