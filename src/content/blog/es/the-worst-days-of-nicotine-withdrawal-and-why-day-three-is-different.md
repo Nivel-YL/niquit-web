@@ -1,9 +1,9 @@
 ---
 title: "Los peores días del síndrome de abstinencia de nicotina, y por qué el tercer día es diferente"
 description: "El tercer día sin nicotina suele ser el más duro de todos. Te explicamos por qué ocurre esto y qué está pasando en tu cerebro exactamente."
-publishDate: 2026-09-07
+publishDate: 2026-10-27
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/the-worst-days-of-nicotine-withdrawal-and-why-day-three-is-different.svg
 cluster: C
 ---

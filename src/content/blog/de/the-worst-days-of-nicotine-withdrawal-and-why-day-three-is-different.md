@@ -1,9 +1,9 @@
 ---
 title: "Die schlimmsten Tage des Nikotinentzugs: Warum Tag drei alles verändert"
 description: "Der dritte Tag ohne Nikotin gilt als der härteste, und die Wissenschaft erklärt genau, warum. Was in deinem Gehirn passiert und wie du durchkommst."
-publishDate: 2026-09-07
+publishDate: 2026-10-27
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/the-worst-days-of-nicotine-withdrawal-and-why-day-three-is-different.svg
 cluster: C
 ---

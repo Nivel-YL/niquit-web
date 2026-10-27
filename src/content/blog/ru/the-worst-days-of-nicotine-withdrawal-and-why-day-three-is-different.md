@@ -1,9 +1,9 @@
 ---
 title: "Самые тяжёлые дни отказа от никотина: почему третий день бьёт сильнее всех"
 description: "Третий день без сигарет часто оказывается худшим, хотя логика подсказывает обратное. Разбираемся, что происходит с мозгом и почему дальше становится легче."
-publishDate: 2026-09-07
+publishDate: 2026-10-27
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/the-worst-days-of-nicotine-withdrawal-and-why-day-three-is-different.svg
 cluster: C
 ---

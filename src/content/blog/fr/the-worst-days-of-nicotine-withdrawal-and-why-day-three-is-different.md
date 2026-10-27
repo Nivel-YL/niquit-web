@@ -1,9 +1,9 @@
 ---
 title: "Sevrage de la nicotine : pourquoi le jour 3 est le pire de tous"
 description: "Le sevrage nicotinique atteint son pic vers le troisième jour. Voici pourquoi ce cap est si dur, et comment le traverser sans craquer."
-publishDate: 2026-09-07
+publishDate: 2026-10-27
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/the-worst-days-of-nicotine-withdrawal-and-why-day-three-is-different.svg
 cluster: C
 ---
