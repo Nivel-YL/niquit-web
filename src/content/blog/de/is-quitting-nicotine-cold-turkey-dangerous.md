@@ -1,9 +1,9 @@
 ---
 title: "Ist ein kalter Entzug von Nikotin gefährlich?"
 description: "Kalter Entzug von Nikotin: Was Studien wirklich über Risiken, Symptome und Erfolgschancen sagen, und wann Vorsicht sinnvoll ist."
-publishDate: 2026-09-14
+publishDate: 2026-10-30
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/is-quitting-nicotine-cold-turkey-dangerous.svg
 cluster: C
 ---

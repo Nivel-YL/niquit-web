@@ -1,9 +1,9 @@
 ---
 title: "Is Quitting Nicotine Cold Turkey Dangerous?"
 description: "Is quitting nicotine cold turkey dangerous, or just miserable? Here's what the research actually says about risks, withdrawal, and success rates."
-publishDate: 2026-09-14
+publishDate: 2026-10-30
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/is-quitting-nicotine-cold-turkey-dangerous.svg
 cluster: C
 ---

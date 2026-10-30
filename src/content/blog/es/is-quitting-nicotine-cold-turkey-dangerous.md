@@ -1,9 +1,9 @@
 ---
 title: "¿Es peligroso dejar la nicotina de golpe?"
 description: "Dejar la nicotina de golpe no es peligroso para tu salud, aunque el síndrome de abstinencia puede ser muy incómodo. Te explicamos qué dice la evidencia."
-publishDate: 2026-09-14
+publishDate: 2026-10-30
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/is-quitting-nicotine-cold-turkey-dangerous.svg
 cluster: C
 ---

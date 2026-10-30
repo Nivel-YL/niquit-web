@@ -1,9 +1,9 @@
 ---
 title: "Arrêter la nicotine d'un coup, est-ce dangereux pour la santé ?"
 description: "Arrêter la nicotine du jour au lendemain fait-il courir un risque à ton corps ? Voici ce que disent vraiment les études, sans exagération ni fausse promesse."
-publishDate: 2026-09-14
+publishDate: 2026-10-30
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/is-quitting-nicotine-cold-turkey-dangerous.svg
 cluster: C
 ---

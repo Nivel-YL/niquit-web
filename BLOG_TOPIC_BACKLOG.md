@@ -215,8 +215,13 @@ topics:
 - id: C-06
   title_en: Is quitting nicotine cold turkey dangerous?
   cluster: C
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-10-30'
+    ru: '2026-10-30'
+    de: '2026-10-30'
+    es: '2026-10-30'
+    fr: '2026-10-30'
 - id: C-07
   title_en: Can you quit with nothing but your own head, no patches, no gum, no app?
   cluster: C

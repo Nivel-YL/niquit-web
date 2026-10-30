@@ -1,9 +1,9 @@
 ---
 title: "Опасно ли бросать никотин резко, без подготовки?"
 description: "Резкий отказ от никотина неприятен, но не опасен для здоровья. Что происходит с телом, когда наступает пик и спад и кому бросать резко будет тяжелее."
-publishDate: 2026-09-14
+publishDate: 2026-10-30
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/is-quitting-nicotine-cold-turkey-dangerous.svg
 cluster: C
 ---
