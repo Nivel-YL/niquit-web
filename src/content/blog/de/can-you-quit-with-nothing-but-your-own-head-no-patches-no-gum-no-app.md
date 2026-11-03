@@ -1,9 +1,9 @@
 ---
 title: "Kannst du mit reiner Willenskraft aufhören, ohne Pflaster, Kaugummi, ohne App?"
 description: "Aufhören ohne Hilfsmittel: Wie realistisch ist das wirklich? Zahlen, Gründe fürs Scheitern und was tatsächlich hilft, wenn du es allein versuchst."
-publishDate: 2026-09-14
+publishDate: 2026-11-03
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-with-nothing-but-your-own-head-no-patches-no-gum-no-app.svg
 cluster: C
 ---

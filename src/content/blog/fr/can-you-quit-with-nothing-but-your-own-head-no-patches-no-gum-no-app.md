@@ -1,9 +1,9 @@
 ---
 title: "Peut-on arrêter la nicotine seulement avec sa tête, sans patchs, sans gommes, sans appli ?"
 description: "Arrêter la nicotine à la seule force de la volonté est possible, mais les chiffres montrent que c'est rarement suffisant. Voici ce que dit la science."
-publishDate: 2026-09-14
+publishDate: 2026-11-03
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-with-nothing-but-your-own-head-no-patches-no-gum-no-app.svg
 cluster: C
 ---

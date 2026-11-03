@@ -1,9 +1,9 @@
 ---
 title: "Можно ли бросить курить силой воли, без пластырей, жвачек и приложений?"
 description: "Сколько людей бросают только силой воли, почему одной воли часто не хватает в момент тяги и на что ей стоит опереться, чтобы отказ закрепился."
-publishDate: 2026-09-14
+publishDate: 2026-11-03
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-with-nothing-but-your-own-head-no-patches-no-gum-no-app.svg
 cluster: C
 ---

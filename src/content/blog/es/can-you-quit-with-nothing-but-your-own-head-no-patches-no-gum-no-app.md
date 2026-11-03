@@ -1,9 +1,9 @@
 ---
 title: "¿Se puede dejar la nicotina solamente con la cabeza, sin parches, sin chicles, sin app?"
 description: "¿Dejar la nicotina solamente con fuerza de voluntad funciona? Los datos reales, lo que pasa en tu cerebro y por qué casi nadie lo logra solo."
-publishDate: 2026-09-14
+publishDate: 2026-11-03
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-with-nothing-but-your-own-head-no-patches-no-gum-no-app.svg
 cluster: C
 ---
