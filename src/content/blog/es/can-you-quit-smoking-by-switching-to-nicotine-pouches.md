@@ -1,9 +1,9 @@
 ---
 title: "¿Dejar de fumar cambiando a bolsitas de nicotina funciona de verdad?"
 description: "¿Puedes dejar de fumar cambiando a bolsitas de nicotina? La ciencia dice que reducen el consumo, pero no garantizan que dejes el cigarrillo del todo."
-publishDate: 2026-09-14
+publishDate: 2026-11-06
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches.svg
 cluster: D
 ---

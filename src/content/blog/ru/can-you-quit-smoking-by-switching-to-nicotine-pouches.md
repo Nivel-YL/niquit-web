@@ -1,9 +1,9 @@
 ---
 title: "Можно ли бросить курить, перейдя на никотиновые паучи?"
 description: "Никотиновые паучи не тобачные, но также вызывают зависимость. Разбираемся, что говорят исследования о переходе на паучи вместо сигарет."
-publishDate: 2026-09-14
+publishDate: 2026-11-06
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches.svg
 cluster: D
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Can You Quit Smoking by Switching to Nicotine Pouches?"
 description: "Nicotine pouches like ZYN feel like a smarter way to quit smoking. Here's what the actual research says about whether switching really works."
-publishDate: 2026-09-14
+publishDate: 2026-11-06
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches.svg
 cluster: D
 ---

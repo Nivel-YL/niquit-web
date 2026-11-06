@@ -1,9 +1,9 @@
 ---
 title: "Kann man mit Nikotinbeuteln das Rauchen aufhören?"
 description: "Nikotinbeutel gelten als Ausweg aus der Zigarette. Was die Forschung wirklich zeigt, und warum die Antwort komplizierter ist, als du denkst."
-publishDate: 2026-09-14
+publishDate: 2026-11-06
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches.svg
 cluster: D
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Peut-on arrêter de fumer en passant aux sachets de nicotine ?"
 description: "Les sachets de nicotine (ZYN, Velo, On!) peuvent-ils t'aider à arrêter de fumer ? Voici ce que dit vraiment la recherche, sans marketing."
-publishDate: 2026-09-14
+publishDate: 2026-11-06
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches.svg
 cluster: D
 ---
