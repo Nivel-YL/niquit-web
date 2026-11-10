@@ -1,9 +1,9 @@
 ---
 title: "Tu as craqué une fois : est-ce que ça efface tous tes progrès ?"
 description: "Une cigarette après trois semaines d'arrêt n'efface pas tes progrès. Quand un écart devient une rechute et ce qu'il faut faire dans les jours qui suivent."
-publishDate: 2026-09-14
+publishDate: 2026-11-10
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---

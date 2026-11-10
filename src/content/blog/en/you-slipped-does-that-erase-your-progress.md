@@ -1,9 +1,9 @@
 ---
 title: "You Slipped. Does That Erase Your Progress?"
 description: "You had one cigarette after three weeks smoke-free. Does that mean you're back to zero? Here's what the research actually says about slips."
-publishDate: 2026-09-14
+publishDate: 2026-11-10
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---

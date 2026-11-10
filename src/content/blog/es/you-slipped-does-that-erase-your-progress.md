@@ -1,9 +1,9 @@
 ---
 title: "Te fumaste un cigarrillo después de semanas sin hacerlo: ¿eso borra todo tu progreso?"
 description: "Un cigarrillo después de semanas sin fumar no te devuelve al día uno. Qué separa un desliz de una recaída y qué hacer justo después de haber fumado."
-publishDate: 2026-09-14
+publishDate: 2026-11-10
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---

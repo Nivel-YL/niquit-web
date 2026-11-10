@@ -1,9 +1,9 @@
 ---
 title: "Ein Ausrutscher beim Rauchstopp: Ist dein ganzer Fortschritt jetzt weg?"
 description: "Eine Zigarette nach Wochen ohne Nikotin fühlt sich wie das Ende an. Ist sie aber nicht. Was ein Ausrutscher wirklich bedeutet und wie du danach weitermachst."
-publishDate: 2026-09-14
+publishDate: 2026-11-10
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---

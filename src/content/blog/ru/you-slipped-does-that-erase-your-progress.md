@@ -1,9 +1,9 @@
 ---
 title: "Ты сорвался: значит ли это, что весь прогресс обнулился?"
 description: "Одна сигарета после недели без курения не отменяет твой прогресс. Разбираемся, что на самом деле происходит после срыва и как не превратить его в рецидив."
-publishDate: 2026-09-14
+publishDate: 2026-11-10
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/you-slipped-does-that-erase-your-progress.svg
 cluster: E
 ---

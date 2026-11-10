@@ -315,8 +315,13 @@ topics:
 - id: E-05
   title_en: You slipped, does that erase your progress?
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-10'
+    ru: '2026-11-10'
+    de: '2026-11-10'
+    es: '2026-11-10'
+    fr: '2026-11-10'
 - id: E-06
   title_en: Am I actually addicted to nicotine? Signs beyond the obvious
   cluster: E
