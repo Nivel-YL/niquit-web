@@ -1,9 +1,9 @@
 ---
 title: "Я правда зависим от никотина? Признаки, которые не так очевидны"
 description: "Куришь по одной сигарете в день и уверен, что это не зависимость? Разбираемся, какие признаки никотиновой зависимости прячутся за привычными оправданиями."
-publishDate: 2026-09-14
+publishDate: 2026-11-13
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.svg
 cluster: E
 ---

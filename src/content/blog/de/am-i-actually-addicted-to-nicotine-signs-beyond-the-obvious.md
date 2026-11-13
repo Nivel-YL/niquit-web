@@ -1,9 +1,9 @@
 ---
 title: "Bin ich wirklich süchtig nach Nikotin? Anzeichen, die über das Offensichtliche hinausgehen"
 description: "Du rauchst nur fünf am Tag oder ziehst nur \"bei Stress\" an der Vape? Diese Anzeichen zeigen, ob du trotzdem nikotinabhängig bist, ganz ohne Kettenrauchen."
-publishDate: 2026-09-14
+publishDate: 2026-11-13
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.svg
 cluster: E
 ---

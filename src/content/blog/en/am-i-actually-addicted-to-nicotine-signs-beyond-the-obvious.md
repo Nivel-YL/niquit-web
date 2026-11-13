@@ -1,9 +1,9 @@
 ---
 title: "Am I Actually Addicted to Nicotine? Signs Beyond the Obvious"
 description: "You don't smoke a pack a day, so you assume you're fine. Here's why that logic doesn't hold up, and what actual dependence looks like beyond the obvious signs."
-publishDate: 2026-09-14
+publishDate: 2026-11-13
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.svg
 cluster: E
 ---

@@ -1,9 +1,9 @@
 ---
 title: "¿Realmente soy adicto a la nicotina? Señales más allá de lo obvio"
 description: "¿Fumas solo de vez en cuando y crees que no es adicción? Estas son las señales reales de la dependencia a la nicotina, según la ciencia."
-publishDate: 2026-09-14
+publishDate: 2026-11-13
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.svg
 cluster: E
 ---

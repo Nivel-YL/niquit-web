@@ -1,9 +1,9 @@
 ---
 title: "Suis-je vraiment accro à la nicotine ? Les signes que tu ne soupçonnes pas"
 description: "Pas besoin de fumer beaucoup pour être dépendant à la nicotine. Les signes discrets qui passent inaperçus et pourquoi tu n'arrives pas à arrêter."
-publishDate: 2026-09-14
+publishDate: 2026-11-13
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/am-i-actually-addicted-to-nicotine-signs-beyond-the-obvious.svg
 cluster: E
 ---

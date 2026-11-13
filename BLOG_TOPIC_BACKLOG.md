@@ -325,8 +325,13 @@ topics:
 - id: E-06
   title_en: Am I actually addicted to nicotine? Signs beyond the obvious
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-13'
+    ru: '2026-11-13'
+    de: '2026-11-13'
+    es: '2026-11-13'
+    fr: '2026-11-13'
 - id: E-07
   title_en: Physical dependence versus psychological habit, how long each really lasts
   cluster: E
