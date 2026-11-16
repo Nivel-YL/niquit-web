@@ -461,8 +461,10 @@ topics:
   title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many
     a day is too many
   cluster: A
-  status: pending
+  status: in_progress
   published: {}
+  completed_langs:
+  - es
 - id: A-14
   title_en: Quitting snus, the withdrawal timeline and how it differs from pouches
   cluster: A
