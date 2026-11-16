@@ -470,6 +470,7 @@ topics:
   published: {}
   completed_langs:
   - es
+  - fr
 - id: A-15
   title_en: Velo pouches, strength, effects and side effects
   cluster: A
