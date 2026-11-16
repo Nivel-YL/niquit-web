@@ -34,7 +34,7 @@ Si quieres profundizar en qué hay realmente dentro de una bolsita más allá de
 
 ## ¿Cuántas bolsitas de nicotina al día son demasiadas?
 
-Esta es la pregunta que casi todo el mundo busca, y la respuesta honesta es que no existe un límite oficial. Ni la FDA ni las marcas publican una cifra máxima diaria, según información recogida por Snusoutlet en 2026. Cuando la FDA autorizó ZYN en enero de 2025, tampoco fijó ningún máximo diario.
+Esta es la pregunta que casi todo el mundo busca, y la respuesta honesta es que no existe un límite oficial. Ni la FDA ni las marcas publican una cifra máxima diaria, según información recogida por Snusoutlet en 2026. Cuando la FDA autorizó ZYN en enero de 2025, según Snusoutlet en 2026, tampoco fijó ningún máximo diario.
 
 Esto contrasta con otros productos de reemplazo de nicotina que sí tienen límites claros marcados por la FDA: los parches no deben superar los 21mg al día, y las pastillas tienen un tope de 20 unidades diarias, según datos recopilados por August AI en 2024. Las bolsitas, en cambio, se mueven en un terreno sin regla escrita.
 

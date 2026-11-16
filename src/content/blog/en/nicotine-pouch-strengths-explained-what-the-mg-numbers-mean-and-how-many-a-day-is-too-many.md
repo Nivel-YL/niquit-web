@@ -40,7 +40,7 @@ If your count has crept past 10 or 12 a day and you're reaching for one before y
 
 No. There isn't one, and that's worth sitting with for a second.
 
-Neither the FDA nor any pouch brand publishes a daily maximum, according to Snusoutlet. When the FDA authorized ZYN in January 2025, it did so without setting any kind of daily cap, also per Snusoutlet. That number you might have seen floating around online, some version of a "50 to 60mg CDC limit," isn't a real official guideline. It's one of those figures that gets repeated enough online that it starts sounding official, when there's no actual source behind it.
+Neither the FDA nor any pouch brand publishes a daily maximum, according to Snusoutlet. When the FDA authorized ZYN in January 2025, it did so without setting any kind of daily cap. That number you might have seen floating around online, some version of a "50 to 60mg CDC limit," isn't a real official guideline. It's one of those figures that gets repeated enough online that it starts sounding official, when there's no actual source behind it.
 
 What this means practically: the only ceiling most people have is the one they set for themselves, usually after noticing they're buying cans faster than they used to, or reaching for a pouch out of habit rather than want.
 

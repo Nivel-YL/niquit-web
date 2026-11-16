@@ -23,21 +23,21 @@ In der Praxis hat sich eine grobe Einteilung durchgesetzt. Reguläre Beutel lieg
 
 Hier liegt der Punkt, den die meisten Dosen verschweigen: Die aufgedruckte mg-Zahl ist nicht die Menge, die tatsächlich in deinem Blut landet. Laut einer in Nature veröffentlichten Studie aus dem Jahr 2022 liefern Nikotinbeutel eine Bioverfügbarkeit, die mit der von Nikotinlutschtabletten vergleichbar ist, werden dabei aber besser vertragen.
 
-Konkreter wird es bei den Zahlen von Pouchspot aus dem Jahr 2026: Die systemische Bioverfügbarkeit von tabakfreien Beuteln liegt über eine typische Sitzung von 30 bis 60 Minuten bei etwa 30 bis 50 Prozent des aufgedruckten Wertes. Das Nikotin wird dabei über die Mundschleimhaut aufgenommen, mit einem Absorptionshöhepunkt nach 22 bis 26 Minuten, wie dieselbe Quelle zeigt.
+Laut Pouchspot (2026) liegt die systemische Bioverfügbarkeit von tabakfreien Beuteln über eine typische Sitzung von 30 bis 60 Minuten bei etwa 30 bis 50 Prozent des aufgedruckten Wertes. Das Nikotin wird dabei über die Mundschleimhaut aufgenommen, mit einem Absorptionshöhepunkt nach 22 bis 26 Minuten, wie die Nature-Studie von 2022 zeigt.
 
 Das heißt in der Praxis: Ein 8-mg-Beutel liefert dir nicht 8 mg Nikotin in den Körper, sondern eher 2,5 bis 4 mg. Trotzdem summiert sich das über den Tag, besonders wenn ein Beutel den nächsten jagt.
 
 ## Wie viele Nikotinbeutel pro Tag sind zu viel?
 
-Laut Daten der Branche von Haypp aus dem Jahr 2024 nutzt der durchschnittliche Konsument von Nikotinbeuteln 8 bis 10 Beutel pro Tag. Rechnet man das bei typischen Stärken von 4 bis 8 mg pro Beutel hoch, kommt man laut August AI (2024) auf eine aufgenommene Gesamtmenge von grob 32 bis 96 mg Nikotin, wobei die tatsächliche Absorption realistisch bei 30 bis 40 Prozent des Aufdrucks liegt.
+Laut dem Haypp Nicotine Pouch Report 2024 nutzt der durchschnittliche Konsument von Nikotinbeuteln etwa drei Dosen pro Woche, was ungefähr 8 bis 10 Beuteln pro Tag entspricht. Rechnet man das bei typischen Stärken von 4 bis 8 mg pro Beutel hoch, kommt man laut Pouchspot (2026) auf eine aufgenommene Gesamtmenge von grob 32 bis 96 mg Nikotin, wobei die tatsächliche Absorption realistisch bei 30 bis 50 Prozent des Aufdrucks liegt.
 
-Nikotinbeutel wirken dabei langsamer und anhaltender als eine Zigarette oder eine Vape, so August AI (2024) weiter. Zum Vergleich: Bei zugelassenen Nikotinersatztherapien liegt die Grenze bei 21 mg pro Tag für Pflaster und bei bis zu 20 Lutschtabletten pro Tag, aber ein universeller, für alle Produkte gültiger Sicherheitswert existiert nicht. Der allgemeine Konsens unter Forschern ist laut derselben Quelle, dass eine Gesamtmenge unter 30 bis 40 mg Nikotin pro Tag für die meisten Erwachsenen ein vertretbarer oberer Richtwert ist, nicht mehr, aber auch nicht weniger als ein Richtwert.
+Nikotinbeutel wirken dabei langsamer und anhaltender als eine Zigarette oder eine Vape, so Pouchspot (2026) zeigt.  Laut August AI ist der allgemeine Konsens unter Forschern, dass eine Gesamtmenge unter 30 bis 40 mg Nikotin pro Tag für die meisten Erwachsenen ein vertretbarer oberer Richtwert ist.
 
 Wer regelmäßig bei 8 bis 10 Beutel am Tag landet und dabei zu stärkeren Dosen greift, bewegt sich damit schnell über diesen Richtwert hinaus, auch wenn die tatsächlich aufgenommene Menge niedriger ist als die Summe der aufgedruckten mg-Zahlen.
 
 ## Gibt es eine offizielle sichere Tageshöchstmenge?
 
-Nein, und das ist vielleicht die wichtigste Information in diesem Artikel. Laut Snusoutlet (2026) gibt es keine offizielle sichere Tagesgrenze für Nikotinbeutel, weder von der FDA noch von den Herstellern selbst veröffentlicht. Als die FDA im Januar 2025 ZYN offiziell zuließ, wurde dabei kein Tageshöchstwert festgelegt, wie dieselbe Quelle berichtet.
+Nein, und das ist vielleicht die wichtigste Information in diesem Artikel. Laut Pouchspot (2026) gibt es keine offizielle sichere Tagesgrenze für Nikotinbeutel, weder von der FDA noch von den Herstellern selbst veröffentlicht. Als die FDA im Januar 2025 ZYN offiziell zuließ, wurde dabei kein Tageshöchstwert festgelegt.
 
 Das bedeutet: Niemand sagt dir von offizieller Seite, wo die Grenze liegt. Die Zahlen von 30 bis 40 mg, die weiter oben genannt wurden, sind ein Konsenswert aus der Forschung, keine behördliche Vorgabe. Oft kursieren im Netz angebliche Grenzwerte von Gesundheitsbehörden, die bei genauerem Hinsehen nicht belegbar sind. Verlass dich lieber auf dein eigenes Körpergefühl und auf die Beobachtung, wie oft du wirklich zur Dose greifst, als auf eine Zahl, die irgendjemand ohne Quelle ins Internet geschrieben hat.
 
