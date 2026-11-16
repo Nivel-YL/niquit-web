@@ -455,10 +455,13 @@ topics:
 - id: A-12
   title_en: How fast do nicotine pouches become an addiction?
   cluster: A
-  status: pending
+  status: in_progress
   published: {}
+  completed_langs:
+  - es
 - id: A-13
-  title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many a day is too many
+  title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many
+    a day is too many
   cluster: A
   status: pending
   published: {}
@@ -483,7 +486,8 @@ topics:
   status: pending
   published: {}
 - id: A-18
-  title_en: Caffeine pouches as a swap when quitting Zyn, what they do and do not do
+  title_en: Caffeine pouches as a swap when quitting Zyn, what they do and do not
+    do
   cluster: A
   status: pending
   published: {}
