@@ -455,14 +455,8 @@ topics:
 - id: A-12
   title_en: How fast do nicotine pouches become an addiction?
   cluster: A
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: A-13
   title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many
     a day is too many
