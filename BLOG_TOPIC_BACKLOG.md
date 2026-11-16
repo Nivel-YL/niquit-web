@@ -469,6 +469,7 @@ topics:
   status: in_progress
   published: {}
   completed_langs:
+  - en
   - es
   - fr
 - id: A-15
