@@ -458,6 +458,7 @@ topics:
   status: in_progress
   published: {}
   completed_langs:
+  - en
   - es
 - id: A-13
   title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many
