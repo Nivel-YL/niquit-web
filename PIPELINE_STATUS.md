@@ -1,15 +1,23 @@
 # NiQuit Blog Pipeline: производственная линия
-Обновлено автоматически: 2026-11-13 15:50 UTC
+Обновлено автоматически: 2026-11-16 19:36 UTC
 
 Склад сырья → Цех (research + написание, 5 языков) → ОТК (источники →
 между языками → автоисправление) → Склад готовой продукции (approved) →
 Отгрузка (публикация)
 
-## Склад сырья: темы в резерве (pending), 0
-(пусто)
+## Склад сырья: темы в резерве (pending), 7
+- A-15: Velo pouches, strength, effects and side effects
+- A-16: Nicotine gum versus pouches, which one actually helps you quit
+- A-17: Nicotine pouches versus vaping, which is harder to quit
+- A-18: Caffeine pouches as a swap when quitting Zyn, what they do and do not do
+- C-08: How much nicotine you actually absorb from one cigarette
+- F-07: How long nicotine stays in your body, and how long one pouch keeps working
+- H-04: Smoke-free alternatives to cigarettes ranked by real risk
 
-## Цех и ОТК: в работе, 0
-(пусто)
+## Цех и ОТК: в работе, 3
+- A-12: How fast do nicotine pouches become an addiction? — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/how-fast-do-nicotine-pouches-become-an-addiction.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/how-fast-do-nicotine-pouches-become-an-addiction.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/how-fast-do-nicotine-pouches-become-an-addiction.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/how-fast-do-nicotine-pouches-become-an-addiction.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/how-fast-do-nicotine-pouches-become-an-addiction.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/how-fast-do-nicotine-pouches-become-an-addiction/_source_verification_report.md)
+- A-13: Nicotine pouch strengths explained, what the mg numbers mean and how many a day is too many — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many/_source_verification_report.md)
+- A-14: Quitting snus, the withdrawal timeline and how it differs from pouches — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches/_source_verification_report.md)
 
 ## Склад готовой продукции: одобрено, в очереди (approved), 6
 - E-07: Physical dependence versus psychological habit, how long each really lasts — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/physical-dependence-versus-psychological-habit-how-long-each-really-lasts/_source_verification_report.md)
@@ -22,7 +30,7 @@
 ## Отгружено всего: 42, последняя отгрузка 2026-11-13 (E-06)
 
 ## Следующая смена по расписанию
-- Генерация (blog-editor): понедельник, 2026-11-16 09:00 UTC
+- Генерация (blog-editor): понедельник, 2026-11-23 09:00 UTC
 - Отгрузка (publisher): вторник, 2026-11-17 08:00 UTC
 
 ## Приёмка новой линии (пилотный счётчик): 3 из 3 чистых прогонов
@@ -68,3 +76,6 @@
 - 2026-09-28 (what-a-nicotine-pouch-habit-actually-costs-you-in-a-year): засчитан
 - 2026-09-28 (do-vape-cravings-ever-actually-go-away): засчитан
 - 2026-09-28 (are-light-cigarettes-actually-safer-what-the-research-says): засчитан
+- 2026-11-16 (how-fast-do-nicotine-pouches-become-an-addiction): засчитан
+- 2026-11-16 (nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many): засчитан
+- 2026-11-16 (quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches): засчитан
