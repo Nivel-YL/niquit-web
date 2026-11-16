@@ -34,11 +34,11 @@ Es decir: el snus puede contener más nicotina total, pero no necesariamente lib
 
 ## ¿Es más difícil dejar el snus que las bolsitas de nicotina?
 
-No hay una respuesta única, porque dentro de cada categoría hay productos muy distintos entre sí. Un estudio revisado por pares publicado en ResearchGate encontró que algunas bolsitas, como Zyn de 6 a 8 mg, liberan nicotina igual de rápido y en cantidades similares a las del snus o el tabaco de mascar. Así que la idea de que "las bolsitas son automáticamente más suaves" no se sostiene siempre.
+No hay una respuesta única, porque dentro de cada categoría hay productos muy distintos entre sí. Un estudio farmacocinético publicado en Nicotine & Tobacco Research encontró que algunas bolsitas, como Zyn de 6 a 8 mg, liberan nicotina igual de rápido y en cantidades similares a las del snus o el tabaco de mascar. Así que la idea de que "las bolsitas son automáticamente más suaves" no se sostiene siempre.
 
 Lo que sí cambia es la composición del producto. El snus se pasteuriza en lugar de fermentarse (a diferencia del tabaco de mascar americano), un proceso que reduce considerablemente los niveles de nitrosaminas específicas del tabaco, un grupo de compuestos cancerígenos potentes, según recoge Vaping Post (2025). Las bolsitas de nicotina, al no llevar hoja de tabaco, parten de una base distinta, aunque eso no garantiza ausencia total de contaminantes: según información de retailers del sector, algunas bolsitas analizadas también mostraron trazas de estos compuestos.
 
-Una revisión Cochrane de 2025, realizada por investigadores de la Universidad de Massachusetts Amherst y citada por Vaping Post, concluyó que las personas que fuman y cambian a bolsitas de nicotina reducen de forma sustancial su exposición a compuestos tóxicos y cancerígenos. Eso aplica a la comparación con cigarrillos, no necesariamente como argumento para sustituir snus por bolsitas sin plan de salida.
+Una revisión Cochrane de 2025, realizada por investigadores de la Universidad de Massachusetts Amherst y publicada en Cochrane Database of Systematic Reviews, concluyó que las personas que fuman y cambian a bolsitas de nicotina reducen de forma sustancial su exposición a compuestos tóxicos y cancerígenos. Eso aplica a la comparación con cigarrillos, no necesariamente como argumento para sustituir snus por bolsitas sin plan de salida.
 
 ## Lo que sí es igual: la irritación y las molestias en la boca
 

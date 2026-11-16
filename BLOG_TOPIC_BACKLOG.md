@@ -466,14 +466,8 @@ topics:
 - id: A-14
   title_en: Quitting snus, the withdrawal timeline and how it differs from pouches
   cluster: A
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: A-15
   title_en: Velo pouches, strength, effects and side effects
   cluster: A
