@@ -452,11 +452,61 @@ topics:
   cluster: H
   status: approved
   published: {}
+- id: A-12
+  title_en: How fast do nicotine pouches become an addiction?
+  cluster: A
+  status: pending
+  published: {}
+- id: A-13
+  title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many a day is too many
+  cluster: A
+  status: pending
+  published: {}
+- id: A-14
+  title_en: Quitting snus, the withdrawal timeline and how it differs from pouches
+  cluster: A
+  status: pending
+  published: {}
+- id: A-15
+  title_en: Velo pouches, strength, effects and side effects
+  cluster: A
+  status: pending
+  published: {}
+- id: A-16
+  title_en: Nicotine gum versus pouches, which one actually helps you quit
+  cluster: A
+  status: pending
+  published: {}
+- id: A-17
+  title_en: Nicotine pouches versus vaping, which is harder to quit
+  cluster: A
+  status: pending
+  published: {}
+- id: A-18
+  title_en: Caffeine pouches as a swap when quitting Zyn, what they do and do not do
+  cluster: A
+  status: pending
+  published: {}
+- id: C-08
+  title_en: How much nicotine you actually absorb from one cigarette
+  cluster: C
+  status: pending
+  published: {}
+- id: F-07
+  title_en: How long nicotine stays in your body, and how long one pouch keeps working
+  cluster: F
+  status: pending
+  published: {}
+- id: H-04
+  title_en: Smoke-free alternatives to cigarettes ranked by real risk
+  cluster: H
+  status: pending
+  published: {}
 BACKLOG-->
 
 # Blog Topic Backlog
 
-48 topics in 8 clusters. Script picks the first `pending` topic alphabetically by id.
+58 topics in 8 clusters. Script picks the first `pending` topic alphabetically by id.
 To skip a topic: change its status to `skipped`.
 To re-queue: change back to `pending`.
 
