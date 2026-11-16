@@ -460,6 +460,7 @@ topics:
   completed_langs:
   - en
   - es
+  - fr
 - id: A-13
   title_en: Nicotine pouch strengths explained, what the mg numbers mean and how many
     a day is too many
