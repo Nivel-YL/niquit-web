@@ -464,6 +464,7 @@ topics:
   status: in_progress
   published: {}
   completed_langs:
+  - en
   - es
 - id: A-14
   title_en: Quitting snus, the withdrawal timeline and how it differs from pouches
