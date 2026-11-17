@@ -1,9 +1,9 @@
 ---
 title: "Körperliche Abhängigkeit oder psychische Gewohnheit: Was hört wirklich wann auf?"
 description: "Nikotinentzug klingt körperlich nach vier Wochen auf, doch die Lust auf eine Zigarette kann Monate oder Jahre später zurückkehren. Wir erklären den Unterschied."
-publishDate: 2026-09-21
+publishDate: 2026-11-17
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.svg
 cluster: E
 ---

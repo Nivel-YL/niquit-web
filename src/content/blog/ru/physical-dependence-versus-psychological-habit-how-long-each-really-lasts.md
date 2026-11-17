@@ -1,9 +1,9 @@
 ---
 title: "Физическая зависимость и психологическая привычка от никотина: сколько на самом деле длится каждая"
 description: "Физическая зависимость от никотина проходит за недели, а психологическая привычка может держаться месяцами. Разбираемся, почему и что с этим делать."
-publishDate: 2026-09-21
+publishDate: 2026-11-17
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.svg
 cluster: E
 ---

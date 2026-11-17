@@ -335,8 +335,13 @@ topics:
 - id: E-07
   title_en: Physical dependence versus psychological habit, how long each really lasts
   cluster: E
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-17'
+    ru: '2026-11-17'
+    de: '2026-11-17'
+    es: '2026-11-17'
+    fr: '2026-11-17'
 - id: F-01
   title_en: What happens to your body when you quit nicotine week by week
   cluster: F

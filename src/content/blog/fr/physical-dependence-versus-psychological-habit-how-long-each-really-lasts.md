@@ -1,9 +1,9 @@
 ---
 title: "Dépendance physique et habitude psychologique : combien de temps chacune dure vraiment ?"
 description: "La dépendance physique à la nicotine passe en quelques semaines, l'habitude psychologique dure plus longtemps. Comment savoir lequel des deux te parle."
-publishDate: 2026-09-21
+publishDate: 2026-11-17
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.svg
 cluster: E
 ---

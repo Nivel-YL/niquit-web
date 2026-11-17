@@ -1,9 +1,9 @@
 ---
 title: "Physical Dependence vs Psychological Habit: How Long Does Each Really Last?"
 description: "Physical dependence and psychological habit fade on completely different timelines. Here's what the research actually says about how long each one lasts."
-publishDate: 2026-09-21
+publishDate: 2026-11-17
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.svg
 cluster: E
 ---

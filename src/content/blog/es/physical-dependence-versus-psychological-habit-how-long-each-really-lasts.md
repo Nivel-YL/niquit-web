@@ -1,9 +1,9 @@
 ---
 title: "Dependencia física y hábito psicológico: cuánto dura realmente cada uno"
 description: "Descubre cuánto dura la dependencia física a la nicotina y por qué el hábito psicológico puede seguir semanas o meses después de dejarlo."
-publishDate: 2026-09-21
+publishDate: 2026-11-17
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/physical-dependence-versus-psychological-habit-how-long-each-really-lasts.svg
 cluster: E
 ---
