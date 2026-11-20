@@ -1,9 +1,9 @@
 ---
 title: "Nicotine et sommeil : pourquoi tu fais des sueurs nocturnes, de l'insomnie et des rêves bizarres"
 description: "Insomnie, sueurs nocturnes, rêves étranges : pourquoi la nicotine et son arrêt perturbent le sommeil, combien de temps ça dure et comment mieux dormir."
-publishDate: 2026-09-21
+publishDate: 2026-11-20
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.svg
 cluster: F
 ---

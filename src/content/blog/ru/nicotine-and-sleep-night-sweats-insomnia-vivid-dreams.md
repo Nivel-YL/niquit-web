@@ -1,9 +1,9 @@
 ---
 title: "Никотин и сон: почему после отказа от курения не спится, снятся яркие сны и мучает ночная потливость"
 description: "Никотин и сон связаны сильнее, чем кажется: бессонница, ночная потливость и яркие сны после отказа от курения не случайность, а работа мозга."
-publishDate: 2026-09-21
+publishDate: 2026-11-20
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.svg
 cluster: F
 ---

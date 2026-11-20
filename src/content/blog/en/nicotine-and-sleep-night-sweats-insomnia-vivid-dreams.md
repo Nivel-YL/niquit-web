@@ -1,9 +1,9 @@
 ---
 title: "Nicotine and Sleep: Why You Can't Sleep, Sweat at Night, and Have Wild Dreams"
 description: "Nicotine and sleep don't mix well, before or after quitting. Here's why you get insomnia, night sweats, and vivid dreams, and when it ends."
-publishDate: 2026-09-21
+publishDate: 2026-11-20
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.svg
 cluster: F
 ---

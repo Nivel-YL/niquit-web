@@ -1,9 +1,9 @@
 ---
 title: "Nicotina y sueño: por qué provoca insomnio, sudores nocturnos y sueños vívidos"
 description: "Cómo la nicotina altera tu sueño, por qué aparecen sudores nocturnos al dejarla y qué hay detrás de esos sueños tan intensos."
-publishDate: 2026-09-21
+publishDate: 2026-11-20
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.svg
 cluster: F
 ---

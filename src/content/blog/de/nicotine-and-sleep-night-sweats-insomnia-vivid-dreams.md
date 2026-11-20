@@ -1,9 +1,9 @@
 ---
 title: "Nikotin und Schlaf: Warum du nachts schwitzt, schlecht schläfst und plötzlich wild träumst"
 description: "Warum du mit Nikotin schlecht schläfst, nach dem Rauchstopp nachts schwitzt und intensiv träumst, und wie lange diese Schlafprobleme meist anhalten."
-publishDate: 2026-09-21
+publishDate: 2026-11-20
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/nicotine-and-sleep-night-sweats-insomnia-vivid-dreams.svg
 cluster: F
 ---

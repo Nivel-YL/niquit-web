@@ -375,8 +375,13 @@ topics:
 - id: F-04
   title_en: Nicotine and sleep, night sweats, insomnia, vivid dreams
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-20'
+    ru: '2026-11-20'
+    de: '2026-11-20'
+    es: '2026-11-20'
+    fr: '2026-11-20'
 - id: F-05
   title_en: What recovers in your mouth and gums after you stop using nicotine pouches
   cluster: F
