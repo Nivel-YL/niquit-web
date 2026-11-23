@@ -1,23 +1,23 @@
 # NiQuit Blog Pipeline: производственная линия
-Обновлено автоматически: 2026-11-20 16:35 UTC
+Обновлено автоматически: 2026-11-23 21:26 UTC
 
 Склад сырья → Цех (research + написание, 5 языков) → ОТК (источники →
 между языками → автоисправление) → Склад готовой продукции (approved) →
 Отгрузка (публикация)
 
-## Склад сырья: темы в резерве (pending), 7
-- A-15: Velo pouches, strength, effects and side effects
-- A-16: Nicotine gum versus pouches, which one actually helps you quit
-- A-17: Nicotine pouches versus vaping, which is harder to quit
+## Склад сырья: темы в резерве (pending), 4
 - A-18: Caffeine pouches as a swap when quitting Zyn, what they do and do not do
 - C-08: How much nicotine you actually absorb from one cigarette
 - F-07: How long nicotine stays in your body, and how long one pouch keeps working
 - H-04: Smoke-free alternatives to cigarettes ranked by real risk
 
-## Цех и ОТК: в работе, 3
+## Цех и ОТК: в работе, 6
 - A-12: How fast do nicotine pouches become an addiction? — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/how-fast-do-nicotine-pouches-become-an-addiction.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/how-fast-do-nicotine-pouches-become-an-addiction.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/how-fast-do-nicotine-pouches-become-an-addiction.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/how-fast-do-nicotine-pouches-become-an-addiction.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/how-fast-do-nicotine-pouches-become-an-addiction.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/how-fast-do-nicotine-pouches-become-an-addiction/_source_verification_report.md)
 - A-13: Nicotine pouch strengths explained, what the mg numbers mean and how many a day is too many — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many/_source_verification_report.md)
 - A-14: Quitting snus, the withdrawal timeline and how it differs from pouches — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches/_source_verification_report.md)
+- A-15: Velo pouches, strength, effects and side effects — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/velo-pouches-strength-effects-and-side-effects.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/velo-pouches-strength-effects-and-side-effects.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/velo-pouches-strength-effects-and-side-effects.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/velo-pouches-strength-effects-and-side-effects.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/velo-pouches-strength-effects-and-side-effects.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/velo-pouches-strength-effects-and-side-effects/_source_verification_report.md)
+- A-16: Nicotine gum versus pouches, which one actually helps you quit — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/nicotine-gum-versus-pouches-which-one-actually-helps-you-quit/_source_verification_report.md)
+- A-17: Nicotine pouches versus vaping, which is harder to quit — прошла ОТК (аудит источников, шаги 4-6), см. отчёт — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/nicotine-pouches-versus-vaping-which-is-harder-to-quit.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/nicotine-pouches-versus-vaping-which-is-harder-to-quit.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/nicotine-pouches-versus-vaping-which-is-harder-to-quit.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/nicotine-pouches-versus-vaping-which-is-harder-to-quit.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/nicotine-pouches-versus-vaping-which-is-harder-to-quit.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/nicotine-pouches-versus-vaping-which-is-harder-to-quit/_source_verification_report.md)
 
 ## Склад готовой продукции: одобрено, в очереди (approved), 4
 - F-05: What recovers in your mouth and gums after you stop using nicotine pouches — [EN](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/en/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.md) [RU](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/ru/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.md) [ES](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/es/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.md) [DE](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/de/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.md) [FR](https://github.com/Nivel-YL/niquit-web/blob/master/src/content/blog/fr/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.md) [отчёт](https://github.com/Nivel-YL/niquit-web/blob/master/docs/fact-audits/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches/_source_verification_report.md)
@@ -28,7 +28,7 @@
 ## Отгружено всего: 44, последняя отгрузка 2026-11-20 (F-04)
 
 ## Следующая смена по расписанию
-- Генерация (blog-editor): понедельник, 2026-11-23 09:00 UTC
+- Генерация (blog-editor): понедельник, 2026-11-30 09:00 UTC
 - Отгрузка (publisher): вторник, 2026-11-24 08:00 UTC
 
 ## Приёмка новой линии (пилотный счётчик): 3 из 3 чистых прогонов
@@ -77,3 +77,6 @@
 - 2026-11-16 (how-fast-do-nicotine-pouches-become-an-addiction): засчитан
 - 2026-11-16 (nicotine-pouch-strengths-explained-what-the-mg-numbers-mean-and-how-many-a-day-is-too-many): засчитан
 - 2026-11-16 (quitting-snus-the-withdrawal-timeline-and-how-it-differs-from-pouches): засчитан
+- 2026-11-23 (velo-pouches-strength-effects-and-side-effects): засчитан
+- 2026-11-23 (nicotine-gum-versus-pouches-which-one-actually-helps-you-quit): засчитан
+- 2026-11-23 (nicotine-pouches-versus-vaping-which-is-harder-to-quit): засчитан
