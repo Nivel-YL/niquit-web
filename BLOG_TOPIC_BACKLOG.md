@@ -485,6 +485,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - es
   - fr
   - ru
 - id: A-16
