@@ -495,6 +495,7 @@ topics:
   published: {}
   completed_langs:
   - de
+  - fr
 - id: A-18
   title_en: Caffeine pouches as a swap when quitting Zyn, what they do and do not
     do
