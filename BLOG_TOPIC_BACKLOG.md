@@ -486,8 +486,10 @@ topics:
 - id: A-16
   title_en: Nicotine gum versus pouches, which one actually helps you quit
   cluster: A
-  status: pending
+  status: in_progress
   published: {}
+  completed_langs:
+  - en
 - id: A-17
   title_en: Nicotine pouches versus vaping, which is harder to quit
   cluster: A
