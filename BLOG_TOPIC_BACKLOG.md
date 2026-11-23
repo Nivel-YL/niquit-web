@@ -485,6 +485,7 @@ topics:
   published: {}
   completed_langs:
   - en
+  - fr
 - id: A-16
   title_en: Nicotine gum versus pouches, which one actually helps you quit
   cluster: A
