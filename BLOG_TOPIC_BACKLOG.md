@@ -496,6 +496,7 @@ topics:
   completed_langs:
   - de
   - en
+  - es
   - fr
   - ru
 - id: A-18
