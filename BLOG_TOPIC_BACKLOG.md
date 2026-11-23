@@ -495,6 +495,7 @@ topics:
   published: {}
   completed_langs:
   - de
+  - en
   - fr
   - ru
 - id: A-18
