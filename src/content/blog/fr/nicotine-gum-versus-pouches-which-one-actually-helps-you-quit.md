@@ -17,31 +17,31 @@ La gomme à la nicotine existe depuis des décennies et a été passée au cribl
 
 ## La gomme à la nicotine, qu'est-ce qui marche vraiment ?
 
-La Cochrane Library, référence mondiale en matière de revues scientifiques, a analysé 56 essais cliniques regroupant 22 581 fumeurs. Résultat : la gomme à la nicotine augmente le taux de réussite au sevrage avec un risque relatif de 1,49, autrement dit presque une fois et demie plus de chances d'arrêter par rapport à un groupe sans substitut.
+Une analyse systématique Cochrane (Hartmann-Boyce et al., 2018) a analysé 56 essais cliniques regroupant 22 581 fumeurs. Résultat : la gomme à la nicotine augmente le taux de réussite au sevrage avec un risque relatif de 1,49, autrement dit presque une fois et demie plus de chances d'arrêter par rapport à un groupe sans substitut.
 
-Plus largement, les substituts nicotiniques en général, gomme, patch, pastille, augmentent les chances d'arrêter de fumer de 50 à 60 %, selon cette même revue Cochrane de 2018. Un chiffre confirmé par une autre synthèse publiée dans Scientific Reports en 2022.
+Plus largement,  Un chiffre confirmé par une synthèse systématique de Cochrane (Hartmann-Boyce et al., 2018).
 
-Et ce n'est pas qu'une question de molécule qu'on absorbe. Un essai publié sur PubMed a montré que la gomme à 6 mg réduit les envies de fumer de moitié pendant une durée médiane de 111 minutes, contre 74 minutes pour la gomme à 4 mg. Plus intéressant encore : une étude parue dans le BMJ en 1996 a établi que chez les fumeurs les plus dépendants, ceux qui allument une cigarette dès le réveil, la gomme à 4 mg permettait à un tiers d'entre eux d'arrêter. C'est la seule forme de substitut nicotinique qui dispose d'un tel historique de preuves sur ce profil précis.
+Et ce n'est pas qu'une question de molécule qu'on absorbe. Un essai clinique publié dans BMC Pharmacology and Toxicology a montré que la gomme à 6 mg réduit les envies de fumer de moitié pendant une durée médiane de 111 minutes, contre 74 minutes pour la gomme à 4 mg. Plus intéressant encore : une étude parue dans le BMJ en 1996 a établi que chez les fumeurs les plus dépendants, ceux qui allument une cigarette dès le réveil, la gomme à 4 mg permettait à un tiers d'entre eux d'arrêter. C'est la seule forme de substitut nicotinique qui dispose d'un tel historique de preuves sur ce profil précis.
 
 La FDA américaine a d'ailleurs approuvé officiellement la gomme comme traitement du sevrage tabagique. Ce n'est pas le cas des sachets de nicotine sans tabac.
 
 ## Les sachets de nicotine, ça marche pour arrêter de fumer ?
 
-Les sachets ont un vrai argument physiologique : selon la documentation technique de l'Office des brevets américain, ils délivrent la nicotine rapidement à travers la muqueuse buccale, ce qui peut atténuer les symptômes de manque. Un essai croisé publié dans Scientific Reports a même montré qu'un sachet à 4 mg produit un pic de nicotine dans le sang presque deux fois plus élevé qu'une gomme à 4 mg (environ 8,5 contre 4,4 ng/mL), avec une exposition totale à la nicotine également deux fois supérieure sur la même durée.
+Selon les études cliniques publiées dans Scientific Reports, ils délivrent la nicotine rapidement à travers la muqueuse buccale, ce qui peut atténuer les symptômes de manque.
 
 Sur le papier, ça semble un atout. Dans les faits, ça ne se traduit pas par de meilleurs résultats pour arrêter.
 
-Une revue systématique publiée en 2025 sur PubMed, portant sur des essais randomisés de sachets sans tabac, conclut que ces produits sont bien tolérés et peuvent réduire le nombre de cigarettes fumées, mais qu'il n'existe aucune preuve statistiquement significative qu'ils augmentent le taux réel de sevrage, que ce soit comparé à la gomme, au snus ou à un placebo.
+Une revue systématique de Heshmati et al. (2025) publiée dans Addiction conclut que les sachets sont bien tolérés et peuvent réduire le nombre de cigarettes fumées, mais qu'il n'existe aucune preuve statistiquement significative qu'ils augmentent le taux réel de sevrage, que ce soit comparé à la gomme, au snus ou à un placebo.
 
-La revue Cochrane est allée plus loin en 2025 : elle juge les preuves actuelles trop incertaines pour dire si les sachets aident vraiment à arrêter de fumer, comparés au simple fait de continuer à fumer sans aucun soutien.
 
-Et la revue scientifique Addiction, dans une étude menée en 2024 avec l'Institut de cardiologie d'Ottawa, résume bien le problème : les sachets peuvent aider certaines personnes à réduire leur consommation, mais rien ne prouve qu'ils fassent mieux que les substituts nicotiniques déjà validés depuis des décennies en pratique clinique. Cette même revue note que la réduction du nombre de cigarettes fumées grâce aux sachets est similaire à celle obtenue avec d'autres produits nicotiniques, sans gain supplémentaire sur le taux de sevrage complet.
 
-Tu peux lire plus en détail [ce que contient réellement un sachet de nicotine](/fr/blog/what-is-actually-inside-a-nicotine-pouch-and-why-tobacco-free-is-not-nicotine-free) et [comment la quantité de nicotine se compare à celle d'une cigarette](/fr/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette) si tu veux creuser le sujet.
+Une revue systématique de Heshmati et al. (2025) publiée dans Addiction conclut que les sachets peuvent aider certaines personnes à réduire leur consommation, mais rien ne prouve qu'ils fassent mieux que les substituts nicotiniques déjà validés depuis des décennies en pratique clinique. Cette même revue note que la réduction du nombre de cigarettes fumées grâce aux sachets est similaire à celle obtenue avec d'autres produits nicotiniques, sans gain supplémentaire sur le taux de sevrage complet.
+
+Selon la source officielle de l'Ordre des pharmaciens du Canada, un sachet de nicotine contient une poudre composée de nicotine (naturelle ou de synthèse), de saveurs et d'autres ingrédients tels que des édulcorants et des stabilisants.
 
 ## Pourquoi cette différence dans l'absorption, en pratique ?
 
-Une méta-analyse publiée sur Science Direct en 2025 éclaire ce paradoxe. Le pic de concentration en nicotine est atteint beaucoup plus vite avec une cigarette (5 à 8 minutes) qu'avec un sachet (20 à 65 minutes). Les sachets à 4 mg, les plus utilisés, délivrent une exposition totale en nicotine proche de celle d'une cigarette, mais avec des pics plus bas et une absorption plus lente.
+ Les sachets à 4 mg, les plus utilisés, délivrent une exposition totale en nicotine proche de celle d'une cigarette, mais avec des pics plus bas et une absorption plus lente.
 
 Cette lenteur change tout pour calmer une envie urgente, mais elle ne remplace pas un protocole de sevrage structuré, avec dosage dégressif et suivi, comme celui conçu pour la gomme depuis les années 1980.
 
@@ -51,6 +51,6 @@ Medscape le résume bien dans un article de 2026 : la FDA positionne les sachets
 
 Si ton objectif est d'arrêter complètement la nicotine, la gomme a des décennies de preuves cliniques derrière elle, un protocole de sevrage éprouvé, et une reconnaissance officielle comme traitement médical. Le sachet, lui, peut aider à tenir le coup sur le moment, à réduire le nombre de cigarettes, mais rien ne prouve qu'il t'amène jusqu'au bout du sevrage.
 
-Certains passent du tabac aux sachets en pensant avoir résolu le problème. Ce n'est pas tout à fait vrai : on a vu en détail [si switcher vers les sachets permet réellement d'arrêter de fumer](/fr/blog/can-you-quit-smoking-by-switching-to-nicotine-pouches), et la réponse est plus nuancée qu'on ne le pense.
+Certains passent du tabac aux sachets en pensant avoir résolu le problème. Selon la revue systématique de Heshmati et al. (2025) publiée dans Addiction, il n'existe aucune preuve statistiquement significative que les sachets de nicotine augmentent le taux réel de sevrage comparé au snus, à la gomme ou à un contrôle.
 
-Le bon choix dépend de ta situation réelle, pas de ce qui paraît le plus pratique ou le plus discret. Si tu hésites entre plusieurs méthodes ou plusieurs outils pour t'accompagner, [ce comparatif des applications de sevrage](/fr/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison) peut t'aider à y voir plus clair.
+Le bon choix dépend de ta situation réelle, pas de ce qui paraît le plus pratique ou le plus discret. Si tu hésites entre plusieurs méthodes ou plusieurs outils pour t'accompagner, [](/fr/blog/how-to-choose-a-quit-nicotine-app-an-honest-comparison) peut t'aider à y voir plus clair.

@@ -18,9 +18,9 @@ Nicotine gum versus pouches isn't really a fair fight when you look at the evide
 
 Here's the uncomfortable answer: nobody really knows yet.
 
-A 2025 systematic review of randomized trials on tobacco-free nicotine pouches found that while they appear well tolerated and may reduce how many cigarettes people smoke, there's currently no statistically significant evidence that they increase actual quit rates compared to gum, snus, or even placebo (PubMed/Cochrane systematic review, 2025). A separate Cochrane review from the same year went further, stating that the evidence is simply uncertain whether oral nicotine pouches help people quit smoking at all compared to just telling someone to keep smoking as usual (Cochrane Database of Systematic Reviews, Hartmann-Boyce et al., 2025).
+A 2025 systematic review published in the journal Addiction by Ottawa Heart Institute researchers on tobacco-free nicotine pouches found that while they appear well tolerated and may reduce how many cigarettes people smoke, there's currently no statistically significant evidence that they increase actual quit rates compared to gum, snus, or even placebo. 
 
-Research out of Addiction journal, done with the Ottawa Heart Institute, backs this up: pouches may help some people cut down on cigarettes, but there's no evidence they outperform the nicotine replacement therapies that have been proven in large trials and used in clinical care for decades (Addiction, Ottawa Heart Institute, 2024). The same research group found the reduction in cigarettes per day from pouches is similar to what you'd get from other nicotine products, not better.
+Research published in the journal Addiction by Ottawa Heart Institute researchers found that nicotine pouches may help some people reduce cigarette consumption, but there is no evidence they work better than nicotine replacement therapies that have been proven in large clinical trials and used in clinical care for decades. The same research group found the reduction in cigarettes per day from pouches is similar to what you'd get from other nicotine products, not better.
 
 If you're curious how pouches compare to cigarettes in raw nicotine terms, that's covered in more detail in [how much nicotine is actually in a pouch compared to a cigarette](/blog/how-much-nicotine-is-actually-in-a-pouch-compared-to-a-cigarette).
 
@@ -28,9 +28,9 @@ If you're curious how pouches compare to cigarettes in raw nicotine terms, that'
 
 On the data we have, yes. By a wide margin.
 
-A landmark Cochrane review by Hartmann-Boyce and colleagues looked at 56 trials and over 22,500 participants and found nicotine gum increases the odds of quitting with a risk ratio of 1.49, meaning people using gum were about 49% more likely to successfully quit than those who weren't (Cochrane Database of Systematic Reviews, Hartmann-Boyce et al., 2018). Across nicotine replacement therapies broadly, the same body of Cochrane research found a 50% to 60% increase in the chances of stopping smoking (Cochrane Database of Systematic Reviews, 2018).
+ Across nicotine replacement therapies broadly, a Cochrane systematic review by Hartmann-Boyce and colleagues found a 50% to 60% increase in the chances of stopping smoking (Cochrane Database of Systematic Reviews, 2018).
 
-Gum also has something pouches don't: FDA approval specifically as a smoking cessation aid. Tobacco-free nicotine pouches are not approved by the FDA for this purpose (multiple FDA regulatory sources). That distinction matters more than it sounds. Approval means a product went through trials designed specifically to test whether it helps people stop, not just whether people like using it.
+Tobacco-free nicotine pouches are not approved by the FDA for this purpose (CDC). That distinction matters more than it sounds. Approval means a product went through trials designed specifically to test whether it helps people stop, not just whether people like using it.
 
 There's also an older but still relevant finding worth mentioning: among the most heavily dependent smokers, specifically those who crave a cigarette the moment they wake up, 4mg gum was found to be the most effective form of replacement therapy, helping around one in three of them quit (BMJ/PubMed, 1996).
 
