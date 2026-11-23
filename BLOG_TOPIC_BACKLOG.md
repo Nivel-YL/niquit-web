@@ -491,14 +491,8 @@ topics:
 - id: A-17
   title_en: Nicotine pouches versus vaping, which is harder to quit
   cluster: A
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: A-18
   title_en: Caffeine pouches as a swap when quitting Zyn, what they do and do not
     do

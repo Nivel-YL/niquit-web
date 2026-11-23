@@ -8,7 +8,7 @@ heroImage: /images/blog/nicotine-pouches-versus-vaping-which-is-harder-to-quit.s
 cluster: A
 ---
 
-You quit cigarettes eighteen months ago. Good for you. But now you've got a tin of ZYN in one pocket and a vape in your bag, and you can't go more than an hour without reaching for one or the other. If you're trying to figure out which one to drop first, or which one will put up more of a fight, you're asking a fair question: when it comes to nicotine pouches versus vaping, which is harder to quit?
+, and you can't go more than an hour without reaching for one or the other. If you're trying to figure out which one to drop first, or which one will put up more of a fight, you're asking a fair question: when it comes to nicotine pouches versus vaping, which is harder to quit?
 
 The honest answer is that nobody has run the study that would settle this cleanly. There's no large trial that put pouch users and vape users side by side and tracked who relapsed and who didn't. What we have instead is data on how each product delivers nicotine and how dependent people tend to get on nicotine products generally. That's still useful. It just means the answer is "it depends on the product you're using and how you use it," not a simple ranking.
 
