@@ -491,6 +491,7 @@ topics:
   completed_langs:
   - en
   - es
+  - fr
 - id: A-17
   title_en: Nicotine pouches versus vaping, which is harder to quit
   cluster: A
