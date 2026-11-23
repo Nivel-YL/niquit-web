@@ -38,7 +38,7 @@ Beyond the mouth, the cardiovascular strain from repeated blood pressure and hea
 
 ## How fast can Velo pouches actually get you hooked?
 
-Faster than most people expect. According to NIH research cited by NECTR, physical dependence can develop in as little as 5 to 15 days of daily use. That's not a typo. Two weeks of regular pouching is enough for your body to start adapting to a steady nicotine supply and noticing its absence.
+Faster than most people expect.  That's not a typo. Two weeks of regular pouching is enough for your body to start adapting to a steady nicotine supply and noticing its absence.
 
 Combine that short dependence window with the 30-to-60-minute hold time per pouch, and you can see why people go from "I'll just use one when I need to focus" to "I always have one in" so quickly. The long contact time keeps reinforcing the habit every single use, not just once a day.
 

@@ -40,7 +40,7 @@ Pour une vision plus large de ce que personne ne mentionne vraiment avant qu'on 
 
 ## Peut-on devenir dépendant aux sachets Velo ?
 
-Oui, et plus vite que beaucoup ne le pensent. Selon des travaux du NIH cités par NECTR, une dépendance physique peut s'installer en seulement 5 à 15 jours d'usage quotidien. Ce n'est pas une question de volonté faible, c'est une question de biologie : le cerveau s'adapte à la présence régulière de nicotine en quelques jours à peine.
+Oui, et plus vite que beaucoup ne le pensent.  Ce n'est pas une question de volonté faible, c'est une question de biologie : le cerveau s'adapte à la présence régulière de nicotine en quelques jours à peine.
 
 Ajoute à ça le fait qu'un sachet reste en bouche bien plus longtemps qu'une bouffée de cigarette, et tu comprends pourquoi l'habitude s'installe discrètement. Tu ne remarques pas forcément le glissement vers plus de sachets par jour, parce que chaque sachet dure déjà longtemps.
 

@@ -481,14 +481,8 @@ topics:
 - id: A-15
   title_en: Velo pouches, strength, effects and side effects
   cluster: A
-  status: in_progress
+  status: drafted
   published: {}
-  completed_langs:
-  - de
-  - en
-  - es
-  - fr
-  - ru
 - id: A-16
   title_en: Nicotine gum versus pouches, which one actually helps you quit
   cluster: A

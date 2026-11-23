@@ -38,7 +38,7 @@ Si notas molestias en las encías desde que usas Velo, no es casualidad ni mala 
 
 ## ¿Cuánto tarda Velo en crear dependencia?
 
-Menos de lo que la mayoría imagina. Según investigación del NIH citada por NECTR, la dependencia física puede desarrollarse en tan solo 5 a 15 días de uso diario. No hablamos de meses ni de años de consumo constante: hablamos de dos semanas.
+Menos de lo que la mayoría imagina. . No hablamos de meses ni de años de consumo constante: hablamos de dos semanas.
 
 Esto encaja con lo que ya sabemos sobre cómo funciona la nicotina en el cerebro. Cada vez que una bolsita libera dopamina en el núcleo accumbens, el cerebro aprende a esperar esa recompensa y empieza a pedirla. Con el formato de Velo, donde cada sesión dura hasta una hora, esa curva de aprendizaje se acelera.
 
