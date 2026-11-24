@@ -1,9 +1,9 @@
 ---
 title: "Qué se recupera en tu boca y encías después de dejar las bolsitas de nicotina"
 description: "Descubre qué pasa en tu boca y encías al dejar las bolsitas de nicotina: plazos reales, qué se cura y por qué a veces sangran más antes de mejorar."
-publishDate: 2026-09-21
+publishDate: 2026-11-24
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.svg
 cluster: F
 ---

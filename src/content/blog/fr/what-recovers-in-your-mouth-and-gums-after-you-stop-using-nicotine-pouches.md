@@ -1,9 +1,9 @@
 ---
 title: "Ce qui se répare dans ta bouche et tes gencives après l'arrêt des sachets de nicotine"
 description: "Gencives, salive, muqueuse : découvre ce qui guérit réellement dans ta bouche après l'arrêt des sachets de nicotine, et en combien de temps."
-publishDate: 2026-09-21
+publishDate: 2026-11-24
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.svg
 cluster: F
 ---

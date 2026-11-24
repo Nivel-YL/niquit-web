@@ -385,8 +385,13 @@ topics:
 - id: F-05
   title_en: What recovers in your mouth and gums after you stop using nicotine pouches
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-24'
+    ru: '2026-11-24'
+    de: '2026-11-24'
+    es: '2026-11-24'
+    fr: '2026-11-24'
 - id: F-06
   title_en: What a nicotine pouch habit actually costs you in a year
   cluster: F

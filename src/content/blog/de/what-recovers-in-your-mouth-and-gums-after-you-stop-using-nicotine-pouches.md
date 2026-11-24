@@ -1,9 +1,9 @@
 ---
 title: "Was sich in Mund und Zahnfleisch erholt, wenn du mit Nicotine Pouches aufhörst"
 description: "Weiße Flecken, wundes Zahnfleisch, trockener Mund: Nach dem Aufhören mit Nicotine Pouches beginnt die Heilung oft schon nach 24 Stunden. Was genau passiert."
-publishDate: 2026-09-21
+publishDate: 2026-11-24
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.svg
 cluster: F
 ---

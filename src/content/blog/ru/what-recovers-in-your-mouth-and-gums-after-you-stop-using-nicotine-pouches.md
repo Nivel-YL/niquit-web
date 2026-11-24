@@ -1,9 +1,9 @@
 ---
 title: "Что восстанавливается во рту и деснах после отказа от никотиновых подушечек"
 description: "Разбираем, что происходит с деснами, слизистой и слюноотделением после отказа от никотиновых подушечек и через сколько дней наступает заметное улучшение."
-publishDate: 2026-09-21
+publishDate: 2026-11-24
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.svg
 cluster: F
 ---

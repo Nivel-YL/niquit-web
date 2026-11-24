@@ -1,9 +1,9 @@
 ---
 title: "What Recovers in Your Mouth and Gums After You Stop Using Nicotine Pouches"
 description: "Gums often bleed more in the first weeks after you quit pouches, and that is expected. What recovers in your mouth, from gums to saliva, and how long it takes."
-publishDate: 2026-09-21
+publishDate: 2026-11-24
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/what-recovers-in-your-mouth-and-gums-after-you-stop-using-nicotine-pouches.svg
 cluster: F
 ---
