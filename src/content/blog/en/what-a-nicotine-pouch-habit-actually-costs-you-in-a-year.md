@@ -1,9 +1,9 @@
 ---
 title: "What a Nicotine Pouch Habit Actually Costs You in a Year"
 description: "A year of nicotine pouches costs more than the price on the tin. Here's what tolerance, withdrawal, and your cardiovascular system are really billing you."
-publishDate: 2026-09-28
+publishDate: 2026-11-27
 lang: en
-draft: true
+draft: false
 heroImage: /images/blog/what-a-nicotine-pouch-habit-actually-costs-you-in-a-year.svg
 cluster: F
 ---

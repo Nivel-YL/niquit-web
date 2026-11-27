@@ -395,8 +395,13 @@ topics:
 - id: F-06
   title_en: What a nicotine pouch habit actually costs you in a year
   cluster: F
-  status: approved
-  published: {}
+  status: published
+  published:
+    en: '2026-11-27'
+    ru: '2026-11-27'
+    de: '2026-11-27'
+    es: '2026-11-27'
+    fr: '2026-11-27'
 - id: G-01
   title_en: The first 72 hours without nicotine a survival guide
   cluster: G

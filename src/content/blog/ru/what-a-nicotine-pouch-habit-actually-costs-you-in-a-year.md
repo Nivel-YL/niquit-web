@@ -1,9 +1,9 @@
 ---
 title: "Сколько на самом деле стоит привычка к никотиновым пакетикам за год"
 description: "Никотиновые пакетики кажутся дешёвой привычкой. Но если сложить банки за год и добавить то, что забирает никотин, картина другая."
-publishDate: 2026-09-28
+publishDate: 2026-11-27
 lang: ru
-draft: true
+draft: false
 heroImage: /images/blog/what-a-nicotine-pouch-habit-actually-costs-you-in-a-year.svg
 cluster: F
 ---

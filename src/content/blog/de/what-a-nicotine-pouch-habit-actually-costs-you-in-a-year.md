@@ -1,9 +1,9 @@
 ---
 title: "Was eine Nikotinbeutel-Gewohnheit dich im Jahr wirklich kostet"
 description: "Eine Dose Nikotinbeutel am Tag klingt harmlos. Rechne es aufs Jahr hoch, und du siehst, was die Gewohnheit wirklich kostet, an Geld und Gesundheit."
-publishDate: 2026-09-28
+publishDate: 2026-11-27
 lang: de
-draft: true
+draft: false
 heroImage: /images/blog/what-a-nicotine-pouch-habit-actually-costs-you-in-a-year.svg
 cluster: F
 ---

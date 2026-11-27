@@ -1,9 +1,9 @@
 ---
 title: "Lo que un hábito de bolsitas de nicotina te cuesta en un año"
 description: "Descubre qué te cuesta realmente un año de bolsitas de nicotina: dinero, salud cardiovascular y la dependencia que se instala sin que te des cuenta."
-publishDate: 2026-09-28
+publishDate: 2026-11-27
 lang: es
-draft: true
+draft: false
 heroImage: /images/blog/what-a-nicotine-pouch-habit-actually-costs-you-in-a-year.svg
 cluster: F
 ---

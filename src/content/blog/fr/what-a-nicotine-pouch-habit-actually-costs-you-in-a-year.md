@@ -1,9 +1,9 @@
 ---
 title: "Ce que ta boîte de sachets de nicotine te coûte vraiment en un an"
 description: "Une boîte par semaine paraît anodine. Sur un an, le sachet de nicotine coûte bien plus que de l'argent : voici ce qu'il te prend vraiment."
-publishDate: 2026-09-28
+publishDate: 2026-11-27
 lang: fr
-draft: true
+draft: false
 heroImage: /images/blog/what-a-nicotine-pouch-habit-actually-costs-you-in-a-year.svg
 cluster: F
 ---
